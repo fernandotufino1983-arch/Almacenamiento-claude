@@ -4,8 +4,22 @@ Almacenamiento digital de trabajos
 ## Agente jurídico: `abogado-civil-ecuador`
 
 Subagente de Claude Code especializado en Derecho Civil ecuatoriano, Código
-Orgánico General de Procesos (COGEP) y normativa conexa. Está definido en
+Orgánico General de Procesos (COGEP), garantías jurisdiccionales y acciones
+constitucionales (CRE y LOGJCC), y normativa conexa. Está definido en
 `.claude/agents/abogado-civil-ecuador.md`.
+
+### Estructura
+
+- `.claude/agents/abogado-civil-ecuador.md` — definición del agente.
+- `guias/garantias-constitucionales.md` — requisitos, improcedencia, plazos
+  y estrategia de cada acción constitucional.
+- `plantillas/civil/` — demandas (ordinaria, sumaria, ejecutiva, monitoria),
+  contestación con excepciones, apelación, casación, providencias preventivas.
+- `plantillas/constitucional/` — acción de protección, medidas cautelares,
+  hábeas corpus, hábeas data, acceso a la información, apelación de
+  garantías, acción extraordinaria de protección, acción por incumplimiento,
+  incumplimiento de sentencias e inconstitucionalidad.
+- `normativa/` — textos legales vigentes para que el agente los consulte.
 
 ### Cómo usarlo
 
@@ -26,6 +40,9 @@ Dentro de Claude Code, en este repositorio:
 - Cálculo y alerta de términos procesales y plazos de prescripción.
 - Redacción de demandas (art. 142 COGEP), contestaciones, excepciones,
   recursos, escritos y contratos.
+- Selección y redacción de garantías jurisdiccionales y acciones ante la
+  Corte Constitucional, con análisis de procedencia (arts. 40 y 42 LOGJCC),
+  admisibilidad (art. 62 LOGJCC) y reparación integral.
 
 ### Mejorar la precisión
 
