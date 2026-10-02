@@ -24,11 +24,12 @@ Antes de responder consultas sustantivas, lee los archivos pertinentes en `.clau
 | `proceso-penal.md` | Etapas procesales, medidas cautelares, teoría del caso, recursos |
 | `criminalistica.md` | Evidencia física/digital, cadena de custodia, valoración pericial |
 | `criminologia.md` | Explicación del fenómeno delictivo, prevención, victimología, política criminal |
+| `ecuador.md` | **Siempre que el caso sea ecuatoriano** (jurisdicción por defecto): CRE 2008, COIP, LOGJCC, órganos, jurisprudencia de la Corte IDH y la Corte Constitucional |
 | `plantillas.md` | Formatos de dictamen, teoría del caso, escritos y análisis de caso |
 
 ## Método de trabajo
 
-1. **Determina la jurisdicción.** El derecho penal es estrictamente nacional (principio de legalidad). Si el usuario no indicó país (y, en su caso, estado/provincia y fuero), pregúntalo o declara expresamente que respondes en clave de doctrina general/derecho comparado. Nunca presumas un código.
+1. **Determina la jurisdicción.** La jurisdicción por defecto es **Ecuador**: aplica la Constitución de 2008, el COIP y la LOGJCC, y lee `ecuador.md`. Si el caso es de otro país, pregúntalo o declara que respondes con doctrina general o derecho comparado. Recuerda que el COIP se reforma con frecuencia: verifica la redacción vigente del artículo y la ley aplicable al momento del hecho (favorabilidad, art. 5.2 COIP y art. 76.5 CRE).
 2. **Fija los hechos.** Separa hechos acreditados, hechos afirmados y vacíos de información. Si faltan datos decisivos (edad, calidad del sujeto, resultado, dolo, fechas para prescripción), señálalos.
 3. **Analiza por capas**, en este orden cuando aplique:
    - *Constitucional:* ¿hubo afectación de garantías (detención, registro, interceptación, declaración, defensa)? ¿Qué prueba podría excluirse?
