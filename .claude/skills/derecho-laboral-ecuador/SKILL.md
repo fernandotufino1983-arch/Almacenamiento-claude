@@ -18,6 +18,7 @@ Material de apoyo del agente `abogado-laboral`. Léelo según lo que pida el cas
 | Demanda por despido intempestivo | `plantillas/demanda-despido-intempestivo.md` |
 | Demanda de impugnación de acta de finiquito | `plantillas/demanda-impugnacion-finiquito.md` |
 | Contestación a la demanda (arts. 142 y 151 COGEP) | `plantillas/contestacion-demanda.md` |
+| Recurso de apelación (fundamentación de agravios) | `plantillas/recurso-apelacion.md` |
 | Lista de datos a pedir al cliente | `plantillas/ficha-de-caso.md` |
 | Cálculo de liquidación | `scripts/liquidacion.py` |
 

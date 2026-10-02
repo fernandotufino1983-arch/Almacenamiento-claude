@@ -22,7 +22,8 @@
 - **Contestación:** debe cumplir los requisitos del art. 142 COGEP (por remisión del art. 151), pronunciarse expresamente sobre hechos, pretensiones y documentos, y deducir todas las excepciones (art. 153). Ver `requisitos-art-142-cogep.md` y `plantillas/contestacion-demanda.md`. Se presenta dentro del término que fija el COGEP para el sumario (verificar el término vigente para materia laboral).
 - **Audiencia única** con dos fases: (1) saneamiento, fijación de puntos en debate y conciliación; (2) prueba y alegatos.
 - **Prueba:** debe anunciarse en la demanda/contestación; testigos (máximo según COGEP), declaración de parte, exhibición de documentos, peritajes (contable, actuarial).
-- **Recursos:** apelación; casación por las causales del art. 268 COGEP.
+- **Apelación:** se interpone oralmente en la audiencia en que se dicta la sentencia y se fundamenta por escrito dentro del término legal desde la notificación de la sentencia escrita (art. 256 y ss. COGEP; verificar término y efecto vigentes). La fundamentación debe precisar todos los agravios; lo no apelado queda firme. Ver `plantillas/recurso-apelacion.md`.
+- **Casación:** por las causales del art. 268 COGEP.
 
 ## Vía administrativa (Ministerio del Trabajo)
 - Denuncias y reclamos ante la inspectoría (no reemplazan la acción judicial ni deciden sobre indemnizaciones con efecto de cosa juzgada).
