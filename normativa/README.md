@@ -7,7 +7,6 @@ antes de citar. Por ejemplo:
 - `codigo-civil.md`
 - `cogep.md`
 - `constitucion.md`
-- `logjcc.md`
 - `cofj.md`
 - `codigo-de-comercio.md`
 
