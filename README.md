@@ -22,6 +22,7 @@ Agente especializado en **derecho penal, procesal penal, criminalística y crimi
             ├── criminologia.md          # Escuelas, victimología, política criminal
             ├── colombia-criminalistica-criminologia.md  # Doctrina comparada colombiana (criminalística y criminología)
             ├── colombia-doctrina-penal.md               # Doctrina comparada colombiana (penal, prueba y política criminal)
+            ├── casacion-penal-ecuador.md                # Casación penal en Ecuador
             ├── ecuador.md               # CRE 2008, COIP, LOGJCC, órganos y jurisprudencia (jurisdicción por defecto)
             └── plantillas.md            # Formatos de análisis, escritos y contraexamen
 ```

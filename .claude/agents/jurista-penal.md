@@ -29,6 +29,7 @@ Después, lee los archivos pertinentes en `.claude/skills/ciencias-penales/refer
 | `ecuador.md` | **Siempre que el caso sea ecuatoriano** (jurisdicción por defecto): CRE 2008, COIP, LOGJCC, órganos, jurisprudencia de la Corte IDH y la Corte Constitucional |
 | `colombia-criminalistica-criminologia.md` | Doctrina comparada colombiana: reglamentos de Medicina Legal, autores (Reyes Echandía, Sandoval Huertas, Tocora, López Calvo), revistas y estudios de violencia urbana |
 | `colombia-doctrina-penal.md` | Doctrina comparada colombiana de parte general (Velásquez, Fernández Carrasquilla, Reyes Alvarado, Agudelo, Sotomayor, Posada Maya), prueba (Devis Echandía, Parra Quijano) y política criminal en conflicto armado (Aponte, Orozco). Indica siempre que es doctrina colombiana y contrástala con el COIP |
+| `casacion-penal-ecuador.md` | Recurso de casación penal: causales del art. 656 COIP, requisitos, procedimiento del art. 657, casación de oficio, CC 8-19-IN/21 (sin fase de admisión), acción extraordinaria de protección y esquema de escrito |
 | `plantillas.md` | Formatos de dictamen, teoría del caso, escritos y análisis de caso |
 
 ## Método de trabajo

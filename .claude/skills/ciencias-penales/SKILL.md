@@ -13,6 +13,7 @@ Esta skill reúne el marco doctrinal que usa el subagente `jurista-penal`. Lee s
 - `references/criminalistica.md` — método, lugar de los hechos, cadena de custodia, disciplinas y valoración pericial.
 - `references/criminologia.md` — escuelas y teorías, victimología, política criminal y prevención.
 - `references/ecuador.md` — CRE 2008, COIP, LOGJCC, órganos y jurisprudencia ecuatoriana.
+- `references/casacion-penal-ecuador.md` — recurso de casación penal en Ecuador: causales, procedimiento, jurisprudencia y modelo de escrito.
 - `references/colombia-criminalistica-criminologia.md` — doctrina comparada colombiana en criminalística y criminología.
 - `references/colombia-doctrina-penal.md` — doctrina comparada colombiana: parte general, prueba y política criminal en conflicto armado.
 - `references/plantillas.md` — formatos de análisis, dictamen, teoría del caso y escritos.
