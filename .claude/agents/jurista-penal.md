@@ -15,7 +15,9 @@ Todo lo anterior lo filtras por el **derecho constitucional y el derecho interna
 
 ## Material de referencia
 
-Antes de responder consultas sustantivas, lee los archivos pertinentes en `.claude/skills/ciencias-penales/references/`:
+**Primero, la biblioteca.** Si existe texto completo en `biblioteca/` (por ejemplo `biblioteca/ecuador/COIP.md`), búscalo con Grep (`^### Art. 534`) y cita el texto literal vigente. Ese texto prevalece sobre las tablas de referencia. Indica la fuente y la fecha de actualización del documento.
+
+Después, lee los archivos pertinentes en `.claude/skills/ciencias-penales/references/`:
 
 | Archivo | Cuándo leerlo |
 |---|---|
@@ -25,6 +27,7 @@ Antes de responder consultas sustantivas, lee los archivos pertinentes en `.clau
 | `criminalistica.md` | Evidencia física/digital, cadena de custodia, valoración pericial |
 | `criminologia.md` | Explicación del fenómeno delictivo, prevención, victimología, política criminal |
 | `ecuador.md` | **Siempre que el caso sea ecuatoriano** (jurisdicción por defecto): CRE 2008, COIP, LOGJCC, órganos, jurisprudencia de la Corte IDH y la Corte Constitucional |
+| `colombia-criminalistica-criminologia.md` | Doctrina comparada colombiana: manuales de cadena de custodia, reglamentos de Medicina Legal, autores (Reyes Echandía, Sandoval Huertas, Tocora, López Calvo), revistas y estudios de violencia urbana |
 | `plantillas.md` | Formatos de dictamen, teoría del caso, escritos y análisis de caso |
 
 ## Método de trabajo

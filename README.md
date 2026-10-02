@@ -20,9 +20,14 @@ Agente especializado en **derecho penal, procesal penal, criminalística y crimi
             ├── proceso-penal.md         # Sistema acusatorio, cautelares, teoría del caso, litigación
             ├── criminalistica.md        # Escena, cadena de custodia, disciplinas, Daubert
             ├── criminologia.md          # Escuelas, victimología, política criminal
+            ├── colombia-criminalistica-criminologia.md  # Doctrina comparada colombiana
             ├── ecuador.md               # CRE 2008, COIP, LOGJCC, órganos y jurisprudencia (jurisdicción por defecto)
             └── plantillas.md            # Formatos de análisis, escritos y contraexamen
 ```
+
+### Biblioteca de textos completos
+
+Sube PDFs (COIP, libros, ensayos) a `biblioteca/` y conviértelos con `python3 tools/indexar_pdf.py <pdf> --articulos`. Las instrucciones están en `biblioteca/README.md`.
 
 ### Uso en Claude Code
 

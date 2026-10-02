@@ -12,8 +12,12 @@ Esta skill reúne el marco doctrinal que usa el subagente `jurista-penal`. Lee s
 - `references/proceso-penal.md` — sistema acusatorio, etapas, medidas cautelares, teoría del caso, litigación oral.
 - `references/criminalistica.md` — método, lugar de los hechos, cadena de custodia, disciplinas y valoración pericial.
 - `references/criminologia.md` — escuelas y teorías, victimología, política criminal y prevención.
+- `references/ecuador.md` — CRE 2008, COIP, LOGJCC, órganos y jurisprudencia ecuatoriana.
+- `references/colombia-criminalistica-criminologia.md` — doctrina comparada colombiana en criminalística y criminología.
 - `references/plantillas.md` — formatos de análisis, dictamen, teoría del caso y escritos.
 
 ## Regla central
 
 El contenido es **doctrina general y derecho comparado**. Antes de aplicarlo a un caso, identifica la jurisdicción y verifica la norma vigente (código penal, código procesal, constitución, jurisprudencia vinculante). No cites números de artículo nacionales sin verificarlos.
+
+Si hay textos completos en `biblioteca/` (convertidos con `tools/indexar_pdf.py`), prevalecen sobre estas referencias.
