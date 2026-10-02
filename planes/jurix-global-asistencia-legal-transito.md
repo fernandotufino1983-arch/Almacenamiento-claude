@@ -1,8 +1,7 @@
 # Jurix Global – Planes de Asistencia Legal en Tránsito
 
 > **Borrador de diseño comercial.** Antes de lanzarlo hay que confirmar los puntos marcados **[DEFINIR]** (decisiones del estudio) y **[VERIFICAR]** (normativa).
-> **Supuesto de trabajo:** el precio de USD 20 + IVA se toma como **cuota anual por afiliado** [DEFINIR: anual o mensual]. Si al final es mensual, las proporciones entre planes siguen sirviendo.
-> IVA calculado al **15 %** [VERIFICAR tarifa vigente].
+> **Condiciones confirmadas:** cuota **mensual**, IVA del **15 %**, cobertura **solo en la provincia del Guayas**, el plan cubre **todo el proceso en procedimiento expedito** e incluye casos en **estado de ebriedad**.
 
 ---
 
@@ -12,9 +11,9 @@
 
 | Concepto | Valor |
 |---|---|
-| Cuota | USD 20,00 |
+| Cuota mensual | USD 20,00 |
 | IVA 15 % | USD 3,00 |
-| **Total** | **USD 23,00** |
+| **Total mensual** | **USD 23,00** |
 
 ### 1.2 Quién está cubierto
 
@@ -25,17 +24,17 @@
 
 | # | Servicio | Alcance |
 |---|---|---|
-| 1 | **Asistencia desde el momento del accidente** | Línea de emergencia 24/7 (teléfono / WhatsApp). Orientación inmediata: qué hacer, qué no declarar, derechos, pruebas que conservar. Asistencia presencial o virtual según la zona de cobertura [DEFINIR ciudades]. |
+| 1 | **Asistencia desde el momento del accidente** | Línea de emergencia 24/7 (teléfono / WhatsApp). Orientación inmediata: qué hacer, qué no declarar, derechos, pruebas que conservar. Asistencia presencial en la provincia del Guayas. |
 | 2 | **Acompañamiento en la audiencia de calificación de flagrancia** | Abogado en la audiencia: control de la legalidad de la detención, oposición a la prisión preventiva y pedido de medidas alternativas. |
 | 3 | **Petición de devolución del vehículo en Fiscalía** | Escrito de devolución, seguimiento con el fiscal y, si hace falta, pedido de audiencia ante el juez de garantías. |
-| 4 | **Procedimiento expedito (contravenciones de tránsito)** | Defensa completa en la audiencia de juzgamiento: contravenciones flagrantes con detención, impugnación de boletas y contravenciones por daños materiales. |
+| 4 | **Todo el proceso en procedimiento expedito (contravenciones de tránsito)** | Defensa de principio a fin: contravenciones flagrantes con detención, impugnación de boletas, contravenciones por daños materiales y **contravenciones por conducir en estado de ebriedad**. Incluye la audiencia de juzgamiento y la apelación de la sentencia. |
 | 5 | **Asesoría para acuerdos de reparación** | Negociación con la otra parte o la víctima cuando cabe un acuerdo dentro del expedito. |
 
 ### 1.4 Lo que NO cubre el plan (aplica tarifa con descuento de socio)
 
 - **Procedimiento ordinario**: delitos graves, en especial cuando hay **muerte**. Fuera de cobertura.
-- **Procedimiento directo** (delitos flagrantes con lesiones o daños por encima del límite contravencional): la audiencia de flagrancia sí está cubierta; la **audiencia de juicio, no** [DEFINIR: confirmar que el directo queda fuera].
-- Etapas posteriores: apelación, casación, acción de protección.
+- **Procedimiento directo** (delitos flagrantes con lesiones o daños por encima del límite contravencional): la audiencia de flagrancia y la devolución del vehículo sí están cubiertas; **el juicio, no**.
+- Fuera del expedito: apelación, casación y acción de protección.
 - Conciliación, procedimiento abreviado y suspensión condicional fuera del expedito.
 - Acusación particular cuando el afiliado es **víctima** (puede ofrecerse como servicio con descuento).
 
@@ -50,12 +49,14 @@
 - Uso del vehículo para cometer otro delito: fuga, carreras clandestinas, vehículo robado.
 - El estudio **no paga**: multas, cauciones, grúa, garaje o patio de retención, peritajes particulares, reparaciones, indemnizaciones a víctimas ni tasas.
 - Conducir **sin licencia** o con licencia suspendida. [DEFINIR]
-- **Alcohol o drogas**. [DEFINIR: puede cubrirse solo el expedito; es un caso frecuente y la defensa es posible]
+- Accidentes ocurridos **fuera de la provincia del Guayas**.
+
+> **Estado de ebriedad: sí está cubierto.** La contravención por conducir con alcohol se defiende completa dentro del expedito. Si además hay lesionados o fallecidos, el caso es un delito: se cubren la audiencia de flagrancia y la devolución del vehículo, y el juicio va con descuento de socio.
 
 ### 1.6 Límites
 
 - Hasta **2 eventos por año** de vigencia [DEFINIR].
-- Cobertura territorial: [DEFINIR: provincia sede / nacional con abogados aliados].
+- Cobertura territorial: **solo provincia del Guayas**.
 
 ---
 
@@ -67,12 +68,12 @@ Mismo esquema que el Plan Individual, extendido al grupo familiar.
 
 | Concepto | Valor |
 |---|---|
-| Cuota (titular + hasta 3 beneficiarios) | USD 45,00 |
+| Cuota mensual (titular + hasta 3 beneficiarios) | USD 45,00 |
 | IVA 15 % | USD 6,75 |
-| **Total** | **USD 51,75** |
-| Beneficiario adicional (máx. 2) | USD 10,00 + IVA = **USD 11,50** c/u |
+| **Total mensual** | **USD 51,75** |
+| Beneficiario adicional (máx. 2) | USD 10,00 + IVA = **USD 11,50** al mes c/u |
 
-**Por qué este precio:** 4 personas por USD 45 equivalen a USD 11,25 por persona, un **44 % menos** que el plan individual. Eso es suficientemente atractivo para vender el plan y mantiene el ingreso por póliza. El riesgo no se multiplica por 4, porque en una familia no todos manejan con la misma frecuencia.
+**Por qué este precio:** 4 personas por USD 45 al mes equivalen a USD 11,25 por persona, un **44 % menos** que el plan individual. Eso es suficientemente atractivo para vender el plan y mantiene el ingreso por póliza. El riesgo no se multiplica por 4, porque en una familia no todos manejan con la misma frecuencia.
 
 ### 2.2 Quiénes pueden ser beneficiarios
 
@@ -103,16 +104,18 @@ Los **mismos 5 servicios del Plan Individual** (§1.3) para cada beneficiario, m
 
 | | Jurix Conductor | Jurix Familia |
 |---|---|---|
-| Precio total (con IVA) | USD 23,00 | USD 51,75 |
+| Precio mensual (con IVA) | USD 23,00 | USD 51,75 |
 | Personas cubiertas | 1 | Hasta 4 (+2 adicionales) |
 | Asistencia 24/7 desde el accidente | ✔ | ✔ |
 | Audiencia de flagrancia | ✔ | ✔ |
 | Devolución del vehículo | ✔ | ✔ |
-| Juicio en procedimiento expedito | ✔ | ✔ |
+| Todo el proceso en procedimiento expedito | ✔ | ✔ |
+| Contravención por estado de ebriedad | ✔ | ✔ |
 | Orientación cuando el familiar es víctima | — | ✔ |
 | Revisión preventiva anual | — | ✔ |
 | Procedimiento ordinario (muerte) / directo | Descuento 30 % | Descuento 35 % |
 | Eventos por año | 2 | 4 compartidos |
+| Cobertura territorial | Guayas | Guayas |
 
 ---
 
@@ -126,7 +129,7 @@ Los **mismos 5 servicios del Plan Individual** (§1.3) para cada beneficiario, m
    - Escrito de devolución del vehículo: dentro de las 48 h siguientes a que se practiquen las pericias.
 4. **Conflicto de interés:** si **dos afiliados** se enfrentan en el mismo accidente, Jurix defiende a uno y deriva al otro a un **abogado aliado** sin costo para él.
 5. **Cambio de procedimiento:** si un caso que empezó cubierto pasa a directo u ordinario (por ejemplo, el lesionado fallece), el estudio lo **notifica por escrito** al afiliado. Desde ese momento se aplica la tarifa con descuento, previa firma de un contrato de servicios.
-6. **Renovación:** anual. Si se renueva sin interrupciones, no se repite el periodo de carencia.
+6. **Pago mensual:** débito o pago recurrente. Si una cuota no se paga, la cobertura se suspende hasta ponerse al día [DEFINIR días de gracia]. Mientras se pague sin interrupciones, no se repite el periodo de carencia.
 
 ---
 
@@ -142,7 +145,8 @@ Los **mismos 5 servicios del Plan Individual** (§1.3) para cada beneficiario, m
 
 ## 6. Sostenibilidad (cálculo de referencia)
 
-- Con **500 afiliados individuales**: 500 × USD 20 = **USD 10 000** al año.
-- Si el 3–5 % tiene un evento al año, son **15 a 25 casos**, unos **USD 400–670 por caso**. Alcanza con margen para flagrancia, devolución y expedito.
+- Con **500 afiliados individuales**: 500 × USD 20 × 12 meses = **USD 120 000** al año (sin IVA).
+- Si el 3–5 % tiene un evento al año, son **15 a 25 casos**, unos **USD 4 800–8 000 por caso**. Cubre con amplio margen flagrancia, devolución y todo el expedito, incluso con más casos de ebriedad.
+- Con un precio mensual de este nivel, el afiliado esperará mucho servicio: conviene revisar si el límite de eventos por año sigue siendo necesario.
 - Las derivaciones con descuento (ordinario o directo) son un **ingreso adicional**.
 - [DEFINIR] Ajustar con la siniestralidad real después del primer año.
