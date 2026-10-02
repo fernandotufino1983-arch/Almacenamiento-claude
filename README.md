@@ -20,7 +20,8 @@ Agente especializado en **derecho penal, procesal penal, criminalística y crimi
             ├── proceso-penal.md         # Sistema acusatorio, cautelares, teoría del caso, litigación
             ├── criminalistica.md        # Escena, cadena de custodia, disciplinas, Daubert
             ├── criminologia.md          # Escuelas, victimología, política criminal
-            ├── colombia-criminalistica-criminologia.md  # Doctrina comparada colombiana
+            ├── colombia-criminalistica-criminologia.md  # Doctrina comparada colombiana (criminalística y criminología)
+            ├── colombia-doctrina-penal.md               # Doctrina comparada colombiana (penal, prueba y política criminal)
             ├── ecuador.md               # CRE 2008, COIP, LOGJCC, órganos y jurisprudencia (jurisdicción por defecto)
             └── plantillas.md            # Formatos de análisis, escritos y contraexamen
 ```
