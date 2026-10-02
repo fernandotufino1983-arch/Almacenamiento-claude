@@ -1,6 +1,6 @@
 # DEMANDA LABORAL — IMPUGNACIÓN DE ACTA DE FINIQUITO
 
-> Usa la estructura de `demanda-despido-intempestivo.md` para los apartados de datos de las partes, procedimiento, notificaciones y firmas. Este archivo detalla las secciones propias de la impugnación.
+> La demanda debe cumplir íntegramente el art. 142 COGEP (ver `referencias/requisitos-art-142-cogep.md`). Usa la estructura de `demanda-despido-intempestivo.md` para los apartados de datos de las partes, procedimiento, notificaciones y firmas. Este archivo detalla las secciones propias de la impugnación.
 
 ## FUNDAMENTOS DE HECHO (complementarios)
 1. Con fecha [COMPLETAR], suscribí un documento denominado "acta de finiquito" [ante el inspector del trabajo / registrada en el SUT / privadamente], en el que se consignó como causa de terminación "[causa consignada]" y se me pagó la suma de USD [ ].

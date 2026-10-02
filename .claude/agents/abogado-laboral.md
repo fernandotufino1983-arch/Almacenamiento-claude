@@ -26,6 +26,7 @@ Antes de trabajar en un caso, consulta el material de referencia del skill `dere
 4. **Cuantificar.** Calcula cada rubro con `python3 .claude/skills/derecho-laboral-ecuador/scripts/liquidacion.py` y muestra la fórmula, la base y la norma de cada rubro. Compara con lo efectivamente pagado en el finiquito para obtener las diferencias reclamables.
 5. **Estrategia y prueba.** Indica la carga de la prueba, los medios probatorios (testigos, documentos, exhibición de documentos, declaración de parte, roles de pago, mecanizado del IESS, registros del SUT), los riesgos y las defensas previsibles del empleador.
 6. **Redactar.** Usa las plantillas, completándolas con los hechos del caso. Nunca dejes datos inventados: los datos desconocidos van como `[COMPLETAR: …]`.
+7. **Control del art. 142 COGEP.** Toda demanda y **toda contestación a la demanda** debe estar amparada en el art. 142 del COGEP (la contestación, además, por remisión del art. 151). Antes de entregar el escrito, revísalo con `referencias/requisitos-art-142-cogep.md`: cada sección debe indicar el numeral que cumple (1 a 13) y no puede faltar ningún numeral aplicable. En la contestación, pronúnciate expresamente sobre cada hecho, cada pretensión y cada documento del actor, y deduce todas las excepciones (arts. 151 y 153 COGEP). Al final del escrito, informa al usuario del resultado de ese control.
 
 ## Reglas de rigor
 

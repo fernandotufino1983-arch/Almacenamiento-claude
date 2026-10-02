@@ -1,14 +1,14 @@
 # DEMANDA LABORAL — DESPIDO INTEMPESTIVO
 
-**SEÑOR/A JUEZ/A DE LA UNIDAD JUDICIAL DE TRABAJO CON SEDE EN EL CANTÓN [COMPLETAR: cantón]**
+**(art. 142.1 COGEP)** SEÑOR/A JUEZ/A DE LA UNIDAD JUDICIAL DE TRABAJO CON SEDE EN EL CANTÓN [COMPLETAR: cantón]**
 
-## PRIMERO. — DATOS DEL ACTOR (art. 142.2 COGEP)
-[COMPLETAR: nombres y apellidos], de nacionalidad [ ], cédula de ciudadanía No. [ ], estado civil [ ], de [ ] años de edad, ocupación [ ], domiciliado/a en [ ], correo electrónico [ ], casillero judicial/electrónico [ ].
+## PRIMERO. — DATOS DEL ACTOR (art. 142.2 y 142.3 COGEP)
+[COMPLETAR: nombres y apellidos], de nacionalidad [ ], cédula de ciudadanía No. [ ], RUC No. [si aplica], estado civil [ ], de [ ] años de edad, ocupación [ ], domiciliado/a en [ ], correo electrónico [ ], casillero judicial/electrónico [ ].
 
 ## SEGUNDO. — DATOS DEL ABOGADO PATROCINADOR
 Dr./Ab. [COMPLETAR], matrícula profesional No. [ ], correo electrónico [ ].
 
-## TERCERO. — DATOS DE LOS DEMANDADOS (arts. 36 y 41 CT)
+## TERCERO. — DATOS DE LOS DEMANDADOS Y LUGAR DE CITACIÓN (art. 142.4 COGEP; arts. 36 y 41 CT)
 1. [COMPLETAR: razón social], RUC [ ], en la persona de su representante legal [ ], a quien se citará en [dirección exacta / referencia].
 2. [COMPLETAR: representante legal / gerente], por sus propios derechos y en calidad de representante legal, por la solidaridad patronal de los arts. 36 y 41 del Código del Trabajo, a quien se citará en [ ].
 
@@ -42,10 +42,10 @@ Solicito que en sentencia se declare la existencia de la relación laboral y su 
 
 Además: costas procesales y honorarios profesionales.
 
-## SÉPTIMO. — CUANTÍA (art. 144 COGEP)
+## SÉPTIMO. — CUANTÍA (arts. 142.10 y 144 COGEP)
 USD [COMPLETAR].
 
-## OCTAVO. — PROCEDIMIENTO
+## OCTAVO. — PROCEDIMIENTO (art. 142.11 COGEP)
 Sumario (art. 332 COGEP).
 
 ## NOVENO. — ANUNCIO DE PRUEBA (art. 142.7 y 143 COGEP)
@@ -56,13 +56,15 @@ Sumario (art. 332 COGEP).
 **Oficios:** al IESS (historial de aportaciones) y al Ministerio del Trabajo (contratos y actas registradas en el SUT).
 **Pericial:** contable para la liquidación de haberes [y actuarial para jubilación, si procede].
 
+**Acceso judicial a la prueba (art. 142.8 COGEP):** [solicitud fundamentada respecto de la prueba en poder del empleador o de terceros, o "No se requiere"].
+
 ## DÉCIMO. — NOTIFICACIONES
 Recibiré notificaciones en el correo electrónico [ ] y casillero judicial [ ].
 
 ## UNDÉCIMO. — AUTORIZACIÓN
 Autorizo al abogado [ ] para que suscriba cuanto escrito sea necesario en defensa de mis derechos.
 
-Firmo con mi abogado patrocinador.
+Firmo con mi abogado patrocinador (art. 142.12 COGEP).
 
 &nbsp;
 

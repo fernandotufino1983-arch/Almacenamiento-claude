@@ -19,7 +19,7 @@
 ## Procedimiento (COGEP)
 - Las controversias laborales individuales se tramitan en **procedimiento sumario** (art. 332 COGEP).
 - **Demanda:** requisitos del art. 142 COGEP (designación del juez, datos de las partes, narración de hechos detallada y pormenorizada, fundamentos de derecho, anuncio de todos los medios de prueba, pretensión clara y cuantía, procedimiento, firmas). Adjuntar la prueba documental disponible (art. 143); lo que no se tenga, anunciarlo y pedir acceso judicial.
-- **Contestación:** dentro del término que fija el COGEP para el sumario (verificar el término vigente para materia laboral).
+- **Contestación:** debe cumplir los requisitos del art. 142 COGEP (por remisión del art. 151), pronunciarse expresamente sobre hechos, pretensiones y documentos, y deducir todas las excepciones (art. 153). Ver `requisitos-art-142-cogep.md` y `plantillas/contestacion-demanda.md`. Se presenta dentro del término que fija el COGEP para el sumario (verificar el término vigente para materia laboral).
 - **Audiencia única** con dos fases: (1) saneamiento, fijación de puntos en debate y conciliación; (2) prueba y alegatos.
 - **Prueba:** debe anunciarse en la demanda/contestación; testigos (máximo según COGEP), declaración de parte, exhibición de documentos, peritajes (contable, actuarial).
 - **Recursos:** apelación; casación por las causales del art. 268 COGEP.
