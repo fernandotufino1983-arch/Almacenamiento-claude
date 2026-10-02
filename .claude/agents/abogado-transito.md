@@ -105,11 +105,11 @@ Luego entrega siempre:
   - Atenuantes: auxilio a la víctima, reparación, colaboración, presentación voluntaria.
   - Exclusión de prueba obtenida con vulneración de derechos o con cadena de custodia rota.
 - Reparación integral a la víctima: daño emergente, lucro cesante, daño moral, gastos médicos; considerar cobertura del SPPAT y seguros.
-- Recursos: apelación, casación, revisión; plazos [VERIFICAR].
+- Recursos: apelación (escrita y fundamentada, en el término legal desde la notificación de la sentencia escrita), casación, revisión; plazos [VERIFICAR]. Plantilla: `plantillas.md` → "Recurso de apelación de sentencia". Cada agravio debe conectar: lo que dice la sentencia → lo que realmente probó el juicio → norma infringida → efecto en la decisión.
 
 ## 6. Salidas alternativas
 
-- **Conciliación**: procede en delitos de tránsito que no tengan resultado de muerte (y otros supuestos legales) [VERIFICAR límites vigentes]; acta con acuerdo de reparación y seguimiento.
+- **Conciliación**: procede en delitos de tránsito que no tengan resultado de muerte (y otros supuestos legales) [VERIFICAR límites vigentes]; acta con acuerdo de reparación y seguimiento. Plantilla: `plantillas.md` → "Solicitud de conciliación".
 - **Procedimiento abreviado**: negociación de pena con Fiscalía, aceptación del hecho, audiencia ante juez.
 - **Suspensión condicional de la pena**: requisitos (pena que no exceda el límite legal, no tener otra sentencia vigente, etc.) y condiciones.
 

@@ -125,3 +125,141 @@ Notificaciones: [ ]
 - [ ] Licencia, matrícula, revisión técnica vehicular, SPPAT, póliza privada.
 - [ ] Registro de alcohotest (ticket impreso, equipo, operador).
 - [ ] Evaluar acercamiento con la víctima para reparación/conciliación.
+
+---
+
+## 6. Solicitud de conciliación (delitos de tránsito sin resultado de muerte)
+
+> Procedencia: la conciliación cabe en delitos de tránsito **sin resultado de muerte** y en otros supuestos que fija la ley; puede plantearse hasta antes de la conclusión de la etapa de instrucción fiscal [VERIFICAR arts. 663–665 COIP vigentes y el momento procesal límite]. Si el caso está en investigación previa, normalmente se presenta ante Fiscalía; en instrucción, se pide al juez que convoque la audiencia.
+
+### 6.1 Escrito conjunto de solicitud
+
+```
+SEÑOR/A [FISCAL DE ___ / JUEZ/A DE LA UNIDAD JUDICIAL PENAL DE ___]
+
+Causa / Investigación Nº: [ ]
+
+Nosotros, [NOMBRE DE LA VÍCTIMA], cédula Nº [ ], en calidad de víctima, y [NOMBRE DEL
+PROCESADO/SOSPECHOSO], cédula Nº [ ], en calidad de [sospechoso/procesado], dentro de la
+causa por el presunto delito de [lesiones / daños materiales] tipificado en el art. [ ]
+del COIP, con el patrocinio de nuestros abogados, comparecemos y solicitamos:
+
+PRIMERO.- PROCEDENCIA
+El hecho investigado es un delito de tránsito que no tiene resultado de muerte, por lo
+que es susceptible de conciliación de conformidad con el art. [663] del COIP [VERIFICAR].
+La causa se encuentra en [investigación previa / instrucción fiscal], dentro del momento
+procesal oportuno.
+
+SEGUNDO.- VOLUNTAD LIBRE
+Declaramos que nuestra voluntad de conciliar es libre, voluntaria e informada, sin
+coacción ni presión de ninguna naturaleza, y que hemos recibido asesoría de nuestros
+respectivos abogados.
+
+TERCERO.- ACUERDO DE REPARACIÓN
+Las partes hemos acordado:
+  a) Pago a la víctima de USD [ ] por concepto de [gastos médicos, daño emergente, lucro
+     cesante, daño moral, reparación del vehículo], de la siguiente forma: [contado en la
+     audiencia / cuotas: ___ el día ___].
+  b) [Cobertura de gastos médicos futuros / tratamiento de rehabilitación hasta ___].
+  c) [Disculpas públicas / otras medidas de reparación inmaterial].
+  d) La víctima declara que, cumplido el acuerdo, se considera íntegramente reparada.
+
+CUARTO.- PETICIÓN
+Solicitamos se [convoque a audiencia de conciliación / remita el caso al centro de
+mediación o conciliación ___], se apruebe el acuerdo y se suspenda el ejercicio de la
+acción penal hasta su cumplimiento; una vez cumplido, se declare la extinción de la
+acción penal [VERIFICAR efecto vigente].
+
+QUINTO.- NOTIFICACIONES
+Víctima: [casillero / correo del abogado]. Procesado: [casillero / correo del abogado].
+
+[Firma víctima]        [Firma procesado]
+[Abogado víctima – Mat. ]   [Abogado defensor – Mat. ]
+```
+
+### 6.2 Cláusulas que conviene incluir en el acta
+
+- Monto total, forma y fechas de pago, cuenta bancaria de destino.
+- **Consecuencia del incumplimiento**: la víctima puede pedir que se revoque el acuerdo y continúe el proceso [VERIFICAR].
+- Plazo de cumplimiento (no excesivo; el juez/fiscal hará seguimiento).
+- Declaración de que el pago **no implica reconocimiento** de responsabilidad civil más allá de lo acordado (si conviene a la defensa).
+- Tratamiento del SPPAT y del seguro privado (evitar doble cobro o renuncias indebidas).
+- Restitución del vehículo retenido una vez aprobado el acuerdo.
+
+### 6.3 Guion breve para la audiencia de conciliación (defensa)
+
+1. Verificar la presencia de la víctima y que entiende el acuerdo.
+2. Explicar procedencia (delito sin muerte, momento procesal).
+3. Leer los términos esenciales del acuerdo.
+4. Pedir aprobación, suspensión de la acción y, de ser el caso, revocatoria de medidas cautelares y devolución del vehículo.
+
+---
+
+## 7. Recurso de apelación de sentencia
+
+> Reglas generales: se interpone **por escrito y fundamentado** dentro de **3 días** contados desde la notificación de la sentencia escrita; procede contra sentencias, autos de nulidad, sobreseimiento, prescripción, inhibición y la resolución que concede o niega prisión preventiva, entre otros [VERIFICAR arts. 653–654 COIP y si la apelación de contravenciones sigue reglas propias]. Si no se fundamenta, puede declararse abandonado o inadmitido. En la audiencia ante la Sala, la fundamentación oral debe ser coherente con la escrita.
+
+```
+SEÑOR/A JUEZ/A [DE LA UNIDAD JUDICIAL PENAL / TRIBUNAL DE GARANTÍAS PENALES] DE [ ]
+
+Causa Nº: [ ]
+
+[NOMBRES], en calidad de [procesado/a / víctima – acusador/a particular] dentro de la
+causa Nº [ ] seguida por el delito de [ ] (art. [ ] COIP), notificado/a con la sentencia
+escrita el [fecha], dentro del término legal, interpongo RECURSO DE APELACIÓN para ante la
+Sala [de lo Penal / Especializada] de la Corte Provincial de Justicia de [ ], y lo
+fundamento en los siguientes términos:
+
+I. RESOLUCIÓN IMPUGNADA
+Sentencia de [fecha] que [declara mi culpabilidad e impone pena de ___ / ratifica el
+estado de inocencia / fija reparación integral de USD ___].
+
+II. AGRAVIOS (identificar cada uno con precisión)
+
+Agravio 1: Errónea valoración de la prueba pericial.
+  - Qué dijo la sentencia: [cita textual del considerando ___].
+  - Qué demostró la prueba practicada en juicio: [p. ej., el perito admitió en
+    contrainterrogatorio que no midió huellas de frenado ni realizó prueba de fricción].
+  - Por qué es determinante: sin esa prueba no se acredita la infracción al deber
+    objetivo de cuidado / el nexo causal (art. 27 COIP).
+
+Agravio 2: Falta de motivación (art. 76.7.l de la Constitución).
+  - La sentencia no explica por qué descarta [la culpa de la víctima / la prueba de
+    descargo ___]; se limita a enunciar normas sin aplicarlas a los hechos.
+
+Agravio 3: Errónea aplicación de [agravante / pena / reparación].
+  - [p. ej., se aplicó la agravante de embriaguez sin prueba válida: el alcohotest no
+    cumplió la cadena de custodia / se omitió la atenuante de ___ debidamente probada /
+    el monto de reparación carece de sustento probatorio].
+
+Agravio 4 (si aplica): Nulidad por violación del debido proceso.
+  - [Indicar la omisión de solemnidad sustancial, cómo influyó en la decisión y que
+    fue alegada oportunamente].
+
+III. NORMAS INFRINGIDAS
+Constitución: arts. [76.2, 76.4, 76.7.a, 76.7.l, 77 ...]. COIP: arts. [5, 27, 453, 454,
+455, artículo del tipo penal ...] [VERIFICAR].
+
+IV. PRETENSIÓN
+Solicito que la Sala acepte el recurso, revoque la sentencia venida en grado y
+[ratifique mi estado de inocencia / reduzca la pena a ___ / declare la nulidad desde ___
+/ modifique la reparación integral a ___].
+
+V. [Opcional] PETICIONES ADICIONALES
+[Suspensión condicional de la pena / que la Sala considere la atenuante ___].
+
+VI. NOTIFICACIONES
+Casillero judicial electrónico / correo: [ ].
+
+[Firma del recurrente]               [Abogado/a – Mat. Nº ]
+```
+
+### 7.1 Checklist antes de presentar la apelación
+
+- [ ] Fecha exacta de notificación de la sentencia **escrita** y cómputo del término (días hábiles) [VERIFICAR].
+- [ ] Copia de la sentencia y del audio/acta de la audiencia de juicio (para citar lo que dijo cada testigo/perito).
+- [ ] Cada agravio: cita de la sentencia → prueba real → norma → efecto en la decisión.
+- [ ] Pretensión clara y coherente con los agravios.
+- [ ] Si el cliente está privado de libertad: evaluar pedido de medidas o suspensión condicional en paralelo.
+- [ ] Preparar la fundamentación oral (10–15 min) para la audiencia ante la Sala.
+- [ ] Revisar si conviene, después, el recurso de casación (solo por errores de derecho, no de valoración de prueba).
