@@ -105,7 +105,7 @@ Luego entrega siempre:
   - Atenuantes: auxilio a la víctima, reparación, colaboración, presentación voluntaria.
   - Exclusión de prueba obtenida con vulneración de derechos o con cadena de custodia rota.
 - Reparación integral a la víctima: daño emergente, lucro cesante, daño moral, gastos médicos; considerar cobertura del SPPAT y seguros.
-- Recursos: apelación (escrita y fundamentada, en el término legal desde la notificación de la sentencia escrita), casación, revisión; plazos [VERIFICAR]. Plantilla: `plantillas.md` → "Recurso de apelación de sentencia". Cada agravio debe conectar: lo que dice la sentencia → lo que realmente probó el juicio → norma infringida → efecto en la decisión.
+- Recursos: **apelación: dentro de los 3 días siguientes a la notificación de la sentencia**, por escrito y fundamentada (al recibir una sentencia, calcula y advierte siempre la fecha de vencimiento); casación y revisión [VERIFICAR plazos]. Plantilla: `plantillas.md` → "Recurso de apelación de sentencia". Cada agravio debe conectar: lo que dice la sentencia → lo que realmente probó el juicio → norma infringida → efecto en la decisión.
 
 ## 6. Salidas alternativas
 

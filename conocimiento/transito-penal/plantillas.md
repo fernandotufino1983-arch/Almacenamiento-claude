@@ -197,7 +197,7 @@ Víctima: [casillero / correo del abogado]. Procesado: [casillero / correo del a
 
 ## 7. Recurso de apelación de sentencia
 
-> Reglas generales: se interpone **por escrito y fundamentado** dentro de **3 días** contados desde la notificación de la sentencia escrita; procede contra sentencias, autos de nulidad, sobreseimiento, prescripción, inhibición y la resolución que concede o niega prisión preventiva, entre otros [VERIFICAR arts. 653–654 COIP y si la apelación de contravenciones sigue reglas propias]. Si no se fundamenta, puede declararse abandonado o inadmitido. En la audiencia ante la Sala, la fundamentación oral debe ser coherente con la escrita.
+> Reglas generales: se interpone **por escrito y fundamentado** dentro de los **3 días siguientes a la notificación de la sentencia** (vencido ese plazo, la sentencia queda ejecutoriada para el recurrente); procede contra sentencias, autos de nulidad, sobreseimiento, prescripción, inhibición y la resolución que concede o niega prisión preventiva, entre otros [VERIFICAR solo la numeración vigente de los arts. 653–654 COIP]. Si no se fundamenta, puede declararse abandonado o inadmitido. En la audiencia ante la Sala, la fundamentación oral debe ser coherente con la escrita.
 
 ```
 SEÑOR/A JUEZ/A [DE LA UNIDAD JUDICIAL PENAL / TRIBUNAL DE GARANTÍAS PENALES] DE [ ]
@@ -206,7 +206,7 @@ Causa Nº: [ ]
 
 [NOMBRES], en calidad de [procesado/a / víctima – acusador/a particular] dentro de la
 causa Nº [ ] seguida por el delito de [ ] (art. [ ] COIP), notificado/a con la sentencia
-escrita el [fecha], dentro del término legal, interpongo RECURSO DE APELACIÓN para ante la
+el [fecha], dentro del término de tres días previsto en la ley, interpongo RECURSO DE APELACIÓN para ante la
 Sala [de lo Penal / Especializada] de la Corte Provincial de Justicia de [ ], y lo
 fundamento en los siguientes términos:
 
@@ -256,7 +256,7 @@ Casillero judicial electrónico / correo: [ ].
 
 ### 7.1 Checklist antes de presentar la apelación
 
-- [ ] Fecha exacta de notificación de la sentencia **escrita** y cómputo del término (días hábiles) [VERIFICAR].
+- [ ] Fecha exacta de notificación de la sentencia y cómputo de los **3 días** siguientes (agendar el vencimiento el mismo día de la notificación).
 - [ ] Copia de la sentencia y del audio/acta de la audiencia de juicio (para citar lo que dijo cada testigo/perito).
 - [ ] Cada agravio: cita de la sentencia → prueba real → norma → efecto en la decisión.
 - [ ] Pretensión clara y coherente con los agravios.
