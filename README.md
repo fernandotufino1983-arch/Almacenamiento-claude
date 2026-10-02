@@ -11,10 +11,15 @@ constitucionales (CRE y LOGJCC), y normativa conexa. Está definido en
 ### Estructura
 
 - `.claude/agents/abogado-civil-ecuador.md` — definición del agente.
+- `guias/acciones-civiles.md` — catálogo de acciones del Código Civil:
+  legitimación, elementos, prescripción y vía procesal.
 - `guias/garantias-constitucionales.md` — requisitos, improcedencia, plazos
   y estrategia de cada acción constitucional.
 - `plantillas/civil/` — demandas (ordinaria, sumaria, ejecutiva, monitoria),
-  contestación con excepciones, apelación, casación, providencias preventivas.
+  contestación con excepciones, apelación, casación, providencias preventivas,
+  y acciones del Código Civil (reivindicatoria, prescripción adquisitiva,
+  nulidad, resolución, daños y perjuicios, pauliana, lesión enorme,
+  posesorias, simulación).
 - `plantillas/constitucional/` — acción de protección, medidas cautelares,
   hábeas corpus, hábeas data, acceso a la información, apelación de
   garantías, acción extraordinaria de protección, acción por incumplimiento,

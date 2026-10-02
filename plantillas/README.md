@@ -17,6 +17,18 @@ escrito (y eliminarse del documento final).
 | `06-fundamentacion-apelacion.md` | Fundamentación del recurso de apelación |
 | `07-recurso-casacion.md` | Recurso de casación |
 | `08-providencia-preventiva.md` | Solicitud de providencia preventiva |
+| `09-accion-reivindicatoria.md` | Acción reivindicatoria |
+| `10-prescripcion-adquisitiva.md` | Prescripción extraordinaria adquisitiva de dominio |
+| `11-nulidad-de-contrato.md` | Nulidad absoluta o relativa de contrato / escritura |
+| `12-resolucion-de-contrato.md` | Resolución o cumplimiento de contrato con indemnización |
+| `13-danos-y-perjuicios-extracontractual.md` | Daños y perjuicios y daño moral (extracontractual) |
+| `14-accion-pauliana.md` | Acción pauliana o revocatoria |
+| `15-lesion-enorme.md` | Rescisión por lesión enorme |
+| `16-accion-posesoria.md` | Acción posesoria (amparo, restitución, despojo violento) |
+| `17-simulacion.md` | Nulidad por simulación |
+
+Ver también la guía `guias/acciones-civiles.md` (concepto, legitimación,
+elementos, prescripción y vía de cada acción civil).
 
 ## Constitucional — CRE y LOGJCC (`constitucional/`)
 
