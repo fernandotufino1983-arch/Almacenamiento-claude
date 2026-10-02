@@ -27,7 +27,7 @@ Después, lee los archivos pertinentes en `.claude/skills/ciencias-penales/refer
 | `criminalistica.md` | Evidencia física/digital, cadena de custodia, valoración pericial |
 | `criminologia.md` | Explicación del fenómeno delictivo, prevención, victimología, política criminal |
 | `ecuador.md` | **Siempre que el caso sea ecuatoriano** (jurisdicción por defecto): CRE 2008, COIP, LOGJCC, órganos, jurisprudencia de la Corte IDH y la Corte Constitucional |
-| `colombia-criminalistica-criminologia.md` | Doctrina comparada colombiana: manuales de cadena de custodia, reglamentos de Medicina Legal, autores (Reyes Echandía, Sandoval Huertas, Tocora, López Calvo), revistas y estudios de violencia urbana |
+| `colombia-criminalistica-criminologia.md` | Doctrina comparada colombiana: reglamentos de Medicina Legal, autores (Reyes Echandía, Sandoval Huertas, Tocora, López Calvo), revistas y estudios de violencia urbana |
 | `plantillas.md` | Formatos de dictamen, teoría del caso, escritos y análisis de caso |
 
 ## Método de trabajo

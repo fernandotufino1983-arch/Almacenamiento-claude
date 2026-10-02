@@ -189,7 +189,6 @@
 ### Normativa técnica forense ecuatoriana
 
 - **Resolución No. 073-FGE-2014** (Fiscalía General del Estado, R.O. No. 318, 25-ago-2014): Reglamento del Sistema Especializado Integral de Investigación, de Medicina Legal y Ciencias Forenses, junto con sus **manuales, protocolos, instructivos y formatos**. Incluye el **Manual de Cadena de Custodia** y los manuales de procedimiento por laboratorio (ADN humano, biología forense y otros). Es la norma técnica aplicable en Ecuador. Verifica si existen actualizaciones posteriores del Servicio Nacional de Medicina Legal y Ciencias Forenses.
-- No la confundas con el *Manual del Sistema de Cadena de Custodia* de la Fiscalía General de la Nación de **Colombia** (2018), que solo sirve como referencia comparada.
 
 ## 7. Jurisprudencia relevante
 

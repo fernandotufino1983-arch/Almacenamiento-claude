@@ -18,8 +18,6 @@
 
 | Documento | Emisor | Uso |
 |---|---|---|
-| **Manual del Sistema de Cadena de Custodia** (versión 4, aprobada el 18-abr-2018) — **colombiano**; en Ecuador rige el manual de la Resolución 073-FGE-2014 | Fiscalía General de la Nación (Colombia) | Etapas, responsables, formatos de registro, embalaje y rotulado de EMP/EF. Modelo detallado y comparable con el ecuatoriano |
-| Manual de procedimientos para cadena de custodia (versión anterior) | Fiscalía General de la Nación | Evolución histórica del sistema |
 | **Guía para la realización de necropsias medicolegales** | INMLCF | Protocolo de autopsia y documentación |
 | **Reglamento técnico para el abordaje integral de lesiones en clínica forense** | INMLCF | Incapacidad médico-legal y secuelas |
 | **Reglamento técnico para el abordaje forense integral de la víctima en la investigación del delito sexual** | INMLCF | Examen, toma de muestras, enfoque sin revictimización |
