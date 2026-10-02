@@ -109,7 +109,7 @@ Luego entrega siempre:
 
 ## 6. Salidas alternativas
 
-- **Conciliación**: procede en delitos de tránsito que no tengan resultado de muerte (y otros supuestos legales) [VERIFICAR límites vigentes]; acta con acuerdo de reparación y seguimiento. Plantilla: `plantillas.md` → "Solicitud de conciliación".
+- **Conciliación**: procede en delitos de tránsito que no tengan resultado de muerte (y otros supuestos legales); **solo puede solicitarse hasta antes de la culminación de la etapa de instrucción fiscal**, por lo que debe controlarse ese plazo desde la formulación de cargos (en tránsito la instrucción es corta); acta con acuerdo de reparación y seguimiento. Plantilla: `plantillas.md` → "Solicitud de conciliación".
 - **Procedimiento abreviado**: negociación de pena con Fiscalía, aceptación del hecho, audiencia ante juez.
 - **Suspensión condicional de la pena**: requisitos (pena que no exceda el límite legal, no tener otra sentencia vigente, etc.) y condiciones.
 

@@ -130,7 +130,7 @@ Notificaciones: [ ]
 
 ## 6. Solicitud de conciliación (delitos de tránsito sin resultado de muerte)
 
-> Procedencia: la conciliación cabe en delitos de tránsito **sin resultado de muerte** y en otros supuestos que fija la ley; puede plantearse hasta antes de la conclusión de la etapa de instrucción fiscal [VERIFICAR arts. 663–665 COIP vigentes y el momento procesal límite]. Si el caso está en investigación previa, normalmente se presenta ante Fiscalía; en instrucción, se pide al juez que convoque la audiencia.
+> Procedencia: la conciliación cabe en delitos de tránsito **sin resultado de muerte** y en otros supuestos que fija la ley; **límite temporal: puede plantearse hasta antes de la culminación de la etapa de instrucción fiscal** (concluida la instrucción ya no procede). [VERIFICAR solo la numeración vigente de los arts. 663–665 COIP]. Si el caso está en investigación previa, normalmente se presenta ante Fiscalía; en instrucción, se pide al juez que convoque la audiencia.
 
 ### 6.1 Escrito conjunto de solicitud
 
@@ -147,8 +147,8 @@ del COIP, con el patrocinio de nuestros abogados, comparecemos y solicitamos:
 PRIMERO.- PROCEDENCIA
 El hecho investigado es un delito de tránsito que no tiene resultado de muerte, por lo
 que es susceptible de conciliación de conformidad con el art. [663] del COIP [VERIFICAR].
-La causa se encuentra en [investigación previa / instrucción fiscal], dentro del momento
-procesal oportuno.
+La causa se encuentra en [investigación previa / instrucción fiscal], es decir, antes de la
+culminación de la etapa de instrucción fiscal, momento procesal oportuno para conciliar.
 
 SEGUNDO.- VOLUNTAD LIBRE
 Declaramos que nuestra voluntad de conciliar es libre, voluntaria e informada, sin
@@ -189,7 +189,7 @@ Víctima: [casillero / correo del abogado]. Procesado: [casillero / correo del a
 ### 6.3 Guion breve para la audiencia de conciliación (defensa)
 
 1. Verificar la presencia de la víctima y que entiende el acuerdo.
-2. Explicar procedencia (delito sin muerte, momento procesal).
+2. Explicar procedencia (delito sin muerte; solicitud presentada antes de la culminación de la instrucción fiscal).
 3. Leer los términos esenciales del acuerdo.
 4. Pedir aprobación, suspensión de la acción y, de ser el caso, revocatoria de medidas cautelares y devolución del vehículo.
 
