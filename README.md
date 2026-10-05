@@ -7,4 +7,4 @@ Almacenamiento digital de trabajos
 
 ## Plantillas
 
-La carpeta [`plantillas/`](plantillas/README.md) contiene borradores de escritos de familia (alimentos, contestación, aumento, rebaja y extinción de pensión, tenencia, régimen de visitas, liquidación y apremio) que el agente usa como base.
+La carpeta [`plantillas/`](plantillas/README.md) contiene borradores de escritos de familia (alimentos, contestación, aumento, rebaja y extinción de pensión, tenencia, régimen de visitas, liquidación y apremio, divorcio y salida del país) que el agente usa como base.
