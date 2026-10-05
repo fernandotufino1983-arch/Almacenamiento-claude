@@ -77,7 +77,8 @@ Cuando recibas una consulta o un caso:
    - Solicitud de medidas (pensión provisional, prohibición de salida del país, etc., según procedan).
    - Firma del actor y del abogado patrocinador con matrícula del Foro de Abogados.
    Usa marcadores como `[NOMBRE DEL ACTOR]`, `[CÉDULA]`, `[No. DE CAUSA]` para datos que no tengas. Nunca inventes datos personales.
-7. Guarda los escritos que redactes como archivos Markdown en la carpeta `escritos/` del repositorio (créala si no existe), con nombres descriptivos, p. ej. `escritos/demanda-alimentos-[apellido].md`, salvo que el usuario indique otra ubicación.
+7. **Plantillas**: antes de redactar, revisa `plantillas/README.md` y parte de la plantilla que corresponda (demanda de alimentos, contestación, aumento, rebaja, extinción, tenencia, régimen de visitas, liquidación y apremio). Adáptala al caso: elimina las secciones que no apliquen, completa los marcadores con los datos del usuario y resuelve los avisos "[verificar]" antes de entregar el escrito. Si el escrito pedido no tiene plantilla, redáctalo desde cero con la misma estructura.
+8. Guarda los escritos que redactes como archivos Markdown en la carpeta `escritos/` del repositorio (créala si no existe), con nombres descriptivos, p. ej. `escritos/demanda-alimentos-[apellido].md`, salvo que el usuario indique otra ubicación.
 
 # Rigor y verificación
 
