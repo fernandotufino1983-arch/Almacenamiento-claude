@@ -46,7 +46,7 @@ Lo que cambia con la información nueva:
 - **Matrícula sin sorpresas:** las multas pendientes bloquean la matrícula y la liberación del vehículo.
 - **La red de seguridad del accidente.** Aunque sea poco frecuente, es lo que le quita el sueño al dueño, y para ti incluirlo cuesta poco.
 
-**Impugna donde vale la pena:** multas muy graves (unos USD 241 o más), las que restan muchos puntos, las fotomultas mal notificadas y las citaciones con errores de forma. Una multa leve de USD 24 no conviene impugnarla aunque esté incluida. Explícalo en el contrato: *"una impugnación por bus al año, cuando sea jurídicamente viable"*.
+**La impugnación incluida es garantizada:** toda citación que llegue dentro del plazo se impugna y **el juez decide**, sin filtro previo del estudio. Es decisión de Jurix: una cláusula como "cuando sea jurídicamente viable" le resta credibilidad al plan, porque deja una salida para no cumplir. Puedes aconsejar al socio sobre qué multa le conviene usar (por ejemplo, la más cara o la que más puntos resta, y no una leve de USD 24), pero la decisión es del socio. Lo que sí se mantiene es el plazo: si la citación no llega a tiempo, no hay cómo impugnarla.
 
 ---
 
@@ -55,13 +55,13 @@ Lo que cambia con la información nueva:
 | Componente | Qué cubre | Precio |
 |---|---|---|
 | **Cuota cooperativa** | Asesoría societaria permanente: asambleas, estatutos, SEPS, trámites ante la ATM y la ANT, contratos | USD 300 / mes |
-| **Cuota por bus** | Monitoreo mensual de multas por placa y alertas · **1 impugnación al año incluida** (cuando sea viable) · reporte por chofer · atención de siniestros (flagrancia, Fiscalía y pedido de devolución del vehículo) | **USD 10 / bus / mes** |
+| **Cuota por bus** | Monitoreo mensual de multas por placa y alertas · **1 impugnación al año incluida y garantizada** (el juez decide) · reporte por chofer · atención de siniestros (flagrancia, Fiscalía y pedido de devolución del vehículo) | **USD 10 / bus / mes** |
 | Impugnación adicional | Desde la segunda del año | USD 40 |
 | Siniestro (honorario preferencial) | Caso completo en procedimiento directo | Daños materiales USD 300 · Lesionados USD 1.200 · Fallecidos USD 1.500 |
 
 **Mantén los siniestros dentro del plan con honorario preferencial.** Si de verdad son pocos, te cuestan poco. Si son más de lo que te dijeron, **ganas más**, porque cada siniestro deja margen. Es la parte del plan que no tiene riesgo para ti.
 
-**Reglas del contrato:** 30 días de espera antes de que empiece la cobertura, solo para socios al día, facturación a la cooperativa, aprobación en asamblea, 12 meses de plazo, impugnación "cuando sea jurídicamente viable" y **obligación del socio de enviarte la citación dentro de las 24 horas** (sin eso no llegas a los 3 días).
+**Reglas del contrato:** 30 días de espera antes de que empiece la cobertura, solo para socios al día, facturación a la cooperativa, aprobación en asamblea, 12 meses de plazo, impugnación garantizada de toda citación recibida a tiempo y **obligación del socio de enviarte la citación dentro de las 24 horas** (sin eso no llegas a los 3 días).
 
 ---
 
