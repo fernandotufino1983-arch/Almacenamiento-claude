@@ -5,9 +5,10 @@
 
 ## Datos generales
 - **Nombre:** Jurix Global
-- **País / ciudad(es):**
+- **País / ciudad(es):** Ecuador — Guayaquil
 - **Año de fundación:**
-- **Moneda de trabajo:**
+- **Moneda de trabajo:** USD
+- **Forma jurídica:** sociedad (factura como empresa)
 - **Sitio web y redes:**
 
 ## Equipo
@@ -25,7 +26,7 @@
 - **Cómo llegan los clientes hoy:** (referidos, web, redes, convenios…)
 
 ## Honorarios e ingresos
-- **Modelo de honorarios:** (hora, fijo, éxito, iguala)
+- **Modelo de honorarios:** fijo por caso; accidentes de tránsito en procedimiento directo: USD 2.500 (otros estudios cobran más)
 - **Tarifa por hora promedio:**
 - **Facturación mensual promedio (últimos 12 meses):**
 
