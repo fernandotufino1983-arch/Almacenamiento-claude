@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 850 1140" width="850" height="1140">
+  <!-- Tarjeta de presentación 85 x 55 mm (escala 10 px = 1 mm). Arriba: anverso. Abajo: reverso. -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;family=Inter:wght@400;500&amp;display=swap');
+    .serif { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; }
+    .sans { font-family: Inter, Arial, sans-serif; }
+  </style>
+  <defs>
+    <g id="iso">
+      <circle r="60" fill="none" stroke="currentColor" stroke-width="5"/>
+      <ellipse rx="25" ry="60" fill="none" stroke="#B8955A" stroke-width="2.5"/>
+      <line x1="-55" y1="-24" x2="55" y2="-24" stroke="#B8955A" stroke-width="2.5"/>
+      <line x1="-55" y1="24" x2="55" y2="24" stroke="#B8955A" stroke-width="2.5"/>
+      <rect x="-10" y="-80" width="44" height="8" fill="#B8955A"/>
+      <path d="M12 -72 V18 A24 24 0 0 1 -36 18" fill="none" stroke="currentColor" stroke-width="15"/>
+    </g>
+  </defs>
+
+  <!-- ANVERSO: azul marino, isotipo y nombre centrados -->
+  <rect x="0" y="0" width="850" height="550" fill="#0B1F3A"/>
+  <use xlink:href="#iso" href="#iso" transform="translate(425 210) scale(1.25)" color="#F7F4EE"/>
+  <text x="425" y="380" text-anchor="middle" class="serif" font-size="64" letter-spacing="8" fill="#F7F4EE">JURIX</text>
+  <line x1="300" y1="402" x2="550" y2="402" stroke="#B8955A" stroke-width="2"/>
+  <text x="429" y="436" text-anchor="middle" class="sans" font-weight="500" font-size="17" letter-spacing="8" fill="#F7F4EE">GLOBAL · ABOGADOS</text>
+
+  <!-- REVERSO: marfil, datos del abogado titular -->
+  <rect x="0" y="590" width="850" height="550" fill="#F7F4EE"/>
+  <use xlink:href="#iso" href="#iso" transform="translate(760 680) scale(0.5)" color="#0B1F3A"/>
+  <text x="70" y="720" class="sans" font-weight="500" font-size="18" letter-spacing="4" fill="#0B1F3A">ABG.</text>
+  <text x="70" y="772" class="serif" font-size="50" fill="#0B1F3A">Fernando Tufiño Valladares</text>
+  <text x="70" y="808" class="sans" font-weight="500" font-size="19" letter-spacing="3" fill="#0B1F3A">ABOGADO TITULAR · DIRECTOR</text>
+  <line x1="70" y1="840" x2="780" y2="840" stroke="#B8955A" stroke-width="2"/>
+  <!-- Datos de contacto: reemplazar los valores de ejemplo -->
+  <g class="sans" font-size="20" fill="#0B1F3A">
+    <text x="70" y="890">T  +000 000 000 000</text>
+    <text x="70" y="928">E  correo@jurixglobal.com</text>
+    <text x="70" y="966">D  Dirección del despacho, Ciudad</text>
+    <text x="70" y="1004">W  www.jurixglobal.com</text>
+  </g>
+  <text x="70" y="1080" class="sans" font-weight="500" font-size="15" letter-spacing="3" fill="#0B1F3A">ASESORÍA Y DEFENSA LEGAL INTEGRAL</text>
+  <!-- Espacio para código QR (WhatsApp) -->
+  <rect x="640" y="870" width="140" height="140" fill="none" stroke="#0B1F3A" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="710" y="947" text-anchor="middle" class="sans" font-size="18" fill="#0B1F3A">QR</text>
+</svg>
