@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 560" width="560" height="560">
+  <!-- Concepto 1 v2: Columna Global — la J (columna) sobresale del globo: liderazgo -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&amp;family=Inter:wght@500&amp;display=swap');
+    .nombre { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600; font-size: 60px; letter-spacing: 6px; }
+    .tag { font-family: Inter, Arial, sans-serif; font-weight: 500; font-size: 15px; letter-spacing: 7px; }
+  </style>
+  <defs>
+    <!-- Isotipo reutilizable; color de la J y del aro por currentColor -->
+    <g id="iso">
+      <circle cx="0" cy="0" r="60" fill="none" stroke="currentColor" stroke-width="5"/>
+      <ellipse cx="0" cy="0" rx="25" ry="60" fill="none" stroke="#B8955A" stroke-width="2.5"/>
+      <line x1="-55" y1="-24" x2="55" y2="-24" stroke="#B8955A" stroke-width="2.5"/>
+      <line x1="-55" y1="24" x2="55" y2="24" stroke="#B8955A" stroke-width="2.5"/>
+      <!-- Capitel por encima del aro: la J rompe el círculo -->
+      <rect x="-10" y="-80" width="44" height="8" fill="#B8955A"/>
+      <path d="M12 -72 V18 A24 24 0 0 1 -36 18" fill="none" stroke="currentColor" stroke-width="15"/>
+    </g>
+  </defs>
+
+  <!-- 1. Versión principal sobre fondo claro -->
+  <rect x="0" y="0" width="560" height="200" fill="#F7F4EE"/>
+  <use xlink:href="#iso" href="#iso" transform="translate(100 110)" color="#0B1F3A"/>
+  <text x="190" y="112" class="nombre" fill="#0B1F3A">JURIX</text>
+  <line x1="192" y1="128" x2="490" y2="128" stroke="#B8955A" stroke-width="1.5"/>
+  <text x="192" y="154" class="tag" fill="#0B1F3A">GLOBAL · ABOGADOS</text>
+
+  <!-- 2. Versión negativa sobre azul marino -->
+  <rect x="0" y="210" width="560" height="200" fill="#0B1F3A"/>
+  <use xlink:href="#iso" href="#iso" transform="translate(100 320)" color="#F7F4EE"/>
+  <text x="190" y="322" class="nombre" fill="#F7F4EE">JURIX</text>
+  <line x1="192" y1="338" x2="490" y2="338" stroke="#B8955A" stroke-width="1.5"/>
+  <text x="192" y="364" class="tag" fill="#F7F4EE">GLOBAL · ABOGADOS</text>
+
+  <!-- 3. Isotipo (avatar / favicon) y versión monocroma -->
+  <rect x="0" y="420" width="560" height="140" fill="#FFFFFF"/>
+  <rect x="40" y="430" width="120" height="120" rx="60" fill="#0B1F3A"/>
+  <use xlink:href="#iso" href="#iso" transform="translate(100 494) scale(0.62)" color="#F7F4EE"/>
+  <rect x="220" y="430" width="120" height="120" rx="12" fill="#F7F4EE"/>
+  <use xlink:href="#iso" href="#iso" transform="translate(280 494) scale(0.62)" color="#0B1F3A"/>
+  <!-- Monocromo: todo en un color (bordado / sello) -->
+  <g transform="translate(460 494) scale(0.62)" color="#1C1C1E">
+    <circle r="60" fill="none" stroke="currentColor" stroke-width="5"/>
+    <ellipse rx="25" ry="60" fill="none" stroke="currentColor" stroke-width="2.5"/>
+    <line x1="-55" y1="-24" x2="55" y2="-24" stroke="currentColor" stroke-width="2.5"/>
+    <line x1="-55" y1="24" x2="55" y2="24" stroke="currentColor" stroke-width="2.5"/>
+    <rect x="-10" y="-80" width="44" height="8" fill="currentColor"/>
+    <path d="M12 -72 V18 A24 24 0 0 1 -36 18" fill="none" stroke="currentColor" stroke-width="15"/>
+  </g>
+</svg>
