@@ -3,9 +3,10 @@
 
 > **Antes de redactar, verifica:**
 > - **Anuncio oral:** si la sentencia se dictó oralmente en audiencia, la apelación debe interponerse **en esa audiencia** (art. 256 COGEP). Si no se apeló oralmente, revisa si el recurso aún es procedente.
-> - **Término para fundamentar:** dentro del término que fija el COGEP desde la notificación de la sentencia escrita (la regla habitual es de 10 días; confirma el texto vigente). Calcula la fecha límite y adviértela al inicio.
-> - **Efecto** en que se concede (suspensivo, no suspensivo o diferido, art. 261 COGEP) y si la sentencia laboral se ejecuta provisionalmente — verificar.
-> - **Prueba en segunda instancia:** solo excepcionalmente (hechos nuevos o prueba que no pudo obtenerse en primera instancia por causas no imputables), y debe anunciarse en la fundamentación — verificar el artículo vigente.
+> - **Término para fundamentar:** **10 días** desde la notificación de la sentencia o auto escrito (art. 257). La apelación no fundamentada se rechaza de plano (art. 258). Calcula la fecha límite y adviértela al inicio.
+> - **Efecto** (art. 261): por regla general **suspensivo**; el juez debe expresarlo al admitir, y a falta de expresión se entiende suspensivo (art. 259). Si no se admite, cabe recurso de hecho. Las resoluciones del procedimiento sumario son apelables (art. 333.6).
+> - **Prueba en segunda instancia (art. 258):** solo para acreditar **hechos nuevos**, o prueba sobre los mismos hechos que solo fue posible obtener después de la sentencia; se anuncia en la fundamentación o en la contestación.
+> - **Trámite:** la contraparte contesta en 10 días y puede adherirse fundamentadamente (arts. 258 y 263); el tribunal convoca a audiencia en 15 días desde que recibe el expediente (art. 260).
 > - **Agravios:** solo se resuelve sobre los puntos apelados; lo no impugnado queda firme. Enumera **todos** los agravios.
 > - Si apela la contraparte, evalúa la **adhesión al recurso** y la **contestación a la fundamentación**.
 >

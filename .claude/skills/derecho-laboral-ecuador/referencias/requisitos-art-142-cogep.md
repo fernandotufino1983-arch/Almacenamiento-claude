@@ -2,7 +2,7 @@
 
 **Regla del agente:** toda demanda **y toda contestación a la demanda** se redacta amparada en el art. 142 del COGEP. La contestación debe cumplir esos requisitos por mandato del art. 151 COGEP ("cumplirá, en lo aplicable, los requisitos formales previstos para la demanda"). Antes de entregar cualquier escrito, verifica cada numeral con esta lista y cita el numeral en el encabezado de la sección correspondiente.
 
-> Confirma el texto vigente del art. 142 y del art. 151; si una reforma cambió la numeración, ajusta las citas.
+> Contrastado con el texto del COGEP (Lexis, última modificación 26-jun-2019, R.O.S. 517) guardado en `normativa/cogep-texto-2019-06-26.txt`. Si hay reformas posteriores, revísalas.
 
 ## Lista de verificación — art. 142 COGEP
 
@@ -26,10 +26,13 @@
 
 - **Pronunciamiento expreso** sobre cada una de las pretensiones del actor.
 - **Pronunciamiento expreso** sobre la veracidad de cada hecho alegado en la demanda.
-- **Pronunciamiento** sobre la autenticidad de la prueba documental acompañada, con indicación categórica de lo que se admite y lo que se niega. El silencio o las respuestas evasivas pueden ser apreciadas en contra de quien contesta.
-- **Deducción de todas las excepciones** (art. 153 COGEP: excepciones previas, p. ej. incompetencia, incapacidad o falta de personería, falta de legitimación, litispendencia, prescripción, caducidad, cosa juzgada, transacción, error en la forma de proponer la demanda; y las de fondo).
-- **Prueba acompañada** (art. 152 COGEP) y, de ser el caso, **reconvención** conexa (art. 154 COGEP; verificar su procedencia en materia laboral).
-- Presentación dentro del término legal del procedimiento sumario (verificar el término vigente).
+- **Pronunciamiento** sobre la autenticidad de la prueba documental acompañada, con indicación categórica de lo que se admite y lo que se niega. Según el art. 157, la falta de pronunciamiento expreso y concreto, o las afirmaciones contrarias a la realidad, se aprecian como **negativa** de los hechos (no como allanamiento), salvo que la ley atribuya otro efecto; aun así, la falta de pronunciamiento expone al demandado y debe evitarse.
+- **Deducción de todas las excepciones, con expresión de su fundamento fáctico** (art. 151). Pueden reformarse hasta antes de la providencia que convoca a audiencia única; si se reforman, el actor tiene 10 días para anunciar prueba nueva.
+- **Excepciones previas (lista cerrada, art. 153):** 1) incompetencia; 2) incapacidad o falta de personería del actor o su representante; 3) falta de legitimación en la causa o incompleta conformación de litisconsorcio; 4) error en la forma de proponer la demanda, inadecuación del procedimiento o indebida acumulación de pretensiones; 5) litispendencia; 6) prescripción; 7) caducidad; 8) cosa juzgada; 9) transacción; 10) existencia de convenio, compromiso arbitral o convenio de mediación.
+- **Anuncio de toda la prueba** (art. 152): nómina de testigos con los hechos sobre los que declararán; especificación de inspección, exhibición, peritajes; prueba sin acceso descrita con su ubicación.
+- **Reconvención:** en procesos laborales solo procede la **reconvención conexa** (arts. 150 y 333.2).
+- **Término para contestar en sumario (art. 333.3):** **15 días**; **10 días** en despido de mujeres embarazadas o en período de lactancia y de dirigentes sindicales.
+- Calificada la contestación, se notifica al actor, que tiene 10 días para anunciar nueva prueba sobre los hechos expuestos en ella (art. 151).
 
 ## Control final antes de entregar
 

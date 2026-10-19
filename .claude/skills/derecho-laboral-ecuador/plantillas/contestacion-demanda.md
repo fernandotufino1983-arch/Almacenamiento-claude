@@ -42,7 +42,7 @@ Me pronuncio expresamente sobre cada uno de los hechos de la demanda:
 - Documento [ ]: [ ].
 
 ## SÉPTIMO. — EXCEPCIONES (arts. 151 y 153 COGEP)
-**Excepciones previas:** [seleccionar las que procedan — incompetencia; falta de legitimación en la causa; prescripción (art. 635 CT); caducidad (p. ej., art. 195.2 CT); cosa juzgada; transacción; error en la forma de proponer la demanda; otras]
+**Excepciones previas (art. 153, lista cerrada), cada una con su fundamento fáctico (art. 151):** [seleccionar — 1) incompetencia; 2) incapacidad o falta de personería; 3) falta de legitimación en la causa o incompleta conformación de litisconsorcio; 4) error en la forma de proponer la demanda, inadecuación del procedimiento o indebida acumulación de pretensiones; 5) litispendencia; 6) prescripción (art. 635 CT); 7) caducidad (p. ej., art. 195.2 CT); 8) cosa juzgada; 9) transacción; 10) convenio arbitral o de mediación]
 **Excepciones de fondo:** [p. ej., inexistencia del despido intempestivo; pago total de haberes; validez del acta de finiquito pormenorizada suscrita ante autoridad; inexistencia de relación laboral; cobro de lo no debido]
 
 ## OCTAVO. — FUNDAMENTOS DE DERECHO (art. 142.6 COGEP)
@@ -65,9 +65,9 @@ Solicito que en sentencia se acojan las excepciones deducidas, se rechace la dem
 [Acepto / impugno la cuantía fijada por USD … por …]
 
 ## DECIMOTERCERO. — PROCEDIMIENTO (art. 142.11 COGEP)
-La causa se sustancia en procedimiento sumario (art. 332 COGEP).
+La causa se sustancia en procedimiento sumario (art. 575 del Código del Trabajo y art. 332 COGEP).
 
-## DECIMOCUARTO. — RECONVENCIÓN (art. 154 COGEP, si procede)
+## DECIMOCUARTO. — RECONVENCIÓN CONEXA (arts. 150, 154 y 333.2 COGEP, si procede)
 [COMPLETAR o eliminar.]
 
 ## DECIMOQUINTO. — NOTIFICACIONES Y AUTORIZACIÓN

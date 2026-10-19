@@ -46,7 +46,7 @@ Además: costas procesales y honorarios profesionales.
 USD [COMPLETAR].
 
 ## OCTAVO. — PROCEDIMIENTO (art. 142.11 COGEP)
-Sumario (art. 332 COGEP).
+Sumario (art. 575 del Código del Trabajo y art. 332.1 COGEP; art. 332.8 en despido de mujeres embarazadas o en lactancia y dirigentes sindicales).
 
 ## NOVENO. — ANUNCIO DE PRUEBA (art. 142.7 y 143 COGEP)
 **Documental que se adjunta:** [contrato, roles de pago, mecanizado del IESS, certificados, mensajes, finiquito].

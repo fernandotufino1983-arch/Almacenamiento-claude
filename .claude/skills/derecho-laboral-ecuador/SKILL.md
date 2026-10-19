@@ -21,6 +21,7 @@ Material de apoyo del agente `abogado-laboral`. Léelo según lo que pida el cas
 | Recurso de apelación (fundamentación de agravios) | `plantillas/recurso-apelacion.md` |
 | Lista de datos a pedir al cliente | `plantillas/ficha-de-caso.md` |
 | Cálculo de liquidación | `scripts/liquidacion.py` |
+| **Texto literal del COGEP** (última modificación 26-jun-2019) | `normativa/cogep-texto-2019-06-26.txt` — buscar con `grep -n "^Art\. 333\."` |
 
 ## Uso de la calculadora
 
@@ -40,6 +41,7 @@ La calculadora es una **estimación**: usa la última remuneración como base de
 
 - **Toda demanda y toda contestación debe cumplir el art. 142 del COGEP** (la contestación, también por el art. 151). Verifica cada escrito con `referencias/requisitos-art-142-cogep.md` antes de entregarlo.
 
+- Cita el COGEP con su texto literal desde `normativa/cogep-texto-2019-06-26.txt`. Esa versión llega hasta la reforma del R.O.S. 517 de 26-jun-2019; si el caso depende de una norma que pudo reformarse después, adviértelo.
 - Confirma siempre el **SBU del año** y el **texto vigente** de cada artículo; el Código del Trabajo se reforma con frecuencia.
 - No cites resoluciones de la Corte Nacional sin verificar su número; marca `[VERIFICAR CITA]`.
 - Los datos desconocidos se dejan como `[COMPLETAR: …]`, nunca se inventan.
