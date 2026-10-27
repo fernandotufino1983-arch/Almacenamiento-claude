@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plan Familia Jurix</title>
+<style>
+  @page { size: A4; margin: 0; }
+  :root {
+    --navy: #0A1F3A; --gold: #B7955A; --gold-dark: #8C6D36;
+    --ink: #1A1F2B; --muted: #5C677D; --tint: #F4F2EE; --line: #E3DED3;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: #fff; color: var(--ink);
+    font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif; font-size: 10.5pt; line-height: 1.4; }
+  .page { width: 210mm; height: 297mm; padding: 14mm 16mm 12mm; display: flex; flex-direction: column; }
+  header { display: flex; justify-content: space-between; align-items: center; }
+  header img { height: 17mm; }
+  header .tag { font-size: 9pt; color: var(--muted); text-align: right; }
+  h1 { font-family: Cambria, Caladea, Georgia, serif; color: var(--navy); font-size: 25pt; margin: 9mm 0 1mm; line-height: 1.1; }
+  .sub { color: var(--muted); font-size: 11.5pt; margin: 0 0 6mm; }
+  h2 { font-family: Cambria, Caladea, Georgia, serif; color: var(--navy); font-size: 13.5pt; margin: 0 0 2.5mm; }
+  .grid { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 6mm; }
+  .card { background: var(--tint); border-radius: 3mm; padding: 5mm 6mm; }
+  .price { background: var(--navy); color: #fff; border-radius: 3mm; padding: 6mm; display: flex; flex-direction: column; justify-content: center; }
+  .price .big { font-family: Cambria, Caladea, Georgia, serif; color: var(--gold); font-size: 34pt; font-weight: bold; line-height: 1; }
+  .price .unit { font-weight: bold; font-size: 12pt; margin: 1.5mm 0 3mm; }
+  .price p { margin: 0 0 1.5mm; color: #DCE2EA; font-size: 10pt; }
+  ul.check { list-style: none; padding: 0; margin: 0; }
+  ul.check li { position: relative; padding-left: 7mm; margin-bottom: 2mm; }
+  ul.check li::before { content: "✓"; position: absolute; left: 0; top: -0.3mm; width: 4.6mm; height: 4.6mm; border-radius: 50%;
+    background: var(--gold); color: var(--navy); font-weight: bold; font-size: 8.5pt; text-align: center; line-height: 4.6mm; }
+  section { margin-top: 6mm; }
+  table { width: 100%; border-collapse: collapse; }
+  th { text-align: left; background: var(--navy); color: #fff; font-weight: bold; padding: 2.2mm 3mm; font-size: 10pt; }
+  td { padding: 2.2mm 3mm; border-bottom: 1px solid var(--line); vertical-align: top; }
+  td.val { white-space: nowrap; font-weight: bold; color: var(--navy); text-align: right; }
+  .note { color: var(--muted); font-size: 9pt; margin-top: 1.5mm; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 6mm; }
+  .small li { font-size: 9.6pt; margin-bottom: 1.3mm; }
+  ul.dash { padding-left: 4.5mm; margin: 0; }
+  footer { margin-top: auto; padding-top: 4mm; border-top: 1px solid var(--line); display: flex; justify-content: space-between; align-items: center; font-size: 10pt; }
+  footer .wa { color: var(--gold-dark); font-weight: bold; font-size: 12.5pt; }
+  .client { font-size: 10pt; color: var(--muted); }
+  .client span { display: inline-block; min-width: 70mm; border-bottom: 1px solid var(--muted); }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <img src="marca/logo-jurix-global.png" alt="Jurix Global Abogados">
+    <div class="tag">Guayaquil, Ecuador<br>Derecho de familia</div>
+  </header>
+
+  <h1>Plan Familia Jurix</h1>
+  <p class="sub">Asistencia legal permanente para su caso de familia: un abogado pendiente de sus procesos, todos los meses.</p>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Qué incluye su plan</h2>
+      <ul class="check">
+        <li>Revisión mensual de sus pagos en el <b>SUPA</b>, con aviso si aparece alguna deuda.</li>
+        <li><b>Consultas por WhatsApp</b>, con respuesta en un día hábil.</li>
+        <li><b>Escritos para que avancen sus procesos abiertos</b>, como el cumplimiento del régimen de visitas (hasta uno al mes).</li>
+        <li>Una <b>liquidación de pensiones</b> al año.</li>
+        <li><b>20 % de descuento</b> en cualquier proceso nuevo.</li>
+      </ul>
+    </div>
+    <div class="price">
+      <div class="big">USD 25</div>
+      <div class="unit">al mes · Plan Seguimiento</div>
+      <p>Contrato de 12 meses.</p>
+      <p>Pago el día 5 de cada mes, por transferencia.</p>
+    </div>
+  </div>
+
+  <section>
+    <h2>Su caso</h2>
+    <table>
+      <tr><th>Proceso</th><th>Qué hacemos</th><th style="text-align:right">Valor</th></tr>
+      <tr><td>Juicio de alimentos</td><td>Seguimiento de sus pagos y consultas.</td><td class="val">Incluido</td></tr>
+      <tr><td>Régimen de visitas</td><td>Escritos para que se cumpla el régimen ya fijado.</td><td class="val">Incluido</td></tr>
+      <tr><td>Partición del vehículo</td><td>Acompañamiento y revisión del acuerdo de partición. Precio normal USD 400.</td><td class="val">USD 320</td></tr>
+    </table>
+    <p class="note">La partición se paga al vender o adjudicar el vehículo. Si usted se queda con él, se paga en cuotas desde el mes 13.</p>
+  </section>
+
+  <section class="two">
+    <div>
+      <h2>Si su caso necesita más</h2>
+      <table>
+        <tr><td>Petición nueva al juez, con audiencia (incidente)</td><td class="val">USD 200</td></tr>
+        <tr><td>Escrito adicional en el mes</td><td class="val">USD 25</td></tr>
+        <tr><td>Juicio nuevo de alimentos o visitas</td><td class="val">USD 400</td></tr>
+      </table>
+      <p class="note">Valores ya con el 20 % de descuento del plan. Precios sin IVA.</p>
+    </div>
+    <div>
+      <h2>Condiciones claras</h2>
+      <ul class="dash small">
+        <li>Con dos cuotas atrasadas se suspende la atención hasta ponerse al día; no pierde lo pagado.</li>
+        <li>No incluye apelaciones ni gastos de peritos, notarías, certificados o copias.</li>
+        <li>No incluye el pago de pensiones ni de deudas.</li>
+        <li>Usted nos envía toda notificación judicial dentro de las 24 horas.</li>
+        <li>Nos comprometemos a una defensa diligente; en cada petición, <b>el juez decide</b>.</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div class="client">Cliente: <span>&nbsp;</span></div>
+    <div style="text-align:right"><div class="wa">WhatsApp 098 780 4294</div>Jurix Global · Guayaquil</div>
+  </footer>
+</div>
+</body>
+</html>
