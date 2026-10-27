@@ -1,6 +1,6 @@
 # Plan Familia Jurix — asistencia legal permanente en derecho de familia
 
-*Jurix Global · Guayaquil · versión 1 · octubre 2026*
+*Jurix Global · Guayaquil · versión 2 · octubre 2026*
 
 > **Para qué sirve este documento:** tener **un solo plan estándar** para todos los clientes de familia: dos niveles de cuota mensual y un menú de precios fijos. No se arma un plan por cliente; se ubica al cliente en un nivel y se suman los procesos del menú que necesite.
 >
@@ -20,16 +20,21 @@ Un juicio de alimentos **no termina con la sentencia**. Después vienen pedidos 
 
 | | **Plan Seguimiento** | **Plan Activo** |
 |---|---|---|
-| **Para quién** | Tiene sentencia y ningún proceso abierto | Tiene al menos un proceso o incidente en curso |
+| **Para quién** | Tiene sentencia, o procesos abiertos que solo necesitan escritos para avanzar | Necesita presentar una petición nueva al juez (un incidente) |
 | **Cuota mensual** | **USD 25** | **USD 50** |
 | **Permanencia mínima** | 12 meses | 12 meses |
 | Consultas por WhatsApp (respuesta en 1 día hábil) | Sí | Sí |
 | Revisión mensual de pagos en el SUPA, con alerta de deuda | Sí | Sí |
 | Una liquidación de pensiones al año | Sí | Sí |
+| **Escritos de impulso** en procesos ya abiertos (hasta 1 al mes) | Sí | Sí |
 | **Un incidente al año incluido** (ver definición abajo) | No | **Sí** |
 | Descuento en los procesos del menú | 20 % | 20 % |
 
-**Regla de venta:** *¿tiene algún proceso abierto?* Si no, **Seguimiento**. Si sí, **Activo**. Si necesita un juicio nuevo, se cobra del **menú**.
+**Regla de venta:** *¿necesita presentar una petición nueva al juez?* Si no (solo seguimiento o escritos para que avance lo que ya está abierto), **Seguimiento**. Si sí, **Activo**. Si necesita un juicio nuevo, se cobra del **menú**.
+
+### Qué es "un escrito de impulso" (definición para el contrato)
+
+Un escrito breve dentro de un proceso que ya está abierto, para pedir que avance o que se cumpla lo ya ordenado, **sin una petición nueva que requiera audiencia**. Por ejemplo: pedir que se despache, insistir en el cumplimiento del régimen de visitas ya fijado o pedir que se oficie a una entidad. Se incluye uno al mes; los adicionales se cobran a USD 25 cada uno.
 
 ### Qué es "un incidente" (definición para el contrato)
 
@@ -66,7 +71,7 @@ Una petición presentada al juez dentro de un juicio ya existente (aumento o reb
 
 | | Ingreso al año | Horas de Jurix al año | USD por hora |
 |---|---|---|---|
-| Plan Seguimiento | USD 300 | ~12 h | ~USD 25 |
+| Plan Seguimiento | USD 300 | ~12–15 h (incluye escritos de impulso) | ~USD 20–25 |
 | Plan Activo | USD 600 | ~20 h (12 de seguimiento + 8 del incidente) | ~USD 30 |
 | Juicio de alimentos (tarifa actual) | USD 500 | ~18 h | ~USD 28 |
 
@@ -106,23 +111,27 @@ La rentabilidad por hora es similar a la de cobrar por juicio. **La ventaja del 
 - **Inventario:** ya hecho. Falta la **partición**: un **vehículo**, y la otra parte **está de acuerdo**.
 - **Capacidad de pago:** unos **USD 50 al mes**; está golpeado económicamente.
 
+**Ajuste tras revisar el caso con el estudio:**
+- **Visitas:** el régimen ya está fijado y la madre está obligada a cumplirlo. Por ahora basta con **escritos de impulso**, no una petición nueva con audiencia.
+- **Partición:** la demandó la ex pareja; solo falta que ella pida la partición para que el proceso termine. El trabajo de Jurix es acompañar y revisar el acuerdo.
+
 **Propuesta:**
 
 | Concepto | Cómo se cubre | Valor |
 |---|---|---|
-| Alimentos | Seguimiento incluido: SUPA, consultas, alerta de deuda | Incluido |
-| Cumplimiento de visitas | **Incidente incluido del año**, con todos los escritos y audiencias hasta su resolución | Incluido |
-| **Plan Activo** | 12 meses | **USD 50 al mes** |
+| Alimentos | Seguimiento: SUPA, consultas, alerta de deuda | Incluido |
+| Cumplimiento de visitas | **Escritos de impulso** (hasta 1 al mes) | Incluido |
+| **Plan Seguimiento** | 12 meses | **USD 25 al mes** |
 | **Partición de mutuo acuerdo** (vehículo) | Precio de menú con descuento del plan | **USD 320** |
 
 **Cómo paga la partición (según qué pase con el vehículo):**
 - **Si el vehículo se vende:** los USD 320 se pagan de la venta, con instrucción al notario o al comprador.
-- **Si el cliente se queda con el vehículo** (y compensa a la otra parte): **8 cuotas de USD 40** a partir del mes 13, o prolongar el Plan Activo a USD 50 por 7 meses más.
-- **Si se queda la otra parte** y le paga la compensación al cliente: los USD 320 se pagan de esa compensación.
+- **Si el cliente se queda con el vehículo:** 8 cuotas de USD 40 a partir del mes 13, o sumadas a la cuota del plan (USD 65 al mes durante 8 meses).
+- **Si se queda la otra parte** y le paga una compensación al cliente: los USD 320 se pagan de esa compensación.
 
-**Resultado para Jurix:** USD 600 del plan + USD 320 de la partición = **USD 920 por unas 37 horas** (12 de seguimiento + unas 15 del cumplimiento de visitas + 10 de la partición): unos **USD 25 por hora**. Es poco por hora, pero es ingreso seguro, sin riesgo grande de cobro y con un cliente que se queda.
+**Resultado para Jurix:** USD 300 del plan + USD 320 de la partición = **USD 620 por unas 20 horas** (12 de seguimiento, 3 de escritos y 5 de acompañamiento en la partición): unos **USD 30 por hora**, en línea con la tarifa del estudio.
 
-**Riesgo a vigilar:** el cumplimiento de visitas puede necesitar más de una petición si la otra parte sigue incumpliendo después de que el juez resuelva. **La segunda petición es un incidente adicional (USD 200 con descuento).** Explícaselo al cliente desde el inicio para que no sienta que le cobras de más.
+**Si el conflicto de visitas escala:** si la madre sigue incumpliendo y hace falta una **petición nueva al juez con audiencia** (por ejemplo, medidas para hacer cumplir el régimen o su modificación), eso es un incidente: **USD 200 con el descuento del plan**, o el cliente pasa al **Plan Activo** (USD 50) desde ese mes. Explícaselo desde el inicio.
 
 **A conversar con el cliente:**
 - Si sus ingresos bajaron de verdad y lo puede probar, un **pedido de rebaja de la pensión** puede aliviarlo. Sería un incidente adicional (USD 200), pero puede recuperarlo en pocos meses.
