@@ -66,6 +66,25 @@ Procede contra las **sentencias** cuando se ha **violado la ley** de alguna de e
 - Presentarlo fuera del término de 5 días.
 - Copiar el recurso de apelación.
 
+## 7.1. Lecciones de dos casaciones en lavado de activos
+
+Las dos sentencias están en el Drive del usuario y se analizan en `libro/capitulo-12-autonomia-lavado.md`, sección 12.3.4.
+
+- **Caso Espinel**, juicio 09333-2018-00282, CNJ, 29-jul-2021, ponente Felipe Córdova Ochoa.
+  - La defensa alegó la **errónea interpretación** del art. 317 porque la condena se basó en activos "injustificados" y no en activos de origen ilícito.
+  - La Corte aceptó que el origen ilícito es un elemento normativo del tipo, pero declaró el recurso improcedente. El reproche, que los hechos no encajan en el tipo, correspondía a la **indebida aplicación**.
+  - **Lección:** si se alega que los hechos fijados no configuran un elemento del tipo, la causal es la indebida aplicación. Si se alega que el tribunal entendió mal el alcance de la norma, es la errónea interpretación. Nunca deben mezclarse sobre la misma norma.
+  - También resolvió:
+    - las partes no recurrentes no pueden formular cargos;
+    - el lavado es de mera actividad y se rige por la ley vigente a la fecha de su consumación.
+- **Caso Salcedo**, juicio 07712-2020-00205, CNJ, 29-ene-2024, ponente Marco Rodríguez Ruiz.
+  - La Fiscalía recurrió en casación una **doble sentencia absolutoria**, lo que la CC admitió en la sentencia 768-15-EP/20. La Corte casó y condenó a 13 años.
+  - Criterio: no se exige "comprobar" el delito de origen ni identidad de procesados. Basta un hecho objetivamente típico y una relación de causalidad con los bienes.
+  - La Corte ordenó que los jueces de instancia informaran sobre sus actuaciones para determinar un posible **error inexcusable** (art. 109.7 del COFJ).
+  - **Lección para la defensa:**
+    - frente a una casación fiscal, alegar que se pretende revalorar la prueba (art. 656, inciso 2);
+    - en el fondo, exigir que se identifique el hecho típico de origen y el nexo causal.
+
 ## 8. Esquema de escrito de casación penal
 
 ```

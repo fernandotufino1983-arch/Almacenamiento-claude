@@ -63,7 +63,53 @@ Según las fuentes disponibles, el precedente sostiene que:
 - el **origen ilícito** de los bienes puede acreditarse mediante **prueba indiciaria**; y,
 - la Fiscalía **mantiene la obligación de investigar** ese origen.
 
-Este precedente es obligatorio para todos los jueces[^obligatorio]. Pero conviene leerlo con atención: **lo que dispensa es la sentencia previa, no la prueba del origen ilícito.** Ese matiz es el que la defensa debe hacer valer.
+Este precedente es obligatorio para todos los jueces[^obligatorio]. Pero conviene leerlo con atención: **lo que dispensa es la sentencia previa, no la prueba del origen ilícito.** Ese matiz es el que la defensa debe hacer valer. La propia nota con la que la compilación oficial del COIP resume el precedente habla de la **"acreditación del origen ilícito de los bienes"** mediante prueba indiciaria[^nota317]. Acreditar es probar, no solo investigar.
+
+### 12.3.4. La jurisprudencia de casación: los casos Espinel (2021) y Salcedo (2024)
+
+Dos sentencias de casación de la Sala Penal de la Corte Nacional permiten ver cómo se ha aplicado la autonomía en la práctica. Las analizo con detenimiento porque, como podrá apreciar el lector, una de ellas confirma la tesis central de este capítulo y la otra la pone a prueba.
+
+| | **Caso Espinel** | **Caso Salcedo** |
+|---|---|---|
+| Proceso | Juicio No. 09333-2018-00282 | Juicio No. 07712-2020-00205 |
+| Fecha | 29 de julio de 2021 | 29 de enero de 2024 |
+| Ponente | Felipe Córdova Ochoa | Marco Rodríguez Ruiz |
+| Recurrente | El procesado, condenado a diez años | La Fiscalía, frente a una doble sentencia absolutoria |
+| Cargo | Errónea interpretación del art. 317: se condenó por activos "injustificados", no por activos de origen ilícito | Errónea interpretación del art. 317: el tribunal de apelación exigió "comprobar" los delitos de origen |
+| Decisión | Recurso improcedente; se confirma la condena | Se casa la sentencia; condena de trece años a los autores y de seis años y seis meses a los cómplices; responsabilidad de cinco personas jurídicas |
+
+**a) Lo que dijo la Corte en el caso Espinel.** La defensa planteó exactamente la tesis de este capítulo: "injustificación del activo no es igual a origen ilícito". La Corte no la rechazó. Al contrario, afirmó que "la mera tenencia de activos no configura el delito en cuestión, se precisa que estos activos posean un origen ilícito", que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva", y que el lavado "solamente se consuma cuando los verbos rectores [...] recaen sobre un beneficio o rédito que provenga de la comisión de un acto típico, antijurídico y culpable"[^espinel1]. Citó además a Pariona Pastrana para sostener que el acto delictivo previo "es un elemento normativo del delito de lavado de activos" que debe probarse, al menos, mediante indicios.
+
+Es decir, en el plano de la interpretación, la Corte dio la razón a la defensa. Si el recurso se rechazó fue por otras dos razones:
+
+1. **Una razón técnica.** La Corte consideró que el reproche de la defensa, que los hechos no encajaban en el tipo porque no se probó el origen ilícito, correspondía a la causal de **indebida aplicación** y no a la de **errónea interpretación**, que supone que la norma se aplicó correctamente. Volveré sobre esta lección en la sección 12.7.4.
+2. **Una razón probatoria.** La Corte entendió que el tribunal de apelación sí había fijado como hecho probado que los activos provenían de los delitos de peculado y enriquecimiento ilícito, y que ese hecho era inmutable en casación.
+
+Aquí está, a mi juicio, el punto crítico de este fallo. ¿Cuáles fueron los indicios del origen ilícito que la Corte consideró suficientes? Lo dice expresamente: "la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^espinel2]. Y al definir el indicio, la Corte habló de elementos que permiten inferir "la probabilidad respecto al acaecimiento de un hecho principal".
+
+Con todo respeto, no puedo compartir ese razonamiento. Una instrucción fiscal en trámite no es un indicio de que el delito existió: es el reflejo de que la Fiscalía sospecha que existió, y el procesado conserva, respecto de ese delito, su estado de inocencia (art. 76.2 de la Constitución y art. 5.4 del COIP). Y un informe de la Contraloría no es prueba, conforme al art. 454.6 del COIP (capítulo 3). Construir el origen ilícito del lavado sobre la sola existencia de otros procesos pendientes es, en el fondo, sustituir la prueba por la acumulación de imputaciones. Además, la "probabilidad" no es el estándar de condena: el art. 5.3 del COIP exige el convencimiento más allá de toda duda razonable.
+
+**b) Lo que dijo la Corte en el caso Salcedo.** Este fallo va más lejos. El tribunal de apelación había absuelto porque la Fiscalía no logró probar "qué cantidad de dinero habría generado" el peculado y la delincuencia organizada que invocó como delitos de origen, ni cómo ese dinero se habría colocado o integrado en el periodo de 2018 a 2020. La Corte Nacional casó esa sentencia y sostuvo que[^salcedo1]:
+
+- el tribunal de apelación creó "una suerte de prejudicialidad no contemplada en la norma" al exigir la **comprobación** de los delitos de origen;
+- lo único que el art. 317 exige a la Fiscalía es **investigar** el origen ilícito;
+- no se requiere **identidad** entre los procesados por el lavado y los procesados por el delito de origen;
+- tampoco se requiere un pronunciamiento previo del SRI, la UAFE o la Superintendencia de Compañías para calificar a una empresa como "fachada";
+- las tipologías del GAFILAT y las recomendaciones del GAFI, como el transporte fronterizo de efectivo o el fraccionamiento de depósitos, son parámetros para interpretar el tipo.
+
+Para definir lo que debe probarse, la Corte acogió una guía interpretativa elaborada por organismos de cooperación internacional, según la cual no hay que probar el delito precedente "en estricto sentido", sino "la tipicidad objetiva del comportamiento del cual provienen los bienes" y "una relación de causalidad entre los bienes objeto de lavado de activos y un hecho que se ajusta objetivamente a la descripción típica del delito precedente"[^salcedo2].
+
+**c) Mi lectura de ambos fallos.** Si se leen juntos, los dos fallos dejan una regla que el defensor puede y debe usar, y una tendencia que debe resistir.
+
+La **regla** es la que formula el propio caso Salcedo: aun sin sentencia previa y sin identidad de procesados, la Fiscalía debe acreditar **un hecho que se ajuste objetivamente a un tipo penal** y **una relación de causalidad** entre ese hecho y los bienes. Eso coincide con el **nivel 3** que propongo en la sección 12.4.3. Ni Espinel ni Salcedo autorizan a condenar por un patrimonio simplemente no justificado.
+
+La **tendencia** es la de reducir esa exigencia a una mera obligación de "investigar". Discrepo de ella por tres razones:
+
+1. **El texto.** El art. 317 dice que la autonomía "no exime a la Fiscalía de su obligación de investigar el origen ilícito". Esa frase describe un deber de la Fiscalía en la investigación; no reduce el estándar de prueba de un elemento del tipo en el juicio. Un elemento del tipo se prueba, o la conducta es atípica.
+2. **La coherencia con la propia Corte.** El caso Espinel afirmó que el origen ilícito debe "acreditarse", y la nota oficial de la Resolución 20-2024 habla de "acreditación". Una obligación que se satisface con investigar, aunque la investigación no encuentre nada, no es una obligación de probar.
+3. **El límite de la casación.** En el caso Salcedo, para condenar, la Corte afirmó que el lavado se produjo "a través del producto de coimas pagadas mediante la simulación de prestación de servicios", cuando el tribunal de apelación había concluido lo contrario después de valorar la prueba. El art. 656 del COIP prohíbe en casación "la revisión de los hechos" y la "nueva valoración de la prueba". Es legítimo preguntarse si, bajo la forma de una errónea interpretación, no se terminó revalorando la prueba.
+
+En este orden de ideas, mi recomendación práctica es la siguiente. El defensor no debe plantear el debate como "la Fiscalía debe probar el delito de origen", porque la Corte ya respondió que no, y con razón si con ello se entiende una condena previa. Debe plantearlo en los términos que la propia Corte aceptó: **¿cuál es el hecho objetivamente típico del que provienen estos bienes, y cuál es la prueba de la relación de causalidad?** Si la Fiscalía no puede responder esas dos preguntas con hechos probados, y no con procesos pendientes ni con informes administrativos, el elemento normativo no está acreditado.
 
 ## 12.4. Autonomía procesal frente a autonomía probatoria
 
@@ -182,10 +228,12 @@ En los tres sistemas, la autonomía se entiende como **procesal**. Ninguno permi
 ### 12.7.4. En los recursos
 - Si la sentencia condena con base en indicios **sin motivación reforzada**, existe un vicio de motivación que sirve para la apelación, la casación y la acción extraordinaria de protección[^recursos].
 - Si la sentencia condena con base en un patrimonio no justificado, existe una **indebida aplicación del art. 317**, que es causal de casación.
+- **Escoja bien la causal.** El caso Espinel es una advertencia: la defensa tenía la razón en la interpretación del tipo, pero planteó el cargo como **errónea interpretación**, y la Corte lo rechazó porque el reproche, que los hechos probados no encajan en el tipo por falta de origen ilícito, correspondía a la **indebida aplicación**. Si sostiene que los hechos fijados en la sentencia no configuran el elemento normativo, la causal es la indebida aplicación. Si sostiene que el tribunal entendió mal qué exige ese elemento, la causal es la errónea interpretación. No mezcle ambas sobre la misma norma.
+- **No pida a la Corte que revalore los indicios.** En casación, los hechos fijados son inmutables. Lo que sí puede plantear es que los hechos que la sentencia dio por probados, como la existencia de otros procesos pendientes o un informe de la Contraloría, no son, en derecho, aptos para acreditar el origen ilícito, por los arts. 5.4, 454.6 y 455 del COIP.
 
 ### 12.7.5. Modelo de argumento
 
-> "La Fiscalía invoca la autonomía del delito de lavado de activos, reconocida en el art. 317 del COIP y en la Resolución 20-2024 de la Corte Nacional de Justicia. Esta defensa no discute que el lavado pueda juzgarse sin una sentencia previa por el delito de origen. Lo que discute es que se haya probado su elemento normativo esencial: el origen ilícito de los activos. El mismo art. 317 dispone que la autonomía no exime a la Fiscalía de su obligación de investigar ese origen, y la Resolución 20-2024 exige que se acredite, aunque sea mediante prueba indiciaria. En este caso, los elementos presentados, esto es, un incremento patrimonial, depósitos en efectivo y la falta de declaraciones tributarias, acreditan, a lo sumo, un patrimonio cuyo origen no se ha explicado. No acreditan ninguna actividad delictiva de la que ese patrimonio provenga. Un patrimonio no justificado no es un patrimonio ilícito: si lo fuera, los arts. 279 y 297 del COIP serían innecesarios. Al faltar un elemento del tipo, la conducta es atípica, y corresponde [la absolución / el sobreseimiento / el archivo]."
+> "La Fiscalía invoca la autonomía del delito de lavado de activos, reconocida en el art. 317 del COIP y en la Resolución 20-2024 de la Corte Nacional de Justicia. Esta defensa no discute que el lavado pueda juzgarse sin una sentencia previa por el delito de origen. Lo que discute es que se haya probado su elemento normativo esencial: el origen ilícito de los activos. El mismo art. 317 dispone que la autonomía no exime a la Fiscalía de su obligación de investigar ese origen, y la Resolución 20-2024 exige que se acredite, aunque sea mediante prueba indiciaria. En este caso, los elementos presentados, esto es, un incremento patrimonial, depósitos en efectivo y la falta de declaraciones tributarias, acreditan, a lo sumo, un patrimonio cuyo origen no se ha explicado. No acreditan ninguna actividad delictiva de la que ese patrimonio provenga. Ni siquiera con el estándar que la Corte Nacional fijó en el caso Salcedo, que no exige probar el delito de origen en sentido estricto, la Fiscalía ha identificado un hecho que se ajuste objetivamente a un tipo penal ni una relación de causalidad entre ese hecho y los bienes. Un patrimonio no justificado no es un patrimonio ilícito: si lo fuera, los arts. 279 y 297 del COIP serían innecesarios. Al faltar un elemento del tipo, la conducta es atípica, y corresponde [la absolución / el sobreseimiento / el archivo]."
 
 ## 12.8. Caso práctico resuelto
 
@@ -201,7 +249,7 @@ Carlos, comerciante de electrodomésticos en Guayaquil, deposita en dos años **
 ### Conclusión
 Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad delictiva, **el lavado no se configura**. El patrimonio no justificado podría derivar en una responsabilidad tributaria o, eventualmente, en el enriquecimiento privado no justificado del art. 297, pero no en lavado de activos. La estrategia de defensa combinaría el peritaje contable, la explicación del fraccionamiento y el argumento de los cuatro niveles.
 
-[Nota del autor: comparar con algún caso real público y resuelto, o con la experiencia propia anonimizada.]
+**Comparación con la jurisprudencia.** El caso de Carlos se distingue con claridad de los dos casos de casación analizados en la sección 12.3.4. En el caso Espinel, la sentencia vinculó los activos con contratos públicos firmados por el procesado y con dos procesos por peculado y enriquecimiento ilícito; en el caso Salcedo, con pagos de empresas proveedoras del IESS y con el transporte de efectivo por un paso fronterizo. En ambos había, al menos, un hecho objetivamente típico al que se atribuían los bienes. En el caso de Carlos no hay ninguno: solo un parentesco. Por eso, aun aplicando el criterio más exigente para la defensa, el de Salcedo, la conclusión se mantiene.
 
 ## 12.9. Lista de revisión
 
@@ -214,6 +262,9 @@ Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad del
 - [ ] ¿La información bancaria se obtuvo con autorización judicial?
 - [ ] ¿Cuál es la cuantía imputada, y cuánto de ella tiene un origen documentado?
 - [ ] ¿La resolución motiva de forma reforzada cada inferencia?
+- [ ] ¿La Fiscalía identificó un hecho objetivamente típico y una relación de causalidad con los bienes (criterio del caso Salcedo)?
+- [ ] ¿Los "indicios" del origen ilícito son, en realidad, procesos pendientes o informes administrativos?
+- [ ] En casación, ¿escogí la causal correcta (indebida aplicación o errónea interpretación)?
 
 ## 12.10. Preguntas para la reflexión
 
@@ -223,6 +274,8 @@ Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad del
 4. ¿Qué argumento ofrece la existencia de los arts. 279 y 297 del COIP para interpretar el art. 317?
 5. Si la acción por el delito de origen prescribió, ¿puede condenarse por lavado? ¿Qué hay que probar?
 6. ¿Qué causal de casación invocaría frente a una condena por lavado basada solo en un patrimonio no justificado?
+7. ¿Es lo mismo "investigar" el origen ilícito que "acreditarlo"? ¿Qué consecuencias tiene la respuesta a la luz de los casos Espinel y Salcedo?
+8. ¿Puede la existencia de una instrucción fiscal en trámite ser un indicio del origen ilícito sin vulnerar la presunción de inocencia?
 
 ## Referencias
 
@@ -232,7 +285,11 @@ Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacion
 
 Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terrorismo*. Grijley.
 
-**Normativa**
+**Normativa y jurisprudencia**
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (ponente: F. Córdova Ochoa).
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; verificar la versión vigente].
 
@@ -289,3 +346,13 @@ Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenari
 [^colombia]: Corte Suprema de Justicia de Colombia, Sala de Casación Penal. **[citar los radicados]**
 
 [^recursos]: Sobre la casación penal y sus causales, véase el art. 656 del COIP; sobre la acción extraordinaria de protección, el art. 94 de la Constitución.
+
+[^nota317]: Nota de la compilación del COIP (versión con última actualización de 7 de octubre de 2026) al art. 317: "la acreditación del origen ilícito de los bienes puede realizarse mediante prueba indiciaria, sin que se exija una sentencia condenatoria previa respecto de los delitos precedentes".
+
+[^espinel1]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5. La Corte cita a Pariona Pastrana, J. (2007). *El delito precedente en el delito de lavado de activos*. Instituto Pacífico, p. 144.
+
+[^espinel2]: Ibídem, considerando 7.4.1.5. Comentario del autor: en sus intervenciones, la UAFE citó además el llamado caso "FIFA gate" (juicio No. 17282-2015-05549), del que transcribió la frase: "No se necesita la comisión de otros delitos, sino que basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". La Corte no hizo suyo ese criterio. **[verificar el texto de esa sentencia]**
+
+[^salcedo1]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, párrafos 30 a 37. La Corte se apoyó en la sentencia de la Corte Constitucional No. 768-15-EP/20 para admitir la casación de la Fiscalía frente a una doble sentencia absolutoria, y dispuso que los jueces de instancia informaran sobre sus actuaciones para determinar un posible error inexcusable (art. 109.7 del Código Orgánico de la Función Judicial).
+
+[^salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). **[verificar los datos de publicación de la guía]**

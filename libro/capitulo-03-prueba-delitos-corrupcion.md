@@ -61,6 +61,8 @@ Para la defensa, esto abre un campo de trabajo que muchas veces se desaprovecha.
 | **Diferencia de estándares** | ¿El examen buscaba responsabilidad administrativa, civil o penal? ¿Qué entiende por "indicio de responsabilidad penal"? |
 | **Conocimiento del procesado** | ¿Puede afirmar que el procesado sabía de la irregularidad, o solo que firmó? |
 
+La práctica muestra por qué este control es indispensable. En el caso Espinel, la Corte Nacional aceptó que los informes de la Contraloría con indicios de responsabilidad penal sirvieran, junto con dos instrucciones fiscales en trámite, como indicios del origen ilícito de los activos en un proceso por lavado (capítulo 12, sección 12.3.4). Si el informe ni siquiera fue sustentado por el auditor en el juicio, ese razonamiento contradice el art. 454.6.
+
 La última pregunta es la más importante. El auditor puede establecer que hubo un pago sin respaldo o una obra no ejecutada. Pero casi nunca puede establecer el **dolo** del procesado, porque su examen no está diseñado para eso. Y sin dolo no hay peculado (capítulo 4).
 
 ### 3.3.3. La relación con la responsabilidad administrativa

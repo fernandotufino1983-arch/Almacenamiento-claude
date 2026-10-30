@@ -1,6 +1,6 @@
 # Capítulo 14. La prueba indiciaria del origen ilícito
 
-> **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. Las citas marcadas con **[verificar]** deben contrastarse con su fuente original antes de publicar. Formato: APA, 7.ª edición.
+> **Borrador de trabajo, versión 1.1.** Redactado con el perfil de escritura del autor. Incorpora las sentencias de casación de los casos Espinel (2021) y Salcedo (2024). Las citas marcadas con **[verificar]** deben contrastarse con su fuente original antes de publicar. Formato: APA, 7.ª edición.
 
 ## 14.1. Planteamiento
 
@@ -153,6 +153,22 @@ Una inferencia es válida solo si su conclusión es **la única razonable**. La 
 | **Generalización apresurada** | Se extrae una regla general de casos aislados | "Los comerciantes que manejan efectivo lavan dinero" |
 | **Culpa por asociación** | Se atribuye responsabilidad por la relación con otra persona | "Es socio de un investigado, por tanto lava activos" |
 | **Inversión de la carga de la prueba** | Se exige al procesado probar su inocencia | "No demostró de dónde salió el dinero" |
+| **Acumulación de imputaciones** | Se toma la existencia de otros procesos como prueba de los hechos que esos procesos investigan | "Tiene dos instrucciones fiscales abiertas por peculado, luego el dinero es ilícito" |
+| **Tipología como prueba** | Se toma la coincidencia con una tipología del GAFILAT como prueba del origen ilícito | "Transportó efectivo por la frontera, y eso es una tipología de lavado" |
+
+### 14.6.6. Lo que la Corte Nacional ha aceptado como indicio
+
+Dos sentencias de casación de la Sala Penal muestran qué ha aceptado la Corte Nacional como indicio del origen ilícito, y por qué la defensa debe discutirlo (capítulo 12, sección 12.3.4).
+
+En el **caso Espinel** (juicio No. 09333-2018-00282, 2021), la Corte consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^espinel-indicios].
+
+En el **caso Salcedo** (juicio No. 07712-2020-00205, 2024), la Corte reprochó al tribunal de apelación no haber considerado como señales del lavado el transporte de efectivo por un paso fronterizo, el fraccionamiento de transferencias, el uso de empresas sin actividad aparente y de documentos falsos, apoyándose en las tipologías del GAFILAT y en las recomendaciones del GAFI[^salcedo-indicios].
+
+Si bien es cierto que esos elementos pueden ser relevantes, es importante diferenciar su función. Propongo tres reglas para su control:
+
+1. **Un proceso pendiente no es un hecho base.** El hecho base de un indicio debe estar probado. Una instrucción fiscal prueba que existe una imputación, no que existió el delito imputado; respecto de él, el procesado conserva su estado de inocencia (art. 5.4 del COIP). Usarla como indicio es una petición de principio.
+2. **Un informe administrativo no es prueba por sí mismo.** El art. 454.6 del COIP impide admitir como prueba los informes que no se sustentan en el testimonio de quien los elaboró. Si el auditor no declaró en el juicio, el informe no puede ser el hecho base de un indicio.
+3. **Una tipología es una guía de detección, no una regla de experiencia.** Las tipologías del GAFILAT describen cómo suele verse el lavado, y sirven para orientar una investigación. Pero muchas de esas conductas, como manejar efectivo, depositar en montos pequeños o tener empresas con poca actividad, también describen negocios lícitos o informales. Para que una tipología se convierta en indicio, la Fiscalía debe probar el hecho concreto y explicar por qué, en ese caso, no hay una explicación lícita razonable.
 
 ## 14.7. El control de la inferencia en los recursos
 
@@ -243,3 +259,7 @@ Tribunal Europeo de Derechos Humanos. (1996). *John Murray c. Reino Unido*, Dema
 [^murray]: Tribunal Europeo de Derechos Humanos, *John Murray c. Reino Unido* (1996). El tribunal admitió que, en circunstancias que exigen claramente una explicación, el silencio del acusado pueda tomarse en cuenta, pero nunca como fundamento exclusivo ni principal de la condena. **[verificar]**
 
 [^casacion]: Sobre la casación penal y la prohibición de revalorar la prueba, véase el art. 656 del COIP. Comentario del autor: el reto es plantear la impugnación como un error en la aplicación del art. 455 o de las reglas de la sana crítica, y no como una nueva lectura de los hechos.
+
+[^espinel-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5.
+
+[^salcedo-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, párrafos 35 a 37.

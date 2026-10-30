@@ -1,6 +1,6 @@
 # Capítulo 16. La responsabilidad penal de la persona jurídica
 
-> **Borrador de trabajo, versión 2.** Redactado con el perfil de escritura del autor. Los arts. 45.7, 49 y 50 del COIP se contrastaron con la versión con última actualización de 7 de octubre de 2026. Formato: APA, 7.ª edición.
+> **Borrador de trabajo, versión 2.1.** Redactado con el perfil de escritura del autor. Los arts. 45.7, 49 y 50 del COIP se contrastaron con la versión con última actualización de 7 de octubre de 2026. Formato: APA, 7.ª edición.
 
 ## 16.1. Planteamiento
 
@@ -38,6 +38,12 @@ De esta norma se desprenden los presupuestos de la responsabilidad:
 ### 16.3.2. La independencia de la responsabilidad
 
 El mismo art. 49 establece que la responsabilidad de la persona jurídica es **independiente** de la responsabilidad de las personas naturales que intervengan en el delito. El art. 50 lo refuerza: esa responsabilidad no se extingue aunque la persona natural haya fallecido, haya eludido la acción de la justicia, haya sido sobreseída o se haya extinguido su responsabilidad. Tampoco se extingue por la **fusión, transformación, escisión, disolución o liquidación** de la empresa[^art50].
+
+#### Un caso de aplicación: la empresa extinguida antes de los hechos
+
+En el caso Salcedo (juicio No. 07712-2020-00205, 2024), la Corte Nacional declaró la responsabilidad penal de cinco personas jurídicas por lavado de activos y les impuso el comiso, la disolución y la liquidación. A una sexta empresa, que había sido extinguida en 2017, también la declaró responsable invocando el inciso segundo del art. 50, aunque no le impuso pena "toda vez que, se encuentra disuelta desde el año 2017"[^salcedo-pj].
+
+Con todo respeto, considero que esa declaración no se sostiene. Los hechos se fijaron entre 2018 y 2020. El art. 50 impide que la empresa **escape** de una responsabilidad ya generada mediante su fusión, transformación o disolución; es decir, presupone que el delito se cometió **mientras la empresa existía**. Una persona jurídica extinguida antes de los hechos no pudo actuar a través de sus administradores, ni beneficiarse del delito, que son los presupuestos del art. 49. Declarar su responsabilidad es atribuir un delito a quien no existía cuando se cometió.
 
 ### 16.3.3. La exclusión: el beneficio de un tercero
 
@@ -189,3 +195,5 @@ España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* 
 [^peru]: Ley No. 30424 de 2016, art. 17 (eximente por implementación de un modelo de prevención). **[verificar]** Comentario del autor: aunque la ley peruana la denomina "responsabilidad administrativa", se trata de una responsabilidad que se determina en el proceso penal.
 
 [^supuestos]: Comentario del autor: la interpretación estricta exige que el tipo penal prevea una sanción para la persona jurídica. Conviene revisar, delito por delito, si el COIP establece una pena específica para la persona jurídica, por ejemplo en el lavado de activos (art. 317). **[verificar]**
+
+[^salcedo-pj]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, parte resolutiva, nums. 4 y 5. La defensa había alertado desde la etapa intermedia que esa empresa estaba extinguida.

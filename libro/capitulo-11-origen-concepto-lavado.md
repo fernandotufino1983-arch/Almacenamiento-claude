@@ -1,6 +1,6 @@
 # Capítulo 11. El lavado de activos: origen, concepto y marco normativo
 
-> **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. Las citas marcadas con **[verificar]** deben contrastarse con la fuente original antes de publicar. Formato de citas y referencias: APA, 7.ª edición.
+> **Borrador de trabajo, versión 1.1.** Redactado con el perfil de escritura del autor. Incorpora las sentencias de casación de los casos Espinel (2021) y Salcedo (2024). Las citas marcadas con **[verificar]** deben contrastarse con la fuente original antes de publicar. Formato de citas y referencias: APA, 7.ª edición.
 
 ## 11.1. Planteamiento
 
@@ -123,7 +123,23 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
 | Preventivo | Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos (2016) y su reglamento |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
-| Jurisprudencia | Resolución CNJ 20-2024 |
+| Jurisprudencia | Resolución CNJ 20-2024; sentencias de casación de la Corte Nacional en los juicios No. 09333-2018-00282 (caso Espinel, 2021) y No. 07712-2020-00205 (caso Salcedo, 2024), analizadas en el capítulo 12 |
+
+### 11.9.1. Las reformas del art. 317 y la ley aplicable
+
+El art. 317 ha cambiado tres veces desde 2014, y esos cambios tienen consecuencias directas en la pena[^reformas317]:
+
+| Texto | Penas privativas de libertad | Multa |
+|---|---|---|
+| **Original (2014)** | De 1 a 3 años, si el monto es inferior a 100 SBU, hasta 10 a 13 años, si supera los 200 SBU o hay asociación a través de sociedades o uso de cargos públicos | El **duplo** del monto de los activos |
+| **Reforma de 2021** (R.O. Supl. 525, 27 de agosto de 2021) | Modificó el artículo | El **triple** del monto |
+| **Reforma de 2024** (R.O. Supl. 599, 12 de julio de 2024) | De 5 a 7 años, si el monto es inferior a 100 SBU, hasta **19 a 22 años**, si supera los 200 SBU o hay asociación a través de sociedades o uso de cargos públicos; se añadió el num. 7, sobre la sobrevaloración de mercancías | El **quíntuplo** del monto |
+
+¿Qué ley se aplica cuando el lavado se extiende durante varios años, y en ese tiempo cambia la norma? La Corte Nacional respondió en el caso Espinel: el lavado es un **delito de mera actividad**, que se consuma con la ejecución de los verbos rectores, y debe juzgarse con la ley vigente a la fecha de su **consumación**. Como la sentencia fijó la consumación en 2016, se aplicó el COIP y no la ley de 2005, aunque las operaciones empezaron en 2010[^espinel-ley].
+
+El razonamiento tiene, sin embargo, una tensión interna que la defensa puede aprovechar. En el mismo fallo, la Corte afirmó que el lavado "solo en la última fase", la integración, se consuma. Si el lavado es de mera actividad, cada acto que encaja en un verbo rector lo consuma; si solo se consuma en la integración, las operaciones anteriores no son todavía lavado. En casos con operaciones que empiezan con una ley y terminan con otra, la defensa debe exigir que la sentencia precise **qué acto consumó el delito y en qué fecha**, y discutir la aplicación de la ley más favorable a los actos anteriores a la reforma.
+
+Por su parte, en el caso Salcedo la Corte aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^salcedo-multa].
 
 ## 11.10. Conclusión
 
@@ -133,7 +149,7 @@ En todo ese camino hay una constante que el abogado defensor no puede perder de 
 
 Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 
-[Nota del autor: espacio para una reflexión o experiencia propia sobre cómo se aplica hoy el art. 317 en los tribunales del país.]
+Las dos sentencias de casación que analizo en el capítulo 12, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ## Preguntas para la reflexión
 
@@ -206,3 +222,9 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 [^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Véase el capítulo 12 de esta obra. **[verificar el texto literal]**
 
 [^lesividad]: COIP, art. 3: "La intervención penal está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas. Constituye el último recurso, cuando no son suficientes los mecanismos extrapenales."
+
+[^reformas317]: Texto original según la transcripción del art. 317 en la sentencia de casación del caso Salcedo (juicio No. 07712-2020-00205, párrafo 23 y su nota 3); texto vigente según la compilación del COIP con última actualización de 7 de octubre de 2026. **[verificar las penas exactas del texto de 2021]**
+
+[^espinel-ley]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.5. Algunos procesados no recurrentes pidieron aplicar el art. 15 de la ley de lavado de 2005; la Corte no lo aceptó, entre otras razones porque solo el recurrente podía formular cargos.
+
+[^salcedo-multa]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, nota 3 y parte resolutiva, num. 6.
