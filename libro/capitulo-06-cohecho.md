@@ -255,7 +255,7 @@ Tribunal Europeo de Derechos Humanos. (1998). *Teixeira de Castro c. Portugal* (
 
 [^historia]: Así lo registran las notas de la compilación del COIP al art. 280 (versión con última actualización de 7 de octubre de 2026).
 
-[^favorabilidad]: Comentario del autor: según la redacción original del COIP de 2014, las penas eran de uno a tres, tres a cinco y cinco a siete años. **[verificar con el texto de 2014]**
+[^favorabilidad]: Según el texto anterior a la reforma (compilación del COIP con reforma de 21 de julio de 2016), las penas eran de uno a tres años en el tipo básico, de tres a cinco si el servidor ejecutaba el acto o no realizaba el acto debido, y de cinco a siete si la conducta era para cometer otro delito. El objeto era el "beneficio económico indebido o de otra clase".
 
 [^bien]: Comentario del autor: la doctrina española y peruana coincide en ubicar el bien jurídico del cohecho en la imparcialidad y el correcto funcionamiento de la administración, y no en el patrimonio.
 
