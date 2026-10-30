@@ -308,6 +308,6 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
 [^bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01). **[verificar la cita y los términos exactos]**
 
-[^chiriboga-dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017). **[verificar número de proceso y fecha]**
+[^chiriboga-dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017.
 
 [^chiriboga-contador]: Ibídem.

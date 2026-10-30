@@ -231,4 +231,4 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 
 [^salcedo-multa]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, nota 3 y parte resolutiva, num. 6.
 
-[^chiriboga-ley]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017), considerando 5.5.2. **[verificar número de proceso y fecha]** La defensa alegó que la ley de 2005 sancionaba el mismo hecho con seis a nueve años.
+[^chiriboga-ley]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017, considerando 5.5.2. La defensa alegó que la ley de 2005 sancionaba el mismo hecho con seis a nueve años.

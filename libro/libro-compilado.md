@@ -2819,7 +2819,7 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 
 [^c11_salcedo_multa]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, nota 3 y parte resolutiva, num. 6.
 
-[^c11_chiriboga_ley]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017), considerando 5.5.2. **[verificar número de proceso y fecha]** La defensa alegó que la ley de 2005 sancionaba el mismo hecho con seis a nueve años.
+[^c11_chiriboga_ley]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017, considerando 5.5.2. La defensa alegó que la ley de 2005 sancionaba el mismo hecho con seis a nueve años.
 
 <<PAGEBREAK>>
 
@@ -2929,7 +2929,9 @@ La primera es que el tribunal sí identificó una actividad delictiva de origen:
 
 La segunda es más preocupante. Respecto de los ingresos por los contratos de derechos de televisión, el tribunal sostuvo que, "al no haber sido facturados o no emitir un comprobante de venta, se cometen otros ilícitos que le contamina al dinero y lo convierte en ilícito". Con todo respeto, esa afirmación invierte la lógica del lavado. El origen del dinero era un contrato, que la propia sentencia reconoce vigente; la falta de facturación posterior podrá constituir, si se cumplen sus elementos, una infracción tributaria, pero no convierte en "producto del delito" un dinero que se obtuvo lícitamente. Un ingreso lícito no declarado no es un activo de origen ilícito; a lo sumo, la cuota tributaria defraudada podría serlo, y solo si se prueba la defraudación.
 
-La tercera tiene que ver con la frase que la UAFE atribuyó a este caso en la audiencia de casación del caso Espinel: "basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". **Esa frase no aparece en la sentencia de apelación**, que revisé completa. Por el contrario, el tribunal afirmó que la carga de la prueba "estaba a cargo del ente acusador" y que el nexo causal tiene como prerrequisito "la certeza de la existencia del delito". Si la frase existe, debe estar en otra decisión del mismo proceso, como la sentencia de casación, y debe verificarse antes de citarla[^c12_chiriboga2].
+La tercera tiene que ver con la frase que la UAFE atribuyó a este caso en la audiencia de casación del caso Espinel: "basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". **Esa frase no aparece en la sentencia de apelación**, que revisé completa. Por el contrario, el tribunal afirmó que la carga de la prueba "estaba a cargo del ente acusador" y que el nexo causal tiene como prerrequisito "la certeza de la existencia del delito". Tampoco aparece en la resolución de la Corte Nacional que, en 2023, inadmitió el recurso de revisión del tesorero. Si la frase existe, debe estar en el auto que inadmitió la casación, y debe verificarse antes de citarla[^c12_chiriboga2].
+
+La historia posterior del caso deja, además, una lección procesal. El tesorero sostuvo desde la apelación que las cinco transferencias de la CONMEBOL que la sentencia consideró "falsas donaciones", por no constar en el listado enviado desde Paraguay, sí existían, y en revisión presentó las copias certificadas de esas transferencias con sus códigos SWIFT. La Corte Nacional no llegó a examinarlas: inadmitió el recurso porque el escrito no identificó qué documento, testigo o pericia era falso o errado, como exige el art. 658.3 del COIP, ni confrontó el razonamiento de la sentencia con una versión alternativa de los hechos[^c12_chiriboga3]. Una prueba nueva, por relevante que sea, no abre la revisión si no se encaja con precisión en una de sus causales.
 
 **c) Mi lectura de los fallos.** Si se leen juntos, los dos fallos de casación dejan una regla que el defensor puede y debe usar, y una tendencia que debe resistir.
 
@@ -3121,6 +3123,10 @@ Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terroris
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (ponente: F. Córdova Ochoa).
 
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2023, 15 de marzo). *Resolución de revisión, juicio No. 17282-2015-05549* (ponente: F. Córdova Ochoa).
+
+Corte Provincial de Justicia de Pichincha, Sala de lo Penal. (2017, 13 de septiembre). *Sentencia de apelación, juicio No. 17282-2015-05549*.
+
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; verificar la versión vigente].
@@ -3189,9 +3195,11 @@ Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenari
 
 [^c12_salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). **[verificar los datos de publicación de la guía]**
 
-[^c12_chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso seguido contra Luis Gustavo Chiriboga Acosta, Hugo Mora Azanza y Pedro Vera Valverde, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. **[verificar el número de proceso, la fecha y los jueces: la copia revisada no los incluye]**
+[^c12_chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 13 de septiembre de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente. **[verificar los nombres de los jueces de apelación]**
 
-[^c12_chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: el número corresponde a la causa de primera instancia, y el ponente era juez de la Corte Nacional, lo que sugiere que la frase proviene de la sentencia de casación. **[pendiente: obtener esa sentencia]**
+[^c12_chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: no aparece ni en la sentencia de apelación ni en la resolución de revisión de 2023. **[pendiente: obtener el auto de inadmisión de la casación]**
+
+[^c12_chiriboga3]: Corte Nacional de Justicia, Sala Penal, juicio No. 17282-2015-05549, resolución de 15 de marzo de 2023 (ponente: F. Córdova Ochoa), que inadmitió el recurso de revisión interpuesto por Hugo Edison Mora Azanza por falta de fundamentación (arts. 658.3 y 659 del COIP).
 
 <<PAGEBREAK>>
 
@@ -3504,7 +3512,7 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
 [^c13_bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01). **[verificar la cita y los términos exactos]**
 
-[^c13_chiriboga_dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017). **[verificar número de proceso y fecha]**
+[^c13_chiriboga_dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017.
 
 [^c13_chiriboga_contador]: Ibídem.
 

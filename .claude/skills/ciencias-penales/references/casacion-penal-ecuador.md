@@ -85,6 +85,14 @@ Las dos sentencias están en el Drive del usuario y se analizan en `libro/capitu
     - frente a una casación fiscal, alegar que se pretende revalorar la prueba (art. 656, inciso 2);
     - en el fondo, exigir que se identifique el hecho típico de origen y el nexo causal.
 
+- **Caso Chiriboga (FIFA Gate)**, juicio 17282-2015-05549.
+  - El proceso tuvo cuatro decisiones: condena en primera instancia el 20-feb-2017, apelación confirmada el 13-sep-2017, casación inadmitida y revisión del tesorero inadmitida el 15-mar-2023 (ponente Felipe Córdova Ochoa).
+  - **Lección para la revisión (art. 658.3):** la causal tiene cuatro supuestos (documentos falsos, testigos falsos, pericias maliciosas o pericias erradas). El escrito debe:
+    - decir cuál de esos supuestos se configura, y qué documento o pericia es;
+    - señalar el fragmento de la sentencia que contiene el error de hecho;
+    - confrontarlo con la versión alternativa que demuestra la prueba nueva.
+  - Si no hace eso, la prueba nueva no se examina, aunque sea relevante: en este caso, las transferencias SWIFT que el tesorero presentó.
+
 ## 8. Esquema de escrito de casación penal
 
 ```
