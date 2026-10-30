@@ -315,7 +315,7 @@ Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código O
 
 Corte Nacional de Justicia. (2015). *Resolución No. 8*. Registro Oficial 539 de 9 de julio de 2015.
 
-[^art233]: Constitución de la República del Ecuador, art. 233, inciso segundo. El art. 16.4 del COIP reitera la imprescriptibilidad de estos delitos. **[verificar el texto de la Constitución]**
+[^art233]: Constitución de la República del Ecuador, art. 233, inciso segundo. El art. 16.4 del COIP reitera la imprescriptibilidad de estos delitos.
 
 [^cp257]: Código Penal de 1938 (codificación de 1971), art. 257 y sus reformas. **[verificar las reformas que introdujeron el peculado bancario]**
 
@@ -325,7 +325,7 @@ Corte Nacional de Justicia. (2015). *Resolución No. 8*. Registro Oficial 539 de
 
 [^tipo-basico]: COIP, art. 278, inciso primero, sustituido por el art. 9 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^art229]: Constitución, art. 229: "Serán servidoras o servidores públicos todas las personas que en cualquier forma o a cualquier título trabajen, presten servicios o ejerzan un cargo, función o dignidad dentro del sector público." **[verificar]**
+[^art229]: Constitución, art. 229: "Serán servidoras o servidores públicos todas las personas que en cualquier forma o a cualquier titulo trabajen, presten servicios o ejerzan un cargo, función o dignidad dentro del sector público." Ver el capítulo 2.
 
 [^disponibilidad]: Comentario del autor: la doctrina distingue entre la disponibilidad material (la tenencia física del bien) y la disponibilidad jurídica (la facultad de decidir sobre él por razón del cargo). Ambas satisfacen el tipo.
 
@@ -361,6 +361,6 @@ Corte Nacional de Justicia. (2015). *Resolución No. 8*. Registro Oficial 539 de
 
 [^complice]: COIP, art. 43, inciso final.
 
-[^particular]: Constitución, art. 233, inciso segundo, parte final. **[verificar]**
+[^particular]: Constitución, art. 233, inciso segundo, parte final: "Estas normas también se aplicarán a quienes participen en estos delitos, aun cuando no tengan las calidades antes señaladas." Ver el capítulo 2.
 
 [^favorabilidad]: Constitución, art. 76.3 y 76.5; COIP, art. 5.1 y 5.2. Comentario del autor: la regla del máximo de la pena es una norma más gravosa y no puede aplicarse retroactivamente.

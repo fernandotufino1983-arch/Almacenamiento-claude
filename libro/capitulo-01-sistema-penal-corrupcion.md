@@ -1,6 +1,6 @@
 # Capítulo 1. El sistema penal frente a la corrupción
 
-> **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. Los textos del COIP se tomaron de la versión con última actualización de 7 de octubre de 2026 (`biblioteca/ecuador/COIP.md`). No se dispuso del texto oficial de la Constitución: sus citas están marcadas **[verificar]**. Formato: APA, 7.ª edición.
+> **Borrador de trabajo, versión 1.1.** Redactado con el perfil de escritura del autor. Los textos del COIP se tomaron de la versión con última actualización de 7 de octubre de 2026 (`biblioteca/ecuador/COIP.md`), y los de la Constitución, del texto original de 2008 (`biblioteca/ecuador/Constitucion-2008.md`). Las enmiendas constitucionales posteriores, en particular la de 2018 al art. 233, siguen marcadas **[verificar]**. Formato: APA, 7.ª edición.
 
 ## 1.1. Planteamiento
 
@@ -188,7 +188,7 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^legalidad]: Constitución, art. 76.3; COIP, arts. 5.1 y 13.2.
 
-[^art233]: Constitución, art. 233, según su texto reformado por el referéndum y consulta popular de 4 de febrero de 2018. El cuadro resume la norma; **[verificar el texto literal antes de citarlo]**.
+[^art233]: Constitución, art. 233. Las cinco primeras filas del cuadro corresponden al texto original de 2008, contrastado con la fuente. La sexta, sobre las inhabilidades, proviene de la enmienda aprobada en el referéndum y consulta popular de 4 de febrero de 2018. **[verificar el texto literal de la enmienda]**
 
 [^art164]: COIP, art. 16.4, modificado por efecto de la reforma constitucional aprobada en el referéndum y consulta popular de 4 de febrero de 2018 (R.O. Supl. 180, 14 de febrero de 2018).
 
@@ -196,7 +196,7 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^instituciones]: Constitución, arts. 195, 204 a 206 y 211. La UAFE se rige por la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (capítulo 11). **[verificar]**
 
-[^art838]: Constitución, art. 83.8. **[verificar]**
+[^art838]: Constitución, art. 83.8: "Administrar honradamente y con apego irrestricto a la ley el patrimonio público, y denunciar y combatir los actos de corrupción."
 
 [^convenciones]: Comentario del autor: conviene verificar las fechas de ratificación y de publicación en el Registro Oficial de cada convención antes de citarlas. **[verificar]**
 

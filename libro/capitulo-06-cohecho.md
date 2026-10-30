@@ -281,6 +281,6 @@ Tribunal Europeo de Derechos Humanos. (1998). *Teixeira de Castro c. Portugal* (
 
 [^teixeira]: TEDH, *Teixeira de Castro c. Portugal*, 9 de junio de 1998. **[verificar los párrafos pertinentes]**
 
-[^prueba-ilicita]: Constitución, art. 76.4: "Las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tendrán validez alguna y carecerán de eficacia probatoria." **[verificar]**
+[^prueba-ilicita]: Constitución, art. 76.4: "Las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tendrán validez alguna y carecerán de eficacia probatoria."
 
 [^imprescriptible]: COIP, art. 16.4, que incluye expresamente al cohecho entre las infracciones imprescriptibles; Constitución, art. 233, inciso segundo.

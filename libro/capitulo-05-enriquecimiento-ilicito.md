@@ -253,7 +253,7 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^tratados]: Convención Interamericana contra la Corrupción, art. IX; Convención de las Naciones Unidas contra la Corrupción, art. 20.
 
-[^art231]: Constitución de la República del Ecuador, art. 231, inciso segundo. **[verificar el texto literal]**
+[^art231]: Constitución de la República del Ecuador, art. 231, inciso segundo, contrastado con el texto original de 2008. El inciso tercero añade: "Cuando existan graves indicios de testaferrismo, la Contraloría podrá solicitar declaraciones similares a terceras personas vinculadas con quien ejerza o haya ejercido una función pública."
 
 [^art233]: Constitución, art. 233, inciso segundo.
 

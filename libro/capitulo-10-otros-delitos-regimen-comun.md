@@ -261,6 +261,6 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^cc536]: Según la nota de la compilación del COIP, la frase "en las infracciones sancionadas con pena privativa de libertad superior a cinco años, ni" fue declarada inconstitucional por la Resolución No. 8 de la Corte Constitucional (R.O. Supl. 222, 13 de octubre de 2021). **[verificar el número de la sentencia]**
 
-[^art771]: Constitución, art. 77.1. **[verificar el texto literal]**
+[^art771]: Constitución, art. 77.1: "La privación de la libertad se aplicará excepcionalmente cuando sea necesaria para garantizar la comparecencia en el proceso, o para asegurar el cumplimiento de la pena [...]. La jueza o juez siempre podrá ordenar medidas cautelares distintas a la prisión preventiva."
 
 [^suarez]: Corte IDH, *Caso Suárez Rosero vs. Ecuador*, sentencia de 12 de noviembre de 1997, párrs. 97 a 99, sobre el art. 114 bis del Código Penal entonces vigente. **[verificar los párrafos]**
