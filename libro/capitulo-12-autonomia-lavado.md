@@ -44,7 +44,9 @@ Como vimos en el capítulo 11, el recorrido normativo del país va desde la Ley 
 
 ### 12.3.2. El art. 317 del COIP
 
-El art. 317 tipifica seis conductas de lavado. Para este capítulo, lo relevante es la **cláusula de autonomía**, según la cual el lavado de activos se investiga, enjuicia y sentencia como **delito autónomo** de otros cometidos dentro o fuera del país, sin que ello **exima a la Fiscalía de la obligación de investigar el origen ilícito de los activos**[^art317].
+El art. 317, reformado en 2021 y en 2024, tipifica siete conductas de lavado. Para este capítulo, lo relevante es la **cláusula de autonomía**, que dice textualmente:
+
+> "Estos delitos son considerados como autónomos de otros cometidos dentro o fuera del país, sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas. Esto no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito."[^art317]
 
 Como podrá apreciar el lector, la norma contiene en una sola frase las dos caras del problema:
 1. **La autonomía:** el lavado no depende de otro proceso.
@@ -262,7 +264,7 @@ Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenari
 
 [^antecedentes]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, R.O. 523 de 17 de septiembre de 1990; Ley para Reprimir el Lavado de Activos, R.O. 127 de 18 de octubre de 2005. **[verificar]** Véase el capítulo 11, apartado 11.5.
 
-[^art317]: COIP, art. 317. **[verificar la redacción vigente de la cláusula de autonomía]** Comentario del autor: la segunda parte de la norma, la obligación de investigar el origen ilícito, es la que con más frecuencia se omite al citarla.
+[^art317]: COIP, art. 317, modificado por el art. 9 de la ley publicada en el R.O. Supl. 525 de 27 de agosto de 2021 y reformado por el art. 8 de la ley publicada en el R.O. Supl. 599 de 12 de julio de 2024. La compilación vigente remite, en nota a este artículo, a la Resolución de triple reiteración No. 20 de la Corte Nacional (R.O. Supl. 689, 22 de noviembre de 2024). Comentario del autor: la segunda parte de la norma, la obligación de investigar el origen ilícito, es la que con más frecuencia se omite al citarla.
 
 [^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. **[verificar el texto literal de la parte resolutiva y los números de los fallos de triple reiteración]**
 

@@ -37,10 +37,10 @@ En los delitos contra la administración pública, el autor debe ser **servidor 
 | Sujeto activo | Servidor público; también personal del sistema financiero (peculado bancario) | Servidor (pasivo) y particular que ofrece o da (activo) | Servidor, sus agentes o dependientes | Servidor público | Cualquier persona |
 | Conducta | Abusar, apropiarse, distraer o disponer arbitrariamente de bienes o dineros que tiene en razón de su cargo | Recibir o aceptar, u ofrecer o dar, un beneficio indebido por actos de su función | Ordenar o exigir pagos no debidos abusando del cargo | Obtener un incremento patrimonial injustificado producto del cargo | Tener, transferir, ocultar o convertir activos ilícitos, o prestar el nombre |
 | Particular | Partícipe (art. 233 de la Constitución) | Coautor | Víctima | Partícipe o testaferro | Autor |
-| Penas conocidas | 10 a 13 años (tipo básico) | 1 a 3 años; 3 a 5; 5 a 7 | 3 a 5 años; 5 a 7 | 3 a 5; 5 a 7; 7 a 10 años, según el monto | De 1 a 3 hasta 10 a 13 años, según el monto |
+| Penas conocidas | 10 a 13 años (tipo básico); 5 a 7 y 7 a 10 en las modalidades | 3 a 5; 5 a 7; 7 a 10 años | 3 a 5 años; 5 a 7 con violencia o amenazas | 3 a 5; 5 a 7; 7 a 10 años, según el monto | De 5 a 7 hasta 19 a 22 años, según el monto y las circunstancias (reformas de 2021 y 2024) |
 | ¿Prescribe? | No | No | No | No | Sí |
 
-*Penas por verificar en el texto vigente.*
+*Penas contrastadas con el COIP actualizado al 7 de octubre de 2026.*
 
 ## 3. Peculado (art. 278)
 

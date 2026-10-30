@@ -1,6 +1,6 @@
 # Capítulo 5. El enriquecimiento ilícito
 
-> **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. No se dispuso del texto vigente del art. 279 del COIP: la descripción del tipo y las penas se basan en la redacción conocida y en fuentes secundarias. Todo lo marcado **[verificar]** debe confrontarse con el texto oficial antes de publicar. Formato: APA, 7.ª edición.
+> **Borrador de trabajo, versión 2.** Redactado con el perfil de escritura del autor. Los textos del COIP se tomaron de la versión con última actualización de 7 de octubre de 2026 (`biblioteca/ecuador/COIP.md`); el art. 279 no registra reformas desde 2014. Las citas de la Constitución, la doctrina y la jurisprudencia siguen marcadas **[verificar]** cuando no se pudieron contrastar con la fuente. Formato: APA, 7.ª edición.
 
 ## 5.1. Planteamiento
 
@@ -39,19 +39,23 @@ En este orden de ideas, la pregunta inevitable es: ¿esa "presunción" del art. 
 
 ### 5.4.1. El texto
 
-El art. 279 del COIP sanciona a las servidoras y servidores públicos, y a las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado, que hayan obtenido **para sí o para terceros** un **incremento patrimonial injustificado**, **a su nombre o mediante persona interpuesta**, **producto de su cargo o función**[^art279].
+El inciso primero del art. 279 del COIP dispone:
 
-La norma aclara que hay enriquecimiento ilícito no solo cuando el patrimonio aumenta con dinero, cosas o bienes, sino también cuando se cancelan deudas o se extinguen obligaciones[^deudas].
+> "Las o los servidores públicos y las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado, determinadas en la Constitución de la República, que hayan obtenido para sí o para terceros un incremento patrimonial injustificado a su nombre o mediante persona interpuesta, producto de su cargo o función, superior a cuatrocientos salarios básicos unificados del trabajador en general, serán sancionados con pena privativa de libertad de siete a diez años."[^art279]
+
+El inciso segundo aclara: "Se entenderá que hubo enriquecimiento ilícito no solo cuando el patrimonio se ha incrementado con dinero, cosas o bienes, sino también cuando se han cancelado deudas o extinguido obligaciones."[^deudas]
+
+A diferencia del peculado, el cohecho y la concusión, que la reforma anticorrupción de 2021 sustituyó, el art. 279 conserva su redacción original de 2014. Y tampoco incorporó a los proveedores del Estado: el sujeto activo sigue siendo solo el servidor público o la persona que actúa en virtud de una potestad estatal.
 
 ### 5.4.2. La graduación por montos
 
-La pena depende del monto del incremento, medido en salarios básicos unificados del trabajador en general (SBU). Según la redacción conocida[^penas]:
+La pena depende del monto del incremento, medido en salarios básicos unificados del trabajador en general (SBU)[^penas]:
 
 | Monto del incremento | Pena |
 |---|---|
 | Superior a 400 SBU | 7 a 10 años |
-| Superior a 200 e inferior a 400 SBU | 5 a 7 años |
-| Inferior a 200 SBU | 3 a 5 años |
+| Superior a 200 y menor a 400 SBU | 5 a 7 años |
+| Hasta 200 SBU | 3 a 5 años |
 
 Como podrá apreciar el lector, la cuantía no es un detalle: determina la pena. Por eso la defensa debe discutir no solo si hubo enriquecimiento, sino **cuánto**. Un error en la valoración de un inmueble puede mover al procesado de un rango a otro.
 
@@ -103,7 +107,7 @@ A mi juicio, este nexo exige al menos indicios de una actividad ilícita vincula
 
 El incremento puede estar a nombre del servidor o de una persona interpuesta: el cónyuge, los hijos, un amigo o una sociedad. La Fiscalía debe probar que la persona interpuesta es solo un titular formal y que el verdadero dueño es el servidor. Para eso no basta el parentesco: hace falta demostrar que el tercero no tenía capacidad económica propia para adquirir el bien, o que el servidor lo usa y dispone de él como propietario.
 
-El tercero que acepta figurar como titular puede responder por **testaferrismo** (art. 289 del COIP), que analizo en el capítulo 9.
+El tercero que acepta figurar como titular puede responder por **testaferrismo**. El art. 289 del COIP sanciona con tres a cinco años a "la persona que consienta en aparentar como suyos bienes [...] producto del enriquecimiento ilícito de la o el servidor o exservidor público"[^art289]. Lo analizo en el capítulo 9.
 
 ## 5.6. La carga de la prueba y la presunción de inocencia
 
@@ -124,6 +128,8 @@ En este orden de ideas, propongo que el juicio por enriquecimiento ilícito se r
 3. **La falta de declaración patrimonial no es prueba del delito.** Es una infracción administrativa que puede tener sus propias sanciones, pero no prueba el incremento ni su origen.
 4. **Cualquier explicación razonable del procesado obliga a la Fiscalía a desvirtuarla.** Si el procesado alega una herencia, la Fiscalía debe probar que la herencia no existió o que no alcanza para explicar el incremento.
 
+Esta posición tiene además un apoyo expreso en el propio COIP. El art. 455 exige que la prueba tenga un nexo causal entre la infracción y la persona procesada, y que el fundamento se base en hechos reales introducidos a través de un medio de prueba, "y nunca en presunciones"[^art455]. Una condena que descanse en la presunción del art. 231 de la Constitución, sin prueba del carácter injustificado del incremento, sería exactamente una condena fundada en una presunción.
+
 Es la misma solución que adoptó la Corte Constitucional de Colombia en la sentencia C-319 de 1996. Como podrá apreciar el lector, no se trata de inventar una garantía nueva, sino de aplicar las que ya tenemos.
 
 ### 5.6.3. El estado de la jurisprudencia ecuatoriana
@@ -137,7 +143,7 @@ No he encontrado un pronunciamiento de la Corte Constitucional ecuatoriana que r
 La prueba típica del enriquecimiento ilícito es:
 
 - las **declaraciones patrimoniales juradas** presentadas ante la Contraloría;
-- el **informe de la Contraloría** sobre la confrontación de esas declaraciones;
+- el **informe de la Contraloría** sobre la confrontación de esas declaraciones, que da inicio a la investigación pero no es un requisito de procedibilidad (art. 581.1 del COIP; ver el capítulo 4, sección 4.7);
 - los **certificados del Registro de la Propiedad, de la Agencia Nacional de Tránsito y de la Superintendencia de Compañías**;
 - la información **bancaria y tributaria**, obtenida con autorización judicial;
 - la **pericia contable o patrimonial**, que es la prueba central.
@@ -167,7 +173,7 @@ El enriquecimiento ilícito es un tipo de recogida, y eso tiene una consecuencia
 
 ## 5.9. Figuras afines
 
-- **El enriquecimiento privado no justificado** (art. 297 del COIP). Fue incorporado a partir de la consulta popular de 2011 y sanciona a cualquier persona que obtenga un incremento patrimonial no justificado por encima de un monto en SBU[^art297]. Lo analizo en el capítulo 9.
+- **El enriquecimiento privado no justificado** (art. 297 del COIP). Sanciona con tres a cinco años a "la persona que obtenga para sí o para otra, en forma directa o por interpuesta persona, un incremento patrimonial no justificado mayor a doscientos salarios básicos unificados del trabajador en general"[^art297]. Lo analizo en el capítulo 9.
 - **El testaferrismo** (art. 289 del COIP).
 - **La extinción de dominio**, que permite al Estado recuperar bienes de origen ilícito en un proceso civil, sin condena penal (capítulo 17).
 
@@ -251,13 +257,17 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^art233]: Constitución, art. 233, inciso segundo.
 
-[^art279]: COIP, art. 279, inciso primero, según la redacción conocida. **[verificar el texto vigente y las reformas posteriores]**
+[^art279]: COIP, art. 279, inciso primero. La compilación con última actualización de 7 de octubre de 2026 no registra reformas a este artículo.
 
-[^deudas]: COIP, art. 279, inciso segundo, según la redacción conocida. **[verificar]**
+[^deudas]: COIP, art. 279, inciso segundo.
 
-[^penas]: Los rangos de la tabla corresponden a la redacción conocida del art. 279. **[verificar las penas y los montos vigentes]**
+[^penas]: COIP, art. 279, incisos primero, tercero y cuarto.
 
-[^art297]: COIP, art. 297 (enriquecimiento privado no justificado). Comentario del autor: la existencia de esta figura, con una pena menor y para cualquier persona, refuerza la idea de que el art. 279 exige algo más que un patrimonio inexplicado: exige el nexo con el cargo. **[verificar el texto y el monto vigentes]**
+[^art297]: COIP, art. 297 (enriquecimiento privado no justificado). Comentario del autor: la existencia de esta figura, con una pena menor y para cualquier persona, refuerza la idea de que el art. 279 exige algo más que un patrimonio inexplicado: exige el nexo con el cargo.
+
+[^art289]: COIP, art. 289, inciso primero. El inciso segundo, incorporado por la consulta popular de 4 de febrero de 2018, sanciona a la persona jurídica con su extinción y multa de quinientos a mil SBU.
+
+[^art455]: COIP, art. 455 (nexo causal).
 
 [^inocencia]: Constitución, arts. 76.2 y 77.7.c. Ver también la Convención Americana sobre Derechos Humanos, art. 8.2 y 8.2.g.
 

@@ -120,7 +120,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Constitución | Arts. 76 (debido proceso y presunción de inocencia) y 233 (régimen de los delitos contra la administración pública) |
 | Tratados | Convenciones de Viena (1988), Palermo (2000) y Mérida (2003) |
 | Estándares | 40 Recomendaciones del GAFI |
-| Penal | COIP: art. 317 (lavado de activos), art. 318 (incriminación falsa por lavado de activos), art. 319 (omisión de control de lavado de activos) **[verificar numeración vigente]** |
+| Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
 | Preventivo | Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos (2016) y su reglamento |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
 | Jurisprudencia | Resolución CNJ 20-2024 |
@@ -199,7 +199,7 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 
 [^ley2005]: Ley para Reprimir el Lavado de Activos, Registro Oficial No. 127 de 18 de octubre de 2005. **[verificar]**
 
-[^coip317]: COIP, art. 317. La cláusula de autonomía establece que el lavado se investiga y juzga como delito autónomo, y que ello no exime a la Fiscalía de investigar el origen ilícito de los activos. Comentario del autor: esta segunda parte de la norma es la que con más frecuencia se omite al citarla. **[verificar la redacción vigente]**
+[^coip317]: COIP, art. 317. La cláusula de autonomía establece que el lavado se investiga y juzga como delito autónomo, y que ello no exime a la Fiscalía de investigar el origen ilícito de los activos. El texto vigente dice: "Estos delitos son considerados como autónomos de otros cometidos dentro o fuera del país, sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas. Esto no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito." Comentario del autor: esta segunda parte de la norma es la que con más frecuencia se omite al citarla.
 
 [^ley2016]: La ley de 2016 regula el sistema de prevención, los sujetos obligados a reportar y las funciones de la UAFE. **[verificar el Registro Oficial]**
 

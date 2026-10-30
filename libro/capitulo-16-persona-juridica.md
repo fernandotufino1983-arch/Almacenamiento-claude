@@ -1,6 +1,6 @@
 # Capítulo 16. La responsabilidad penal de la persona jurídica
 
-> **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. Los textos de los arts. 49, 50 y 71 del COIP se tomaron de la versión con última modificación de 17 de febrero de 2021; las reformas de la Ley Anticorrupción (R.O. Supl. 392, 17-feb-2021) a los arts. 45 y 49 deben verificarse en el texto vigente. Formato: APA, 7.ª edición.
+> **Borrador de trabajo, versión 2.** Redactado con el perfil de escritura del autor. Los arts. 45.7, 49 y 50 del COIP se contrastaron con la versión con última actualización de 7 de octubre de 2026. Formato: APA, 7.ª edición.
 
 ## 16.1. Planteamiento
 
@@ -46,9 +46,8 @@ El inciso final del art. 49 contiene una regla de exclusión que la defensa no d
 ### 16.3.4. La reforma de 2021: los programas de cumplimiento
 
 La Ley Orgánica Reformatoria del COIP en Materia Anticorrupción de 2021 reformó los arts. 45 y 49[^reforma2021]:
-- incorporó al **art. 45 un numeral 7** con circunstancias atenuantes propias de las personas jurídicas, entre ellas haber implementado, **antes de la comisión del delito**, sistemas de integridad, normas, programas o políticas de cumplimiento, prevención, dirección o supervisión;
-- estableció en el **art. 49** los **requisitos mínimos** que deben cumplir esos sistemas de integridad;
-- según las fuentes disponibles, en las personas jurídicas de gran tamaño el programa debe estar a cargo de un **departamento u órgano autónomo**, y en las pequeñas y medianas empresas, de una **persona responsable**.
+- incorporó al **art. 45 un numeral 7** con cuatro circunstancias atenuantes propias de las personas jurídicas: denunciar o confesar espontáneamente el delito antes de la formulación de cargos; colaborar con la investigación aportando pruebas nuevas y decisivas; reparar integralmente los daños antes de la etapa de juicio; y haber implementado, **antes de la comisión del delito**, sistemas de integridad, normas, programas o políticas de cumplimiento, prevención, dirección o supervisión, a cargo de un **departamento u órgano autónomo** en las personas jurídicas de mayor dimensión, o de una **persona responsable** en las pequeñas y medianas empresas, "cuyo funcionamiento se incorpore en todos los niveles" de la organización[^art457];
+- estableció en el **art. 49** once **requisitos mínimos** que deben cumplir esos sistemas: identificación y administración de riesgos; controles internos con responsables; supervisión y monitoreo continuo, interno e independiente; modelos de gestión financiera; canal de denuncias; código de ética; capacitación del personal; mecanismos de investigación interna; obligación de informar al encargado de cumplimiento; normas disciplinarias; y programas "conozca a su cliente" o de debida diligencia.
 
 Es importante diferenciar el alcance de esta reforma. En el Ecuador, **el programa de cumplimiento atenúa la responsabilidad, pero no la excluye**. Es una diferencia sustancial frente a otros países, como veremos en el apartado 16.5.
 
@@ -171,13 +170,15 @@ Congreso de la República del Perú. (2016). *Ley No. 30424, que regula la respo
 
 España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* [art. 31 bis].
 
-[^art49]: COIP, art. 49, incisos primero y segundo, según el texto con última modificación de 17 de febrero de 2021. **[verificar la redacción vigente tras la reforma anticorrupción]**
+[^art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 
 [^art50]: COIP, art. 50 (concurrencia de la responsabilidad penal).
 
 [^exclusion]: COIP, art. 49, inciso final: "No hay lugar a la determinación de la responsabilidad penal de la persona jurídica, cuando el delito se comete por cualquiera de las personas naturales indicadas en el inciso primero, en beneficio de un tercero ajeno a la persona jurídica."
 
-[^reforma2021]: Ley Orgánica Reformatoria del COIP en Materia Anticorrupción, Segundo Suplemento del R.O. 392 de 17 de febrero de 2021, con vigencia a los 180 días de su publicación. **[verificar el texto literal de los arts. 45.7 y 49 reformados]**
+[^reforma2021]: Ley Orgánica Reformatoria del COIP en Materia Anticorrupción, Segundo Suplemento del R.O. 392 de 17 de febrero de 2021. Los textos de los arts. 45.7 y 49 se contrastaron con la compilación del COIP con última actualización de 7 de octubre de 2026.
+
+[^art457]: COIP, art. 45, num. 7. En la compilación consultada, las cuatro circunstancias aparecen numeradas de forma continua como numerales 7 a 10; según la nota de la propia compilación, todas fueron incorporadas como numeral 7 por el art. 1 de la ley publicada en el R.O. Supl. 392.
 
 [^art71]: COIP, art. 71 (penas para las personas jurídicas).
 

@@ -29,9 +29,15 @@ Sin embargo, si bien es cierto que el peculado es un delito grave, es importante
 
 El peculado tiene una larga tradición en la legislación ecuatoriana. El Código Penal de 1938 lo regulaba en el art. 257, que fue objeto de múltiples reformas, entre ellas la que incorporó el peculado bancario para sancionar a los administradores de las instituciones financieras después de la crisis de 1999[^c4_cp257].
 
-El COIP de 2014 lo trasladó al art. 278, dentro de los delitos contra la eficiencia de la administración pública, y mantuvo una pena alta para el tipo básico: de diez a trece años de privación de libertad[^c4_art278].
+El COIP de 2014 lo trasladó al art. 278, dentro de los delitos contra la eficiencia de la administración pública. Desde entonces el artículo ha tenido tres cambios[^c4_historia278]:
 
-La Ley Orgánica Reformatoria del COIP en Materia Anticorrupción de 2021 reformó el artículo y añadió una modalidad nueva vinculada con la contratación pública: la de quien **evada los procedimientos de contratación pública** en beneficio propio o de terceros[^c4_reforma2021]. Volveré sobre ella en la sección 4.6, porque es la reforma que más problemas de legalidad plantea.
+| Año | Norma | Cambio |
+|---|---|---|
+| 2014 | Ley publicada en el R.O. Supl. 332 de 12 de septiembre de 2014 | Modificación sustancial del texto original |
+| 2015 | Ley publicada en el R.O. Supl. 598 de 30 de septiembre de 2015 | Reforma del cuarto inciso |
+| 2021 | Ley Orgánica Reformatoria del COIP en Materia Anticorrupción, art. 9, R.O. Supl. 392 de 17 de febrero de 2021 | **Sustitución íntegra** del artículo |
+
+La reforma de 2021 es la que define el peculado que hoy se aplica, y trajo tres novedades que el abogado debe conocer: incorporó a los **proveedores del Estado** como autores, creó la modalidad de **evasión de los procedimientos de contratación pública** y estableció el **máximo de la pena** cuando el delito se comete en una emergencia o con fondos de salud, educación o seguridad social. Sobre cada una vuelvo más adelante.
 
 ### 4.3. El bien jurídico protegido
 
@@ -45,27 +51,39 @@ Es decir, el desvalor del peculado no está solo en el perjuicio económico, sin
 
 #### 4.4.1. El tipo básico
 
-El inciso primero del art. 278 sanciona a las servidoras y servidores públicos, y a las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado, que, **en beneficio propio o de terceros, abusen, se apropien, distraigan o dispongan arbitrariamente** de bienes muebles o inmuebles, dineros públicos o privados, efectos que los representen, piezas, títulos o documentos **que estén en su poder en virtud o razón de su cargo**[^c4_tipo_basico].
+El inciso primero del art. 278 del COIP dispone:
+
+> "Las o los servidores públicos; las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado; o, los proveedores del Estado que, en beneficio propio o de terceros, abusen, se apropien, distraigan o dispongan arbitrariamente de bienes muebles o inmuebles, dineros públicos, efectos que los representen, piezas, títulos o documentos que estén en su poder en virtud o razón de su cargo, serán sancionados con pena privativa de libertad de diez a trece años."[^c4_tipo_basico]
 
 De esta descripción se desprenden cinco elementos, que el fiscal debe probar todos y que el defensor debe revisar uno por uno:
 
 | Elemento | Qué exige | Pregunta para la defensa |
 |---|---|---|
-| Sujeto activo calificado | Servidor público o persona que actúa en virtud de una potestad estatal | ¿Tenía esa calidad en la fecha exacta de los hechos? |
+| Sujeto activo calificado | Servidor público, persona que actúa en virtud de una potestad estatal o proveedor del Estado | ¿Tenía esa calidad en la fecha exacta de los hechos? |
 | Relación funcional | El bien estaba en su poder en virtud o razón de su cargo | ¿Le correspondía administrar, custodiar o disponer de ese bien? |
 | Conducta | Abusar, apropiarse, distraer o disponer arbitrariamente | ¿Qué verbo concreto imputa la Fiscalía y con qué hecho lo prueba? |
-| Objeto | Bienes, dineros, efectos, títulos o documentos | ¿Está identificado el bien y su valor? |
+| Objeto | Bienes muebles o inmuebles, dineros públicos, efectos, piezas, títulos o documentos | ¿Está identificado el bien y su valor? ¿Es público? |
 | Beneficio | Propio o de terceros | ¿Quién se benefició y en qué medida? |
+
+Hay un detalle del texto vigente que vale la pena resaltar: en el tipo básico, el objeto son los **dineros públicos**. Los dineros privados aparecen solo en el inciso segundo, que regula el peculado en el sistema financiero.
 
 #### 4.4.2. El sujeto activo
 
-El peculado es un **delito especial propio**: solo puede cometerlo quien tiene la calidad de servidor público en los términos del art. 229 de la Constitución, o quien actúa en virtud de una potestad estatal[^c4_art229].
+El peculado es un **delito especial**: solo puede cometerlo quien tiene una de las calidades que la norma exige. Hasta 2021 eran dos: el servidor público, en los términos del art. 229 de la Constitución, y la persona que actúa en virtud de una potestad estatal[^c4_art229]. La reforma añadió una tercera: el **proveedor del Estado**.
 
-Esto tiene una consecuencia práctica que muchas veces se pasa por alto. La calidad de servidor debe verificarse **en la fecha exacta de cada acto imputado**. Un acto ejecutado antes del nombramiento o después de la renuncia no puede ser peculado del procesado como autor, aunque los hechos se hayan producido en la misma institución. He visto acusaciones que tratan un periodo de tres o cuatro años como un bloque, sin precisar qué funciones tenía el procesado en cada momento. Ese es un flanco débil de la acusación que el defensor debe explotar.
+La calidad debe verificarse **en la fecha exacta de cada acto imputado**. Un acto ejecutado antes del nombramiento o después de la renuncia no puede ser peculado del procesado como autor, aunque los hechos se hayan producido en la misma institución. He visto acusaciones que tratan un periodo de tres o cuatro años como un bloque, sin precisar qué funciones tenía el procesado en cada momento. Ese es un flanco débil de la acusación que el defensor debe explotar.
 
-#### 4.4.3. La relación funcional: el corazón del tipo
+#### 4.4.3. El proveedor del Estado como autor
 
-El elemento que más se discute en los juicios por peculado es la exigencia de que los bienes estén en poder del servidor **"en virtud o razón de su cargo"**.
+La inclusión del proveedor merece un comentario aparte. Antes de 2021, el contratista que se quedaba con un anticipo solo podía responder como partícipe del peculado del servidor. Hoy puede ser **autor**.
+
+Pero aquí aparece un problema que el legislador no resolvió. El tipo sigue exigiendo que los bienes "estén en su poder en virtud o razón de su **cargo**", y el proveedor no tiene cargo: tiene un **contrato**. En este orden de ideas, la única forma de leer la norma sin vaciar de contenido ese elemento es entender que el proveedor responde como autor solo respecto de los bienes o dineros públicos que recibió **en razón del contrato**, con un destino determinado: el anticipo que debía invertir en la obra, los materiales que el Estado le entregó en custodia, los fondos que administra por encargo. El proveedor que simplemente cobra un precio por un bien que entregó no tiene en su poder dineros públicos "en razón de su cargo": tiene su propio dinero, que cobró por una venta.
+
+Si bien es cierto que la reforma buscaba cerrar un espacio de impunidad, es importante diferenciar entre el proveedor que administra fondos públicos y el proveedor que vende caro. El primero puede cometer peculado; el segundo, en su caso, cometerá el delito de sobreprecios en contratación pública del art. 294.1, que analizo en la sección 4.6.3.
+
+#### 4.4.4. La relación funcional: el corazón del tipo
+
+El elemento que más se discute en los juicios por peculado es la exigencia de que los bienes estén en poder del agente **"en virtud o razón de su cargo"**.
 
 No basta que el servidor trabaje en la institución dueña del bien. Es necesario que, por las funciones que le asigna la ley, el reglamento orgánico funcional o el acto de delegación, tenga sobre ese bien una facultad de **administración, custodia, percepción o disposición**. Esa facultad no requiere tenencia material: el ordenador de gasto que autoriza un pago tiene el dinero "en su poder" aunque nunca lo toque, porque tiene la disponibilidad jurídica sobre él (Rojas Vargas, 2007)[^c4_disponibilidad].
 
@@ -73,7 +91,7 @@ Como podrá apreciar el lector, la prueba de este elemento no es testimonial sin
 
 Y si no hay relación funcional, no hay peculado. Podrá haber hurto, abuso de confianza o estafa, pero no peculado.
 
-#### 4.4.4. Los verbos rectores
+#### 4.4.5. Los verbos rectores
 
 El tipo contiene cuatro verbos que no son sinónimos:
 
@@ -84,20 +102,51 @@ El tipo contiene cuatro verbos que no son sinónimos:
 
 Si bien es cierto que el verbo **distraer** amplía mucho el tipo, es importante diferenciar la distracción penal de la reasignación administrativa de recursos. Cuando un servidor traslada fondos de una partida a otra siguiendo el procedimiento presupuestario, aunque lo haga de forma irregular, eso es un problema de gestión. La distracción típica exige que el destino sea **ajeno al interés público** y que sirva al beneficio propio o de terceros que exige el tipo[^c4_distraccion].
 
-#### 4.4.5. El beneficio propio o de terceros
+#### 4.4.6. El beneficio propio o de terceros
 
 El tipo exige que la conducta se realice en beneficio propio o de terceros. Este elemento cumple una función que a mi juicio es central: separa el peculado del simple error de gestión. Si el dinero se usó mal, pero se usó en fines públicos, no hay beneficio de nadie y, en consecuencia, no hay peculado.
 
-### 4.5. Las modalidades del art. 278
+### 4.5. Las modalidades y las penas
 
-Además del tipo básico, el art. 278 contiene modalidades específicas[^c4_modalidades]:
+#### 4.5.1. El peculado en el sistema financiero
 
-- **El uso de trabajadores o bienes públicos.** Sanciona a quien utilice, en beneficio propio o de terceros, trabajadores remunerados por el Estado o bienes del sector público, cuando esto signifique lucro o incremento patrimonial. El ejemplo clásico es el funcionario que pone al chofer de la institución, con el vehículo oficial, a trabajar en su hacienda.
-- **El aprovechamiento de información reservada**, obtenida en razón del cargo, en beneficio propio o de terceros.
-- **El peculado bancario**, que extiende el tipo a los funcionarios, administradores, ejecutivos o empleados de las instituciones del sistema financiero nacional que realicen las conductas descritas, o que contribuyan a ellas con actos como la concesión de créditos vinculados o sin garantías suficientes.
-- **La evasión de los procedimientos de contratación pública**, introducida en 2021.
+El inciso segundo extiende el peculado, con la misma pena de diez a trece años, a los funcionarios, administradores, ejecutivos o empleados de las instituciones del Sistema Financiero Nacional que realicen intermediación financiera, y a los miembros de sus directorios y consejos de administración y vigilancia, cuando abusen, se apropien, distraigan o dispongan arbitrariamente de **dineros privados** que estén en su poder en razón de su cargo[^c4_bancario]. Para estos casos debe considerarse la Resolución No. 8 de la Corte Nacional de Justicia, publicada en el R.O. 539 de 9 de julio de 2015[^c4_res8].
 
-Cada modalidad tiene su propia pena. Las fuentes secundarias consultadas señalan rangos de diez a trece años para los incisos principales y de cinco a siete años para la primera modalidad[^c4_penas]. Esto debe verificarse en el texto vigente antes de citarlo en un escrito.
+#### 4.5.2. El cuadro de penas
+
+El artículo establece luego tres niveles de pena:
+
+| Pena | Conducta |
+|---|---|
+| **5 a 7 años** (num. 1) | a) Usar trabajadores remunerados por el Estado o bienes del sector público, en beneficio propio o de terceros, cuando signifique lucro o incremento patrimonial. b) Aprovecharse económicamente de estudios, proyectos, informes, resoluciones y documentos secretos, reservados o de circulación restringida, conocidos en razón del cargo |
+| **7 a 10 años** (num. 2) | a) Obtener o conceder créditos vinculados, relacionados o intercompañías en perjuicio de la institución financiera. b) Los **beneficiarios** que intervengan en el delito y la **persona que preste su nombre**, aunque no tengan las calidades del inciso primero |
+| **10 a 13 años** (num. 3) | a) Disponer, apropiarse o distraer fondos o bienes privados. b) Ejecutar dolosamente operaciones que disminuyan el activo o incrementen el pasivo de la entidad. c) Disponer el congelamiento o la retención arbitraria de fondos o depósitos. d) Causar la quiebra fraudulenta de entidades del sistema financiero. e) **Evadir los procedimientos de contratación pública**, con multa equivalente al valor de la contratación y terminación del contrato |
+
+#### 4.5.3. El beneficiario y el testaferro
+
+El num. 2.b es de enorme importancia práctica y suele pasar desapercibido. Sanciona con siete a diez años a los **beneficiarios** que intervengan en el peculado y a quien **preste su nombre**, "aunque no posea las calidades previstas en el primer párrafo". Es decir, el legislador resolvió por vía de tipo autónomo el problema de la participación del particular, y le asignó una pena propia, menor que la del autor pero mayor que la que resultaría de aplicar la regla general de la complicidad.
+
+#### 4.5.4. El máximo de la pena
+
+El texto vigente añade una regla de agravación que no estaba en el COIP original. Se aplica el **máximo de la pena** cuando el peculado se comete:
+
+- aprovechándose de una **declaratoria de emergencia o estado de excepción**;
+- con fondos o bienes destinados a programas de **salud pública, alimentación, educación, vivienda o seguridad social**; o
+- en relación directa con **áreas naturales protegidas, recursos naturales, sectores estratégicos o defensa nacional**[^c4_maximo].
+
+Esta regla fue la respuesta legislativa a los casos de corrupción en los hospitales durante la pandemia. Como veremos en el caso práctico, cambia por completo la expectativa de pena.
+
+#### 4.5.5. El peculado por resultados en las empresas públicas
+
+El penúltimo inciso del artículo contiene, a mi juicio, la norma más problemática de todo el art. 278. Declara responsables de peculado a los administradores y miembros del directorio de las empresas públicas cuando, **por su acción u omisión**, los resultados de la empresa estén por debajo de los índices de gestión, en especial cuando los ingresos caen más del 10 % o el resultado operacional más del 25 % frente al ejercicio anterior, "sin justificación alguna", y cuando esas pérdidas se produjeron en beneficio propio o de terceros[^c4_empresas].
+
+Una mala gestión empresarial no es un delito. Si la norma se leyera de forma literal, el gerente de una empresa pública podría ir a prisión porque sus ingresos cayeron, aunque no se haya apropiado de un solo dólar. Eso convertiría el peculado en un delito de resultado económico, incompatible con el principio de culpabilidad.
+
+Es por esta razón que la defensa debe insistir en los dos elementos que el propio inciso exige: la **falta de justificación** y, sobre todo, el **beneficio propio o de terceros**. El último inciso del artículo ofrece además una herramienta que el defensor no debe desaprovechar: la acción penal debe tomar en cuenta la asistencia de **expertos nacionales e internacionales** para determinar si factores externos o de mercado incidieron en los resultados, si las metas eran adecuadas y si se tomaron medidas correctivas. Sin esa pericia, la acusación está incompleta.
+
+#### 4.5.6. La inhabilitación de por vida
+
+El art. 278 dispone que los sentenciados por cualquiera de estas conductas "quedarán inhabilitados de por vida para el desempeño de todo cargo público, todo cargo en entidad financiera o en entidades de la economía popular y solidaria que realicen intermediación financiera"[^c4_inhabilitacion].
 
 ### 4.6. El peculado en la contratación pública
 
@@ -111,39 +160,48 @@ En la práctica, la mayoría de los procesos por peculado de los últimos años 
 - el **anticipo no devengado** que el contratista nunca justificó y la entidad nunca recuperó;
 - la **emergencia simulada**, para contratar sin concurso.
 
-#### 4.6.2. El problema de la nueva modalidad
+#### 4.6.2. La evasión de los procedimientos de contratación pública
 
-La reforma de 2021 sancionó a quien **evada** los procedimientos de contratación pública. Comparto la crítica que se formuló durante el debate legislativo: el verbo es impreciso, y la doctrina sugirió sustituirlo por **eludir**, que describe mejor la omisión de una obligación jurídica[^c4_evadir].
+El num. 3.e sanciona con diez a trece años a quien "evaden los procedimientos pertinentes de contratación pública contenidos en la Ley de la materia", con una multa equivalente al valor de la contratación y con la terminación unilateral del contrato, sin indemnización para el proveedor, como consecuencia accesoria de la sentencia[^c4_evasion].
 
-Pero el problema de fondo es otro. La Ley Orgánica del Sistema Nacional de Contratación Pública tiene decenas de procedimientos, con excepciones, régimen especial y emergencia. Si cualquier error en la selección del procedimiento se convierte en peculado, estaríamos castigando con diez años de cárcel lo que, en el peor de los casos, es una infracción administrativa. Eso vulnera el principio de **mínima intervención penal** del art. 3 del COIP y el principio de **legalidad estricta** del art. 76.3 de la Constitución[^c4_legalidad].
+Comparto la crítica que se formuló durante el debate legislativo: el verbo es impreciso, y se sugirió sustituirlo por **eludir**, que describe mejor la omisión de una obligación jurídica[^c4_evadir]. Pero el problema de fondo es otro. La Ley Orgánica del Sistema Nacional de Contratación Pública tiene decenas de procedimientos, con excepciones, régimen especial y emergencia. Si cualquier error en la selección del procedimiento se convierte en peculado, estaríamos castigando con diez años de cárcel lo que, en el peor de los casos, es una infracción administrativa. Eso vulnera el principio de **mínima intervención penal** del art. 3 del COIP y el principio de **legalidad** del art. 76.3 de la Constitución[^c4_legalidad].
 
-Es por esta razón que, a mi juicio, la única lectura constitucional de esta modalidad es la que exige, además de la evasión del procedimiento, el **beneficio propio o de terceros** y un **perjuicio** al patrimonio público. Sin esos elementos, la evasión es un incumplimiento de la ley de contratación, no un delito.
+Hay además un argumento de ubicación que la defensa puede aprovechar. La evasión está en el num. 3, junto a conductas propias del sistema financiero, y el encabezado de los numerales remite a las personas descritas en los incisos anteriores. Por eso sostengo que la única lectura constitucional de esta modalidad exige, además de la evasión del procedimiento, los elementos del tipo básico: la **relación funcional** con los fondos, el **beneficio propio o de terceros** y la afectación de **dineros públicos**. Sin esos elementos, la evasión es un incumplimiento de la ley de contratación, no un peculado.
 
-#### 4.6.3. La prueba pericial
+#### 4.6.3. El delito de sobreprecios en contratación pública (art. 294.1)
+
+La misma reforma de 2021 creó un tipo específico que el abogado debe tener siempre presente cuando el caso trata de precios: el **art. 294.1**. Sanciona con cinco a siete años a los servidores públicos, a las personas que actúan en virtud de una potestad estatal y a los proveedores del Estado que "realicen arbitrariamente los procesos de contratación pública con evidente y comprobado sobreprecio al precio ordinario establecido por el mercado". Si se comete aprovechando una emergencia o un estado de excepción, se impone el máximo de la pena[^c4_sobreprecios].
+
+El texto original exigía que el sobreprecio fuera "determinado como tal por la Contraloría General del Estado". La Corte Constitucional declaró inconstitucional esa exigencia, por contravenir el art. 195 de la Constitución, que atribuye a la Fiscalía la dirección de la investigación[^c4_cc294].
+
+La relación entre este delito y el peculado es una cuestión de **concurso aparente** (capítulo 15). Cuando el hecho es exactamente un sobreprecio en un proceso de contratación, el art. 294.1 es la norma **especial** y debe prevalecer sobre el peculado, con una pena de cinco a siete años en lugar de diez a trece. Solo si, además del sobreprecio, se prueba la apropiación o la distracción de fondos que el agente tenía en su poder por razón de su cargo, se configura el peculado. Para la defensa, esta distinción puede significar la mitad de la pena.
+
+#### 4.6.4. La prueba pericial
 
 En el peculado por contratación pública, el juicio se gana o se pierde con las pericias. Hay tres que el defensor debe revisar con especial atención:
 
 | Pericia | Qué debe establecer | Debilidades frecuentes |
 |---|---|---|
 | Ingeniería o de obra | Lo efectivamente ejecutado frente a lo pagado | Mediciones hechas años después, sin considerar el desgaste ni las órdenes de cambio |
-| Precios de mercado | El precio razonable en la fecha de la contratación | Comparación con precios actuales o con proveedores que no ofrecían las mismas condiciones |
+| Precios de mercado | El precio ordinario de mercado en la fecha de la contratación | Comparación con precios actuales o con proveedores que no ofrecían las mismas condiciones |
 | Contable o financiera | El destino del dinero y el beneficiario | Se limita a repetir el informe de la Contraloría |
 
 ### 4.7. El informe de la Contraloría
 
-Durante años se discutió si el informe de la Contraloría General del Estado con indicios de responsabilidad penal era un **requisito de procedibilidad** para iniciar la acción por peculado. El Código de Procedimiento Penal de 2000 lo exigía en ciertos supuestos, y la Corte Nacional de Justicia emitió varias resoluciones sobre el tema, entre ellas la 08-2015[^c4_resoluciones_cnj].
+Durante años se discutió si el informe de la Contraloría General del Estado con indicios de responsabilidad penal era un **requisito de procedibilidad** para iniciar la acción por peculado. Hoy la cuestión está resuelta en el texto del COIP:
 
-Según fuentes secundarias, la Ley Orgánica de Integridad Pública de 2025 eliminó el informe como requisito previo[^c4_integridad]. Esto debe verificarse.
+1. El párrafo final del art. 581, que exigía el informe previo de la Contraloría para ejercer la acción penal por peculado y enriquecimiento ilícito, fue **declarado inconstitucional** por la Corte Constitucional, según la nota de la compilación, mediante la Resolución No. 5 publicada en el R.O. Supl. 6 de 15 de agosto de 2019[^c4_cc581].
+2. El art. 581.1, incorporado en 2021, dispone que el informe con indicios de responsabilidad penal da inicio a la investigación y constituye "un elemento sustancial", pero aclara que "en ningún caso estos informes constituyen un requisito de admisibilidad o procedibilidad para el ejercicio de la acción penal por parte de la Fiscalía"[^c4_art5811].
 
-Pero sea o no un requisito, hay algo que el defensor nunca debe permitir: que el informe de la Contraloría se trate como prueba de la culpabilidad. El informe es el resultado de un examen administrativo, realizado sin contradicción penal y con un estándar distinto. En el juicio, es un **documento que debe ser introducido por el auditor que lo elaboró**, sometido a contrainterrogatorio y valorado con los demás elementos, conforme al art. 454 del COIP. Si el auditor no comparece, el informe no puede suplir su testimonio.
+Pero que el informe no sea un requisito no significa que sea una prueba. El informe es el resultado de un examen administrativo, realizado sin contradicción penal y con un estándar distinto. En el juicio, es un **documento que debe ser introducido por el auditor que lo elaboró**, sometido a contrainterrogatorio y valorado con los demás elementos. Y el art. 455 del COIP es claro: la prueba debe tener un nexo causal con la persona procesada y basarse en hechos reales, "y nunca en presunciones"[^c4_art455].
 
 Un indicio de responsabilidad no es una prueba de responsabilidad.
 
 ### 4.8. Tipicidad subjetiva
 
-El peculado es un delito **doloso**. El COIP no prevé una modalidad culposa, de modo que el servidor negligente que, por descuido, permite que un tercero se apropie de fondos públicos no comete peculado[^c4_dolo].
+El peculado es un delito **doloso**. El art. 27 del COIP dispone que la culpa solo es punible cuando se encuentra tipificada como infracción, y el art. 278 no prevé una modalidad culposa. En consecuencia, el servidor negligente que, por descuido, permite que un tercero se apropie de fondos públicos no comete peculado[^c4_dolo].
 
-En este orden de ideas, vale la pena recordar lo que expliqué en el capítulo 13: conforme al art. 26 del COIP reformado, actúa con dolo la persona que, conociendo los elementos objetivos del tipo penal, ejecuta voluntariamente la conducta. Y conforme al art. 28.1, si el error de tipo es vencible y el delito no tiene modalidad culposa, la conducta es atípica.
+En este orden de ideas, vale la pena recordar lo que expliqué en el capítulo 13. Conforme al art. 26 del COIP, "actúa con dolo la persona que, conociendo los elementos objetivos del tipo penal, ejecuta voluntariamente la conducta". Y conforme al art. 28.1, si el error de tipo es vencible, se responde por la modalidad culposa "en caso de que esta exista". Como en el peculado no existe, el error vencible conduce a la atipicidad.
 
 Esto abre una línea de defensa concreta: el **principio de confianza**. El ordenador de gasto que autorizó un pago con base en el informe del fiscalizador, del administrador del contrato y del área financiera, que certificaban que la obra estaba ejecutada, no conocía la falsedad de esos informes. No puede exigírsele que mida él mismo cada metro de la obra. Si no hay indicios de que sabía, o de que tenía razones concretas para sospechar, su conducta no es dolosa.
 
@@ -151,9 +209,13 @@ Esto abre una línea de defensa concreta: el **principio de confianza**. El orde
 
 #### 4.9.1. El particular que participa
 
-El particular no puede ser autor de peculado, porque le falta la calidad especial. Pero el inciso final del art. 233 de la Constitución dispone que las normas sobre imprescriptibilidad y juzgamiento en ausencia se aplican también a quienes participen en estos delitos, aunque no tengan las calidades antes señaladas[^c4_particular].
+Con el texto vigente, el particular que interviene en un peculado puede encontrarse en tres situaciones distintas:
 
-El contratista que se queda con el anticipo, el proveedor que factura el sobreprecio o el familiar que recibe los fondos responden como **cómplices** o, según la teoría que se adopte, como **coautores**. Este es un debate abierto en el COIP que la defensa debe plantear, porque la diferencia entre ambas calidades tiene un efecto directo en la pena: el cómplice recibe una pena de un tercio a la mitad de la del autor (art. 43 del COIP)[^c4_complice].
+1. **Si es proveedor del Estado** y tenía en su poder fondos públicos en razón del contrato, puede ser **autor** del tipo básico (sección 4.4.3).
+2. **Si es beneficiario** que intervino en el delito, o **prestó su nombre**, responde por el num. 2.b, con siete a diez años.
+3. **En los demás casos**, responde como **cómplice**, con una pena "equivalente de un tercio a la mitad de aquella prevista para la o el autor" (art. 43 del COIP)[^c4_complice].
+
+A ello se suma el inciso final del art. 233 de la Constitución, que extiende la imprescriptibilidad y el juzgamiento en ausencia a quienes participen en estos delitos, aunque no tengan las calidades de servidor público[^c4_particular].
 
 #### 4.9.2. La cadena de firmas
 
@@ -163,17 +225,19 @@ Eso es un error de imputación. La firma no es por sí sola un acto de autoría.
 
 ### 4.10. Concursos
 
-Remito al capítulo 15, donde analicé los concursos en profundidad. Aquí solo quiero dejar tres ideas:
+Remito al capítulo 15, donde analicé los concursos en profundidad. Aquí solo quiero dejar cuatro ideas:
 
-1. **Peculado y enriquecimiento ilícito.** Si el incremento patrimonial proviene del peculado que ya se sanciona, no puede sancionarse además como enriquecimiento ilícito por el mismo hecho, porque se vulneraría el *non bis in idem* (art. 76.7.i de la Constitución).
-2. **Peculado y lavado de activos.** El peculado es uno de los delitos precedentes más frecuentes del lavado. Pero el simple disfrute del dinero apropiado no es lavado: hace falta un acto posterior de ocultamiento o encubrimiento del origen (ver los capítulos 12 y 15).
-3. **Peculado y falsificación.** Cuando la falsificación del documento es el medio para la apropiación, se discute si hay concurso ideal o medial. El tratamiento debe verificarse a la luz del art. 21 del COIP.
+1. **Peculado y sobreprecios (art. 294.1).** Cuando el hecho es solo un sobreprecio, prevalece el tipo especial (sección 4.6.3).
+2. **Peculado y enriquecimiento ilícito.** Si el incremento patrimonial proviene del peculado que ya se sanciona, no puede sancionarse además como enriquecimiento ilícito por el mismo hecho, porque se vulneraría el *non bis in idem* (art. 76.7.i de la Constitución).
+3. **Peculado y lavado de activos.** El peculado es uno de los delitos precedentes más frecuentes del lavado. Pero el simple disfrute del dinero apropiado no es lavado: hace falta un acto posterior de ocultamiento o encubrimiento del origen (ver los capítulos 12 y 15).
+4. **Peculado y falsificación.** Cuando la falsificación del documento es el medio para la apropiación, se discute si hay concurso ideal o medial, a la luz del art. 21 del COIP.
 
 ### 4.11. Consecuencias jurídicas
 
 Además de la privación de libertad, la condena por peculado lleva consigo:
 
-- la **incapacidad perpetua** para el desempeño de cargos públicos: el inciso final del art. 278 dispone que los sentenciados por peculado quedan incapacitados de por vida para desempeñar todo cargo público[^c4_inhabilitacion];
+- la **inhabilitación de por vida** para todo cargo público y para cargos en el sistema financiero (sección 4.5.6);
+- la **multa** y la **terminación del contrato** en la modalidad de evasión de la contratación pública;
 - la **reparación integral** del daño al Estado;
 - el **comiso** de los bienes, y la posibilidad de una acción paralela de **extinción de dominio** (capítulo 17);
 - la **imprescriptibilidad** de la acción y de la pena.
@@ -184,22 +248,26 @@ Sobre este último punto, quiero dejar una reflexión. La imprescriptibilidad ti
 
 Resumo las líneas que considero más sólidas:
 
-1. **Atacar la relación funcional.** Exigir el nombramiento, el manual de funciones y el acto de delegación vigentes en la fecha de cada acto imputado.
+1. **Atacar la relación funcional.** Exigir el nombramiento, el manual de funciones y el acto de delegación vigentes en la fecha de cada acto imputado. Para el proveedor, exigir la prueba de que tenía fondos públicos en su poder en razón del contrato.
 2. **Diferenciar la irregularidad administrativa del delito.** La mala gestión, el error contable y el incumplimiento contractual tienen sus propias vías: la glosa, la responsabilidad civil culposa y las sanciones administrativas. El derecho penal es la última opción (art. 3 del COIP).
 3. **Exigir la prueba del beneficio.** ¿Quién se benefició? Si el dinero se usó en fines públicos, aunque irregularmente, no hay peculado.
-4. **Contradecir el informe de la Contraloría** con el auditor en la audiencia y con una pericia de parte.
-5. **Invocar el principio de confianza** frente a los informes técnicos de otros servidores.
-6. **Individualizar la imputación** en la cadena de firmas.
-7. **Discutir la calidad del particular:** cómplice y no coautor.
-8. **Valorar el paso del tiempo** en la fiabilidad de las pericias.
+4. **Pedir la recalificación al art. 294.1** cuando el hecho es solo un sobreprecio.
+5. **Contradecir el informe de la Contraloría** con el auditor en la audiencia y con una pericia de parte, e invocar el art. 455 del COIP.
+6. **Invocar el principio de confianza** frente a los informes técnicos de otros servidores.
+7. **Individualizar la imputación** en la cadena de firmas.
+8. **Discutir la calidad del particular:** proveedor autor, beneficiario del num. 2.b o cómplice.
+9. **Discutir la agravación**: ¿se aprovechó realmente la emergencia, o el contrato simplemente se celebró durante ella?
+10. **Valorar el paso del tiempo** en la fiabilidad de las pericias.
 
 ### 4.13. Caso práctico resuelto
 
 #### Los hechos
 
-El director administrativo de un hospital público suscribió, en el año 2020, un contrato de emergencia para la adquisición de mascarillas y fundas para cadáveres. Un examen especial de la Contraloría determinó, tres años después, un sobreprecio del 40 % frente a los precios de referencia del Servicio Nacional de Contratación Pública. La Fiscalía formuló cargos por peculado contra el director, el administrador del contrato, el tesorero y el representante de la empresa proveedora.
+El director administrativo de un hospital público suscribió, en el año 2020, durante la declaratoria de emergencia sanitaria, un contrato para la adquisición de mascarillas y fundas para cadáveres. Un examen especial de la Contraloría determinó, tres años después, un sobreprecio del 40 % frente a los precios de referencia del Servicio Nacional de Contratación Pública. La Fiscalía formuló cargos por peculado contra el director, el administrador del contrato, el tesorero y el representante de la empresa proveedora, y pidió el máximo de la pena por tratarse de fondos de salud pública en emergencia.
 
 #### Análisis
+
+**La ley aplicable.** Lo primero que el defensor debe revisar es la fecha. Los hechos ocurrieron en 2020, y la reforma anticorrupción se publicó el 17 de febrero de 2021. Es decir, al momento de los hechos no existían ni el proveedor como autor del peculado, ni el delito de sobreprecios del art. 294.1, ni la regla del máximo de la pena por emergencia o por fondos de salud. Conforme al art. 76.3 de la Constitución y al principio de legalidad, nada de eso puede aplicarse a este caso. La acusación debe construirse con el texto del art. 278 anterior a la reforma, y la petición del máximo de la pena con base en el texto actual es improcedente[^c4_favorabilidad].
 
 **El director administrativo.** Tenía relación funcional, porque era el ordenador de gasto. La pregunta decisiva es el dolo: ¿sabía que el precio era excesivo? Si el estudio de mercado elaborado por el área técnica justificaba el precio en la fecha de la contratación, y en plena emergencia sanitaria los precios del mercado eran volátiles, la comparación con precios de referencia posteriores no prueba su conocimiento. Su defensa debe centrarse en una pericia de precios **a la fecha del contrato** y en el principio de confianza.
 
@@ -207,32 +275,42 @@ El director administrativo de un hospital público suscribió, en el año 2020, 
 
 **El tesorero.** Pagó una orden formalmente correcta. Sin prueba de que conocía el sobreprecio, no responde.
 
-**El proveedor.** No puede ser autor, porque no es servidor público. Responde como partícipe solo si se prueba un acuerdo con el director o, al menos, su conocimiento de que el precio era abusivo y de que el director actuaba en su beneficio. El simple hecho de vender caro, en una emergencia, no es participación en un peculado.
+**El proveedor.** Con la ley de 2020, no podía ser autor, porque no era servidor público. Responde como cómplice solo si se prueba un acuerdo con el director o, al menos, su conocimiento de que el precio era abusivo y de que el director actuaba en beneficio de un tercero. El simple hecho de vender caro, en una emergencia, no es participación en un peculado.
+
+#### ¿Y si los hechos fueran de 2022?
+
+El análisis cambiaría de forma radical. El proveedor podría ser autor, pero como cobró un precio y no administró fondos públicos, la calificación correcta sería la del **art. 294.1** (sobreprecios), y no la del peculado. Lo mismo valdría para el director, si no se prueba más que el sobreprecio. Y en ambos casos, por haberse cometido durante una emergencia, se impondría el máximo de la pena del art. 294.1: siete años, no trece.
 
 #### Conclusión
 
-Como podrá apreciar el lector, de cuatro procesados, al menos dos tienen una defensa sólida por falta de relación funcional o de dolo, y los otros dos dependen de la pericia de precios. El caso no se decide con el informe de la Contraloría sino con la prueba del conocimiento.
+Como podrá apreciar el lector, de cuatro procesados, al menos dos tienen una defensa sólida por falta de relación funcional o de dolo, y los otros dos dependen de la pericia de precios. Pero antes de todo eso, la fecha de los hechos decide qué ley se aplica, y en este caso descarta la agravación que pedía la Fiscalía.
+
+La primera pregunta en un caso de peculado siempre es cuándo.
 
 ### 4.14. Lista de revisión
 
-- [ ] ¿Está acreditada la calidad de servidor público en la fecha de cada acto?
+- [ ] ¿Qué texto del art. 278 estaba vigente en la fecha de los hechos (antes o después del 17 de febrero de 2021)?
+- [ ] ¿Está acreditada la calidad de servidor público o de proveedor en la fecha de cada acto?
 - [ ] ¿Constan el nombramiento, el manual de funciones y la delegación?
 - [ ] ¿Qué verbo rector se imputa y con qué hecho?
 - [ ] ¿Está identificado el beneficiario?
+- [ ] ¿El hecho es solo un sobreprecio (art. 294.1)?
 - [ ] ¿Las pericias se hicieron con datos de la fecha de los hechos?
 - [ ] ¿Comparecerá el auditor de la Contraloría?
 - [ ] ¿Hay informes técnicos que sustenten el principio de confianza?
 - [ ] ¿Se individualizó la conducta de cada firmante?
-- [ ] ¿Se discutió la calidad del particular (cómplice o coautor)?
+- [ ] ¿Se discutió la calidad del particular (autor, beneficiario o cómplice)?
+- [ ] ¿Procede realmente la regla del máximo de la pena?
 - [ ] ¿Hay riesgo de doble sanción con el enriquecimiento ilícito o el lavado?
 
 ### 4.15. Preguntas para la reflexión
 
 1. ¿Por qué el peculado no es un hurto agravado por la calidad del autor?
-2. ¿Qué diferencia hay entre distraer fondos públicos y reasignarlos irregularmente?
-3. ¿Cómo debe interpretarse la modalidad de evasión de los procedimientos de contratación pública para que sea compatible con el principio de legalidad?
-4. ¿Qué valor probatorio tiene el informe de la Contraloría en el juicio?
-5. ¿Responde como coautor o como cómplice el contratista que se queda con el anticipo?
+2. ¿Cómo debe interpretarse la exigencia de que los bienes estén en poder del proveedor "en razón de su cargo"?
+3. ¿Qué diferencia hay entre distraer fondos públicos y reasignarlos irregularmente?
+4. ¿Es compatible con el principio de culpabilidad el peculado por resultados de las empresas públicas?
+5. ¿Cuándo prevalece el delito de sobreprecios del art. 294.1 sobre el peculado?
+6. ¿Qué valor probatorio tiene el informe de la Contraloría en el juicio?
 
 ### Referencias
 
@@ -246,51 +324,61 @@ Rojas Vargas, F. (2007). *Delitos contra la administración pública* (4.ª ed.)
 
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008.
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 3, 26, 28, 43, 278 y 454; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 3, 26, 27, 28.1, 43, 278, 294.1, 455, 581 y 581.1].
 
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
 
-Asamblea Nacional del Ecuador. (2025). *Ley Orgánica de Integridad Pública* [verificar fecha y Registro Oficial].
+Corte Nacional de Justicia. (2015). *Resolución No. 8*. Registro Oficial 539 de 9 de julio de 2015.
 
-Corte Nacional de Justicia. (2015). *Resolución No. 08-2015* [verificar contenido].
-
-[^c4_art233]: Constitución de la República del Ecuador, art. 233, inciso segundo. El art. 16.4 del COIP reitera la imprescriptibilidad de estos delitos.
+[^c4_art233]: Constitución de la República del Ecuador, art. 233, inciso segundo. El art. 16.4 del COIP reitera la imprescriptibilidad de estos delitos. **[verificar el texto de la Constitución]**
 
 [^c4_cp257]: Código Penal de 1938 (codificación de 1971), art. 257 y sus reformas. **[verificar las reformas que introdujeron el peculado bancario]**
 
-[^c4_art278]: COIP, art. 278. **[verificar la redacción y las penas vigentes]**
-
-[^c4_reforma2021]: Ley Orgánica Reformatoria del COIP en Materia Anticorrupción, R.O. Segundo Suplemento 392, 17 de febrero de 2021. Según fuentes secundarias, su art. 9 reformó el art. 278 e incorporó la nueva conducta. **[verificar]**
+[^c4_historia278]: Así lo registra la nota de la compilación del COIP al art. 278 (versión con última actualización de 7 de octubre de 2026).
 
 [^c4_infraccion_deber]: Comentario del autor: la tesis de los delitos de infracción de deber, desarrollada por Roxin y seguida por buena parte de la doctrina peruana, explica bien por qué el peculado exige una relación funcional y no solo la calidad de servidor.
 
-[^c4_tipo_basico]: COIP, art. 278, inciso primero, según la redacción conocida. **[verificar el texto literal vigente]**
+[^c4_tipo_basico]: COIP, art. 278, inciso primero, sustituido por el art. 9 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^c4_art229]: Constitución, art. 229: "Serán servidoras o servidores públicos todas las personas que en cualquier forma o a cualquier título trabajen, presten servicios o ejerzan un cargo, función o dignidad dentro del sector público."
+[^c4_art229]: Constitución, art. 229: "Serán servidoras o servidores públicos todas las personas que en cualquier forma o a cualquier título trabajen, presten servicios o ejerzan un cargo, función o dignidad dentro del sector público." **[verificar]**
 
 [^c4_disponibilidad]: Comentario del autor: la doctrina distingue entre la disponibilidad material (la tenencia física del bien) y la disponibilidad jurídica (la facultad de decidir sobre él por razón del cargo). Ambas satisfacen el tipo.
 
 [^c4_distraccion]: Comentario del autor: esta interpretación restrictiva se sustenta en el principio de mínima intervención (art. 3 del COIP) y en el elemento "en beneficio propio o de terceros" del propio tipo.
 
-[^c4_modalidades]: COIP, art. 278, incisos segundo y siguientes. El orden y la numeración de las modalidades pueden haber cambiado con la reforma de 2021. **[verificar]**
+[^c4_bancario]: COIP, art. 278, inciso segundo.
 
-[^c4_penas]: Las penas se tomaron de fuentes secundarias sobre el texto reformado. **[verificar en el texto vigente]**
+[^c4_res8]: Resolución citada en la nota de la compilación del COIP al art. 278. **[verificar su contenido]**
+
+[^c4_maximo]: COIP, art. 278, inciso que sigue al num. 3.
+
+[^c4_empresas]: COIP, art. 278, penúltimo inciso. El último inciso regula la asistencia de expertos nacionales e internacionales.
+
+[^c4_inhabilitacion]: COIP, art. 278, inciso que sigue a la regla del máximo de la pena.
+
+[^c4_evasion]: COIP, art. 278, num. 3, literal e.
 
 [^c4_evadir]: Así lo recoge un estudio académico de 2026 sobre la reforma, que cita las observaciones formuladas durante el debate legislativo. **[verificar la fuente exacta]**
 
 [^c4_legalidad]: Constitución, art. 76.3: "Nadie podrá ser juzgado ni sancionado por un acto u omisión que, al momento de cometerse, no esté tipificado en la ley como infracción penal…". COIP, art. 3 (principio de mínima intervención).
 
-[^c4_resoluciones_cnj]: Una tesis de la PUCE analiza las resoluciones de la Corte Nacional sobre el peculado, entre ellas las de 2010 y 2015, y señala que la Resolución 08-2015 corrigió problemas creados por las anteriores. **[verificar el número y el contenido de cada resolución]**
+[^c4_sobreprecios]: COIP, art. 294.1, incorporado por el art. 14 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^c4_integridad]: Así lo indica una fuente secundaria, que precisa que el art. 278 no se reformó de forma expresa. **[verificar en el texto de la Ley Orgánica de Integridad Pública]**
+[^c4_cc294]: Según la nota de la compilación del COIP, la declaratoria consta en la Resolución No. 129 de la Corte Constitucional, publicada en el Registro Oficial Constitucional No. 78 de 19 de septiembre de 2025. **[verificar el número de la sentencia]**
 
-[^c4_dolo]: COIP, arts. 26 y 27. El art. 27 dispone que la culpa solo es punible cuando se encuentra tipificada como infracción en el COIP.
+[^c4_cc581]: Nota de la compilación del COIP al art. 581. **[verificar el número de la sentencia de la Corte Constitucional]**
 
-[^c4_particular]: Constitución, art. 233, inciso segundo, parte final.
+[^c4_art5811]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^c4_complice]: COIP, art. 43, inciso final: la pena del cómplice es de un tercio a la mitad de la prevista para el autor. **[verificar]**
+[^c4_art455]: COIP, art. 455: "La prueba y los elementos de prueba deberán tener un nexo causal entre la infracción y la persona procesada; el fundamento tendrá que basarse en hechos reales introducidos, o que puedan ser introducidos a través de un medio de prueba, y nunca en presunciones."
 
-[^c4_inhabilitacion]: COIP, art. 278, inciso final, según la redacción conocida, que extiende la incapacidad a otros cargos, como los de las entidades financieras. **[verificar el texto vigente]** Ver también el art. 113.2 de la Constitución sobre las inhabilidades para ser candidato.
+[^c4_dolo]: COIP, arts. 26, 27 y 28.1.
+
+[^c4_complice]: COIP, art. 43, inciso final.
+
+[^c4_particular]: Constitución, art. 233, inciso segundo, parte final. **[verificar]**
+
+[^c4_favorabilidad]: Constitución, art. 76.3 y 76.5; COIP, art. 5.1 y 5.2. Comentario del autor: la regla del máximo de la pena es una norma más gravosa y no puede aplicarse retroactivamente.
 
 <<PAGEBREAK>>
 
@@ -334,19 +422,23 @@ En este orden de ideas, la pregunta inevitable es: ¿esa "presunción" del art. 
 
 #### 5.4.1. El texto
 
-El art. 279 del COIP sanciona a las servidoras y servidores públicos, y a las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado, que hayan obtenido **para sí o para terceros** un **incremento patrimonial injustificado**, **a su nombre o mediante persona interpuesta**, **producto de su cargo o función**[^c5_art279].
+El inciso primero del art. 279 del COIP dispone:
 
-La norma aclara que hay enriquecimiento ilícito no solo cuando el patrimonio aumenta con dinero, cosas o bienes, sino también cuando se cancelan deudas o se extinguen obligaciones[^c5_deudas].
+> "Las o los servidores públicos y las personas que actúen en virtud de una potestad estatal en alguna de las instituciones del Estado, determinadas en la Constitución de la República, que hayan obtenido para sí o para terceros un incremento patrimonial injustificado a su nombre o mediante persona interpuesta, producto de su cargo o función, superior a cuatrocientos salarios básicos unificados del trabajador en general, serán sancionados con pena privativa de libertad de siete a diez años."[^c5_art279]
+
+El inciso segundo aclara: "Se entenderá que hubo enriquecimiento ilícito no solo cuando el patrimonio se ha incrementado con dinero, cosas o bienes, sino también cuando se han cancelado deudas o extinguido obligaciones."[^c5_deudas]
+
+A diferencia del peculado, el cohecho y la concusión, que la reforma anticorrupción de 2021 sustituyó, el art. 279 conserva su redacción original de 2014. Y tampoco incorporó a los proveedores del Estado: el sujeto activo sigue siendo solo el servidor público o la persona que actúa en virtud de una potestad estatal.
 
 #### 5.4.2. La graduación por montos
 
-La pena depende del monto del incremento, medido en salarios básicos unificados del trabajador en general (SBU). Según la redacción conocida[^c5_penas]:
+La pena depende del monto del incremento, medido en salarios básicos unificados del trabajador en general (SBU)[^c5_penas]:
 
 | Monto del incremento | Pena |
 |---|---|
 | Superior a 400 SBU | 7 a 10 años |
-| Superior a 200 e inferior a 400 SBU | 5 a 7 años |
-| Inferior a 200 SBU | 3 a 5 años |
+| Superior a 200 y menor a 400 SBU | 5 a 7 años |
+| Hasta 200 SBU | 3 a 5 años |
 
 Como podrá apreciar el lector, la cuantía no es un detalle: determina la pena. Por eso la defensa debe discutir no solo si hubo enriquecimiento, sino **cuánto**. Un error en la valoración de un inmueble puede mover al procesado de un rango a otro.
 
@@ -398,7 +490,7 @@ A mi juicio, este nexo exige al menos indicios de una actividad ilícita vincula
 
 El incremento puede estar a nombre del servidor o de una persona interpuesta: el cónyuge, los hijos, un amigo o una sociedad. La Fiscalía debe probar que la persona interpuesta es solo un titular formal y que el verdadero dueño es el servidor. Para eso no basta el parentesco: hace falta demostrar que el tercero no tenía capacidad económica propia para adquirir el bien, o que el servidor lo usa y dispone de él como propietario.
 
-El tercero que acepta figurar como titular puede responder por **testaferrismo** (art. 289 del COIP), que analizo en el capítulo 9.
+El tercero que acepta figurar como titular puede responder por **testaferrismo**. El art. 289 del COIP sanciona con tres a cinco años a "la persona que consienta en aparentar como suyos bienes [...] producto del enriquecimiento ilícito de la o el servidor o exservidor público"[^c5_art289]. Lo analizo en el capítulo 9.
 
 ### 5.6. La carga de la prueba y la presunción de inocencia
 
@@ -419,6 +511,8 @@ En este orden de ideas, propongo que el juicio por enriquecimiento ilícito se r
 3. **La falta de declaración patrimonial no es prueba del delito.** Es una infracción administrativa que puede tener sus propias sanciones, pero no prueba el incremento ni su origen.
 4. **Cualquier explicación razonable del procesado obliga a la Fiscalía a desvirtuarla.** Si el procesado alega una herencia, la Fiscalía debe probar que la herencia no existió o que no alcanza para explicar el incremento.
 
+Esta posición tiene además un apoyo expreso en el propio COIP. El art. 455 exige que la prueba tenga un nexo causal entre la infracción y la persona procesada, y que el fundamento se base en hechos reales introducidos a través de un medio de prueba, "y nunca en presunciones"[^c5_art455]. Una condena que descanse en la presunción del art. 231 de la Constitución, sin prueba del carácter injustificado del incremento, sería exactamente una condena fundada en una presunción.
+
 Es la misma solución que adoptó la Corte Constitucional de Colombia en la sentencia C-319 de 1996. Como podrá apreciar el lector, no se trata de inventar una garantía nueva, sino de aplicar las que ya tenemos.
 
 #### 5.6.3. El estado de la jurisprudencia ecuatoriana
@@ -432,7 +526,7 @@ No he encontrado un pronunciamiento de la Corte Constitucional ecuatoriana que r
 La prueba típica del enriquecimiento ilícito es:
 
 - las **declaraciones patrimoniales juradas** presentadas ante la Contraloría;
-- el **informe de la Contraloría** sobre la confrontación de esas declaraciones;
+- el **informe de la Contraloría** sobre la confrontación de esas declaraciones, que da inicio a la investigación pero no es un requisito de procedibilidad (art. 581.1 del COIP; ver el capítulo 4, sección 4.7);
 - los **certificados del Registro de la Propiedad, de la Agencia Nacional de Tránsito y de la Superintendencia de Compañías**;
 - la información **bancaria y tributaria**, obtenida con autorización judicial;
 - la **pericia contable o patrimonial**, que es la prueba central.
@@ -462,7 +556,7 @@ El enriquecimiento ilícito es un tipo de recogida, y eso tiene una consecuencia
 
 ### 5.9. Figuras afines
 
-- **El enriquecimiento privado no justificado** (art. 297 del COIP). Fue incorporado a partir de la consulta popular de 2011 y sanciona a cualquier persona que obtenga un incremento patrimonial no justificado por encima de un monto en SBU[^c5_art297]. Lo analizo en el capítulo 9.
+- **El enriquecimiento privado no justificado** (art. 297 del COIP). Sanciona con tres a cinco años a "la persona que obtenga para sí o para otra, en forma directa o por interpuesta persona, un incremento patrimonial no justificado mayor a doscientos salarios básicos unificados del trabajador en general"[^c5_art297]. Lo analizo en el capítulo 9.
 - **El testaferrismo** (art. 289 del COIP).
 - **La extinción de dominio**, que permite al Estado recuperar bienes de origen ilícito en un proceso civil, sin condena penal (capítulo 17).
 
@@ -546,13 +640,17 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^c5_art233]: Constitución, art. 233, inciso segundo.
 
-[^c5_art279]: COIP, art. 279, inciso primero, según la redacción conocida. **[verificar el texto vigente y las reformas posteriores]**
+[^c5_art279]: COIP, art. 279, inciso primero. La compilación con última actualización de 7 de octubre de 2026 no registra reformas a este artículo.
 
-[^c5_deudas]: COIP, art. 279, inciso segundo, según la redacción conocida. **[verificar]**
+[^c5_deudas]: COIP, art. 279, inciso segundo.
 
-[^c5_penas]: Los rangos de la tabla corresponden a la redacción conocida del art. 279. **[verificar las penas y los montos vigentes]**
+[^c5_penas]: COIP, art. 279, incisos primero, tercero y cuarto.
 
-[^c5_art297]: COIP, art. 297 (enriquecimiento privado no justificado). Comentario del autor: la existencia de esta figura, con una pena menor y para cualquier persona, refuerza la idea de que el art. 279 exige algo más que un patrimonio inexplicado: exige el nexo con el cargo. **[verificar el texto y el monto vigentes]**
+[^c5_art297]: COIP, art. 297 (enriquecimiento privado no justificado). Comentario del autor: la existencia de esta figura, con una pena menor y para cualquier persona, refuerza la idea de que el art. 279 exige algo más que un patrimonio inexplicado: exige el nexo con el cargo.
+
+[^c5_art289]: COIP, art. 289, inciso primero. El inciso segundo, incorporado por la consulta popular de 4 de febrero de 2018, sanciona a la persona jurídica con su extinción y multa de quinientos a mil SBU.
+
+[^c5_art455]: COIP, art. 455 (nexo causal).
 
 [^c5_inocencia]: Constitución, arts. 76.2 y 77.7.c. Ver también la Convención Americana sobre Derechos Humanos, art. 8.2 y 8.2.g.
 
@@ -683,7 +781,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Constitución | Arts. 76 (debido proceso y presunción de inocencia) y 233 (régimen de los delitos contra la administración pública) |
 | Tratados | Convenciones de Viena (1988), Palermo (2000) y Mérida (2003) |
 | Estándares | 40 Recomendaciones del GAFI |
-| Penal | COIP: art. 317 (lavado de activos), art. 318 (incriminación falsa por lavado de activos), art. 319 (omisión de control de lavado de activos) **[verificar numeración vigente]** |
+| Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
 | Preventivo | Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos (2016) y su reglamento |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
 | Jurisprudencia | Resolución CNJ 20-2024 |
@@ -762,7 +860,7 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 
 [^c11_ley2005]: Ley para Reprimir el Lavado de Activos, Registro Oficial No. 127 de 18 de octubre de 2005. **[verificar]**
 
-[^c11_coip317]: COIP, art. 317. La cláusula de autonomía establece que el lavado se investiga y juzga como delito autónomo, y que ello no exime a la Fiscalía de investigar el origen ilícito de los activos. Comentario del autor: esta segunda parte de la norma es la que con más frecuencia se omite al citarla. **[verificar la redacción vigente]**
+[^c11_coip317]: COIP, art. 317. La cláusula de autonomía establece que el lavado se investiga y juzga como delito autónomo, y que ello no exime a la Fiscalía de investigar el origen ilícito de los activos. El texto vigente dice: "Estos delitos son considerados como autónomos de otros cometidos dentro o fuera del país, sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas. Esto no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito." Comentario del autor: esta segunda parte de la norma es la que con más frecuencia se omite al citarla.
 
 [^c11_ley2016]: La ley de 2016 regula el sistema de prevención, los sujetos obligados a reportar y las funciones de la UAFE. **[verificar el Registro Oficial]**
 
@@ -817,7 +915,9 @@ Como vimos en el capítulo 11, el recorrido normativo del país va desde la Ley 
 
 #### 12.3.2. El art. 317 del COIP
 
-El art. 317 tipifica seis conductas de lavado. Para este capítulo, lo relevante es la **cláusula de autonomía**, según la cual el lavado de activos se investiga, enjuicia y sentencia como **delito autónomo** de otros cometidos dentro o fuera del país, sin que ello **exima a la Fiscalía de la obligación de investigar el origen ilícito de los activos**[^c12_art317].
+El art. 317, reformado en 2021 y en 2024, tipifica siete conductas de lavado. Para este capítulo, lo relevante es la **cláusula de autonomía**, que dice textualmente:
+
+> "Estos delitos son considerados como autónomos de otros cometidos dentro o fuera del país, sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas. Esto no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito."[^c12_art317]
 
 Como podrá apreciar el lector, la norma contiene en una sola frase las dos caras del problema:
 1. **La autonomía:** el lavado no depende de otro proceso.
@@ -1035,7 +1135,7 @@ Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenari
 
 [^c12_antecedentes]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, R.O. 523 de 17 de septiembre de 1990; Ley para Reprimir el Lavado de Activos, R.O. 127 de 18 de octubre de 2005. **[verificar]** Véase el capítulo 11, apartado 11.5.
 
-[^c12_art317]: COIP, art. 317. **[verificar la redacción vigente de la cláusula de autonomía]** Comentario del autor: la segunda parte de la norma, la obligación de investigar el origen ilícito, es la que con más frecuencia se omite al citarla.
+[^c12_art317]: COIP, art. 317, modificado por el art. 9 de la ley publicada en el R.O. Supl. 525 de 27 de agosto de 2021 y reformado por el art. 8 de la ley publicada en el R.O. Supl. 599 de 12 de julio de 2024. La compilación vigente remite, en nota a este artículo, a la Resolución de triple reiteración No. 20 de la Corte Nacional (R.O. Supl. 689, 22 de noviembre de 2024). Comentario del autor: la segunda parte de la norma, la obligación de investigar el origen ilícito, es la que con más frecuencia se omite al citarla.
 
 [^c12_cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. **[verificar el texto literal de la parte resolutiva y los números de los fallos de triple reiteración]**
 
@@ -1158,7 +1258,7 @@ Si bien es cierto que la ignorancia deliberada responde a una preocupación leg�
 
 1. **El art. 26 exige conocimiento.** La ignorancia deliberada es, por definición, la **falta** de conocimiento. Equiparar la ignorancia con el conocimiento es crear, por vía interpretativa, una forma de responsabilidad que el legislador no previó.
 2. **El art. 13 del COIP prohíbe la analogía en perjuicio del procesado.** Tratar a quien no sabía como si supiera es exactamente eso: ampliar los presupuestos de la sanción.
-3. **Convierte un deber de averiguar en un delito.** El ciudadano común no tiene la obligación legal de investigar el origen de todo el dinero que recibe. Esa obligación sí la tienen los **sujetos obligados** del sistema de prevención (bancos, notarías, inmobiliarias y otros), y su incumplimiento tiene su propio tipo penal: la **omisión de control** del art. 319 del COIP **[verificar]**.
+3. **Convierte un deber de averiguar en un delito.** El ciudadano común no tiene la obligación legal de investigar el origen de todo el dinero que recibe. Esa obligación sí la tienen los **sujetos obligados** del sistema de prevención (bancos, notarías, inmobiliarias y otros), y su incumplimiento tiene su propio tipo penal: la **omisión de control** del art. 319 del COIP, sancionada con seis meses a un año.
 
 En consecuencia, la defensa debe insistir en que la ignorancia deliberada no es una forma de dolo en el COIP. Lo que sí puede hacer la Fiscalía, y es legítimo, es **probar el conocimiento mediante indicios**. Pero eso es otra cosa: es demostrar que el procesado sabía, no presumir que debía saber.
 
@@ -1922,9 +2022,8 @@ El inciso final del art. 49 contiene una regla de exclusión que la defensa no d
 #### 16.3.4. La reforma de 2021: los programas de cumplimiento
 
 La Ley Orgánica Reformatoria del COIP en Materia Anticorrupción de 2021 reformó los arts. 45 y 49[^c16_reforma2021]:
-- incorporó al **art. 45 un numeral 7** con circunstancias atenuantes propias de las personas jurídicas, entre ellas haber implementado, **antes de la comisión del delito**, sistemas de integridad, normas, programas o políticas de cumplimiento, prevención, dirección o supervisión;
-- estableció en el **art. 49** los **requisitos mínimos** que deben cumplir esos sistemas de integridad;
-- según las fuentes disponibles, en las personas jurídicas de gran tamaño el programa debe estar a cargo de un **departamento u órgano autónomo**, y en las pequeñas y medianas empresas, de una **persona responsable**.
+- incorporó al **art. 45 un numeral 7** con cuatro circunstancias atenuantes propias de las personas jurídicas: denunciar o confesar espontáneamente el delito antes de la formulación de cargos; colaborar con la investigación aportando pruebas nuevas y decisivas; reparar integralmente los daños antes de la etapa de juicio; y haber implementado, **antes de la comisión del delito**, sistemas de integridad, normas, programas o políticas de cumplimiento, prevención, dirección o supervisión, a cargo de un **departamento u órgano autónomo** en las personas jurídicas de mayor dimensión, o de una **persona responsable** en las pequeñas y medianas empresas, "cuyo funcionamiento se incorpore en todos los niveles" de la organización[^c16_art457];
+- estableció en el **art. 49** once **requisitos mínimos** que deben cumplir esos sistemas: identificación y administración de riesgos; controles internos con responsables; supervisión y monitoreo continuo, interno e independiente; modelos de gestión financiera; canal de denuncias; código de ética; capacitación del personal; mecanismos de investigación interna; obligación de informar al encargado de cumplimiento; normas disciplinarias; y programas "conozca a su cliente" o de debida diligencia.
 
 Es importante diferenciar el alcance de esta reforma. En el Ecuador, **el programa de cumplimiento atenúa la responsabilidad, pero no la excluye**. Es una diferencia sustancial frente a otros países, como veremos en el apartado 16.5.
 
@@ -2047,13 +2146,15 @@ Congreso de la República del Perú. (2016). *Ley No. 30424, que regula la respo
 
 España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* [art. 31 bis].
 
-[^c16_art49]: COIP, art. 49, incisos primero y segundo, según el texto con última modificación de 17 de febrero de 2021. **[verificar la redacción vigente tras la reforma anticorrupción]**
+[^c16_art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 
 [^c16_art50]: COIP, art. 50 (concurrencia de la responsabilidad penal).
 
 [^c16_exclusion]: COIP, art. 49, inciso final: "No hay lugar a la determinación de la responsabilidad penal de la persona jurídica, cuando el delito se comete por cualquiera de las personas naturales indicadas en el inciso primero, en beneficio de un tercero ajeno a la persona jurídica."
 
-[^c16_reforma2021]: Ley Orgánica Reformatoria del COIP en Materia Anticorrupción, Segundo Suplemento del R.O. 392 de 17 de febrero de 2021, con vigencia a los 180 días de su publicación. **[verificar el texto literal de los arts. 45.7 y 49 reformados]**
+[^c16_reforma2021]: Ley Orgánica Reformatoria del COIP en Materia Anticorrupción, Segundo Suplemento del R.O. 392 de 17 de febrero de 2021. Los textos de los arts. 45.7 y 49 se contrastaron con la compilación del COIP con última actualización de 7 de octubre de 2026.
+
+[^c16_art457]: COIP, art. 45, num. 7. En la compilación consultada, las cuatro circunstancias aparecen numeradas de forma continua como numerales 7 a 10; según la nota de la propia compilación, todas fueron incorporadas como numeral 7 por el art. 1 de la ley publicada en el R.O. Supl. 392.
 
 [^c16_art71]: COIP, art. 71 (penas para las personas jurídicas).
 

@@ -94,7 +94,7 @@ Si bien es cierto que la ignorancia deliberada responde a una preocupación leg�
 
 1. **El art. 26 exige conocimiento.** La ignorancia deliberada es, por definición, la **falta** de conocimiento. Equiparar la ignorancia con el conocimiento es crear, por vía interpretativa, una forma de responsabilidad que el legislador no previó.
 2. **El art. 13 del COIP prohíbe la analogía en perjuicio del procesado.** Tratar a quien no sabía como si supiera es exactamente eso: ampliar los presupuestos de la sanción.
-3. **Convierte un deber de averiguar en un delito.** El ciudadano común no tiene la obligación legal de investigar el origen de todo el dinero que recibe. Esa obligación sí la tienen los **sujetos obligados** del sistema de prevención (bancos, notarías, inmobiliarias y otros), y su incumplimiento tiene su propio tipo penal: la **omisión de control** del art. 319 del COIP **[verificar]**.
+3. **Convierte un deber de averiguar en un delito.** El ciudadano común no tiene la obligación legal de investigar el origen de todo el dinero que recibe. Esa obligación sí la tienen los **sujetos obligados** del sistema de prevención (bancos, notarías, inmobiliarias y otros), y su incumplimiento tiene su propio tipo penal: la **omisión de control** del art. 319 del COIP, sancionada con seis meses a un año.
 
 En consecuencia, la defensa debe insistir en que la ignorancia deliberada no es una forma de dolo en el COIP. Lo que sí puede hacer la Fiscalía, y es legítimo, es **probar el conocimiento mediante indicios**. Pero eso es otra cosa: es demostrar que el procesado sabía, no presumir que debía saber.
 
