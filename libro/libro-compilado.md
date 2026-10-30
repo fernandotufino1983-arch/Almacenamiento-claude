@@ -6,7 +6,7 @@
 
 <<CENTER>> Borrador de trabajo · Octubre de 2026
 
-> **Nota sobre este borrador.** Este documento reúne los capítulos redactados hasta la fecha: 11, 12, 13, 14 y 15 de la Parte III del índice propuesto. Los demás capítulos están pendientes. Las citas marcadas con [verificar] deben contrastarse con su fuente original, y los espacios [Nota del autor] son para la experiencia y el criterio propios del autor. Formato de citas y referencias: APA, 7.ª edición. Al abrir el documento, si Word lo solicita, acepte actualizar los campos para que se genere el índice.
+> **Nota sobre este borrador.** Este documento reúne los capítulos redactados hasta la fecha: 11 a 17, que conforman la Parte III del índice propuesto. Los demás capítulos están pendientes. Las citas marcadas con [verificar] deben contrastarse con su fuente original, y los espacios [Nota del autor] son para la experiencia y el criterio propios del autor. Formato de citas y referencias: APA, 7.ª edición. Al abrir el documento, si Word lo solicita, acepte actualizar los campos para que se genere el índice.
 
 <<PAGEBREAK>>
 <<TOC>>
@@ -1320,3 +1320,372 @@ Corte Nacional de Justicia del Ecuador. (2019). *Resolución que deja sin efecto
 [^c15_analogia]: COIP, art. 13, num. 3: "Queda prohibida la utilización de la analogía para crear infracciones penales, ampliar los límites de los presupuestos legales que permiten la aplicación de una sanción o medida cautelar o para establecer excepciones o restricciones de derechos." Comentario del autor: la prohibición está dirigida a la analogía en perjuicio del procesado; la analogía en su favor no está prohibida.
 
 [^c15_colombia]: Código Penal colombiano (Ley 599 de 2000), art. 31, parágrafo (delito continuado y delito masa). **[verificar]**
+
+<<PAGEBREAK>>
+## Capítulo 16. La responsabilidad penal de la persona jurídica
+
+
+### 16.1. Planteamiento
+
+Durante siglos, el derecho penal se construyó sobre una idea que parecía indiscutible: *societas delinquere non potest*, la sociedad no puede delinquir. Solo las personas naturales tienen voluntad, conciencia y capacidad de culpa; la empresa, en cambio, sería una ficción jurídica incapaz de cometer delitos.
+
+Esa idea se derrumbó frente a la realidad de la criminalidad económica. En los grandes casos de corrupción y de lavado de activos, la empresa no es un simple instrumento: es el escenario, el vehículo y, muchas veces, la principal beneficiaria del delito. Y cuando la estructura de decisiones se diluye entre directorios, gerencias y departamentos, identificar a la persona natural responsable se vuelve casi imposible.
+
+En este orden de ideas, el COIP de 2014 incorporó la responsabilidad penal de las personas jurídicas, y la reforma anticorrupción de 2021 la completó con los programas de cumplimiento. Para el abogado que trabaja en delitos económicos, este es hoy un tema ineludible: tanto para defender a la empresa procesada como para asesorarla antes de que el problema llegue.
+
+### 16.2. Los modelos de imputación
+
+La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009; Gómez-Jara Díez, 2010):
+
+| Modelo | Idea central | Consecuencia |
+|---|---|---|
+| **Heterorresponsabilidad** (vicarial o por transferencia) | La empresa responde por el delito que comete una persona natural vinculada a ella, en su beneficio | Basta probar el delito de la persona natural y su vínculo con la empresa |
+| **Autorresponsabilidad** (defecto de organización) | La empresa responde por su **propio** hecho: no haberse organizado para prevenir el delito | Importa cómo estaba organizada la empresa: sus controles, su cultura de cumplimiento |
+
+La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
+
+Como veremos, el COIP adoptó en su texto original un modelo cercano a la **heterorresponsabilidad**, y la reforma de 2021 introdujo elementos de **autorresponsabilidad** a través de los programas de cumplimiento.
+
+### 16.3. La regulación en el COIP
+
+#### 16.3.1. El art. 49: los presupuestos
+
+El art. 49 dispone que, "en los supuestos previstos en este Código", las personas jurídicas nacionales o extranjeras de derecho privado son penalmente responsables **por los delitos cometidos para beneficio propio o de sus asociados**, por la acción u omisión de quienes ejercen su propiedad o control, sus órganos de gobierno o administración, sus representantes, agentes, ejecutivos y, en general, de quienes actúen bajo órdenes o instrucciones de esas personas[^c16_art49].
+
+De esta norma se desprenden los presupuestos de la responsabilidad:
+1. **Una persona jurídica de derecho privado**, nacional o extranjera. Las personas jurídicas de derecho público quedan excluidas.
+2. **Un delito "en los supuestos previstos en este Código".**
+3. **Cometido por una de las personas naturales** que enumera la norma.
+4. **En beneficio propio de la persona jurídica o de sus asociados.**
+
+#### 16.3.2. La independencia de la responsabilidad
+
+El mismo art. 49 establece que la responsabilidad de la persona jurídica es **independiente** de la responsabilidad de las personas naturales que intervengan en el delito. El art. 50 lo refuerza: esa responsabilidad no se extingue aunque la persona natural haya fallecido, haya eludido la acción de la justicia, haya sido sobreseída o se haya extinguido su responsabilidad. Tampoco se extingue por la **fusión, transformación, escisión, disolución o liquidación** de la empresa[^c16_art50].
+
+#### 16.3.3. La exclusión: el beneficio de un tercero
+
+El inciso final del art. 49 contiene una regla de exclusión que la defensa no debe pasar por alto: **no hay responsabilidad de la persona jurídica cuando el delito se comete en beneficio de un tercero ajeno a ella**[^c16_exclusion]. Es decir, si el gerente que soborna lo hace para favorecer un negocio personal, y no el de la empresa, la empresa no responde.
+
+#### 16.3.4. La reforma de 2021: los programas de cumplimiento
+
+La Ley Orgánica Reformatoria del COIP en Materia Anticorrupción de 2021 reformó los arts. 45 y 49[^c16_reforma2021]:
+- incorporó al **art. 45 un numeral 7** con circunstancias atenuantes propias de las personas jurídicas, entre ellas haber implementado, **antes de la comisión del delito**, sistemas de integridad, normas, programas o políticas de cumplimiento, prevención, dirección o supervisión;
+- estableció en el **art. 49** los **requisitos mínimos** que deben cumplir esos sistemas de integridad;
+- según las fuentes disponibles, en las personas jurídicas de gran tamaño el programa debe estar a cargo de un **departamento u órgano autónomo**, y en las pequeñas y medianas empresas, de una **persona responsable**.
+
+Es importante diferenciar el alcance de esta reforma. En el Ecuador, **el programa de cumplimiento atenúa la responsabilidad, pero no la excluye**. Es una diferencia sustancial frente a otros países, como veremos en el apartado 16.5.
+
+### 16.4. Las penas (art. 71)
+
+El art. 71 establece las penas específicas para las personas jurídicas[^c16_art71]:
+
+| Pena | Contenido |
+|---|---|
+| **1. Multa** | Según la escala prevista para cada delito |
+| **2. Comiso penal** | Cesan de pleno derecho los actos y contratos sobre los bienes decomisados, sin perjuicio de los derechos de terceros de buena fe |
+| **3. Clausura temporal o definitiva** | De los locales o establecimientos en los que se cometió el delito |
+| **4. Actividades en beneficio de la comunidad** | Sujetas a seguimiento y evaluación judicial |
+| **5. Remediación integral de los daños ambientales** | |
+| **6. Disolución y liquidación** | Sin posibilidad de recontratación ni reactivación |
+| **7. Prohibición de contratar con el Estado** | Temporal o definitiva, según la gravedad |
+
+La disolución es, en la práctica, la "pena de muerte" de la empresa. Por eso su imposición debe someterse a un estricto control de **proporcionalidad** (art. 76.6 de la Constitución): no puede imponerse a una empresa con una actividad lícita real y con trabajadores, cuando una pena menos gravosa es suficiente.
+
+### 16.5. Derecho comparado
+
+| País | Norma | Efecto del programa de cumplimiento |
+|---|---|---|
+| **España** | Código Penal, art. 31 bis (desde 2010; reformado en 2015) | **Eximente**, si se adoptó y ejecutó eficazmente antes del delito; atenuante si se acredita parcialmente[^c16_espana] |
+| **Chile** | Ley No. 20.393 (2009) | El modelo de prevención puede **excluir** la responsabilidad[^c16_chile] |
+| **Perú** | Ley No. 30424 (2016) | El modelo de prevención puede **eximir** de responsabilidad[^c16_peru] |
+| **Ecuador** | COIP, arts. 45.7 y 49 (reforma de 2021) | Solo **atenúa** |
+
+Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021).
+
+### 16.6. Estrategia de defensa de la persona jurídica
+
+#### 16.6.1. Atacar los presupuestos del art. 49
+
+1. **¿Es un "supuesto previsto en este Código"?** La expresión puede leerse de dos formas: que la persona jurídica responde por **cualquier** delito, o que responde solo por los delitos en los que el COIP **prevé expresamente** una pena para ella. La defensa debe sostener la segunda lectura, más estricta y conforme al art. 13 del COIP[^c16_supuestos].
+2. **¿Quién cometió el delito?** Debe ser una de las personas que enumera el art. 49. Si el autor es un tercero sin vínculo con la empresa, no hay responsabilidad.
+3. **¿En beneficio de quién?** Si el beneficio fue para la persona natural o para un tercero ajeno, opera la exclusión del inciso final del art. 49.
+4. **¿Se probó el delito de la persona natural?** Aunque la responsabilidad de la empresa es independiente, la Fiscalía debe probar que **existió el delito**, aunque no identifique o no condene a la persona natural.
+
+#### 16.6.2. El programa de cumplimiento
+
+- **Como atenuante (art. 45.7):** acredite con documentos que el programa existía **antes** del delito, que se aplicaba en la práctica y que cumplía los requisitos mínimos del art. 49. Un programa en papel, sin capacitación, sin canal de denuncias y sin controles reales, no sirve.
+- **Como argumento de culpabilidad:** si la empresa estaba bien organizada y el delito fue obra de un empleado que eludió fraudulentamente los controles, la defensa puede sostener, desde el modelo de autorresponsabilidad, que **no hubo defecto de organización** y, por tanto, que falta la culpabilidad propia de la empresa. Es un argumento doctrinal que todavía no tiene respaldo expreso en el texto legal, pero que se apoya en el principio de culpabilidad.
+
+#### 16.6.3. La proporcionalidad de la pena
+
+- Pida que se escoja la pena **menos gravosa** suficiente, y argumente contra la disolución cuando la empresa tiene actividad lícita real.
+- Haga valer los **derechos de los terceros de buena fe**: trabajadores, acreedores, proveedores y clientes.
+
+#### 16.6.4. Las garantías procesales de la persona jurídica
+
+La persona jurídica procesada tiene **derecho a la defensa**, a ser informada de la imputación, a presentar prueba y a recurrir. Conviene definir desde el inicio **quién la representa en el proceso**: no debería ser la misma persona natural acusada, porque sus intereses pueden ser contrapuestos.
+
+### 16.7. Asesoría preventiva: el programa de cumplimiento
+
+Para el abogado, la responsabilidad penal de la persona jurídica no es solo un tema de litigio. Es también un **servicio de asesoría preventiva**. Un programa de cumplimiento mínimo debería contener:
+1. Un **mapa de riesgos** penales propio de la actividad de la empresa.
+2. Un **código de ética** y políticas específicas: anticorrupción, conflictos de interés, regalos, relación con funcionarios.
+3. **Procedimientos de debida diligencia** sobre clientes, proveedores y socios.
+4. Un **canal de denuncias** confidencial, con protección para quien denuncia.
+5. Un **oficial o comité de cumplimiento** con autonomía y recursos.
+6. **Capacitación** periódica y documentada.
+7. Un **régimen disciplinario** para los incumplimientos.
+8. **Revisión y actualización** periódicas.
+
+[Nota del autor: espacio para la experiencia del autor en la asesoría a empresas, o para un comentario sobre el nivel de implementación del compliance en el Ecuador.]
+
+### 16.8. Caso práctico resuelto
+
+#### Los hechos
+"Constructora del Litoral S.A.", empresa con 120 trabajadores, gana tres contratos municipales. Se descubre que su gerente comercial pagó sobornos a un funcionario del comité de contratación. La empresa tenía un código de ética y un oficial de cumplimiento desde 2022, pero no tenía canal de denuncias ni capacitaciones documentadas. La Fiscalía acusa al gerente por cohecho activo y a la empresa como persona jurídica, y pide su disolución.
+
+#### Análisis
+1. **¿Beneficio de la empresa?** Sí: los contratos se adjudicaron a la empresa. No opera la exclusión del inciso final del art. 49.
+2. **¿Es un supuesto previsto?** Debe verificarse si el cohecho del art. 280 prevé una pena para la persona jurídica, o si la Fiscalía se apoya en una lectura amplia del art. 49.
+3. **El programa de cumplimiento.** Existía antes del delito, pero era incompleto. Puede sostenerse la **atenuante del art. 45.7**, aunque la Fiscalía cuestionará su eficacia.
+4. **La pena.** La disolución es desproporcionada para una empresa con actividad lícita real y 120 trabajadores. La defensa debe proponer, por ejemplo, una multa y la prohibición temporal de contratar con el Estado.
+
+#### Conclusión
+La defensa difícilmente evitará la responsabilidad de la empresa, pero puede lograr una **pena atenuada y proporcional**, y evitar la disolución. La lección para la asesoría preventiva es evidente: un programa de cumplimiento completo y documentado, implementado antes de los hechos, habría fortalecido mucho la posición de la empresa.
+
+### 16.9. Lista de revisión
+
+- [ ] ¿Es una persona jurídica de derecho privado?
+- [ ] ¿El delito imputado prevé expresamente una pena para la persona jurídica?
+- [ ] ¿La persona natural que actuó está entre las que enumera el art. 49?
+- [ ] ¿El beneficio fue para la empresa, para sus asociados o para un tercero?
+- [ ] ¿Se probó la existencia del delito?
+- [ ] ¿Existía un programa de cumplimiento antes del delito? ¿Se aplicaba en la práctica?
+- [ ] ¿La pena pedida es proporcional? ¿Se protege a los terceros de buena fe?
+- [ ] ¿Quién representa a la empresa en el proceso, y tiene intereses contrapuestos con la persona natural acusada?
+
+### 16.10. Preguntas para la reflexión
+
+1. ¿Qué diferencia hay entre el modelo de heterorresponsabilidad y el de autorresponsabilidad?
+2. ¿Por qué la exclusión del inciso final del art. 49 es una herramienta importante para la defensa?
+3. ¿Qué diferencia de fondo hay entre el compliance en el Ecuador y en España, Chile o Perú?
+4. ¿Cómo interpretaría la expresión "en los supuestos previstos en este Código" del art. 49?
+5. ¿Con qué argumentos se opondría a la disolución de una empresa?
+
+### Referencias
+
+Gómez-Jara Díez, C. (2010). *Fundamentos modernos de la responsabilidad penal de las personas jurídicas*. B de F.
+
+Tiedemann, K. (1988). Die "Bebußung" von Unternehmen nach dem 2. Gesetz zur Bekämpfung der Wirtschaftskriminalität. *Neue Juristische Wochenschrift*, *41*, 1169-1174 [verificar].
+
+Zúñiga Rodríguez, L. (2009). *Bases para un modelo de imputación de responsabilidad penal a las personas jurídicas* (3.ª ed.). Aranzadi.
+
+Iurisdictio. (2021). *Responsabilidad penal de las personas jurídicas y programas de cumplimiento en el Ecuador* [Revista de la Universidad San Francisco de Quito; verificar autor y título exactos].
+
+**Normativa**
+
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; verificar la versión vigente].
+
+Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
+
+Congreso Nacional de Chile. (2009). *Ley No. 20.393, que establece la responsabilidad penal de las personas jurídicas*.
+
+Congreso de la República del Perú. (2016). *Ley No. 30424, que regula la responsabilidad administrativa de las personas jurídicas*.
+
+España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* [art. 31 bis].
+
+[^c16_art49]: COIP, art. 49, incisos primero y segundo, según el texto con última modificación de 17 de febrero de 2021. **[verificar la redacción vigente tras la reforma anticorrupción]**
+
+[^c16_art50]: COIP, art. 50 (concurrencia de la responsabilidad penal).
+
+[^c16_exclusion]: COIP, art. 49, inciso final: "No hay lugar a la determinación de la responsabilidad penal de la persona jurídica, cuando el delito se comete por cualquiera de las personas naturales indicadas en el inciso primero, en beneficio de un tercero ajeno a la persona jurídica."
+
+[^c16_reforma2021]: Ley Orgánica Reformatoria del COIP en Materia Anticorrupción, Segundo Suplemento del R.O. 392 de 17 de febrero de 2021, con vigencia a los 180 días de su publicación. **[verificar el texto literal de los arts. 45.7 y 49 reformados]**
+
+[^c16_art71]: COIP, art. 71 (penas para las personas jurídicas).
+
+[^c16_espana]: Código Penal español, art. 31 bis, introducido por la Ley Orgánica 5/2010 y reformado por la Ley Orgánica 1/2015. **[verificar]**
+
+[^c16_chile]: Ley No. 20.393 de 2009, arts. 3 y 4 (deberes de dirección y supervisión, y modelo de prevención). **[verificar]**
+
+[^c16_peru]: Ley No. 30424 de 2016, art. 17 (eximente por implementación de un modelo de prevención). **[verificar]** Comentario del autor: aunque la ley peruana la denomina "responsabilidad administrativa", se trata de una responsabilidad que se determina en el proceso penal.
+
+[^c16_supuestos]: Comentario del autor: la interpretación estricta exige que el tipo penal prevea una sanción para la persona jurídica. Conviene revisar, delito por delito, si el COIP establece una pena específica para la persona jurídica, por ejemplo en el lavado de activos (art. 317). **[verificar]**
+
+<<PAGEBREAK>>
+## Capítulo 17. La extinción de dominio y las medidas cautelares reales
+
+
+### 17.1. Planteamiento
+
+Durante años, la respuesta del Estado frente a los bienes de origen ilícito dependió de una sola herramienta: el **comiso penal**, que exige una sentencia condenatoria. Y aquí aparece el problema que ya conocemos: el autor del delito puede estar prófugo, haber fallecido, o haber dejado los bienes a nombre de terceros. Sin condena no hay comiso, y sin comiso los bienes permanecen en manos de quien no debería tenerlos.
+
+La **extinción de dominio** nació para resolver ese problema. Es una acción **dirigida contra los bienes**, no contra las personas, que permite al Estado declarar que un bien de origen o destino ilícito no merece la protección del derecho de propiedad, **con independencia de que exista o no una condena penal**.
+
+Es por esta razón que el abogado defensor en casos de corrupción y de lavado debe vigilar siempre dos frentes al mismo tiempo: el proceso penal contra su cliente y el proceso de extinción de dominio contra sus bienes. Ganar el primero no garantiza ganar el segundo.
+
+### 17.2. Origen: el modelo colombiano
+
+La extinción de dominio es una creación del derecho colombiano. La **Constitución de Colombia de 1991**, en su art. 34, estableció que se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del tesoro público o con grave deterioro de la moral social[^c17_colombia_const]. El desarrollo legal llegó con la Ley 333 de 1996, la Ley 793 de 2002 y, finalmente, el **Código de Extinción de Dominio** (Ley 1708 de 2014)[^c17_colombia_leyes].
+
+En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011).
+
+### 17.3. La extinción de dominio en el Ecuador
+
+#### 17.3.1. La ley de 2021
+
+El Ecuador aprobó la **Ley Orgánica de Extinción de Dominio** en 2021[^c17_ley]. Su tramitación tuvo un capítulo decisivo en la Corte Constitucional, que conviene conocer porque marca los límites del instituto.
+
+#### 17.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional
+
+El Presidente de la República objetó por inconstitucionalidad varios artículos del proyecto. La Corte Constitucional, en el **Dictamen No. 1-21-OP/21 de 17 de marzo de 2021**, aceptó parcialmente esas objeciones y concluyó que el **carácter imprescriptible** y **retrospectivo** que el proyecto atribuía a la acción de extinción de dominio era **inconstitucional**, por ser incompatible con el derecho a la **seguridad jurídica** y con el principio de **legalidad**[^c17_dictamen].
+
+Las fuentes que analizan el dictamen destacan que la retroactividad prevista en el proyecto era ilimitada: el Estado habría podido reclamar bienes adquiridos en cualquier momento del pasado, sin importar cuántos terceros de buena fe los hubieran adquirido después.
+
+**Para el abogado defensor, este dictamen es fundamental.** Significa que la extinción de dominio en el Ecuador **tiene límites temporales** y **no puede aplicarse de forma ilimitada hacia el pasado**. Cualquier demanda que desconozca esos límites es atacable.
+
+### 17.4. Naturaleza jurídica
+
+Es importante diferenciar la extinción de dominio de las figuras con las que suele confundirse:
+
+| Rasgo | Extinción de dominio | Comiso penal |
+|---|---|---|
+| Naturaleza | Acción **real** y **patrimonial**: se dirige contra los bienes | **Pena**, impuesta a una persona |
+| Proceso | **Autónomo** e independiente del proceso penal | Dentro del proceso penal |
+| ¿Requiere condena? | **No** | **Sí** |
+| ¿Quién la promueve? | La Procuraduría General del Estado, sobre la base de la investigación patrimonial de la Fiscalía[^c17_actores] | La Fiscalía, en la acusación |
+| Estándar | Por verificar en la ley (en Colombia rige un estándar menos exigente que el penal) | Más allá de toda duda razonable |
+| Garantías | Debido proceso y derecho a la defensa; se discute el alcance de la presunción de inocencia | Todas las garantías penales |
+
+Como podrá apreciar el lector, la autonomía de la extinción de dominio tiene una consecuencia práctica muy seria: **la absolución penal no impide necesariamente la extinción de dominio**. El proceso patrimonial no discute la culpabilidad de una persona, sino el origen o destino de un bien.
+
+### 17.5. Los presupuestos
+
+Según las fuentes disponibles, para que proceda la extinción de dominio deben acreditarse tres elementos[^c17_presupuestos]:
+1. **La existencia de una actividad ilícita.**
+2. **Que los bienes tengan un origen ilícito o hayan sido destinados a una actividad ilícita.**
+3. **Un nexo causal** entre los bienes y la actividad ilícita.
+
+La ley enumera, además, las **causales** que permiten iniciar la acción. La Corte Constitucional, en el dictamen 1-21-OP/21, exigió que esas causales estén **definidas con claridad** y sean **proporcionales**[^c17_causales].
+
+### 17.6. El procedimiento
+
+Según las fuentes disponibles, el procedimiento tiene **tres fases**[^c17_fases]:
+1. **La investigación patrimonial**, a cargo de la Fiscalía General del Estado.
+2. **La demanda**, que presenta la Procuraduría General del Estado ante los **jueces especializados** en corrupción y crimen organizado.
+3. **El juicio**, en el que el afectado puede defender la licitud de sus bienes, y que concluye con la sentencia.
+
+**[verificar en la ley: plazos de cada fase, recursos, régimen de las medidas cautelares, estándar de prueba y destino de los bienes extinguidos]**
+
+### 17.7. El tercero de buena fe
+
+La protección del **tercero de buena fe** es la principal garantía del sistema. Según las fuentes disponibles, la ley lo define como la persona cuya conducta ha sido **diligente y prudente, exenta de culpa**, en todo acto o negocio jurídico relacionado con los bienes[^c17_buenafe].
+
+Es importante diferenciar esta noción de la buena fe simple del derecho civil:
+- la **buena fe simple** es la creencia de estar actuando correctamente;
+- la **buena fe exenta de culpa**, o **buena fe cualificada**, exige además haber actuado con **diligencia**: haber verificado, con los medios razonables a su alcance, la licitud del bien y de su titular.
+
+**Para la defensa del tercero**, la prueba es documental: estudio de títulos, certificados del Registro de la Propiedad, precio de mercado pagado por medios bancarios, ausencia de señales de alerta y antigüedad de la adquisición.
+
+### 17.8. Las medidas cautelares reales
+
+Tanto en el proceso penal como en el de extinción de dominio, el Estado puede afectar los bienes antes de la sentencia, mediante medidas como la **prohibición de enajenar**, la **retención**, el **secuestro** y la **incautación**[^c17_cautelares].
+
+Estas medidas deben respetar los mismos límites que cualquier medida cautelar:
+- **legalidad:** solo las previstas en la ley;
+- **necesidad:** que exista un riesgo real de que los bienes se pierdan, oculten o transfieran;
+- **proporcionalidad:** que la afectación no exceda lo necesario;
+- **motivación:** que la decisión explique por qué cada bien está vinculado con la actividad ilícita.
+
+**Para la defensa:**
+1. Pida que se levanten las medidas sobre **bienes no vinculados** con la actividad investigada.
+2. Pida que se libere lo necesario para la **subsistencia** de la familia y la **operación** de la empresa.
+3. Haga valer los derechos de los **terceros de buena fe**.
+4. Exija que la medida se mantenga solo mientras subsista el riesgo, y pida su **revisión periódica**.
+
+### 17.9. Estrategia de defensa
+
+#### 17.9.1. En el proceso de extinción de dominio
+1. **Acredite el origen lícito del bien:** es la defensa principal. El peritaje contable y la documentación de la adquisición son decisivos.
+2. **Ataque el nexo causal:** la Procuraduría debe probar el vínculo entre el bien concreto y la actividad ilícita, no solo la existencia de esa actividad.
+3. **Haga valer los límites temporales:** tras el dictamen 1-21-OP/21, la acción no es imprescriptible ni puede aplicarse de forma ilimitada hacia el pasado.
+4. **Defienda la buena fe exenta de culpa** del titular o del tercero adquirente.
+5. **Exija proporcionalidad:** que la extinción no alcance la totalidad del bien cuando solo una parte tiene origen cuestionado.
+6. **Exija que se respete el derecho a la defensa** y el debido proceso, aunque no sea un proceso penal.
+
+#### 17.9.2. La coordinación con el proceso penal
+- **Lo que se declara en un proceso se usa en el otro.** Una explicación del patrimonio dada en la investigación penal será usada en la extinción de dominio, y viceversa.
+- **Una absolución penal es un argumento fuerte, pero no decisivo.** Si la sentencia penal declaró que no se probó el origen ilícito, ese pronunciamiento debe hacerse valer en el proceso patrimonial.
+- **El peritaje de parte sirve en ambos frentes.** Conviene encargarlo una sola vez y con un alcance que cubra los dos procesos.
+
+### 17.10. Caso práctico resuelto
+
+#### Los hechos
+En 2025, la Fiscalía procesa a un exfuncionario municipal por peculado y lavado. Paralelamente, la Procuraduría presenta una demanda de extinción de dominio sobre tres bienes:
+- **(a)** una casa comprada por el exfuncionario en 2012, antes de ingresar al cargo;
+- **(b)** un departamento comprado en 2022, durante su gestión;
+- **(c)** un local comercial que el exfuncionario vendió en 2023 a una comerciante, que pagó el precio de mercado mediante una transferencia bancaria.
+
+#### Análisis
+1. **La casa de 2012.** Fue adquirida antes del cargo y antes de los hechos investigados. No hay nexo causal con el peculado. Además, el dictamen 1-21-OP/21 impide una aplicación retroactiva ilimitada.
+2. **El departamento de 2022.** Es el bien con mayor riesgo. La defensa debe acreditar su origen lícito, por ejemplo con un crédito hipotecario, los ahorros previos o la venta de otro bien.
+3. **El local vendido a la comerciante.** La comerciante es una **tercera de buena fe**: pagó un precio de mercado, por medios bancarios, sin señales de alerta. Su derecho debe protegerse.
+
+#### Conclusión
+Aun si el proceso penal termina en una condena, la extinción de dominio solo debería prosperar, en el mejor de los casos para el Estado, sobre el departamento de 2022, y siempre que la Procuraduría pruebe el nexo causal. La casa de 2012 y el local de la tercera de buena fe deberían quedar fuera.
+
+[Nota del autor: espacio para la experiencia del autor con procesos de extinción de dominio o medidas cautelares reales.]
+
+### 17.11. Lista de revisión
+
+- [ ] ¿Cuándo se adquirió cada bien? ¿Antes o después de los hechos investigados?
+- [ ] ¿Se respetan los límites temporales fijados por el dictamen 1-21-OP/21?
+- [ ] ¿Qué prueba hay del nexo causal entre cada bien y la actividad ilícita?
+- [ ] ¿Puedo acreditar el origen lícito con documentos y con un peritaje?
+- [ ] ¿Hay terceros de buena fe exenta de culpa?
+- [ ] ¿Las medidas cautelares son necesarias y proporcionales? ¿Afectan a bienes no vinculados?
+- [ ] ¿Estoy coordinando la estrategia del proceso penal y la del de extinción de dominio?
+
+### 17.12. Preguntas para la reflexión
+
+1. ¿Qué diferencia hay entre el comiso penal y la extinción de dominio?
+2. ¿Por qué una absolución penal no impide necesariamente la extinción de dominio?
+3. ¿Qué declaró inconstitucional el dictamen 1-21-OP/21, y qué consecuencias tiene para la defensa?
+4. ¿Qué diferencia hay entre la buena fe simple y la buena fe exenta de culpa?
+5. ¿Qué límites deben respetar las medidas cautelares reales?
+
+### Referencias
+
+Oficina de las Naciones Unidas contra la Droga y el Delito. (2011). *Ley modelo sobre extinción de dominio*. UNODC.
+
+**Normativa**
+
+Asamblea Nacional del Ecuador. (2021). *Ley Orgánica de Extinción de Dominio*. Quinto Suplemento del Registro Oficial 452 [verificar la fecha].
+
+Congreso de la República de Colombia. (2014). *Ley 1708 de 2014, por medio de la cual se expide el Código de Extinción de Dominio*.
+
+Constitución Política de Colombia. (1991). Art. 34.
+
+**Jurisprudencia**
+
+Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo de 2021.
+
+[^c17_colombia_const]: Constitución Política de Colombia de 1991, art. 34, inciso segundo. **[verificar]**
+
+[^c17_colombia_leyes]: Ley 333 de 1996, Ley 793 de 2002 y Ley 1708 de 2014 (Código de Extinción de Dominio). **[verificar]**
+
+[^c17_ley]: Ley Orgánica de Extinción de Dominio, publicada en el Quinto Suplemento del Registro Oficial 452 en 2021, según las fuentes disponibles. **[verificar la fecha exacta y el texto oficial]** El texto está disponible en el sitio de la Procuraduría General del Estado.
+
+[^c17_dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 17 de marzo de 2021. **[verificar los términos exactos y los artículos objetados, entre ellos los arts. 4 y 72 del proyecto]** Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; deben verificarse antes de citarlas.
+
+[^c17_actores]: Según las fuentes disponibles, la investigación patrimonial corresponde a la Fiscalía General del Estado y la demanda la presenta la Procuraduría General del Estado. **[verificar en la ley]**
+
+[^c17_presupuestos]: Fuentes periodísticas y académicas sobre la ley. **[verificar en el articulado]**
+
+[^c17_causales]: Comentario del autor: la claridad de las causales es una exigencia del principio de legalidad; una causal ambigua es atacable.
+
+[^c17_fases]: **[verificar en la ley]**
+
+[^c17_buenafe]: **[verificar la definición legal]** Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
+
+[^c17_cautelares]: Sobre las medidas cautelares reales en el proceso penal, véase el COIP; sobre las propias del proceso de extinción de dominio, la ley especial. **[verificar los artículos]**

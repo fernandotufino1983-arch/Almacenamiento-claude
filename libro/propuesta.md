@@ -1,7 +1,7 @@
 # Proyecto de libro: Corrupción y lavado de activos en el COIP
 
 **Autor:** Ab. Fernando Tufiño
-**Estado:** propuesta de índice, pendiente de aprobación
+**Estado:** en redacción. Borradores listos: capítulos 11 a 17 (Parte III).
 
 ## Título tentativo
 **Corrupción y lavado de activos en el Ecuador: dogmática, prueba y estrategias de defensa**
@@ -51,14 +51,15 @@ Alternativas:
 12. **La autonomía del lavado y el delito precedente** (Resolución CNJ 20-2024): "autonomía procesal no es autonomía probatoria".
 13. **El tipo subjetivo:** dolo, dolo eventual e ignorancia deliberada.
 14. **Prueba indiciaria del origen ilícito:** requisitos, indicios típicos y contraindicios.
-15. **Autolavado, concursos y responsabilidad de la persona jurídica.**
-16. **Extinción de dominio y medidas cautelares reales.**
+15. **Concursos de infracciones:** concurso real, ideal y aparente; concurso medial, delito continuado y autolavado.
+16. **La responsabilidad penal de la persona jurídica** y los programas de cumplimiento.
+17. **Extinción de dominio y medidas cautelares reales.**
 
 ### Parte IV. Estrategia de defensa
-17. **La defensa en la investigación previa:** cómo actuar ante un informe de la Contraloría o de la UAFE.
-18. **La pericia contable y patrimonial de parte:** cómo encargarla y cómo atacar la de la Fiscalía.
-19. **Litigación en juicio:** teoría del caso, contraexamen de peritos y alegatos.
-20. **Recursos:** apelación, casación y acción extraordinaria de protección en delitos de corrupción.
+18. **La defensa en la investigación previa:** cómo actuar ante un informe de la Contraloría o de la UAFE.
+19. **La pericia contable y patrimonial de parte:** cómo encargarla y cómo atacar la de la Fiscalía.
+20. **Litigación en juicio:** teoría del caso, contraexamen de peritos y alegatos.
+21. **Recursos:** apelación, casación y acción extraordinaria de protección en delitos de corrupción.
 
 **Anexos**
 - A. Modelos de escritos: oposición a medidas reales, solicitud de pericia, alegato de atipicidad.
