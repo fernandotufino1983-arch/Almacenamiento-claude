@@ -195,7 +195,7 @@ Comete lavado de activos quien, en forma directa o indirecta:
 
 ### 9.3. Tipo subjetivo
 - Es **solo doloso**: el autor debe conocer el origen ilícito.
-- La teoría de la **"ignorancia deliberada"** es discutible frente al art. 26 del COIP, que exige el "designio de causar daño".
+- La teoría de la **"ignorancia deliberada"** es discutible frente al art. 26 del COIP, que, desde la reforma de 2019, define el dolo como actuar "conociendo los elementos objetivos del tipo penal" y ejecutando "voluntariamente la conducta": exige **conocimiento**, y la ignorancia deliberada es justamente la falta de conocimiento.
 - El **error de tipo** (art. 28.1) protege al tercero de buena fe.
 
 ### 9.4. La prueba indiciaria
