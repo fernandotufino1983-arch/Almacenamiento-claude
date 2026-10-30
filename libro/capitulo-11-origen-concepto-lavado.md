@@ -139,6 +139,8 @@ El art. 317 ha cambiado tres veces desde 2014, y esos cambios tienen consecuenci
 
 El razonamiento tiene, sin embargo, una tensión interna que la defensa puede aprovechar. En el mismo fallo, la Corte afirmó que el lavado "solo en la última fase", la integración, se consuma. Si el lavado es de mera actividad, cada acto que encaja en un verbo rector lo consuma; si solo se consuma en la integración, las operaciones anteriores no son todavía lavado. En casos con operaciones que empiezan con una ley y terminan con otra, la defensa debe exigir que la sentencia precise **qué acto consumó el delito y en qué fecha**, y discutir la aplicación de la ley más favorable a los actos anteriores a la reforma.
 
+La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha sostuvo lo contrario que el caso Espinel: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^chiriboga-ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
+
 Por su parte, en el caso Salcedo la Corte aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^salcedo-multa].
 
 ## 11.10. Conclusión
@@ -228,3 +230,5 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 [^espinel-ley]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.5. Algunos procesados no recurrentes pidieron aplicar el art. 15 de la ley de lavado de 2005; la Corte no lo aceptó, entre otras razones porque solo el recurrente podía formular cargos.
 
 [^salcedo-multa]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, nota 3 y parte resolutiva, num. 6.
+
+[^chiriboga-ley]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017), considerando 5.5.2. **[verificar número de proceso y fecha]** La defensa alegó que la ley de 2005 sancionaba el mismo hecho con seis a nueve años.

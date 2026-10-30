@@ -2727,6 +2727,8 @@ El art. 317 ha cambiado tres veces desde 2014, y esos cambios tienen consecuenci
 
 El razonamiento tiene, sin embargo, una tensión interna que la defensa puede aprovechar. En el mismo fallo, la Corte afirmó que el lavado "solo en la última fase", la integración, se consuma. Si el lavado es de mera actividad, cada acto que encaja en un verbo rector lo consuma; si solo se consuma en la integración, las operaciones anteriores no son todavía lavado. En casos con operaciones que empiezan con una ley y terminan con otra, la defensa debe exigir que la sentencia precise **qué acto consumó el delito y en qué fecha**, y discutir la aplicación de la ley más favorable a los actos anteriores a la reforma.
 
+La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha sostuvo lo contrario que el caso Espinel: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^c11_chiriboga_ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
+
 Por su parte, en el caso Salcedo la Corte aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^c11_salcedo_multa].
 
 ### 11.10. Conclusión
@@ -2816,6 +2818,8 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 [^c11_espinel_ley]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.5. Algunos procesados no recurrentes pidieron aplicar el art. 15 de la ley de lavado de 2005; la Corte no lo aceptó, entre otras razones porque solo el recurrente podía formular cargos.
 
 [^c11_salcedo_multa]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, nota 3 y parte resolutiva, num. 6.
+
+[^c11_chiriboga_ley]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017), considerando 5.5.2. **[verificar número de proceso y fecha]** La defensa alegó que la ley de 2005 sancionaba el mismo hecho con seis a nueve años.
 
 <<PAGEBREAK>>
 
@@ -2919,7 +2923,15 @@ Con todo respeto, no puedo compartir ese razonamiento. Una instrucción fiscal e
 
 Para definir lo que debe probarse, la Corte acogió una guía interpretativa elaborada por organismos de cooperación internacional, según la cual no hay que probar el delito precedente "en estricto sentido", sino "la tipicidad objetiva del comportamiento del cual provienen los bienes" y "una relación de causalidad entre los bienes objeto de lavado de activos y un hecho que se ajusta objetivamente a la descripción típica del delito precedente"[^c12_salcedo2].
 
-**c) Mi lectura de ambos fallos.** Si se leen juntos, los dos fallos dejan una regla que el defensor puede y debe usar, y una tendencia que debe resistir.
+**d) Una sentencia de apelación: el caso Chiriboga ("FIFA Gate").** A estos dos fallos de casación conviene sumar la sentencia de la Sala Penal de la Corte Provincial de Pichincha que confirmó, en 2017, la condena del expresidente de la Federación Ecuatoriana de Fútbol a diez años de prisión, del tesorero como coautor y del contador como cómplice, por haber recibido en las cuentas de la Federación USD 6.119.565 entre 2010 y 2015[^c12_chiriboga1]. Para el tema de este capítulo, el fallo deja tres enseñanzas.
+
+La primera es que el tribunal sí identificó una actividad delictiva de origen: el esquema de sobornos de la CONMEBOL y de los titulares de los derechos de transmisión. Pero lo hizo, en lo principal, con base en una **acusación formal** presentada ante un tribunal de los Estados Unidos y en una **denuncia** de la fiscalía argentina, recibidas por asistencia penal internacional. Es decir, otra vez, imputaciones pendientes y no hechos probados. La crítica que formulé al caso Espinel se aplica aquí con la misma fuerza.
+
+La segunda es más preocupante. Respecto de los ingresos por los contratos de derechos de televisión, el tribunal sostuvo que, "al no haber sido facturados o no emitir un comprobante de venta, se cometen otros ilícitos que le contamina al dinero y lo convierte en ilícito". Con todo respeto, esa afirmación invierte la lógica del lavado. El origen del dinero era un contrato, que la propia sentencia reconoce vigente; la falta de facturación posterior podrá constituir, si se cumplen sus elementos, una infracción tributaria, pero no convierte en "producto del delito" un dinero que se obtuvo lícitamente. Un ingreso lícito no declarado no es un activo de origen ilícito; a lo sumo, la cuota tributaria defraudada podría serlo, y solo si se prueba la defraudación.
+
+La tercera tiene que ver con la frase que la UAFE atribuyó a este caso en la audiencia de casación del caso Espinel: "basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". **Esa frase no aparece en la sentencia de apelación**, que revisé completa. Por el contrario, el tribunal afirmó que la carga de la prueba "estaba a cargo del ente acusador" y que el nexo causal tiene como prerrequisito "la certeza de la existencia del delito". Si la frase existe, debe estar en otra decisión del mismo proceso, como la sentencia de casación, y debe verificarse antes de citarla[^c12_chiriboga2].
+
+**c) Mi lectura de los fallos.** Si se leen juntos, los dos fallos de casación dejan una regla que el defensor puede y debe usar, y una tendencia que debe resistir.
 
 La **regla** es la que formula el propio caso Salcedo: aun sin sentencia previa y sin identidad de procesados, la Fiscalía debe acreditar **un hecho que se ajuste objetivamente a un tipo penal** y **una relación de causalidad** entre ese hecho y los bienes. Eso coincide con el **nivel 3** que propongo en la sección 12.4.3. Ni Espinel ni Salcedo autorizan a condenar por un patrimonio simplemente no justificado.
 
@@ -3171,11 +3183,15 @@ Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenari
 
 [^c12_espinel1]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5. La Corte cita a Pariona Pastrana, J. (2007). *El delito precedente en el delito de lavado de activos*. Instituto Pacífico, p. 144.
 
-[^c12_espinel2]: Ibídem, considerando 7.4.1.5. Comentario del autor: en sus intervenciones, la UAFE citó además el llamado caso "FIFA gate" (juicio No. 17282-2015-05549), del que transcribió la frase: "No se necesita la comisión de otros delitos, sino que basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". La Corte no hizo suyo ese criterio. **[verificar el texto de esa sentencia]**
+[^c12_espinel2]: Ibídem, considerando 7.4.1.5. Comentario del autor: en sus intervenciones, la UAFE citó además el llamado caso "FIFA gate" (juicio No. 17282-2015-05549), del que transcribió la frase: "No se necesita la comisión de otros delitos, sino que basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". La Corte no hizo suyo ese criterio, y la frase no aparece en la sentencia de apelación de ese caso (ver el literal d de esta sección).
 
 [^c12_salcedo1]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, párrafos 30 a 37. La Corte se apoyó en la sentencia de la Corte Constitucional No. 768-15-EP/20 para admitir la casación de la Fiscalía frente a una doble sentencia absolutoria, y dispuso que los jueces de instancia informaran sobre sus actuaciones para determinar un posible error inexcusable (art. 109.7 del Código Orgánico de la Función Judicial).
 
 [^c12_salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). **[verificar los datos de publicación de la guía]**
+
+[^c12_chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso seguido contra Luis Gustavo Chiriboga Acosta, Hugo Mora Azanza y Pedro Vera Valverde, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. **[verificar el número de proceso, la fecha y los jueces: la copia revisada no los incluye]**
+
+[^c12_chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: el número corresponde a la causa de primera instancia, y el ponente era juez de la Corte Nacional, lo que sugiere que la frase proviene de la sentencia de casación. **[pendiente: obtener esa sentencia]**
 
 <<PAGEBREAK>>
 
@@ -3260,6 +3276,8 @@ En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es
 
 Para la defensa, la tarea consiste en demostrar que el procesado estaba en la tercera situación, o al menos en generar duda razonable sobre la segunda.
 
+La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha, citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^c13_chiriboga_dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
+
 ### 13.5. La "ignorancia deliberada"
 
 #### 13.5.1. Qué es
@@ -3325,6 +3343,8 @@ Existen actividades cotidianas y profesionales que, aunque contribuyen materialm
 - el **vendedor** que cobra el precio de mercado por un bien.
 
 El fundamento dogmático está en la **imputación objetiva**: quien actúa dentro del **riesgo permitido** de su rol no crea un riesgo jurídicamente desaprobado. La situación cambia cuando el profesional **abandona su rol**: cuando asesora específicamente para ocultar, cobra una comisión desproporcionada por "no hacer preguntas" o adapta la operación para evadir los controles.
+
+El caso Chiriboga ilustra bien esta frontera. El contador de la Federación fue condenado como cómplice. La defensa sostuvo que se limitó a registrar lo que le ordenaban y que sus cuentas guardaban relación con sus ingresos. El tribunal respondió que el lavado "no es el objeto [...] determinar el incremento patrimonial" del procesado, y que lo decisivo fue que registró como "donaciones" transferencias que llegaban con el concepto de "premio" o "contribución", por pedido del presidente[^c13_chiriboga_contador]. Si bien es cierto que esa conducta puede leerse como un abandono del rol, porque el contador alteró el concepto contable de la operación, es importante diferenciar dos cosas que el fallo mezcló: la prueba de que el contador **cambió el concepto** y la prueba de que **conocía el origen ilícito** de los fondos. La primera puede acreditar una irregularidad contable; solo la segunda acredita el dolo del lavado.
 
 #### 13.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)
 
@@ -3483,6 +3503,10 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 [^c13_art36]: COIP, art. 36. Comentario del autor: en estos casos el juez dicta una medida de seguridad en lugar de una pena.
 
 [^c13_bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01). **[verificar la cita y los términos exactos]**
+
+[^c13_chiriboga_dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017). **[verificar número de proceso y fecha]**
+
+[^c13_chiriboga_contador]: Ibídem.
 
 <<PAGEBREAK>>
 

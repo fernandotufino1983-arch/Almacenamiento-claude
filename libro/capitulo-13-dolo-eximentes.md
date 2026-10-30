@@ -80,6 +80,8 @@ En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es
 
 Para la defensa, la tarea consiste en demostrar que el procesado estaba en la tercera situación, o al menos en generar duda razonable sobre la segunda.
 
+La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha, citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^chiriboga-dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
+
 ## 13.5. La "ignorancia deliberada"
 
 ### 13.5.1. Qué es
@@ -145,6 +147,8 @@ Existen actividades cotidianas y profesionales que, aunque contribuyen materialm
 - el **vendedor** que cobra el precio de mercado por un bien.
 
 El fundamento dogmático está en la **imputación objetiva**: quien actúa dentro del **riesgo permitido** de su rol no crea un riesgo jurídicamente desaprobado. La situación cambia cuando el profesional **abandona su rol**: cuando asesora específicamente para ocultar, cobra una comisión desproporcionada por "no hacer preguntas" o adapta la operación para evadir los controles.
+
+El caso Chiriboga ilustra bien esta frontera. El contador de la Federación fue condenado como cómplice. La defensa sostuvo que se limitó a registrar lo que le ordenaban y que sus cuentas guardaban relación con sus ingresos. El tribunal respondió que el lavado "no es el objeto [...] determinar el incremento patrimonial" del procesado, y que lo decisivo fue que registró como "donaciones" transferencias que llegaban con el concepto de "premio" o "contribución", por pedido del presidente[^chiriboga-contador]. Si bien es cierto que esa conducta puede leerse como un abandono del rol, porque el contador alteró el concepto contable de la operación, es importante diferenciar dos cosas que el fallo mezcló: la prueba de que el contador **cambió el concepto** y la prueba de que **conocía el origen ilícito** de los fondos. La primera puede acreditar una irregularidad contable; solo la segunda acredita el dolo del lavado.
 
 ### 13.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)
 
@@ -303,3 +307,7 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 [^art36]: COIP, art. 36. Comentario del autor: en estos casos el juez dicta una medida de seguridad en lugar de una pena.
 
 [^bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01). **[verificar la cita y los términos exactos]**
+
+[^chiriboga-dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación en el caso Chiriboga Acosta y otros (2017). **[verificar número de proceso y fecha]**
+
+[^chiriboga-contador]: Ibídem.
