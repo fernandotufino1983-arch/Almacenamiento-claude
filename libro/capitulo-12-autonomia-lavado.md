@@ -40,7 +40,7 @@ El Ecuador, como miembro del GAFILAT, está sometido a evaluaciones periódicas 
 
 ### 12.3.1. Antecedentes
 
-Como vimos en el capítulo 11, el recorrido normativo del país va desde la Ley de Sustancias Estupefacientes y Psicotrópicas de 1990, que solo sancionaba la conversión de bienes provenientes del narcotráfico, hasta la Ley para Reprimir el Lavado de Activos de 2005 y, finalmente, el Código Orgánico Integral Penal de 2014[^antecedentes]. Hoy el sistema de prevención se rige por la Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos de 2016.
+Como vimos en el capítulo 11, el recorrido normativo del país va desde la Ley de Sustancias Estupefacientes y Psicotrópicas de 1990, que solo sancionaba la conversión de bienes provenientes del narcotráfico, hasta la Ley para Reprimir el Lavado de Activos de 2005 y, finalmente, el Código Orgánico Integral Penal de 2014[^antecedentes]. El sistema de prevención se rigió por la Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos de 2016 hasta el 28 de julio de 2025, y desde el 29 de julio de 2025 se rige por la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, publicada en 2024.
 
 ### 12.3.2. El art. 317 del COIP
 
@@ -309,7 +309,9 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; verificar la versión vigente].
 
-Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar el Registro Oficial].
+Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 de octubre de 2008.
 

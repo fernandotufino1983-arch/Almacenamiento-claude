@@ -170,6 +170,8 @@ Transparency International. (s. f.). *What is corruption?* [verificar la URL y l
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [arts. 11, 76, 77, 83, 195, 204 a 206, 211, 231, 233, 424 y 426].
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 3, 5, 13, 16, 455 y 610].
@@ -194,7 +196,7 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^art610]: COIP, art. 610.
 
-[^instituciones]: Constitución, arts. 195, 204 a 206 y 211. La UAFE se rige por la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (capítulo 11). **[verificar]**
+[^instituciones]: Constitución, arts. 195, 204 a 206 y 211. La UAFE se rige por la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, publicada en el Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 y vigente desde el 29 de julio de 2025 (arts. 16 y 17; capítulo 11).
 
 [^art838]: Constitución, art. 83.8: "Administrar honradamente y con apego irrestricto a la ley el patrimonio público, y denunciar y combatir los actos de corrupción."
 

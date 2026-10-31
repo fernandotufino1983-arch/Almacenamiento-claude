@@ -186,6 +186,8 @@ Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de 
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; verificar la versión vigente].
 
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
@@ -202,7 +204,7 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021; verificar la fecha].
 
-[^art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: la ley de prevención del lavado de activos y su reglamento. **[actualizar la cita con la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, de 2024, y verificar la fecha de la sentencia CNJ No. 0834-2016]**
+[^art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 26 (sujetos obligados como "primer control"), 34 a 40 (programa de administración de riesgos), 41 a 55 (debida diligencia) y 77 a 83 (responsabilidad administrativa). Para hechos anteriores al 29 de julio de 2025 rige la ley de 2016. **[verificar la fecha de la sentencia CNJ No. 0834-2016]**
 
 [^art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 

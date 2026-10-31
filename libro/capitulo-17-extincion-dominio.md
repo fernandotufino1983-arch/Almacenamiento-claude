@@ -89,6 +89,10 @@ Estas medidas deben respetar los mismos límites que cualquier medida cautelar:
 3. Haga valer los derechos de los **terceros de buena fe**.
 4. Exija que la medida se mantenga solo mientras subsista el riesgo, y pida su **revisión periódica**.
 
+**Una medida nueva: la inmovilización administrativa de la UAFE.** Desde agosto de 2025, la UAFE puede ordenar por sí misma, sin orden judicial previa, la "inmovilización cautelar de fondos en el Sistema Financiero Nacional" cuando identifique "indicios objetivos, graves y verificables" de una operación sospechosa. La medida es excepcional, debe ser proporcional, se limita al monto de las transacciones sospechosas y dura como máximo ocho días, dentro de los cuales los jueces especializados en corrupción y crimen organizado deben ratificarla, modificarla o revocarla[^uafe173].
+
+Para la defensa, la clave es la **audiencia de ratificación**. Allí deben exigirse los tres adjetivos de la norma: que los indicios sean **objetivos** (hechos, no perfiles), **graves** (no una simple operación inusual) y **verificables** (que la defensa pueda conocerlos y discutirlos). Además, la inmovilización no puede exceder el monto de la operación sospechosa: si la UAFE inmovilizó toda la cuenta, la medida es desproporcionada por definición. Y si los ocho días transcurren sin pronunciamiento judicial, la medida debe levantarse.
+
 ## 17.9. Estrategia de defensa
 
 ### 17.9.1. En el proceso de extinción de dominio
@@ -146,6 +150,8 @@ Oficina de las Naciones Unidas contra la Droga y el Delito. (2011). *Ley modelo 
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica de Extinción de Dominio*. Quinto Suplemento del Registro Oficial 452 [verificar la fecha].
 
 Congreso de la República de Colombia. (2014). *Ley 1708 de 2014, por medio de la cual se expide el Código de Extinción de Dominio*.
@@ -155,6 +161,8 @@ Constitución Política de Colombia. (1991). Art. 34.
 **Jurisprudencia**
 
 Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo de 2021.
+
+[^uafe173]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.3, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. Si el juez ratifica la medida y se inicia la instrucción fiscal, los fondos se trasladan, en el término de cinco días, a una cuenta única en el Banco Central del Ecuador. Garantías aplicables: Constitución, arts. 66.26 (propiedad) y 76; COIP, arts. 519 y 520. **[verificar si la norma ha sido objeto de una acción de inconstitucionalidad]**
 
 [^colombia-const]: Constitución Política de Colombia de 1991, art. 34, inciso segundo. **[verificar]**
 

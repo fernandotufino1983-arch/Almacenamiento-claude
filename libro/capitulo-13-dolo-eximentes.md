@@ -84,7 +84,7 @@ La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gat
 
 ### 13.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
 
-El problema adquiere una forma especial cuando el procesado es un **sujeto obligado**: un banco, una cooperativa, un notario, un registrador, una inmobiliaria o un comerciante de vehículos, entre otros, a quienes la ley de prevención del lavado impone deberes de **debida diligencia** para conocer a sus clientes. Cuando esos deberes se incumplen y el cliente resulta ser un lavador, la acusación suele sostener que el incumplimiento prueba el dolo eventual.
+El problema adquiere una forma especial cuando el procesado es un **sujeto obligado**: un banco, una cooperativa, un notario, un registrador, una inmobiliaria o un comerciante de vehículos, entre otros, a quienes la ley de prevención del lavado impone deberes de **debida diligencia** para conocer a sus clientes. Desde el 29 de julio de 2025, esos deberes están en la ley de 2024, que califica a los sujetos obligados como "el primer control en la prevención" y les exige un enfoque basado en riesgos (arts. 26, 41 y 43). Para hechos anteriores, rige la ley de 2016. Cuando esos deberes se incumplen y el cliente resulta ser un lavador, la acusación suele sostener que el incumplimiento prueba el dolo eventual.
 
 Martínez (2021, pp. 49-51) propone una distinción que es muy útil para la defensa. No basta con que el sujeto obligado sepa, **en abstracto**, que incumplir la debida diligencia aumenta el riesgo de que su empresa sea usada para lavar dinero. Ese conocimiento lo tiene cualquier profesional del sector, y si fuera suficiente para el dolo, todo incumplimiento administrativo se convertiría en un lavado doloso. Para hablar de dolo eventual, sostiene el autor, el conocimiento de la posibilidad debe ser "un conocimiento actual sobre una posibilidad concreta", y no "un conocimiento sobre una posibilidad teórica, abstracta o hipotética" (Martínez, 2021, p. 50). Si el sujeto obligado no tenía información sobre un cliente determinado, el incumplimiento de la debida diligencia es "un acto de mera imprudencia" y, a lo sumo, un caso de culpa consciente (Martínez, 2021, p. 50). Solo cuando conocía información concreta sobre **ese** cliente o **esa** operación, y aun así omitió los controles, puede plantearse el dolo eventual (Martínez, 2021, p. 51).
 
@@ -225,6 +225,8 @@ El Tribunal Constitucional Federal alemán abordó este problema en una sentenci
 
 ### 13.8.3. La solución en el Ecuador
 
+La ley de prevención de 2024 ofrece ahora un apoyo normativo expreso. Su art. 30 dispone que los abogados y contadores que actúen como profesionales independientes deben reportar las transacciones sospechosas de sus clientes cuando actúen "en calidad de mandantes", pero "siempre y cuando la información relevante no se obtuvo en circunstancias en las que éstos estén sujetos al secreto profesional". La defensa penal es, por excelencia, una de esas circunstancias. El legislador reconoce así que la información que el cliente confía a su defensor queda fuera del sistema de prevención, lo que refuerza la idea de que el ejercicio de la defensa técnica no puede convertirse en una fuente de responsabilidad por lavado[^art30].
+
 El COIP no regula expresamente esta situación. Sin embargo, el abogado ecuatoriano cuenta con argumentos sólidos para defender una solución similar:
 1. **El derecho a la defensa** (art. 76.7, literales e y g, de la Constitución) incluye el derecho a un abogado **de elección**.
 2. **El cobro de honorarios a precio de mercado** por un servicio real y efectivamente prestado es una **conducta neutral**, propia del rol profesional.
@@ -298,6 +300,8 @@ Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de 
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; verificar la versión vigente].
 
 Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal*. Registro Oficial Suplemento 107 de 24 de diciembre de 2019.
@@ -307,6 +311,8 @@ Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código O
 Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero; verificar].
 
 Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
+
+[^art30]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 30. Véanse también la Constitución, art. 76.7, lits. e y g (comunicación libre y privada con el defensor) y el art. 63 de la misma ley, que exime de responsabilidad civil, administrativa y penal a quien reporta de buena fe en cumplimiento de la ley.
 
 [^culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la culpa solo es punible cuando el tipo penal la prevé expresamente, y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP. **[verificar la redacción vigente del art. 27]**
 

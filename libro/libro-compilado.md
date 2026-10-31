@@ -187,6 +187,8 @@ Transparency International. (s. f.). *What is corruption?* [verificar la URL y l
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [arts. 11, 76, 77, 83, 195, 204 a 206, 211, 231, 233, 424 y 426].
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 3, 5, 13, 16, 455 y 610].
@@ -211,7 +213,7 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 [^c1_art610]: COIP, art. 610.
 
-[^c1_instituciones]: Constitución, arts. 195, 204 a 206 y 211. La UAFE se rige por la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (capítulo 11). **[verificar]**
+[^c1_instituciones]: Constitución, arts. 195, 204 a 206 y 211. La UAFE se rige por la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, publicada en el Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 y vigente desde el 29 de julio de 2025 (arts. 16 y 17; capítulo 11).
 
 [^c1_art838]: Constitución, art. 83.8: "Administrar honradamente y con apego irrestricto a la ley el patrimonio público, y denunciar y combatir los actos de corrupción."
 
@@ -487,7 +489,19 @@ El art. 454.3 reconoce el derecho de las partes a "conocer oportunamente y contr
 
 El art. 76.4 de la Constitución dispone que "las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tendrán validez alguna y carecerán de eficacia probatoria", y el art. 454.6 del COIP ordena excluirlas[^c3_exclusion]. En estos delitos, la causa más frecuente de exclusión es la obtención de información bancaria o de comunicaciones sin la autorización que exige la ley.
 
-#### 3.2.4. El nexo causal y la prohibición de presunciones
+#### 3.2.4. Una tensión nueva: el "valor probatorio" del informe de auditoría forense
+
+La ley de prevención del lavado de 2024 reformó la Ley Orgánica de la Contraloría General del Estado e incorporó la **auditoría forense detectiva**, que debe practicarse "cuando existan indicios de responsabilidad penal". La nueva norma añade que "el informe de auditoría con indicios de responsabilidad penal tendrá valor probatorio y se remitirá a la Fiscalía General del Estado"[^c3_cge23]. A primera vista, esa frase choca con el último inciso del art. 454.6 del COIP, según el cual los informes "en ningún caso serán admitidos como prueba".
+
+Propongo leer ambas normas de forma armónica, y creo que la lectura que favorece al procesado es también la más correcta:
+
+1. **"Tener valor probatorio" no significa entrar al juicio sin testimonio.** La Ley de la Contraloría dice qué valor tiene el informe, pero no regula **cómo** se incorpora la prueba al proceso penal. Esa es materia del COIP, que exige que la prueba se practique en la audiencia de juicio (art. 454.1) y que el autor de un informe lo sustente oralmente (arts. 454.6 y 505). El informe tendrá valor probatorio **cuando** el auditor lo sustente y se someta a contradicción.
+2. **La contradicción es una garantía constitucional, no una regla procesal disponible.** El art. 76.7, literal j, de la Constitución obliga a testigos y peritos a comparecer y a responder el interrogatorio, y el literal h garantiza el derecho a contradecir la prueba. Una ley no puede crear una prueba que escape a ese control.
+3. **El informe sigue siendo un acto de la parte que investiga.** La Contraloría no es un tercero imparcial frente a la Fiscalía: su informe con indicios de responsabilidad penal es, precisamente, la base de la acusación. Atribuirle valor probatorio por sí mismo equivaldría a que una de las partes del conflicto produzca la prueba que la otra no puede discutir.
+
+Es por esta razón que la defensa debe insistir, en la evaluación y preparatoria de juicio, en que el informe solo podrá valorarse si el auditor comparece a juicio, y en que, mientras ello no ocurra, no es más que una noticia del delito.
+
+#### 3.2.5. El nexo causal y la prohibición de presunciones
 
 El art. 455 exige que la prueba tenga un nexo causal entre la infracción y la persona procesada, y que el fundamento se base en hechos reales, "y nunca en presunciones". Ya lo invoqué en los capítulos 4, 5 y 9, y lo repito aquí como regla general: ninguna presunción administrativa, ni la del art. 231 de la Constitución, ni la que se deriva de un reporte de operaciones inusuales, puede sustituir la prueba de los hechos.
 
@@ -531,6 +545,15 @@ La Unidad de Análisis Financiero y Económico recibe de los sujetos obligados, 
 El reporte de la UAFE es un producto de **inteligencia financiera**, no una prueba. Su función es alertar sobre operaciones que merecen investigarse, no demostrar que sean delictivas. Que una operación sea "inusual" significa que no encaja en el perfil del cliente; no significa que sea ilícita.
 
 Si bien es cierto que el reporte puede orientar la investigación, es importante diferenciar el reporte de los hechos que reporta. Lo que la Fiscalía debe probar en el juicio son las **operaciones mismas**, con los documentos bancarios obtenidos legalmente, y su carácter delictivo, con prueba independiente. El analista de la UAFE que comparece a juicio puede explicar qué operaciones detectó, pero no puede afirmar que el dinero tiene un origen ilícito, porque eso no forma parte de su análisis.
+
+#### 3.4.3. La reserva de la identidad del analista: la reforma de 2025
+
+La ley de 2024 fue reformada en agosto de 2025 para proteger la identidad de los analistas de la UAFE y de los oficiales de cumplimiento que intervienen en los reportes. Según el nuevo art. 23.1, la identidad del analista que elaboró o analizó un reporte de operaciones inusuales e injustificadas "tendrá carácter estrictamente reservado, sin perjuicio de la validez del informe como elemento de convicción". Si se requiere su comparecencia, declarará "mediante el mecanismo de videoconferencia con distorsión de imagen y voz", y las partes podrán ejercer la contradicción "a través del juez o fiscal que dirija el acto procesal". El art. 23.2 permite acreditar que quien sustenta el reporte es quien lo elaboró mediante una simple certificación de la UAFE, y el art. 23.3 prohíbe a los operadores de justicia, a las partes y a los abogados "el requerimiento o revelación de la identidad del analista", bajo sanción[^c3_uafe2025].
+
+La defensa debe leer estas normas con cuidado, por tres razones:
+- **La norma habla de "elemento de convicción", no de prueba.** Confirma, entonces, lo que ya sostuvimos: el reporte sirve para la investigación y para la formulación de cargos, pero en el juicio solo vale lo que se practique con contradicción.
+- **La contradicción se mantiene, aunque mediada.** El defensor conserva el derecho a conocer íntegramente la declaración y a formular preguntas. Si el tribunal impide preguntas sobre la metodología, las fuentes o las bases de datos usadas, la restricción ya no protege la identidad del analista, sino que afecta el derecho de defensa (art. 76.7, literales a, h y j, de la Constitución).
+- **La credibilidad no puede examinarse a ciegas.** Si la defensa no puede conocer quién es el analista, no puede verificar su formación, su imparcialidad o sus vínculos con el caso. Esa limitación debe pesar en la valoración: un testimonio cuya fuente no puede examinarse por completo tiene, necesariamente, una fuerza probatoria menor. Es un argumento que conviene plantear en el alegato de clausura.
 
 ### 3.5. La información bancaria y el sigilo
 
@@ -685,11 +708,17 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Regis
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Monetario y Financiero*. Registro Oficial Segundo Suplemento 332 de 12 de septiembre de 2014 [verificar los artículos sobre sigilo bancario].
 
-Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar título exacto y Registro Oficial].
+Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21*.
 
 Corte Nacional de Justicia. (2024, 23 de octubre). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
+
+[^c3_uafe2025]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 23.1, 23.2 y 23.3, agregados por la disposición reformatoria tercera de la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. El art. 23.1 remite al art. 502, num. 9, del COIP. **[verificar la ley reformatoria y si ha sido objeto de control constitucional]**
+
+[^c3_cge23]: Ley Orgánica de la Contraloría General del Estado, art. 23.2, agregado por la disposición reformatoria cuarta de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024). Normas en tensión: COIP, arts. 454.1, 454.6 y 505; Constitución, art. 76.7, lits. h y j. **[verificar el texto vigente de la Ley Orgánica de la Contraloría]**
 
 [^c3_art454]: COIP, art. 454.1.
 
@@ -699,7 +728,7 @@ Corte Nacional de Justicia. (2024, 23 de octubre). *Resolución No. 20-2024*. Re
 
 [^c3_art5811]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^c3_uafe]: Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016) y su reglamento. **[verificar el título exacto y los artículos]**
+[^c3_uafe]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 16, 17 (funciones de la UAFE, en especial los literales b, f, i y j), 57 (reporte de operaciones sospechosas) y 58 (reporte de operaciones sobre el umbral). Sustituyó a la ley de 2016 (disposición derogatoria única) y rige desde el 29 de julio de 2025 (disposición final única). Para hechos anteriores a esa fecha, rige la ley de 2016.
 
 [^c3_sigilo]: Código Orgánico Monetario y Financiero, artículos sobre sigilo y reserva bancaria. **[verificar la numeración vigente]**
 
@@ -1238,6 +1267,8 @@ La prueba típica del enriquecimiento ilícito es:
 - la información **bancaria y tributaria**, obtenida con autorización judicial;
 - la **pericia contable o patrimonial**, que es la prueba central.
 
+A esa lista se suman dos herramientas recientes. La ley de prevención del lavado de 2024 obligó a los servidores que son personas expuestas políticamente a declarar, además, sus cargos fuera de la función pública y sus fuentes de ingresos adicionales (art. 10.1 de la Ley para la Presentación y Control de las Declaraciones Patrimoniales Juradas). Y una reforma de agosto de 2025 facultó a la UAFE para realizar, "a petición de parte y bajo discrecionalidad institucional", el **análisis financiero y económico de las autoridades salientes** de la Función Ejecutiva y de sus familiares hasta el segundo grado (art. 17.2 de la ley de 2024)[^c5_uafe172]. Para la defensa, ese análisis tiene la misma naturaleza que el reporte de la UAFE: es inteligencia financiera, útil para iniciar una investigación, pero no prueba del carácter injustificado del incremento (capítulo 3, sección 3.4).
+
 #### 5.7.2. La pericia de parte
 
 Si hay un consejo que le daría a cualquier abogado que asuma un caso de enriquecimiento ilícito, es este: **contrate un perito contable desde el primer día**. Este delito no se defiende con alegatos, se defiende con números.
@@ -1336,6 +1367,12 @@ Corte Constitucional del Ecuador. (2020). *Sentencia No. 14-19-CN/20* [verificar
 Organización de los Estados Americanos. (1996). *Convención Interamericana contra la Corrupción*.
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
+
+**Normativa**
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
+[^c5_uafe172]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.2, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025; disposición reformatoria quinta de la ley de 2024, que agregó el art. 10.1 a la Ley para la Presentación y Control de las Declaraciones Patrimoniales Juradas. El art. 17.2 exige observar "los principios de legalidad, proporcionalidad, reserva y seguridad jurídica".
 
 [^c5_argentina]: Código Penal argentino, art. 268 (2), incorporado por la Ley 16.648 de 1964. **[verificar]** Comentario del autor: la obra de Sancinetti es la crítica más conocida a la constitucionalidad de este delito en la región.
 
@@ -2664,8 +2701,9 @@ El camino ecuatoriano reproduce, con algunos años de retraso, la evolución int
 1. **Ley de Sustancias Estupefacientes y Psicotrópicas (1990).** Fue la primera norma que sancionó la conversión y transferencia de bienes provenientes del narcotráfico, en cumplimiento de la Convención de Viena[^c11_ley108]. Igual que en el modelo original, el delito de origen era uno solo: el narcotráfico.
 2. **Ley para Reprimir el Lavado de Activos (2005).** Tipificó el lavado con un alcance general, desvinculado del narcotráfico, y creó la Unidad de Inteligencia Financiera[^c11_ley2005].
 3. **Código Orgánico Integral Penal (2014).** Incorporó el lavado de activos al artículo 317, con seis conductas típicas y la cláusula de autonomía[^c11_coip317].
-4. **Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016).** Reorganizó el sistema de prevención y transformó la unidad de inteligencia financiera en la actual **UAFE** (Unidad de Análisis Financiero y Económico)[^c11_ley2016].
-5. **Resolución No. 20-2024 de la Corte Nacional de Justicia**, aprobada por el Pleno el 23 de octubre de 2024 y publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^c11_cnj2024].
+4. **Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016).** Publicada en el Registro Oficial Suplemento 802 de 21 de julio de 2016. Reorganizó el sistema de prevención y transformó la unidad de inteligencia financiera en la actual **UAFE** (Unidad de Análisis Financiero y Económico)[^c11_ley2016].
+5. **Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024).** Publicada en el Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024, entró en vigencia un año después, el 29 de julio de 2025, y derogó la ley de 2016. Creó el Consejo Nacional de Coordinación contra el Lavado de Activos (CONCLAFT), redefinió a la UAFE como entidad de inteligencia financiera, reorganizó a los sujetos obligados (financieros, no financieros y proveedores de activos virtuales), prohibió los pagos en efectivo de diez mil dólares o más y creó el registro de beneficiarios finales. Sus disposiciones reformatorias derogaron, además, el art. 318 del COIP[^c11_ley2024].
+6. **Resolución No. 20-2024 de la Corte Nacional de Justicia**, aprobada por el Pleno el 23 de octubre de 2024 y publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^c11_cnj2024].
 
 Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse aislado de su historia. Cada reforma amplió el alcance del delito, pero ninguna eliminó su presupuesto esencial: que los bienes tengan un **origen ilícito**.
 
@@ -2711,7 +2749,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Tratados | Convenciones de Viena (1988), Palermo (2000) y Mérida (2003) |
 | Estándares | 40 Recomendaciones del GAFI |
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
-| Preventivo | Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos (2016) y su reglamento |
+| Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento (Decreto Ejecutivo 298, 2026 [verificar]); para hechos anteriores, la ley de 2016 |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
 | Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 12 |
 
@@ -2777,7 +2815,9 @@ Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamie
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [con sus reformas; verificar la versión vigente].
 
-Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar el Registro Oficial].
+Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Congreso de los Estados Unidos. (1986). *Money Laundering Control Act of 1986*, Pub. L. No. 99-570, 100 Stat. 3207.
 
@@ -2790,6 +2830,8 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 **Jurisprudencia**
 
 Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+
+[^c11_ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 7 a 15 (CONCLAFT), 16 y 17 (UAFE), 26 a 31 (sujetos obligados), 33 (prohibición de uso de efectivo), 91 a 94 (beneficiarios finales), disposición reformatoria primera (derogatoria de los arts. 318 y 368 del COIP), disposición derogatoria única y disposición final única. Comentario del autor: el texto ha tenido una historia accidentada. El Decreto Ley de Emergencia No. 477 (Registro Oficial Suplemento 700 de 10 de diciembre de 2024) derogó varios de sus artículos, pero la Corte Constitucional lo declaró inconstitucional por la forma, con efectos retroactivos (Registro Oficial Suplemento 8 de 27 de marzo de 2025); y el art. 17.1, agregado por la Ley Orgánica de Solidaridad Nacional, cayó con la declaratoria de inconstitucionalidad de esa ley (Registro Oficial 96 de 3 de octubre de 2025). Antes de citar un artículo, conviene verificar su estado. **[verificar si la derogatoria del art. 318 rigió desde la publicación o desde la entrada en vigencia de la ley]**
 
 [^c11_capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015, p. [verificar]). **[verificar la página]**
 
@@ -2872,7 +2914,7 @@ El Ecuador, como miembro del GAFILAT, está sometido a evaluaciones periódicas 
 
 #### 12.3.1. Antecedentes
 
-Como vimos en el capítulo 11, el recorrido normativo del país va desde la Ley de Sustancias Estupefacientes y Psicotrópicas de 1990, que solo sancionaba la conversión de bienes provenientes del narcotráfico, hasta la Ley para Reprimir el Lavado de Activos de 2005 y, finalmente, el Código Orgánico Integral Penal de 2014[^c12_antecedentes]. Hoy el sistema de prevención se rige por la Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos de 2016.
+Como vimos en el capítulo 11, el recorrido normativo del país va desde la Ley de Sustancias Estupefacientes y Psicotrópicas de 1990, que solo sancionaba la conversión de bienes provenientes del narcotráfico, hasta la Ley para Reprimir el Lavado de Activos de 2005 y, finalmente, el Código Orgánico Integral Penal de 2014[^c12_antecedentes]. El sistema de prevención se rigió por la Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos de 2016 hasta el 28 de julio de 2025, y desde el 29 de julio de 2025 se rige por la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, publicada en 2024.
 
 #### 12.3.2. El art. 317 del COIP
 
@@ -3141,7 +3183,9 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; verificar la versión vigente].
 
-Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar el Registro Oficial].
+Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 de octubre de 2008.
 
@@ -3300,7 +3344,7 @@ La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gat
 
 #### 13.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
 
-El problema adquiere una forma especial cuando el procesado es un **sujeto obligado**: un banco, una cooperativa, un notario, un registrador, una inmobiliaria o un comerciante de vehículos, entre otros, a quienes la ley de prevención del lavado impone deberes de **debida diligencia** para conocer a sus clientes. Cuando esos deberes se incumplen y el cliente resulta ser un lavador, la acusación suele sostener que el incumplimiento prueba el dolo eventual.
+El problema adquiere una forma especial cuando el procesado es un **sujeto obligado**: un banco, una cooperativa, un notario, un registrador, una inmobiliaria o un comerciante de vehículos, entre otros, a quienes la ley de prevención del lavado impone deberes de **debida diligencia** para conocer a sus clientes. Desde el 29 de julio de 2025, esos deberes están en la ley de 2024, que califica a los sujetos obligados como "el primer control en la prevención" y les exige un enfoque basado en riesgos (arts. 26, 41 y 43). Para hechos anteriores, rige la ley de 2016. Cuando esos deberes se incumplen y el cliente resulta ser un lavador, la acusación suele sostener que el incumplimiento prueba el dolo eventual.
 
 Martínez (2021, pp. 49-51) propone una distinción que es muy útil para la defensa. No basta con que el sujeto obligado sepa, **en abstracto**, que incumplir la debida diligencia aumenta el riesgo de que su empresa sea usada para lavar dinero. Ese conocimiento lo tiene cualquier profesional del sector, y si fuera suficiente para el dolo, todo incumplimiento administrativo se convertiría en un lavado doloso. Para hablar de dolo eventual, sostiene el autor, el conocimiento de la posibilidad debe ser "un conocimiento actual sobre una posibilidad concreta", y no "un conocimiento sobre una posibilidad teórica, abstracta o hipotética" (Martínez, 2021, p. 50). Si el sujeto obligado no tenía información sobre un cliente determinado, el incumplimiento de la debida diligencia es "un acto de mera imprudencia" y, a lo sumo, un caso de culpa consciente (Martínez, 2021, p. 50). Solo cuando conocía información concreta sobre **ese** cliente o **esa** operación, y aun así omitió los controles, puede plantearse el dolo eventual (Martínez, 2021, p. 51).
 
@@ -3441,6 +3485,8 @@ El Tribunal Constitucional Federal alemán abordó este problema en una sentenci
 
 #### 13.8.3. La solución en el Ecuador
 
+La ley de prevención de 2024 ofrece ahora un apoyo normativo expreso. Su art. 30 dispone que los abogados y contadores que actúen como profesionales independientes deben reportar las transacciones sospechosas de sus clientes cuando actúen "en calidad de mandantes", pero "siempre y cuando la información relevante no se obtuvo en circunstancias en las que éstos estén sujetos al secreto profesional". La defensa penal es, por excelencia, una de esas circunstancias. El legislador reconoce así que la información que el cliente confía a su defensor queda fuera del sistema de prevención, lo que refuerza la idea de que el ejercicio de la defensa técnica no puede convertirse en una fuente de responsabilidad por lavado[^c13_art30].
+
 El COIP no regula expresamente esta situación. Sin embargo, el abogado ecuatoriano cuenta con argumentos sólidos para defender una solución similar:
 1. **El derecho a la defensa** (art. 76.7, literales e y g, de la Constitución) incluye el derecho a un abogado **de elección**.
 2. **El cobro de honorarios a precio de mercado** por un servicio real y efectivamente prestado es una **conducta neutral**, propia del rol profesional.
@@ -3514,6 +3560,8 @@ Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de 
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; verificar la versión vigente].
 
 Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal*. Registro Oficial Suplemento 107 de 24 de diciembre de 2019.
@@ -3523,6 +3571,8 @@ Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código O
 Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero; verificar].
 
 Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
+
+[^c13_art30]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 30. Véanse también la Constitución, art. 76.7, lits. e y g (comunicación libre y privada con el defensor) y el art. 63 de la misma ley, que exime de responsabilidad civil, administrativa y penal a quien reporta de buena fe en cumplimiento de la ley.
 
 [^c13_culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la culpa solo es punible cuando el tipo penal la prevé expresamente, y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP. **[verificar la redacción vigente del art. 27]**
 
@@ -4387,6 +4437,8 @@ Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de 
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; verificar la versión vigente].
 
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
@@ -4403,7 +4455,7 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021; verificar la fecha].
 
-[^c16_art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: la ley de prevención del lavado de activos y su reglamento. **[actualizar la cita con la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, de 2024, y verificar la fecha de la sentencia CNJ No. 0834-2016]**
+[^c16_art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 26 (sujetos obligados como "primer control"), 34 a 40 (programa de administración de riesgos), 41 a 55 (debida diligencia) y 77 a 83 (responsabilidad administrativa). Para hechos anteriores al 29 de julio de 2025 rige la ley de 2016. **[verificar la fecha de la sentencia CNJ No. 0834-2016]**
 
 [^c16_art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 
@@ -4519,6 +4571,10 @@ Estas medidas deben respetar los mismos límites que cualquier medida cautelar:
 3. Haga valer los derechos de los **terceros de buena fe**.
 4. Exija que la medida se mantenga solo mientras subsista el riesgo, y pida su **revisión periódica**.
 
+**Una medida nueva: la inmovilización administrativa de la UAFE.** Desde agosto de 2025, la UAFE puede ordenar por sí misma, sin orden judicial previa, la "inmovilización cautelar de fondos en el Sistema Financiero Nacional" cuando identifique "indicios objetivos, graves y verificables" de una operación sospechosa. La medida es excepcional, debe ser proporcional, se limita al monto de las transacciones sospechosas y dura como máximo ocho días, dentro de los cuales los jueces especializados en corrupción y crimen organizado deben ratificarla, modificarla o revocarla[^c17_uafe173].
+
+Para la defensa, la clave es la **audiencia de ratificación**. Allí deben exigirse los tres adjetivos de la norma: que los indicios sean **objetivos** (hechos, no perfiles), **graves** (no una simple operación inusual) y **verificables** (que la defensa pueda conocerlos y discutirlos). Además, la inmovilización no puede exceder el monto de la operación sospechosa: si la UAFE inmovilizó toda la cuenta, la medida es desproporcionada por definición. Y si los ocho días transcurren sin pronunciamiento judicial, la medida debe levantarse.
+
 ### 17.9. Estrategia de defensa
 
 #### 17.9.1. En el proceso de extinción de dominio
@@ -4576,6 +4632,8 @@ Oficina de las Naciones Unidas contra la Droga y el Delito. (2011). *Ley modelo 
 
 **Normativa**
 
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica de Extinción de Dominio*. Quinto Suplemento del Registro Oficial 452 [verificar la fecha].
 
 Congreso de la República de Colombia. (2014). *Ley 1708 de 2014, por medio de la cual se expide el Código de Extinción de Dominio*.
@@ -4585,6 +4643,8 @@ Constitución Política de Colombia. (1991). Art. 34.
 **Jurisprudencia**
 
 Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo de 2021.
+
+[^c17_uafe173]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.3, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. Si el juez ratifica la medida y se inicia la instrucción fiscal, los fondos se trasladan, en el término de cinco días, a una cuenta única en el Banco Central del Ecuador. Garantías aplicables: Constitución, arts. 66.26 (propiedad) y 76; COIP, arts. 519 y 520. **[verificar si la norma ha sido objeto de una acción de inconstitucionalidad]**
 
 [^c17_colombia_const]: Constitución Política de Colombia de 1991, art. 34, inciso segundo. **[verificar]**
 
@@ -4643,6 +4703,8 @@ Es por esta razón que la primera tarea del defensor es entender **qué document
 Cuando la investigación nace de un informe de la Contraloría, la defensa empieza antes de la Fiscalía. El examen especial tiene una fase de **comunicación de resultados**, en la que el servidor examinado conoce los hallazgos provisionales y puede presentar sus descargos y documentos[^c18_locge].
 
 Mi recomendación es tratar esa fase como si fuera el primer acto del proceso penal, porque en la práctica lo es. Todo lo que el servidor no explique en ese momento quedará en el informe como "no justificado", y ese informe llegará a la Fiscalía con el peso de una conclusión técnica. Y todo lo que el servidor explique por escrito y con documentos quedará registrado, y podrá usarse después para contradecir al auditor (capítulo 3, sección 3.3.2).
+
+Esa recomendación es todavía más importante desde la reforma de 2024 a la Ley Orgánica de la Contraloría, que creó la **auditoría forense detectiva** y dispuso que su informe con indicios de responsabilidad penal "tendrá valor probatorio" (art. 23.2). Como explicamos en el capítulo 3 (sección 3.2.4), esa frase no permite incorporar el informe al juicio sin el testimonio del auditor; pero sí aumenta el peso que el informe tendrá en la investigación y en la formulación de cargos. Lo que no se discuta en la comunicación de resultados será más difícil de discutir después.
 
 #### 18.3.2. La coordinación con la vía administrativa
 
@@ -4732,6 +4794,8 @@ Hay una advertencia: el archivo no es definitivo. La Fiscalía puede pedir la re
 ### 18.7. Las medidas cautelares reales
 
 En los casos de corrupción, una de las primeras preocupaciones del cliente es el congelamiento de sus cuentas o la prohibición de enajenar sus bienes. El art. 549 del COIP enumera las medidas cautelares reales, entre ellas el secuestro, la incautación, la retención, la prohibición de enajenar y el congelamiento, que el juez puede ordenar sobre los bienes "de la persona natural o jurídica **procesada**"[^c18_art549].
+
+A las medidas judiciales se suma, desde agosto de 2025, la **inmovilización administrativa de fondos** que puede ordenar la propia UAFE por un máximo de ocho días, sujeta a ratificación judicial (capítulo 17, sección 17.8). Es probable que sea la primera medida que enfrente el cliente, incluso antes de saber que existe una investigación.
 
 La palabra "procesada" tiene consecuencias. En la investigación previa todavía no hay persona procesada, sino investigada: la calidad de procesado se adquiere con la formulación de cargos. Por eso sostengo que las medidas reales del art. 549 no proceden, como regla, antes de la formulación de cargos, y que la defensa debe oponerse a cualquier pedido en ese sentido. Si la Fiscalía invoca la urgencia, debe justificar en concreto el riesgo de que los bienes desaparezcan, y la medida debe limitarse al monto razonablemente vinculado con los hechos, no a todo el patrimonio del investigado. Sobre las medidas reales y la extinción de dominio, remito al capítulo 17.
 
@@ -4826,6 +4890,8 @@ La investigación previa no es la antesala del proceso: para la defensa, es el p
 ### Referencias
 
 **Normativa**
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [arts. 76 y 77].
 

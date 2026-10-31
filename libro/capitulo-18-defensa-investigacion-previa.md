@@ -33,6 +33,8 @@ Cuando la investigación nace de un informe de la Contraloría, la defensa empie
 
 Mi recomendación es tratar esa fase como si fuera el primer acto del proceso penal, porque en la práctica lo es. Todo lo que el servidor no explique en ese momento quedará en el informe como "no justificado", y ese informe llegará a la Fiscalía con el peso de una conclusión técnica. Y todo lo que el servidor explique por escrito y con documentos quedará registrado, y podrá usarse después para contradecir al auditor (capítulo 3, sección 3.3.2).
 
+Esa recomendación es todavía más importante desde la reforma de 2024 a la Ley Orgánica de la Contraloría, que creó la **auditoría forense detectiva** y dispuso que su informe con indicios de responsabilidad penal "tendrá valor probatorio" (art. 23.2). Como explicamos en el capítulo 3 (sección 3.2.4), esa frase no permite incorporar el informe al juicio sin el testimonio del auditor; pero sí aumenta el peso que el informe tendrá en la investigación y en la formulación de cargos. Lo que no se discuta en la comunicación de resultados será más difícil de discutir después.
+
 ### 18.3.2. La coordinación con la vía administrativa
 
 El mismo examen puede generar responsabilidades administrativas, glosas civiles y un indicio penal. La defensa debe coordinar las tres vías:
@@ -121,6 +123,8 @@ Hay una advertencia: el archivo no es definitivo. La Fiscalía puede pedir la re
 ## 18.7. Las medidas cautelares reales
 
 En los casos de corrupción, una de las primeras preocupaciones del cliente es el congelamiento de sus cuentas o la prohibición de enajenar sus bienes. El art. 549 del COIP enumera las medidas cautelares reales, entre ellas el secuestro, la incautación, la retención, la prohibición de enajenar y el congelamiento, que el juez puede ordenar sobre los bienes "de la persona natural o jurídica **procesada**"[^art549].
+
+A las medidas judiciales se suma, desde agosto de 2025, la **inmovilización administrativa de fondos** que puede ordenar la propia UAFE por un máximo de ocho días, sujeta a ratificación judicial (capítulo 17, sección 17.8). Es probable que sea la primera medida que enfrente el cliente, incluso antes de saber que existe una investigación.
 
 La palabra "procesada" tiene consecuencias. En la investigación previa todavía no hay persona procesada, sino investigada: la calidad de procesado se adquiere con la formulación de cargos. Por eso sostengo que las medidas reales del art. 549 no proceden, como regla, antes de la formulación de cargos, y que la defensa debe oponerse a cualquier pedido en ese sentido. Si la Fiscalía invoca la urgencia, debe justificar en concreto el riesgo de que los bienes desaparezcan, y la medida debe limitarse al monto razonablemente vinculado con los hechos, no a todo el patrimonio del investigado. Sobre las medidas reales y la extinción de dominio, remito al capítulo 17.
 
@@ -215,6 +219,8 @@ La investigación previa no es la antesala del proceso: para la defensa, es el p
 ## Referencias
 
 **Normativa**
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [arts. 76 y 77].
 

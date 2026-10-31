@@ -74,8 +74,9 @@ El camino ecuatoriano reproduce, con algunos años de retraso, la evolución int
 1. **Ley de Sustancias Estupefacientes y Psicotrópicas (1990).** Fue la primera norma que sancionó la conversión y transferencia de bienes provenientes del narcotráfico, en cumplimiento de la Convención de Viena[^ley108]. Igual que en el modelo original, el delito de origen era uno solo: el narcotráfico.
 2. **Ley para Reprimir el Lavado de Activos (2005).** Tipificó el lavado con un alcance general, desvinculado del narcotráfico, y creó la Unidad de Inteligencia Financiera[^ley2005].
 3. **Código Orgánico Integral Penal (2014).** Incorporó el lavado de activos al artículo 317, con seis conductas típicas y la cláusula de autonomía[^coip317].
-4. **Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016).** Reorganizó el sistema de prevención y transformó la unidad de inteligencia financiera en la actual **UAFE** (Unidad de Análisis Financiero y Económico)[^ley2016].
-5. **Resolución No. 20-2024 de la Corte Nacional de Justicia**, aprobada por el Pleno el 23 de octubre de 2024 y publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^cnj2024].
+4. **Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016).** Publicada en el Registro Oficial Suplemento 802 de 21 de julio de 2016. Reorganizó el sistema de prevención y transformó la unidad de inteligencia financiera en la actual **UAFE** (Unidad de Análisis Financiero y Económico)[^ley2016].
+5. **Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024).** Publicada en el Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024, entró en vigencia un año después, el 29 de julio de 2025, y derogó la ley de 2016. Creó el Consejo Nacional de Coordinación contra el Lavado de Activos (CONCLAFT), redefinió a la UAFE como entidad de inteligencia financiera, reorganizó a los sujetos obligados (financieros, no financieros y proveedores de activos virtuales), prohibió los pagos en efectivo de diez mil dólares o más y creó el registro de beneficiarios finales. Sus disposiciones reformatorias derogaron, además, el art. 318 del COIP[^ley2024].
+6. **Resolución No. 20-2024 de la Corte Nacional de Justicia**, aprobada por el Pleno el 23 de octubre de 2024 y publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^cnj2024].
 
 Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse aislado de su historia. Cada reforma amplió el alcance del delito, pero ninguna eliminó su presupuesto esencial: que los bienes tengan un **origen ilícito**.
 
@@ -121,7 +122,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Tratados | Convenciones de Viena (1988), Palermo (2000) y Mérida (2003) |
 | Estándares | 40 Recomendaciones del GAFI |
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
-| Preventivo | Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos (2016) y su reglamento |
+| Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento (Decreto Ejecutivo 298, 2026 [verificar]); para hechos anteriores, la ley de 2016 |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
 | Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 12 |
 
@@ -187,7 +188,9 @@ Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamie
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [con sus reformas; verificar la versión vigente].
 
-Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar el Registro Oficial].
+Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Congreso de los Estados Unidos. (1986). *Money Laundering Control Act of 1986*, Pub. L. No. 99-570, 100 Stat. 3207.
 
@@ -200,6 +203,8 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 **Jurisprudencia**
 
 Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+
+[^ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 7 a 15 (CONCLAFT), 16 y 17 (UAFE), 26 a 31 (sujetos obligados), 33 (prohibición de uso de efectivo), 91 a 94 (beneficiarios finales), disposición reformatoria primera (derogatoria de los arts. 318 y 368 del COIP), disposición derogatoria única y disposición final única. Comentario del autor: el texto ha tenido una historia accidentada. El Decreto Ley de Emergencia No. 477 (Registro Oficial Suplemento 700 de 10 de diciembre de 2024) derogó varios de sus artículos, pero la Corte Constitucional lo declaró inconstitucional por la forma, con efectos retroactivos (Registro Oficial Suplemento 8 de 27 de marzo de 2025); y el art. 17.1, agregado por la Ley Orgánica de Solidaridad Nacional, cayó con la declaratoria de inconstitucionalidad de esa ley (Registro Oficial 96 de 3 de octubre de 2025). Antes de citar un artículo, conviene verificar su estado. **[verificar si la derogatoria del art. 318 rigió desde la publicación o desde la entrada en vigencia de la ley]**
 
 [^capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015, p. [verificar]). **[verificar la página]**
 

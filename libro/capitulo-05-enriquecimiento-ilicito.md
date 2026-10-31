@@ -148,6 +148,8 @@ La prueba típica del enriquecimiento ilícito es:
 - la información **bancaria y tributaria**, obtenida con autorización judicial;
 - la **pericia contable o patrimonial**, que es la prueba central.
 
+A esa lista se suman dos herramientas recientes. La ley de prevención del lavado de 2024 obligó a los servidores que son personas expuestas políticamente a declarar, además, sus cargos fuera de la función pública y sus fuentes de ingresos adicionales (art. 10.1 de la Ley para la Presentación y Control de las Declaraciones Patrimoniales Juradas). Y una reforma de agosto de 2025 facultó a la UAFE para realizar, "a petición de parte y bajo discrecionalidad institucional", el **análisis financiero y económico de las autoridades salientes** de la Función Ejecutiva y de sus familiares hasta el segundo grado (art. 17.2 de la ley de 2024)[^uafe172]. Para la defensa, ese análisis tiene la misma naturaleza que el reporte de la UAFE: es inteligencia financiera, útil para iniciar una investigación, pero no prueba del carácter injustificado del incremento (capítulo 3, sección 3.4).
+
 ### 5.7.2. La pericia de parte
 
 Si hay un consejo que le daría a cualquier abogado que asuma un caso de enriquecimiento ilícito, es este: **contrate un perito contable desde el primer día**. Este delito no se defiende con alegatos, se defiende con números.
@@ -246,6 +248,12 @@ Corte Constitucional del Ecuador. (2020). *Sentencia No. 14-19-CN/20* [verificar
 Organización de los Estados Americanos. (1996). *Convención Interamericana contra la Corrupción*.
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
+
+**Normativa**
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
+
+[^uafe172]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.2, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025; disposición reformatoria quinta de la ley de 2024, que agregó el art. 10.1 a la Ley para la Presentación y Control de las Declaraciones Patrimoniales Juradas. El art. 17.2 exige observar "los principios de legalidad, proporcionalidad, reserva y seguridad jurídica".
 
 [^argentina]: Código Penal argentino, art. 268 (2), incorporado por la Ley 16.648 de 1964. **[verificar]** Comentario del autor: la obra de Sancinetti es la crítica más conocida a la constitucionalidad de este delito en la región.
 

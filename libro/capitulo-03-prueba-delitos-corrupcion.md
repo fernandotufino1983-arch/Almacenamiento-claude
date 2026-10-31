@@ -36,7 +36,19 @@ El art. 454.3 reconoce el derecho de las partes a "conocer oportunamente y contr
 
 El art. 76.4 de la Constitución dispone que "las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tendrán validez alguna y carecerán de eficacia probatoria", y el art. 454.6 del COIP ordena excluirlas[^exclusion]. En estos delitos, la causa más frecuente de exclusión es la obtención de información bancaria o de comunicaciones sin la autorización que exige la ley.
 
-### 3.2.4. El nexo causal y la prohibición de presunciones
+### 3.2.4. Una tensión nueva: el "valor probatorio" del informe de auditoría forense
+
+La ley de prevención del lavado de 2024 reformó la Ley Orgánica de la Contraloría General del Estado e incorporó la **auditoría forense detectiva**, que debe practicarse "cuando existan indicios de responsabilidad penal". La nueva norma añade que "el informe de auditoría con indicios de responsabilidad penal tendrá valor probatorio y se remitirá a la Fiscalía General del Estado"[^cge23]. A primera vista, esa frase choca con el último inciso del art. 454.6 del COIP, según el cual los informes "en ningún caso serán admitidos como prueba".
+
+Propongo leer ambas normas de forma armónica, y creo que la lectura que favorece al procesado es también la más correcta:
+
+1. **"Tener valor probatorio" no significa entrar al juicio sin testimonio.** La Ley de la Contraloría dice qué valor tiene el informe, pero no regula **cómo** se incorpora la prueba al proceso penal. Esa es materia del COIP, que exige que la prueba se practique en la audiencia de juicio (art. 454.1) y que el autor de un informe lo sustente oralmente (arts. 454.6 y 505). El informe tendrá valor probatorio **cuando** el auditor lo sustente y se someta a contradicción.
+2. **La contradicción es una garantía constitucional, no una regla procesal disponible.** El art. 76.7, literal j, de la Constitución obliga a testigos y peritos a comparecer y a responder el interrogatorio, y el literal h garantiza el derecho a contradecir la prueba. Una ley no puede crear una prueba que escape a ese control.
+3. **El informe sigue siendo un acto de la parte que investiga.** La Contraloría no es un tercero imparcial frente a la Fiscalía: su informe con indicios de responsabilidad penal es, precisamente, la base de la acusación. Atribuirle valor probatorio por sí mismo equivaldría a que una de las partes del conflicto produzca la prueba que la otra no puede discutir.
+
+Es por esta razón que la defensa debe insistir, en la evaluación y preparatoria de juicio, en que el informe solo podrá valorarse si el auditor comparece a juicio, y en que, mientras ello no ocurra, no es más que una noticia del delito.
+
+### 3.2.5. El nexo causal y la prohibición de presunciones
 
 El art. 455 exige que la prueba tenga un nexo causal entre la infracción y la persona procesada, y que el fundamento se base en hechos reales, "y nunca en presunciones". Ya lo invoqué en los capítulos 4, 5 y 9, y lo repito aquí como regla general: ninguna presunción administrativa, ni la del art. 231 de la Constitución, ni la que se deriva de un reporte de operaciones inusuales, puede sustituir la prueba de los hechos.
 
@@ -80,6 +92,15 @@ La Unidad de Análisis Financiero y Económico recibe de los sujetos obligados, 
 El reporte de la UAFE es un producto de **inteligencia financiera**, no una prueba. Su función es alertar sobre operaciones que merecen investigarse, no demostrar que sean delictivas. Que una operación sea "inusual" significa que no encaja en el perfil del cliente; no significa que sea ilícita.
 
 Si bien es cierto que el reporte puede orientar la investigación, es importante diferenciar el reporte de los hechos que reporta. Lo que la Fiscalía debe probar en el juicio son las **operaciones mismas**, con los documentos bancarios obtenidos legalmente, y su carácter delictivo, con prueba independiente. El analista de la UAFE que comparece a juicio puede explicar qué operaciones detectó, pero no puede afirmar que el dinero tiene un origen ilícito, porque eso no forma parte de su análisis.
+
+### 3.4.3. La reserva de la identidad del analista: la reforma de 2025
+
+La ley de 2024 fue reformada en agosto de 2025 para proteger la identidad de los analistas de la UAFE y de los oficiales de cumplimiento que intervienen en los reportes. Según el nuevo art. 23.1, la identidad del analista que elaboró o analizó un reporte de operaciones inusuales e injustificadas "tendrá carácter estrictamente reservado, sin perjuicio de la validez del informe como elemento de convicción". Si se requiere su comparecencia, declarará "mediante el mecanismo de videoconferencia con distorsión de imagen y voz", y las partes podrán ejercer la contradicción "a través del juez o fiscal que dirija el acto procesal". El art. 23.2 permite acreditar que quien sustenta el reporte es quien lo elaboró mediante una simple certificación de la UAFE, y el art. 23.3 prohíbe a los operadores de justicia, a las partes y a los abogados "el requerimiento o revelación de la identidad del analista", bajo sanción[^uafe2025].
+
+La defensa debe leer estas normas con cuidado, por tres razones:
+- **La norma habla de "elemento de convicción", no de prueba.** Confirma, entonces, lo que ya sostuvimos: el reporte sirve para la investigación y para la formulación de cargos, pero en el juicio solo vale lo que se practique con contradicción.
+- **La contradicción se mantiene, aunque mediada.** El defensor conserva el derecho a conocer íntegramente la declaración y a formular preguntas. Si el tribunal impide preguntas sobre la metodología, las fuentes o las bases de datos usadas, la restricción ya no protege la identidad del analista, sino que afecta el derecho de defensa (art. 76.7, literales a, h y j, de la Constitución).
+- **La credibilidad no puede examinarse a ciegas.** Si la defensa no puede conocer quién es el analista, no puede verificar su formación, su imparcialidad o sus vínculos con el caso. Esa limitación debe pesar en la valoración: un testimonio cuya fuente no puede examinarse por completo tiene, necesariamente, una fuerza probatoria menor. Es un argumento que conviene plantear en el alegato de clausura.
 
 ## 3.5. La información bancaria y el sigilo
 
@@ -234,11 +255,17 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Regis
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Monetario y Financiero*. Registro Oficial Segundo Suplemento 332 de 12 de septiembre de 2014 [verificar los artículos sobre sigilo bancario].
 
-Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar título exacto y Registro Oficial].
+Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
+
+Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
 Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21*.
 
 Corte Nacional de Justicia. (2024, 23 de octubre). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
+
+[^uafe2025]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 23.1, 23.2 y 23.3, agregados por la disposición reformatoria tercera de la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. El art. 23.1 remite al art. 502, num. 9, del COIP. **[verificar la ley reformatoria y si ha sido objeto de control constitucional]**
+
+[^cge23]: Ley Orgánica de la Contraloría General del Estado, art. 23.2, agregado por la disposición reformatoria cuarta de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024). Normas en tensión: COIP, arts. 454.1, 454.6 y 505; Constitución, art. 76.7, lits. h y j. **[verificar el texto vigente de la Ley Orgánica de la Contraloría]**
 
 [^art454]: COIP, art. 454.1.
 
@@ -248,7 +275,7 @@ Corte Nacional de Justicia. (2024, 23 de octubre). *Resolución No. 20-2024*. Re
 
 [^art5811]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^uafe]: Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016) y su reglamento. **[verificar el título exacto y los artículos]**
+[^uafe]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 16, 17 (funciones de la UAFE, en especial los literales b, f, i y j), 57 (reporte de operaciones sospechosas) y 58 (reporte de operaciones sobre el umbral). Sustituyó a la ley de 2016 (disposición derogatoria única) y rige desde el 29 de julio de 2025 (disposición final única). Para hechos anteriores a esa fecha, rige la ley de 2016.
 
 [^sigilo]: Código Orgánico Monetario y Financiero, artículos sobre sigilo y reserva bancaria. **[verificar la numeración vigente]**
 
