@@ -11,6 +11,12 @@
 - **Forma jurídica:** sociedad (factura como empresa)
 - **Sitio web y redes:**
 
+## Identidad visual (usar en TODO material)
+- **Logo oficial (desde octubre 2026):** `jurix-global/marca/logo-jurix-global.png` (fondo claro) y `jurix-global/marca/logo-jurix-global-fondo-oscuro.png` (fondo oscuro). Texto del logo: "JURIX GLOBAL · Asesoría legal & financiera".
+- **Colores de marca:** azul `#014BAD` (principal) y gris `#727272` (secundario). Para fondos oscuros: azul profundo `#0B2A5B`. Acento sobre fondo oscuro: azul claro `#8FB4F0`.
+- **Logo anterior (no usar):** `jurix-global/marca/anterior/`.
+- **Pendiente:** conseguir el logo en alta resolución (PNG de 2000 px o más, o SVG). El actual mide 385 × 174 px.
+
 ## Equipo
 - **Socios (nombre y especialidad):**
 - **Abogados asociados:**

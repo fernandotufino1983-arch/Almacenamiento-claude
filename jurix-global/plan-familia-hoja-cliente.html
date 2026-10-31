@@ -7,40 +7,40 @@
 <style>
   @page { size: A4; margin: 0; }
   :root {
-    --navy: #0A1F3A; --gold: #B7955A; --gold-dark: #8C6D36;
-    --ink: #1A1F2B; --muted: #5C677D; --tint: #F4F2EE; --line: #E3DED3;
+    --navy: #0B2A5B; --brand: #014BAD; --sky: #8FB4F0; --gray: #727272;
+    --ink: #1A1F2B; --muted: #5C677D; --tint: #F2F4F7; --line: #DDE3EC;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; background: #fff; color: var(--ink);
     font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif; font-size: 10.5pt; line-height: 1.4; }
   .page { width: 210mm; height: 297mm; padding: 14mm 16mm 12mm; display: flex; flex-direction: column; }
   header { display: flex; justify-content: space-between; align-items: center; }
-  header img { height: 17mm; }
+  header img { height: 21mm; }
   header .tag { font-size: 9pt; color: var(--muted); text-align: right; }
-  h1 { font-family: Cambria, Caladea, Georgia, serif; color: var(--navy); font-size: 25pt; margin: 9mm 0 1mm; line-height: 1.1; }
+  h1 { font-family: Cambria, Caladea, Georgia, serif; color: var(--brand); font-size: 25pt; margin: 9mm 0 1mm; line-height: 1.1; }
   .sub { color: var(--muted); font-size: 11.5pt; margin: 0 0 6mm; }
   h2 { font-family: Cambria, Caladea, Georgia, serif; color: var(--navy); font-size: 13.5pt; margin: 0 0 2.5mm; }
   .grid { display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 6mm; }
   .card { background: var(--tint); border-radius: 3mm; padding: 5mm 6mm; }
   .price { background: var(--navy); color: #fff; border-radius: 3mm; padding: 6mm; display: flex; flex-direction: column; justify-content: center; }
-  .price .big { font-family: Cambria, Caladea, Georgia, serif; color: var(--gold); font-size: 34pt; font-weight: bold; line-height: 1; }
+  .price .big { font-family: Cambria, Caladea, Georgia, serif; color: var(--sky); font-size: 34pt; font-weight: bold; line-height: 1; }
   .price .unit { font-weight: bold; font-size: 12pt; margin: 1.5mm 0 3mm; }
   .price p { margin: 0 0 1.5mm; color: #DCE2EA; font-size: 10pt; }
   ul.check { list-style: none; padding: 0; margin: 0; }
   ul.check li { position: relative; padding-left: 7mm; margin-bottom: 2mm; }
   ul.check li::before { content: "✓"; position: absolute; left: 0; top: -0.3mm; width: 4.6mm; height: 4.6mm; border-radius: 50%;
-    background: var(--gold); color: var(--navy); font-weight: bold; font-size: 8.5pt; text-align: center; line-height: 4.6mm; }
+    background: var(--brand); color: #fff; font-weight: bold; font-size: 8.5pt; text-align: center; line-height: 4.6mm; }
   section { margin-top: 6mm; }
   table { width: 100%; border-collapse: collapse; }
   th { text-align: left; background: var(--navy); color: #fff; font-weight: bold; padding: 2.2mm 3mm; font-size: 10pt; }
   td { padding: 2.2mm 3mm; border-bottom: 1px solid var(--line); vertical-align: top; }
-  td.val { white-space: nowrap; font-weight: bold; color: var(--navy); text-align: right; }
+  td.val { white-space: nowrap; font-weight: bold; color: var(--brand); text-align: right; }
   .note { color: var(--muted); font-size: 9pt; margin-top: 1.5mm; }
   .two { display: grid; grid-template-columns: 1fr 1fr; gap: 6mm; }
   .small li { font-size: 9.6pt; margin-bottom: 1.3mm; }
   ul.dash { padding-left: 4.5mm; margin: 0; }
   footer { margin-top: auto; padding-top: 4mm; border-top: 1px solid var(--line); display: flex; justify-content: space-between; align-items: center; font-size: 10pt; }
-  footer .wa { color: var(--gold-dark); font-weight: bold; font-size: 12.5pt; }
+  footer .wa { color: var(--brand); font-weight: bold; font-size: 12.5pt; }
   .client { font-size: 10pt; color: var(--muted); }
   .client span { display: inline-block; min-width: 70mm; border-bottom: 1px solid var(--muted); }
 </style>
@@ -48,7 +48,7 @@
 <body>
 <div class="page">
   <header>
-    <img src="marca/logo-jurix-global.png" alt="Jurix Global Abogados">
+    <img src="marca/logo-jurix-global.png" alt="Jurix Global, asesoría legal y financiera">
     <div class="tag">Guayaquil, Ecuador<br>Derecho de familia</div>
   </header>
 

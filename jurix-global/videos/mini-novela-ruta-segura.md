@@ -19,9 +19,9 @@ El mayor problema de las novelas con IA es que **el personaje cambia de cara ent
 | **Don Ramiro** | Dueño de un bus, 55 años, trabajador, orgulloso, un poco desconfiado | *Ecuadorian man, 55, tan skin, short grey hair, grey mustache, light blue short-sleeve button shirt, dark trousers, gold wristwatch, worried but proud expression, standing next to a white urban bus in Guayaquil, natural daylight, photorealistic, vertical 9:16* |
 | **Kevin** | Chofer del bus de Don Ramiro, 28 años, buena gente pero descuidado | *Ecuadorian young man, 28, short black hair with fade, light stubble, navy polo shirt with a small embroidered bus cooperative logo, jeans, sitting at the driver seat of an urban bus, Guayaquil, photorealistic, vertical 9:16* |
 | **Doña Mercedes** | Socia de la misma cooperativa, 48 años, organizada, ya tiene el plan | *Ecuadorian woman, 48, shoulder-length dark wavy hair, white blouse, small gold earrings, confident warm smile, holding a smartphone, Guayaquil street background, photorealistic, vertical 9:16* |
-| **Abogado de Jurix** | Abogado del estudio. **Puede ser tu propio avatar de HeyGen** para que seas tú | *Ecuadorian lawyer, 40, short dark hair, navy blue suit, white shirt, no tie, small gold lapel pin, calm and trustworthy expression, modern law office with navy and gold details, photorealistic, vertical 9:16* |
+| **Abogado de Jurix** | Abogado del estudio. **Puede ser tu propio avatar de HeyGen** para que seas tú | *Ecuadorian lawyer, 40, short dark hair, navy blue suit, white shirt, no tie, small blue lapel pin, calm and trustworthy expression, modern law office with blue and grey details, photorealistic, vertical 9:16* |
 
-**Escenarios fijos:** la terminal de buses o una parada de Guayaquil, la casa de Don Ramiro (sala sencilla), la oficina de Jurix (azul marino y dorado, con el logo en la pared) y el salón de asambleas de la cooperativa.
+**Escenarios fijos:** la terminal de buses o una parada de Guayaquil, la casa de Don Ramiro (sala sencilla), la oficina de Jurix (azul y gris, los colores de la marca, con el logo en la pared) y el salón de asambleas de la cooperativa.
 
 ---
 
@@ -35,7 +35,7 @@ El mayor problema de las novelas con IA es que **el personaje cambia de cara ent
 | 2 | El agente le entrega la citación, con trato respetuoso. | Agente: *"Exceso de velocidad, señor. Aquí tiene su citación."* Kevin: *"Ya, jefe, gracias."* | *Vertical 9:16. A uniformed Ecuadorian traffic officer politely hands a printed traffic ticket to Kevin through the bus driver window. Dialogue in Spanish, coastal Ecuadorian accent. Officer: "Exceso de velocidad, señor. Aquí tiene su citación." Kevin: "Ya, jefe, gracias." Realistic, daytime.* |
 | 3 | Kevin guarda el papel en la guantera sin leerlo. | Kevin (para sí): *"Después le digo a Don Ramiro… o mejor no."* | *Vertical 9:16, close-up. Kevin folds the ticket and shoves it into the bus glovebox among old receipts, then sighs. Dialogue in Spanish: "Después le digo a Don Ramiro… o mejor no." Shallow depth of field.* |
 | 4 | Plano de la guantera cerrándose. Aparece un contador. | Texto grande: *"Le quedan 3 días para impugnar."* | *Vertical 9:16, slow push-in on a closed bus glovebox, dramatic lighting, a ticking clock sound effect. Leave empty space at the top for on-screen text.* |
-| 5 | Cierre. | Texto: *"¿Sabías que tu chofer puede tener multas que tú no conoces? Parte 2 mañana."* | *(Pantalla con el logo de Jurix Global sobre fondo azul marino; la armas en Descript.)* |
+| 5 | Cierre. | Texto: *"¿Sabías que tu chofer puede tener multas que tú no conoces? Parte 2 mañana."* | *(Pantalla con el logo de Jurix Global sobre fondo azul; la armas en Descript.)* |
 
 ---
 
@@ -95,7 +95,7 @@ El mayor problema de las novelas con IA es que **el personaje cambia de cara ent
 | 2 | Los socios murmuran y asienten. | Socio: *"A mí también me pasó."* | *Vertical 9:16, reaction shots of bus owners nodding and murmuring in the assembly. One says in Spanish: "A mí también me pasó."* |
 | 3 | Ramiro propone. | Ramiro: *"Propongo que la cooperativa pida el diagnóstico gratuito de multas de Jurix."* | *Vertical 9:16, Don Ramiro speaks with conviction, the room listens. Spanish: "Propongo que la cooperativa pida el diagnóstico gratuito de multas de Jurix."* |
 | 4 | Votación a mano alzada. | Texto: *"Aprobado."* | *Vertical 9:16, wide shot, most bus owners raise their hands to vote, warm light, hopeful music.* |
-| 5 | **Cierre: tú a cámara** (avatar de HeyGen o grabado con el celular). | *"Soy [tu nombre], de Jurix Global. Si tienes buses en una cooperativa, pide el diagnóstico gratuito de multas de tu flota. Escríbenos al 098 780 4294."* | *(Grábalo tú o genéralo con tu avatar de HeyGen; fondo azul marino con el logo.)* |
+| 5 | **Cierre: tú a cámara** (avatar de HeyGen o grabado con el celular). | *"Soy [tu nombre], de Jurix Global. Si tienes buses en una cooperativa, pide el diagnóstico gratuito de multas de tu flota. Escríbenos al 098 780 4294."* | *(Grábalo tú o genéralo con tu avatar de HeyGen; fondo azul con el logo de Jurix Global.)* |
 
 ---
 
