@@ -10,7 +10,7 @@ Sin embargo, es un tema que con frecuencia se resuelve en una línea de la sente
 
 ## 15.2. Los sistemas de determinación de la pena en los concursos
 
-La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016; Zaffaroni et al., 2002):
+La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]):
 
 | Sistema | Regla | Crítica |
 |---|---|---|
@@ -34,7 +34,7 @@ Antes de hablar de concurso real o ideal, hay que responder una pregunta: **¿cu
 
 ### 15.3.2. Los criterios de unidad de conducta
 
-Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014; Mir Puig, 2016):
+Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014, p. [verificar]; Mir Puig, 2016, p. [verificar]):
 
 1. **El factor final:** los actos responden a una **misma decisión** del autor.
 2. **El factor normativo:** el **tipo penal** agrupa varios actos en una sola unidad. Por ejemplo, el robo comprende la violencia y el apoderamiento; el secuestro se prolonga en el tiempo como un delito permanente.
@@ -92,13 +92,13 @@ No se ha identificado un precedente obligatorio de la Corte Nacional que resuelv
 ### 15.5.3. Concurso ideal heterogéneo y homogéneo
 
 - **Heterogéneo:** la conducta realiza **tipos distintos**. Por ejemplo, el funcionario que, en un mismo acto, recibe un beneficio indebido y dicta una resolución contraria a la ley.
-- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014).
+- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014, p. [verificar]).
 
 ### 15.5.4. La experiencia ecuatoriana: el caso de las drogas
 
-La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. La Corte Nacional de Justicia, en la **Resolución No. 12-2015**, estableció que la tenencia simultánea de distintas sustancias sujetas a fiscalización debía sancionarse aplicando las reglas del concurso real, es decir, acumulando una pena por cada tipo de sustancia[^res12].
+La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. La Corte Nacional de Justicia, en la **Resolución No. 12-2015** [verificar la fecha de aprobación y de publicación en el Registro Oficial], estableció que la tenencia simultánea de distintas sustancias sujetas a fiscalización debía sancionarse aplicando las reglas del concurso real, es decir, acumulando una pena por cada tipo de sustancia[^res12].
 
-La Corte Constitucional, en la **sentencia No. 7-17-CN/19**, declaró la inconstitucionalidad de ese criterio[^cc717]. En lo esencial, consideró que una misma conducta de tenencia no podía fraccionarse en varios delitos según el tipo de sustancia, porque ello vulneraba el principio de proporcionalidad y la prohibición de doble sanción. Posteriormente, la propia Corte Nacional dejó sin efecto el precedente[^cnj2019].
+La Corte Constitucional, en la **sentencia No. 7-17-CN/19** [verificar la fecha], declaró la inconstitucionalidad de ese criterio[^cc717]. En lo esencial, consideró que una misma conducta de tenencia no podía fraccionarse en varios delitos según el tipo de sustancia, porque ello vulneraba el principio de proporcionalidad y la prohibición de doble sanción. Posteriormente, la propia Corte Nacional dejó sin efecto el precedente[^cnj2019].
 
 Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta puede llegar a declararse inconstitucional.
 
@@ -106,7 +106,7 @@ Es por esta razón que este caso es tan útil para el litigante: demuestra que *
 
 ### 15.6.1. Concepto
 
-En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016; Zaffaroni et al., 2002).
+En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]).
 
 ### 15.6.2. Los principios
 
@@ -141,7 +141,7 @@ El COIP no lo regula. El Código Penal español lo trata como un concurso ideal[
 
 Se trata de **varias acciones** que realizan el mismo tipo penal, ejecutadas con un **plan preconcebido** o aprovechando una **misma ocasión**, contra el mismo bien jurídico. Por ejemplo, el empleado que sustrae pequeñas cantidades de la caja cada mes.
 
-El Código Penal anterior lo reconocía **[verificar el artículo]**, pero el COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012). En la legislación comparada lo regulan, entre otros, España[^espana] y Colombia[^colombia].
+El Código Penal anterior lo reconocía **[verificar el artículo]**, pero el COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012, p. [verificar]). En la legislación comparada lo regulan, entre otros, España[^espana] y Colombia[^colombia].
 
 **Para la defensa**, el argumento del delito continuado sirve para:
 - evitar la acumulación de tantas penas como actos hubo;

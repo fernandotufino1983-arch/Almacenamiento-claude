@@ -14,7 +14,7 @@ Es por esta razón que el abogado defensor en casos de corrupción y de lavado d
 
 La extinción de dominio es una creación del derecho colombiano. La **Constitución de Colombia de 1991**, en su art. 34, estableció que se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del tesoro público o con grave deterioro de la moral social[^colombia-const]. El desarrollo legal llegó con la Ley 333 de 1996, la Ley 793 de 2002 y, finalmente, el **Código de Extinción de Dominio** (Ley 1708 de 2014)[^colombia-leyes].
 
-En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011).
+En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011, p. [verificar]).
 
 ## 17.3. La extinción de dominio en el Ecuador
 

@@ -12,7 +12,7 @@ La razón es práctica. En los casos de lavado de activos, la sentencia casi nun
 
 ### 14.2.1. La estructura de la inferencia
 
-Toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010; Taruffo, 2002):
+Toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010, p. [verificar]; Taruffo, 2002, p. [verificar]):
 
 1. **El hecho base o indicio:** un hecho **probado** por otro medio de prueba. Por ejemplo, que el procesado depositó USD 300.000 en efectivo en un año.
 2. **La regla de experiencia o máxima:** una generalización que conecta el hecho base con la conclusión. Por ejemplo, que quien maneja grandes sumas de efectivo sin una actividad que lo explique suele obtenerlas de actividades ilícitas.
@@ -77,7 +77,7 @@ Es por esta razón que, en el Ecuador, la prueba indiciaria debe entenderse como
 
 ### 14.4.1. Más allá de toda duda razonable
 
-La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
+La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007, p. [verificar]). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
 
 ### 14.4.2. La motivación reforzada
 
@@ -160,9 +160,9 @@ Una inferencia es válida solo si su conclusión es **la única razonable**. La 
 
 Dos sentencias de casación de la Sala Penal muestran qué ha aceptado la Corte Nacional como indicio del origen ilícito, y por qué la defensa debe discutirlo (capítulo 12, sección 12.3.4).
 
-En el **caso Espinel** (juicio No. 09333-2018-00282, 2021), la Corte consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^espinel-indicios].
+En el **caso Espinel**, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de julio de 2021 (juicio No. 09333-2018-00282), consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^espinel-indicios].
 
-En el **caso Salcedo** (juicio No. 07712-2020-00205, 2024), la Corte reprochó al tribunal de apelación no haber considerado como señales del lavado el transporte de efectivo por un paso fronterizo, el fraccionamiento de transferencias, el uso de empresas sin actividad aparente y de documentos falsos, apoyándose en las tipologías del GAFILAT y en las recomendaciones del GAFI[^salcedo-indicios].
+En el **caso Salcedo**, la misma Sala, en la sentencia de casación de 29 de enero de 2024 (juicio No. 07712-2020-00205), reprochó al tribunal de apelación no haber considerado como señales del lavado el transporte de efectivo por un paso fronterizo, el fraccionamiento de transferencias, el uso de empresas sin actividad aparente y de documentos falsos, apoyándose en las tipologías del GAFILAT y en las recomendaciones del GAFI[^salcedo-indicios].
 
 Si bien es cierto que esos elementos pueden ser relevantes, es importante diferenciar su función. Propongo tres reglas para su control:
 
@@ -242,9 +242,9 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Tribunal Europeo de Derechos Humanos. (1996). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
+Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
 
 [^cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). **[verificar la numeración y la redacción]** Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
 

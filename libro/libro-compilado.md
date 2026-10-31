@@ -8,6 +8,8 @@
 
 > **Nota sobre este borrador.** Este documento reúne los capítulos 1 a 18: las Partes I (Fundamentos), II (Delitos contra la administración pública) y III (Lavado de activos) completas, y el inicio de la Parte IV (Estrategia de defensa). Los capítulos 19 a 21 y los anexos están pendientes. Los textos del COIP corresponden a la versión con última actualización de 7 de octubre de 2026, y los de la Constitución, al texto original de 2008. Las citas marcadas con [verificar] deben contrastarse con su fuente original, y los espacios [Nota del autor] son para la experiencia y el criterio propios del autor. Para revisar el texto, se sugiere activar el control de cambios de Word o usar comentarios, y devolver el archivo para incorporar las modificaciones. Formato de citas y referencias: APA, 7.ª edición. Al abrir el documento, si Word lo solicita, acepte actualizar los campos para que se genere el índice.
 
+> **Criterios de citación.** La doctrina se cita en el texto con autor, año y página, conforme a APA 7: (Roxin, 1997, p. 307) o Roxin (1997, p. 307). La jurisprudencia se identifica en el texto, la primera vez que aparece en cada capítulo, con el tribunal, el tipo de decisión, la fecha completa (día, mes y año) y el número de juicio o de causa; en las menciones siguientes se usa el nombre del caso. Las notas al pie contienen las bases legales (artículos de la Constitución, el COIP y las demás leyes), el lugar exacto de la sentencia citada (considerando o párrafo) y los comentarios del autor. Las referencias completas van al final de cada capítulo. La mención "p. [verificar]" señala que falta confirmar la página en la edición consultada.
+
 <<PAGEBREAK>>
 <<TOC>>
 <<PAGEBREAK>>
@@ -41,7 +43,7 @@ Como podrá apreciar el lector, esta definición sirve para todos los delitos qu
 
 #### 1.2.2. La fórmula de Klitgaard
 
-Robert Klitgaard propuso una fórmula que ha tenido gran influencia en el estudio de la corrupción: **C = M + D − A**. La corrupción es igual al **monopolio** de una decisión, más la **discrecionalidad** de quien la toma, menos la **rendición de cuentas** (Klitgaard, 1988)[^c1_klitgaard].
+Robert Klitgaard propuso una fórmula que ha tenido gran influencia en el estudio de la corrupción: **C = M + D − A**. La corrupción es igual al **monopolio** de una decisión, más la **discrecionalidad** de quien la toma, menos la **rendición de cuentas** (Klitgaard, 1988, p. 75 [verificar])[^c1_klitgaard].
 
 La fórmula tiene un valor que va más allá de la academia. Explica por qué la corrupción se concentra en ciertos lugares de la administración: la contratación en emergencia, donde la discrecionalidad es máxima y el control es mínimo; los permisos municipales, donde un solo funcionario decide; las aduanas, donde la decisión es inmediata y difícil de revisar. Y explica también por qué el derecho penal, por sí solo, no basta: el derecho penal actúa sobre la rendición de cuentas posterior, pero no reduce el monopolio ni la discrecionalidad.
 
@@ -324,11 +326,11 @@ La doctrina distingue entre dos clases de delitos especiales:
 
 #### 2.5.2. Los delitos de infracción de deber
 
-Una corriente doctrinal, iniciada por Roxin y desarrollada por Jakobs, propone una explicación más profunda. En ciertos delitos, lo que fundamenta la autoría no es el dominio del hecho, sino la **infracción de un deber especial** que solo tiene el autor: el deber positivo de proteger el bien jurídico que se le ha confiado (Roxin, 2000)[^c2_roxin].
+Una corriente doctrinal, iniciada por Roxin y desarrollada por Jakobs, propone una explicación más profunda. En ciertos delitos, lo que fundamenta la autoría no es el dominio del hecho, sino la **infracción de un deber especial** que solo tiene el autor: el deber positivo de proteger el bien jurídico que se le ha confiado (Roxin, 2000, p. [verificar])[^c2_roxin].
 
 Desde esta perspectiva, el servidor que permite que un tercero se apropie de los fondos que custodia es autor del peculado, aunque no haya tocado el dinero, porque infringió su deber de custodia. Y el particular que se apropia de esos fondos con su ayuda no es autor, aunque haya tenido el dominio material del hecho, porque no tenía ese deber.
 
-Esta teoría tiene gran influencia en la doctrina y la jurisprudencia peruanas (Abanto Vásquez, 2003)[^c2_abanto], y es útil para leer el COIP. Pero el COIP no la adoptó expresamente: el art. 42 define la autoría con criterios de dominio del hecho, y solo el num. 1.b menciona el deber jurídico, en la omisión.
+Esta teoría tiene gran influencia en la doctrina y la jurisprudencia peruanas (Abanto Vásquez, 2003, p. [verificar])[^c2_abanto], y es útil para leer el COIP. Pero el COIP no la adoptó expresamente: el art. 42 define la autoría con criterios de dominio del hecho, y solo el num. 1.b menciona el deber jurídico, en la omisión.
 
 ### 2.6. El particular que participa: el problema del *extraneus*
 
@@ -510,7 +512,7 @@ Para la defensa, esto abre un campo de trabajo que muchas veces se desaprovecha.
 | **Diferencia de estándares** | ¿El examen buscaba responsabilidad administrativa, civil o penal? ¿Qué entiende por "indicio de responsabilidad penal"? |
 | **Conocimiento del procesado** | ¿Puede afirmar que el procesado sabía de la irregularidad, o solo que firmó? |
 
-La práctica muestra por qué este control es indispensable. En el caso Espinel, la Corte Nacional aceptó que los informes de la Contraloría con indicios de responsabilidad penal sirvieran, junto con dos instrucciones fiscales en trámite, como indicios del origen ilícito de los activos en un proceso por lavado (capítulo 12, sección 12.3.4). Si el informe ni siquiera fue sustentado por el auditor en el juicio, ese razonamiento contradice el art. 454.6.
+La práctica muestra por qué este control es indispensable. En el caso Espinel, la Sala Especializada de lo Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de julio de 2021 (juicio No. 09333-2018-00282), aceptó que los informes de la Contraloría con indicios de responsabilidad penal sirvieran, junto con dos instrucciones fiscales en trámite, como indicios del origen ilícito de los activos en un proceso por lavado (capítulo 12, sección 12.3.4). Si el informe ni siquiera fue sustentado por el auditor en el juicio, ese razonamiento contradice el art. 454.6.
 
 La última pregunta es la más importante. El auditor puede establecer que hubo un pago sin respaldo o una obra no ejecutada. Pero casi nunca puede establecer el **dolo** del procesado, porque su examen no está diseñado para eso. Y sin dolo no hay peculado (capítulo 4).
 
@@ -605,7 +607,7 @@ El cuarto requisito es el más importante para la defensa. Si los mismos indicio
 
 El art. 76.7.l de la Constitución dispone que las resoluciones de los poderes públicos deben ser motivadas, y que no hay motivación si no se enuncian las normas o principios jurídicos en que se fundan y no se explica la pertinencia de su aplicación a los antecedentes de hecho[^c3_motivacion].
 
-La Corte Constitucional desarrolló este estándar en la sentencia **1158-17-EP/21**, en la que fijó el criterio de la **suficiencia motivacional** y distinguió tres clases de deficiencia: la **inexistencia** de motivación, su **insuficiencia** y la **apariencia** de motivación, que incluye los vicios de incoherencia, inatinencia, incongruencia e incomprensibilidad[^c3_cc1158].
+La Corte Constitucional desarrolló este estándar en la sentencia **1158-17-EP/21**, de 20 de octubre de 2021 [verificar la fecha], en la que fijó el criterio de la **suficiencia motivacional** y distinguió tres clases de deficiencia: la **inexistencia** de motivación, su **insuficiencia** y la **apariencia** de motivación, que incluye los vicios de incoherencia, inatinencia, incongruencia e incomprensibilidad[^c3_cc1158].
 
 #### 3.8.2. La motivación en las sentencias de corrupción
 
@@ -685,9 +687,9 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Monetario y Financiero
 
 Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar título exacto y Registro Oficial].
 
-Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21*.
+Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21*.
 
-Corte Nacional de Justicia. (2024). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
+Corte Nacional de Justicia. (2024, 23 de octubre). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 [^c3_art454]: COIP, art. 454.1.
 
@@ -748,7 +750,7 @@ La reforma de 2021 es la que define el peculado que hoy se aplica, y trajo tres 
 
 La doctrina discute si el peculado protege el **patrimonio público** o el **correcto funcionamiento de la administración**. A mi juicio, la discusión es en buena medida falsa, porque el peculado protege ambos a la vez: es un delito pluriofensivo.
 
-Lo que sí es importante tener claro es lo siguiente. El peculado no es un hurto agravado por la calidad del autor. Si así fuera, cualquier servidor público que sustrajera un bien del Estado cometería peculado, y no es así. Lo que caracteriza al peculado es la **infracción de un deber especial**: el deber de lealtad en la administración de los bienes que le fueron confiados (Abanto Vásquez, 2003; Rojas Vargas, 2007)[^c4_infraccion_deber].
+Lo que sí es importante tener claro es lo siguiente. El peculado no es un hurto agravado por la calidad del autor. Si así fuera, cualquier servidor público que sustrajera un bien del Estado cometería peculado, y no es así. Lo que caracteriza al peculado es la **infracción de un deber especial**: el deber de lealtad en la administración de los bienes que le fueron confiados (Abanto Vásquez, 2003, p. [verificar]; Rojas Vargas, 2007, p. [verificar])[^c4_infraccion_deber].
 
 Es decir, el desvalor del peculado no está solo en el perjuicio económico, sino en que quien lo causa es precisamente la persona que debía evitarlo.
 
@@ -790,7 +792,7 @@ Si bien es cierto que la reforma buscaba cerrar un espacio de impunidad, es impo
 
 El elemento que más se discute en los juicios por peculado es la exigencia de que los bienes estén en poder del agente **"en virtud o razón de su cargo"**.
 
-No basta que el servidor trabaje en la institución dueña del bien. Es necesario que, por las funciones que le asigna la ley, el reglamento orgánico funcional o el acto de delegación, tenga sobre ese bien una facultad de **administración, custodia, percepción o disposición**. Esa facultad no requiere tenencia material: el ordenador de gasto que autoriza un pago tiene el dinero "en su poder" aunque nunca lo toque, porque tiene la disponibilidad jurídica sobre él (Rojas Vargas, 2007)[^c4_disponibilidad].
+No basta que el servidor trabaje en la institución dueña del bien. Es necesario que, por las funciones que le asigna la ley, el reglamento orgánico funcional o el acto de delegación, tenga sobre ese bien una facultad de **administración, custodia, percepción o disposición**. Esa facultad no requiere tenencia material: el ordenador de gasto que autoriza un pago tiene el dinero "en su poder" aunque nunca lo toque, porque tiene la disponibilidad jurídica sobre él (Rojas Vargas, 2007, p. [verificar])[^c4_disponibilidad].
 
 Como podrá apreciar el lector, la prueba de este elemento no es testimonial sino documental: el nombramiento, el manual de funciones, la resolución de delegación, el registro de firmas autorizadas en el sistema de pagos. Si el fiscal no incorpora esos documentos, la relación funcional queda como una afirmación.
 
@@ -1102,7 +1104,7 @@ Ese es el eje de todo este capítulo.
 
 ### 5.2. Origen y marco internacional
 
-La figura nació en América Latina. Argentina la incorporó a su Código Penal en 1964, en el art. 268 (2), y desde entonces se ha discutido allí su constitucionalidad (Sancinetti, 1994)[^c5_argentina]. Colombia la tipificó y su Corte Constitucional, en la sentencia C-319 de 1996, la declaró exequible, pero dejó claro que al Estado le corresponde probar el carácter injustificado del incremento y que el procesado no está obligado a demostrar su inocencia[^c5_colombia].
+La figura nació en América Latina. Argentina la incorporó a su Código Penal en 1964, en el art. 268 (2), y desde entonces se ha discutido allí su constitucionalidad (Sancinetti, 1994, p. [verificar])[^c5_argentina]. Colombia la tipificó y su Corte Constitucional, en la sentencia C-319/96, de 18 de julio de 1996 [verificar la fecha], la declaró exequible, pero dejó claro que al Estado le corresponde probar el carácter injustificado del incremento y que el procesado no está obligado a demostrar su inocencia[^c5_colombia].
 
 Luego llegaron los tratados:
 
@@ -1222,7 +1224,7 @@ Es la misma solución que adoptó la Corte Constitucional de Colombia en la sent
 
 #### 5.6.3. El estado de la jurisprudencia ecuatoriana
 
-No he encontrado un pronunciamiento de la Corte Constitucional ecuatoriana que resuelva directamente la constitucionalidad del art. 279 frente a la presunción de inocencia. Sí existen pronunciamientos sobre la inversión de la carga de la prueba en otros delitos, como la sentencia 14-19-CN/20, que examinó una norma del delito de contrabando (art. 301.2 del COIP) frente al art. 76.2 de la Constitución[^c5_cc1419]. Ese razonamiento puede trasladarse al enriquecimiento ilícito, pero debe verificarse antes de citarlo.
+No he encontrado un pronunciamiento de la Corte Constitucional ecuatoriana que resuelva directamente la constitucionalidad del art. 279 frente a la presunción de inocencia. Sí existen pronunciamientos sobre la inversión de la carga de la prueba en otros delitos, como la sentencia 14-19-CN/20 de la Corte Constitucional [verificar la fecha], que examinó una norma del delito de contrabando (art. 301.2 del COIP) frente al art. 76.2 de la Constitución[^c5_cc1419]. Ese razonamiento puede trasladarse al enriquecimiento ilícito, pero debe verificarse antes de citarlo.
 
 ### 5.7. La prueba
 
@@ -1327,7 +1329,7 @@ Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Re
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 279, 289 y 297; verificar la versión vigente].
 
-Corte Constitucional de Colombia. (1996). *Sentencia C-319 de 1996*.
+Corte Constitucional de Colombia. (1996, 18 de julio [verificar]). *Sentencia C-319/96*.
 
 Corte Constitucional del Ecuador. (2020). *Sentencia No. 14-19-CN/20* [verificar la decisión].
 
@@ -1391,7 +1393,7 @@ La reforma de 2021 duplicó prácticamente las penas. Esto tiene una consecuenci
 
 En el cohecho no hay necesariamente un perjuicio patrimonial para el Estado. El servidor que recibe un soborno para agilitar un trámite que de todos modos debía aprobar no le quita un dólar a nadie. Y sin embargo, comete un delito.
 
-Es por esta razón que el bien jurídico del cohecho no es el patrimonio público, sino la **imparcialidad** y la **gratuidad** de la función pública: la garantía de que las decisiones del Estado se toman conforme a la ley, y no al mejor postor (Muñoz Conde, 2021; Rojas Vargas, 2007)[^c6_bien]. Lo que se castiga es que el servidor convierta su función en mercancía, aunque el acto que venda sea legal.
+Es por esta razón que el bien jurídico del cohecho no es el patrimonio público, sino la **imparcialidad** y la **gratuidad** de la función pública: la garantía de que las decisiones del Estado se toman conforme a la ley, y no al mejor postor (Muñoz Conde, 2021, p. [verificar]; Rojas Vargas, 2007, p. [verificar])[^c6_bien]. Lo que se castiga es que el servidor convierta su función en mercancía, aunque el acto que venda sea legal.
 
 ### 6.4. El cohecho pasivo
 
@@ -1523,7 +1525,7 @@ El art. 483 del COIP permite las operaciones encubiertas, bajo la dirección de 
 
 Pero es importante diferenciar al **agente encubierto** del **agente provocador**. El agente encubierto se infiltra en una actividad delictiva que ya existe y la documenta. El agente provocador, en cambio, **induce** a una persona a cometer un delito que no habría cometido por sí misma, para luego detenerla.
 
-En el cohecho, esta diferencia es decisiva. Si un agente se presenta ante un servidor que ya venía exigiendo pagos y graba la entrega, la prueba es válida. Pero si el agente insiste, presiona y ofrece dinero a un servidor que no tenía ninguna intención de corromperse, hasta que este cede, el Estado no descubrió un delito: lo fabricó. El Tribunal Europeo de Derechos Humanos, en el caso *Teixeira de Castro contra Portugal* (1998), sostuvo que la condena basada en la actuación de agentes que incitaron al delito vulnera el derecho a un proceso equitativo[^c6_teixeira]. En el Ecuador, esa prueba debe excluirse conforme al art. 76.4 de la Constitución, porque se obtuvo con violación del debido proceso[^c6_prueba_ilicita].
+En el cohecho, esta diferencia es decisiva. Si un agente se presenta ante un servidor que ya venía exigiendo pagos y graba la entrega, la prueba es válida. Pero si el agente insiste, presiona y ofrece dinero a un servidor que no tenía ninguna intención de corromperse, hasta que este cede, el Estado no descubrió un delito: lo fabricó. El Tribunal Europeo de Derechos Humanos, en la sentencia de 9 de junio de 1998, caso *Teixeira de Castro contra Portugal* (demanda No. 25829/94), sostuvo que la condena basada en la actuación de agentes que incitaron al delito vulnera el derecho a un proceso equitativo[^c6_teixeira]. En el Ecuador, esa prueba debe excluirse conforme al art. 76.4 de la Constitución, porque se obtuvo con violación del debido proceso[^c6_prueba_ilicita].
 
 #### 6.9.3. La prueba del pacto
 
@@ -1613,7 +1615,7 @@ Organización de los Estados Americanos. (1996). *Convención Interamericana con
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
 
-Tribunal Europeo de Derechos Humanos. (1998). *Teixeira de Castro c. Portugal* (Demanda No. 25829/94), sentencia de 9 de junio de 1998.
+Tribunal Europeo de Derechos Humanos. (1998, 9 de junio). *Teixeira de Castro c. Portugal* (Demanda No. 25829/94), sentencia de 9 de junio de 1998.
 
 [^c6_cp]: Código Penal de 1938 (codificación de 1971), arts. 285 a 290. **[verificar la numeración]**
 
@@ -1894,7 +1896,7 @@ A ello se suma un dato que no debe pasarse por alto: la agravación por contrato
 
 ### 8.3. El bien jurídico
 
-El tráfico de influencias protege la **imparcialidad** de la administración pública: la garantía de que las decisiones de los servidores se toman conforme a la ley y al mérito del caso, y no por la presión de quien tiene poder sobre ellos (Muñoz Conde, 2021)[^c8_bien].
+El tráfico de influencias protege la **imparcialidad** de la administración pública: la garantía de que las decisiones de los servidores se toman conforme a la ley y al mérito del caso, y no por la presión de quien tiene poder sobre ellos (Muñoz Conde, 2021, p. [verificar])[^c8_bien].
 
 A diferencia del cohecho, aquí no hay necesariamente un pago. Lo que se corrompe no es la voluntad del servidor a cambio de dinero, sino su independencia frente a la presión de otro servidor.
 
@@ -2478,7 +2480,7 @@ A mi juicio, la prohibición sigue siendo incompatible con la Constitución y co
 
 1. **La prisión preventiva es excepcional.** El art. 77.1 de la Constitución dispone que la privación de libertad "no será la regla general" y que se aplicará para garantizar la comparecencia o el cumplimiento de la pena. Una prohibición automática de sustituirla, sin analizar el caso, la convierte en regla para ciertos delitos[^c10_art771].
 2. **La medida cautelar no puede depender del tipo penal.** La prisión preventiva se justifica por un riesgo procesal concreto, como la fuga o la obstrucción, y no por la gravedad abstracta del delito. Prohibir la sustitución según el delito imputado es tratar al procesado como culpable antes de la sentencia.
-3. **El Ecuador ya fue condenado por una regla similar.** En el caso *Suárez Rosero vs. Ecuador* (1997), la Corte Interamericana de Derechos Humanos sostuvo que la norma del Código Penal que excluía a los procesados por delitos de drogas de los beneficios aplicables a los demás procesados, como la limitación de la duración de la prisión preventiva, vulneraba la Convención, porque los despojaba de un derecho fundamental en razón del delito imputado[^c10_suarez].
+3. **El Ecuador ya fue condenado por una regla similar.** En el caso *Suárez Rosero vs. Ecuador*, sentencia de fondo de 12 de noviembre de 1997 (Serie C No. 35), la Corte Interamericana de Derechos Humanos sostuvo que la norma del Código Penal que excluía a los procesados por delitos de drogas de los beneficios aplicables a los demás procesados, como la limitación de la duración de la prisión preventiva, vulneraba la Convención, porque los despojaba de un derecho fundamental en razón del delito imputado[^c10_suarez].
 
 Es por esta razón que, en los casos de peculado, sobreprecios y corrupción privada, la defensa debe pedir la sustitución de la prisión preventiva igual que en cualquier otro delito, invocando la aplicación directa de la Constitución (art. 11.3) y el control de convencionalidad, y preparar desde el inicio el camino de la acción de inconstitucionalidad o de la consulta de norma del art. 428 de la Constitución.
 
@@ -2559,7 +2561,7 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Regis
 
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
 
-Corte Interamericana de Derechos Humanos. (1997). *Caso Suárez Rosero vs. Ecuador*. Fondo. Sentencia de 12 de noviembre de 1997. Serie C No. 35.
+Corte Interamericana de Derechos Humanos. (1997, 12 de noviembre). *Caso Suárez Rosero vs. Ecuador*. Fondo. Sentencia de 12 de noviembre de 1997. Serie C No. 35.
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
 
@@ -2602,7 +2604,7 @@ En este orden de ideas, el presente capítulo recorre el camino que siguió esta
 
 Se repite en clases y conferencias que la expresión nace en los Estados Unidos de los años veinte y treinta del siglo pasado, cuando las organizaciones criminales de Chicago, con Al Capone a la cabeza, habrían adquirido cadenas de lavanderías para mezclar el dinero del contrabando de alcohol con los ingresos en efectivo de un negocio aparentemente lícito[^c11_capone]. La imagen es poderosa: el dinero sucio entra a la lavandería y sale limpio.
 
-Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002).
+Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015, p. [verificar]). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002, p. [verificar]).
 
 #### 11.2.2. La expresión en la prensa y en los tribunales
 
@@ -2618,13 +2620,13 @@ Esta pregunta tiene dos respuestas, y conviene conocer ambas porque cada una ens
 
 La doctrina mayoritaria reconoce a **Italia** como el primer país que tipificó una conducta de lavado en su código penal. En 1978, en medio de la ola de secuestros extorsivos atribuidos a organizaciones como las Brigadas Rojas y a la criminalidad mafiosa, el legislador italiano incorporó el artículo 648 bis al *Codice Penale*[^c11_italia]. La norma castigaba la sustitución de dinero o valores provenientes de delitos muy específicos: el robo agravado, la extorsión agravada y el secuestro de personas con fines de extorsión.
 
-Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015).
+Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015, p. [verificar]).
 
 #### 11.3.2. Estados Unidos (1986): el primer delito autónomo y general
 
 Los **Estados Unidos** recorrieron un camino distinto. Primero apostaron por la prevención administrativa: la *Bank Secrecy Act* de 1970 obligó a los bancos a reportar las operaciones en efectivo superiores a diez mil dólares[^c11_bsa]. Durante dieciséis años, sin embargo, mover dinero ilícito no era en sí mismo un delito federal; lo que se castigaba era no reportarlo.
 
-Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^c11_mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004).
+Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^c11_mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004, p. [verificar]).
 
 #### 11.3.3. Lo que enseñan ambos modelos
 
@@ -2663,7 +2665,7 @@ El camino ecuatoriano reproduce, con algunos años de retraso, la evolución int
 2. **Ley para Reprimir el Lavado de Activos (2005).** Tipificó el lavado con un alcance general, desvinculado del narcotráfico, y creó la Unidad de Inteligencia Financiera[^c11_ley2005].
 3. **Código Orgánico Integral Penal (2014).** Incorporó el lavado de activos al artículo 317, con seis conductas típicas y la cláusula de autonomía[^c11_coip317].
 4. **Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016).** Reorganizó el sistema de prevención y transformó la unidad de inteligencia financiera en la actual **UAFE** (Unidad de Análisis Financiero y Económico)[^c11_ley2016].
-5. **Resolución 20-2024 de la Corte Nacional de Justicia.** Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^c11_cnj2024].
+5. **Resolución No. 20-2024 de la Corte Nacional de Justicia**, aprobada por el Pleno el 23 de octubre de 2024 y publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^c11_cnj2024].
 
 Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse aislado de su historia. Cada reforma amplió el alcance del delito, pero ninguna eliminó su presupuesto esencial: que los bienes tengan un **origen ilícito**.
 
@@ -2681,7 +2683,7 @@ Si falta cualquiera de los tres, estaremos frente a otra figura, o frente a una 
 
 ### 11.7. Las fases del lavado
 
-La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015; Prado Saldarriaga, 2007):
+La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
 
 | Fase | Qué ocurre | Ejemplos |
 |---|---|---|
@@ -2695,7 +2697,7 @@ La importancia práctica de las fases es enorme. La Fiscalía suele tener abunda
 
 La discusión sobre el bien jurídico no es académica. Determina el alcance del tipo penal y ofrece argumentos de lesividad (artículo 3 del COIP). Las posturas principales son tres:
 
-1. **El orden socioeconómico**, entendido como la libre competencia y la integridad del sistema financiero. Es la postura dominante (Fabián Caparrós, 1998).
+1. **El orden socioeconómico**, entendido como la libre competencia y la integridad del sistema financiero. Es la postura dominante (Fabián Caparrós, 1998, p. [verificar]).
 2. **La administración de justicia**, porque el lavado obstaculiza la persecución del delito de origen y el decomiso de sus ganancias.
 3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos.
 
@@ -2711,7 +2713,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
 | Preventivo | Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos (2016) y su reglamento |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
-| Jurisprudencia | Resolución CNJ 20-2024; sentencias de casación de la Corte Nacional en los juicios No. 09333-2018-00282 (caso Espinel, 2021) y No. 07712-2020-00205 (caso Salcedo, 2024), analizadas en el capítulo 12 |
+| Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 12 |
 
 #### 11.9.1. Las reformas del art. 317 y la ley aplicable
 
@@ -2723,13 +2725,13 @@ El art. 317 ha cambiado tres veces desde 2014, y esos cambios tienen consecuenci
 | **Reforma de 2021** (R.O. Supl. 525, 27 de agosto de 2021) | Modificó el artículo | El **triple** del monto |
 | **Reforma de 2024** (R.O. Supl. 599, 12 de julio de 2024) | De 5 a 7 años, si el monto es inferior a 100 SBU, hasta **19 a 22 años**, si supera los 200 SBU o hay asociación a través de sociedades o uso de cargos públicos; se añadió el num. 7, sobre la sobrevaloración de mercancías | El **quíntuplo** del monto |
 
-¿Qué ley se aplica cuando el lavado se extiende durante varios años, y en ese tiempo cambia la norma? La Corte Nacional respondió en el caso Espinel: el lavado es un **delito de mera actividad**, que se consuma con la ejecución de los verbos rectores, y debe juzgarse con la ley vigente a la fecha de su **consumación**. Como la sentencia fijó la consumación en 2016, se aplicó el COIP y no la ley de 2005, aunque las operaciones empezaron en 2010[^c11_espinel_ley].
+¿Qué ley se aplica cuando el lavado se extiende durante varios años, y en ese tiempo cambia la norma? La Sala Penal de la Corte Nacional de Justicia respondió en el caso Espinel (sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282): el lavado es un **delito de mera actividad**, que se consuma con la ejecución de los verbos rectores, y debe juzgarse con la ley vigente a la fecha de su **consumación**. Como la sentencia fijó la consumación en 2016, se aplicó el COIP y no la ley de 2005, aunque las operaciones empezaron en 2010[^c11_espinel_ley].
 
 El razonamiento tiene, sin embargo, una tensión interna que la defensa puede aprovechar. En el mismo fallo, la Corte afirmó que el lavado "solo en la última fase", la integración, se consuma. Si el lavado es de mera actividad, cada acto que encaja en un verbo rector lo consuma; si solo se consuma en la integración, las operaciones anteriores no son todavía lavado. En casos con operaciones que empiezan con una ley y terminan con otra, la defensa debe exigir que la sentencia precise **qué acto consumó el delito y en qué fecha**, y discutir la aplicación de la ley más favorable a los actos anteriores a la reforma.
 
-La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha sostuvo lo contrario que el caso Espinel: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^c11_chiriboga_ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
+La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), sostuvo lo contrario que el caso Espinel: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^c11_chiriboga_ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
 
-Por su parte, en el caso Salcedo la Corte aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^c11_salcedo_multa].
+Por su parte, en el caso Salcedo (sentencia de casación de 29 de enero de 2024, juicio No. 07712-2020-00205), la Corte Nacional aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^c11_salcedo_multa].
 
 ### 11.10. Conclusión
 
@@ -2781,9 +2783,9 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 **Jurisprudencia**
 
-Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
 
-[^c11_capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015). **[verificar la página]**
+[^c11_capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015, p. [verificar]). **[verificar la página]**
 
 [^c11_watergate]: Se atribuye al diario británico *The Guardian* el uso de la expresión en 1973, en la cobertura del caso Watergate. **[verificar la fuente primaria]**
 
@@ -2850,7 +2852,7 @@ Si para condenar por lavado hubiera que esperar una sentencia firme por el delit
 - **Su autor puede haber fallecido**, estar prófugo o ser desconocido.
 - **La acción por el delito de origen puede haber prescrito.**
 - **Quien lava suele ser una persona distinta** de quien cometió el delito de origen: el contador, el testaferro, el operador financiero. Condicionar su responsabilidad al juicio de otro sería dejar impune su propia conducta.
-- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015).
+- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015, p. [verificar]).
 
 Es por esta razón que la autonomía no es un capricho del legislador. Responde a la estructura misma del fenómeno.
 
@@ -2880,7 +2882,7 @@ Quien cita solo la primera mitad de la norma, cita la norma a medias.
 
 #### 12.3.3. La Resolución 20-2024 de la Corte Nacional de Justicia
 
-El 23 de octubre de 2024, el Pleno de la Corte Nacional de Justicia aprobó la **Resolución No. 20-2024**, que establece un **precedente jurisprudencial obligatorio** sobre el lavado de activos, sobre la base de fallos de triple reiteración de la Sala Penal[^c12_cnj2024].
+El 23 de octubre de 2024, el Pleno de la Corte Nacional de Justicia aprobó la **Resolución No. 20-2024**, publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024, que establece un **precedente jurisprudencial obligatorio** sobre el lavado de activos, sobre la base de fallos de triple reiteración de la Sala Penal[^c12_cnj2024].
 
 Según las fuentes disponibles, el precedente sostiene que:
 - **no se requiere una sentencia condenatoria previa** por el delito de origen para procesar o condenar por lavado de activos;
@@ -2902,7 +2904,7 @@ Dos sentencias de casación de la Sala Penal de la Corte Nacional permiten ver c
 | Cargo | Errónea interpretación del art. 317: se condenó por activos "injustificados", no por activos de origen ilícito | Errónea interpretación del art. 317: el tribunal de apelación exigió "comprobar" los delitos de origen |
 | Decisión | Recurso improcedente; se confirma la condena | Se casa la sentencia; condena de trece años a los autores y de seis años y seis meses a los cómplices; responsabilidad de cinco personas jurídicas |
 
-**a) Lo que dijo la Corte en el caso Espinel.** La defensa planteó exactamente la tesis de este capítulo: "injustificación del activo no es igual a origen ilícito". La Corte no la rechazó. Al contrario, afirmó que "la mera tenencia de activos no configura el delito en cuestión, se precisa que estos activos posean un origen ilícito", que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva", y que el lavado "solamente se consuma cuando los verbos rectores [...] recaen sobre un beneficio o rédito que provenga de la comisión de un acto típico, antijurídico y culpable"[^c12_espinel1]. Citó además a Pariona Pastrana para sostener que el acto delictivo previo "es un elemento normativo del delito de lavado de activos" que debe probarse, al menos, mediante indicios.
+**a) Lo que dijo la Corte en el caso Espinel (CNJ, sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282).** La defensa planteó exactamente la tesis de este capítulo: "injustificación del activo no es igual a origen ilícito". La Corte no la rechazó. Al contrario, afirmó que "la mera tenencia de activos no configura el delito en cuestión, se precisa que estos activos posean un origen ilícito", que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva", y que el lavado "solamente se consuma cuando los verbos rectores [...] recaen sobre un beneficio o rédito que provenga de la comisión de un acto típico, antijurídico y culpable"[^c12_espinel1]. Citó además a Pariona Pastrana para sostener que el acto delictivo previo "es un elemento normativo del delito de lavado de activos" que debe probarse, al menos, mediante indicios.
 
 Es decir, en el plano de la interpretación, la Corte dio la razón a la defensa. Si el recurso se rechazó fue por otras dos razones:
 
@@ -2913,7 +2915,7 @@ Aquí está, a mi juicio, el punto crítico de este fallo. ¿Cuáles fueron los 
 
 Con todo respeto, no puedo compartir ese razonamiento. Una instrucción fiscal en trámite no es un indicio de que el delito existió: es el reflejo de que la Fiscalía sospecha que existió, y el procesado conserva, respecto de ese delito, su estado de inocencia (art. 76.2 de la Constitución y art. 5.4 del COIP). Y un informe de la Contraloría no es prueba, conforme al art. 454.6 del COIP (capítulo 3). Construir el origen ilícito del lavado sobre la sola existencia de otros procesos pendientes es, en el fondo, sustituir la prueba por la acumulación de imputaciones. Además, la "probabilidad" no es el estándar de condena: el art. 5.3 del COIP exige el convencimiento más allá de toda duda razonable.
 
-**b) Lo que dijo la Corte en el caso Salcedo.** Este fallo va más lejos. El tribunal de apelación había absuelto porque la Fiscalía no logró probar "qué cantidad de dinero habría generado" el peculado y la delincuencia organizada que invocó como delitos de origen, ni cómo ese dinero se habría colocado o integrado en el periodo de 2018 a 2020. La Corte Nacional casó esa sentencia y sostuvo que[^c12_salcedo1]:
+**b) Lo que dijo la Corte en el caso Salcedo (CNJ, sentencia de casación de 29 de enero de 2024, juicio No. 07712-2020-00205).** Este fallo va más lejos. El tribunal de apelación había absuelto porque la Fiscalía no logró probar "qué cantidad de dinero habría generado" el peculado y la delincuencia organizada que invocó como delitos de origen, ni cómo ese dinero se habría colocado o integrado en el periodo de 2018 a 2020. La Corte Nacional casó esa sentencia y sostuvo que[^c12_salcedo1]:
 
 - el tribunal de apelación creó "una suerte de prejudicialidad no contemplada en la norma" al exigir la **comprobación** de los delitos de origen;
 - lo único que el art. 317 exige a la Fiscalía es **investigar** el origen ilícito;
@@ -2923,13 +2925,13 @@ Con todo respeto, no puedo compartir ese razonamiento. Una instrucción fiscal e
 
 Para definir lo que debe probarse, la Corte acogió una guía interpretativa elaborada por organismos de cooperación internacional, según la cual no hay que probar el delito precedente "en estricto sentido", sino "la tipicidad objetiva del comportamiento del cual provienen los bienes" y "una relación de causalidad entre los bienes objeto de lavado de activos y un hecho que se ajusta objetivamente a la descripción típica del delito precedente"[^c12_salcedo2].
 
-**d) Una sentencia de apelación: el caso Chiriboga ("FIFA Gate").** A estos dos fallos de casación conviene sumar la sentencia de la Sala Penal de la Corte Provincial de Pichincha que confirmó, en 2017, la condena del expresidente de la Federación Ecuatoriana de Fútbol a diez años de prisión, del tesorero como coautor y del contador como cómplice, por haber recibido en las cuentas de la Federación USD 6.119.565 entre 2010 y 2015[^c12_chiriboga1]. Para el tema de este capítulo, el fallo deja tres enseñanzas.
+**d) Una sentencia de apelación: el caso Chiriboga ("FIFA Gate").** A estos dos fallos de casación conviene sumar la sentencia de apelación de la Sala Penal de la Corte Provincial de Justicia de Pichincha, de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), que confirmó la condena del expresidente de la Federación Ecuatoriana de Fútbol a diez años de prisión, del tesorero como coautor y del contador como cómplice, por haber recibido en las cuentas de la Federación USD 6.119.565 entre 2010 y 2015[^c12_chiriboga1]. Para el tema de este capítulo, el fallo deja tres enseñanzas.
 
 La primera es que el tribunal sí identificó una actividad delictiva de origen: el esquema de sobornos de la CONMEBOL y de los titulares de los derechos de transmisión. Pero lo hizo, en lo principal, con base en una **acusación formal** presentada ante un tribunal de los Estados Unidos y en una **denuncia** de la fiscalía argentina, recibidas por asistencia penal internacional. Es decir, otra vez, imputaciones pendientes y no hechos probados. La crítica que formulé al caso Espinel se aplica aquí con la misma fuerza.
 
 La segunda es más preocupante. Respecto de los ingresos por los contratos de derechos de televisión, el tribunal sostuvo que, "al no haber sido facturados o no emitir un comprobante de venta, se cometen otros ilícitos que le contamina al dinero y lo convierte en ilícito". Con todo respeto, esa afirmación invierte la lógica del lavado. El origen del dinero era un contrato, que la propia sentencia reconoce vigente; la falta de facturación posterior podrá constituir, si se cumplen sus elementos, una infracción tributaria, pero no convierte en "producto del delito" un dinero que se obtuvo lícitamente. Un ingreso lícito no declarado no es un activo de origen ilícito; a lo sumo, la cuota tributaria defraudada podría serlo, y solo si se prueba la defraudación.
 
-La tercera tiene que ver con la frase que la UAFE atribuyó a este caso en la audiencia de casación del caso Espinel: "basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". **Esa frase no aparece en la sentencia de apelación**, que revisé completa. Por el contrario, el tribunal afirmó que la carga de la prueba "estaba a cargo del ente acusador" y que el nexo causal tiene como prerrequisito "la certeza de la existencia del delito". Tampoco aparece en la resolución de la Corte Nacional que, en 2023, inadmitió el recurso de revisión del tesorero. Si la frase existe, debe estar en el auto que inadmitió la casación, y debe verificarse antes de citarla[^c12_chiriboga2].
+La tercera tiene que ver con la frase que la UAFE atribuyó a este caso en la audiencia de casación del caso Espinel: "basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". **Esa frase no aparece en la sentencia de apelación**, que revisé completa. Por el contrario, el tribunal afirmó que la carga de la prueba "estaba a cargo del ente acusador" y que el nexo causal tiene como prerrequisito "la certeza de la existencia del delito". Tampoco aparece en la resolución de la Corte Nacional que, el 15 de marzo de 2023, inadmitió el recurso de revisión del tesorero. Si la frase existe, debe estar en el auto que inadmitió la casación, y debe verificarse antes de citarla[^c12_chiriboga2].
 
 La historia posterior del caso deja, además, una lección procesal. El tesorero sostuvo desde la apelación que las cinco transferencias de la CONMEBOL que la sentencia consideró "falsas donaciones", por no constar en el listado enviado desde Paraguay, sí existían, y en revisión presentó las copias certificadas de esas transferencias con sus códigos SWIFT. La Corte Nacional no llegó a examinarlas: inadmitió el recurso porque el escrito no identificó qué documento, testigo o pericia era falso o errado, como exige el art. 658.3 del COIP, ni confrontó el razonamiento de la sentencia con una versión alternativa de los hechos[^c12_chiriboga3]. Una prueba nueva, por relevante que sea, no abre la revisión si no se encaja con precisión en una de sus causales.
 
@@ -2994,7 +2996,7 @@ Sin embargo, su legitimidad depende de que cumpla requisitos estrictos. De lo co
 
 #### 12.5.2. Requisitos de validez
 
-La doctrina y la jurisprudencia comparada coinciden en los siguientes requisitos (Blanco Cordero, 2015; Prado Saldarriaga, 2007):
+La doctrina y la jurisprudencia comparada coinciden en los siguientes requisitos (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
 1. **Los hechos base deben estar plenamente probados** con prueba directa. Un indicio no puede construirse sobre otro indicio.
 2. **Debe haber pluralidad de indicios**, salvo que uno solo tenga una fuerza acreditativa singular.
 3. **Los indicios deben ser concordantes:** deben apuntar en la misma dirección y reforzarse entre sí.
@@ -3034,7 +3036,7 @@ Un contraindicio no necesita probar con certeza el origen lícito. Basta con que
 El Tribunal Supremo español sostiene desde hace años que no es necesaria una condena previa por el delito de origen y que el origen ilícito puede probarse mediante indicios. Su jurisprudencia es la fuente de los indicios clásicos que vimos en el apartado anterior. Al mismo tiempo, ha exigido que se acredite una conexión con una actividad delictiva, sin que baste la mera sospecha[^c12_espana].
 
 #### 12.6.2. Perú
-El caso peruano es especialmente útil porque la Corte Suprema abordó de forma directa el estándar de prueba. El **Acuerdo Plenario No. 3-2010/CJ-116** desarrolló la autonomía del delito y la prueba indiciaria, y la **Sentencia Plenaria Casatoria No. 1-2017/CIJ-433** precisó que la autonomía no elimina la necesidad de acreditar el origen delictivo, y que el estándar de prueba se eleva a lo largo del proceso hasta exigir, para condenar, la convicción más allá de toda duda razonable[^c12_peru].
+El caso peruano es especialmente útil porque la Corte Suprema abordó de forma directa el estándar de prueba. El **Acuerdo Plenario No. 3-2010/CJ-116**, de 16 de noviembre de 2010, desarrolló la autonomía del delito y la prueba indiciaria, y la **Sentencia Plenaria Casatoria No. 1-2017/CIJ-433**, de 11 de octubre de 2017, precisó que la autonomía no elimina la necesidad de acreditar el origen delictivo, y que el estándar de prueba se eleva a lo largo del proceso hasta exigir, para condenar, la convicción más allá de toda duda razonable[^c12_peru].
 
 #### 12.6.3. Colombia
 La Corte Suprema de Justicia colombiana ha sostenido que el lavado es autónomo y que no requiere una sentencia previa por el delito de origen, aunque sí la demostración de que los bienes provienen de alguna de las actividades delictivas previstas en la ley[^c12_colombia].
@@ -3143,13 +3145,13 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
 
-Corte Suprema de Justicia de la República del Perú. (2010). *Acuerdo Plenario No. 3-2010/CJ-116* [verificar].
+Corte Suprema de Justicia de la República del Perú. (2010, 16 de noviembre). *Acuerdo Plenario No. 3-2010/CJ-116*.
 
-Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenaria Casatoria No. 1-2017/CIJ-433* [verificar].
+Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Sentencia Plenaria Casatoria No. 1-2017/CIJ-433*.
 
 [^c12_viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b). **[verificar]**
 
@@ -3175,7 +3177,7 @@ Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenari
 
 [^c12_motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre el estándar general de motivación, véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. La Corte Constitucional ha exigido, además, una motivación reforzada cuando la decisión se apoya en prueba indiciaria. **[identificar y verificar la sentencia]**
 
-[^c12_indicios]: Sobre los indicios del lavado en la jurisprudencia del Tribunal Supremo español, véase Blanco Cordero (2015). **[verificar la página y citar sentencias concretas]**
+[^c12_indicios]: Sobre los indicios del lavado en la jurisprudencia del Tribunal Supremo español, véase Blanco Cordero (2015, p. [verificar]). **[citar sentencias concretas]**
 
 [^c12_espana]: **[citar sentencias concretas del Tribunal Supremo español]**
 
@@ -3231,7 +3233,7 @@ De la norma vigente se desprenden dos elementos:
 1. **Elemento cognitivo:** el autor debe **conocer** los elementos objetivos del tipo penal. En el lavado de activos, eso significa conocer, entre otras cosas, que los bienes tienen **origen ilícito**. En el cohecho, que el beneficio es **indebido** y que se vincula con un acto de la función.
 2. **Elemento volitivo:** el autor debe **ejecutar voluntariamente la conducta**.
 
-Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
+Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007, p. [verificar]), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
 
 #### 13.2.3. El delito preterintencional
 
@@ -3253,7 +3255,7 @@ En el dolo eventual y en la culpa consciente el autor **prevé** que el resultad
 - en el **dolo eventual**, la **acepta**: "pase lo que pase, actúo";
 - en la **culpa consciente**, **confía** en que no se producirá.
 
-Las teorías para trazar esa frontera son conocidas (Roxin, 1997; Mir Puig, 2016):
+Las teorías para trazar esa frontera son conocidas (Roxin, 1997, p. [verificar]; Mir Puig, 2016, p. [verificar]):
 1. **Teoría de la probabilidad o representación:** atiende al grado de probabilidad que el autor se representó.
 2. **Teoría del consentimiento o aceptación:** atiende a si el autor aprobó o aceptó el resultado. Se resume en la **fórmula de Frank**: si el autor hubiera sabido con certeza que el resultado se produciría, ¿habría actuado igual?
 3. **Teoría de la indiferencia:** el resultado le es indiferente.
@@ -3284,7 +3286,7 @@ En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es
 
 Para la defensa, la tarea consiste en demostrar que el procesado estaba en la tercera situación, o al menos en generar duda razonable sobre la segunda.
 
-La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha, citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^c13_chiriboga_dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
+La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^c13_chiriboga_dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
 
 ### 13.5. La "ignorancia deliberada"
 
@@ -3292,7 +3294,7 @@ La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gat
 
 La doctrina de la ignorancia deliberada, conocida en el derecho anglosajón como *willful blindness*, sostiene que quien **evita conocer**, pudiendo hacerlo, debe responder **como si hubiera conocido**. La Corte Suprema de los Estados Unidos la sistematizó en el caso *Global-Tech Appliances, Inc. v. SEB S.A.* (2011), con dos requisitos: que el autor crea subjetivamente que existe una alta probabilidad de que un hecho sea cierto, y que realice acciones deliberadas para evitar confirmarlo[^c13_globaltech].
 
-El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007).
+El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007, p. [verificar]).
 
 #### 13.5.2. Por qué es incompatible con el art. 26 del COIP
 
@@ -3344,7 +3346,7 @@ El inciso tercero agrega que el error invencible sobre una **circunstancia agrav
 
 #### b) Las conductas neutrales y la prohibición de regreso
 
-Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
+Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997, p. [verificar]). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
 - el **cajero bancario** que procesa un depósito siguiendo los procedimientos de la entidad;
 - el **contador** que registra las operaciones que le presentan, conforme a las normas contables;
 - el **notario** que autoriza una escritura cumpliendo los requisitos legales;
@@ -3531,7 +3533,7 @@ La razón es práctica. En los casos de lavado de activos, la sentencia casi nun
 
 #### 14.2.1. La estructura de la inferencia
 
-Toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010; Taruffo, 2002):
+Toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010, p. [verificar]; Taruffo, 2002, p. [verificar]):
 
 1. **El hecho base o indicio:** un hecho **probado** por otro medio de prueba. Por ejemplo, que el procesado depositó USD 300.000 en efectivo en un año.
 2. **La regla de experiencia o máxima:** una generalización que conecta el hecho base con la conclusión. Por ejemplo, que quien maneja grandes sumas de efectivo sin una actividad que lo explique suele obtenerlas de actividades ilícitas.
@@ -3596,7 +3598,7 @@ Es por esta razón que, en el Ecuador, la prueba indiciaria debe entenderse como
 
 #### 14.4.1. Más allá de toda duda razonable
 
-La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
+La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007, p. [verificar]). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
 
 #### 14.4.2. La motivación reforzada
 
@@ -3679,9 +3681,9 @@ Una inferencia es válida solo si su conclusión es **la única razonable**. La 
 
 Dos sentencias de casación de la Sala Penal muestran qué ha aceptado la Corte Nacional como indicio del origen ilícito, y por qué la defensa debe discutirlo (capítulo 12, sección 12.3.4).
 
-En el **caso Espinel** (juicio No. 09333-2018-00282, 2021), la Corte consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^c14_espinel_indicios].
+En el **caso Espinel**, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de julio de 2021 (juicio No. 09333-2018-00282), consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^c14_espinel_indicios].
 
-En el **caso Salcedo** (juicio No. 07712-2020-00205, 2024), la Corte reprochó al tribunal de apelación no haber considerado como señales del lavado el transporte de efectivo por un paso fronterizo, el fraccionamiento de transferencias, el uso de empresas sin actividad aparente y de documentos falsos, apoyándose en las tipologías del GAFILAT y en las recomendaciones del GAFI[^c14_salcedo_indicios].
+En el **caso Salcedo**, la misma Sala, en la sentencia de casación de 29 de enero de 2024 (juicio No. 07712-2020-00205), reprochó al tribunal de apelación no haber considerado como señales del lavado el transporte de efectivo por un paso fronterizo, el fraccionamiento de transferencias, el uso de empresas sin actividad aparente y de documentos falsos, apoyándose en las tipologías del GAFILAT y en las recomendaciones del GAFI[^c14_salcedo_indicios].
 
 Si bien es cierto que esos elementos pueden ser relevantes, es importante diferenciar su función. Propongo tres reglas para su control:
 
@@ -3761,9 +3763,9 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Tribunal Europeo de Derechos Humanos. (1996). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
+Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
 
 [^c14_cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). **[verificar la numeración y la redacción]** Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
 
@@ -3796,7 +3798,7 @@ Sin embargo, es un tema que con frecuencia se resuelve en una línea de la sente
 
 ### 15.2. Los sistemas de determinación de la pena en los concursos
 
-La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016; Zaffaroni et al., 2002):
+La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]):
 
 | Sistema | Regla | Crítica |
 |---|---|---|
@@ -3820,7 +3822,7 @@ Antes de hablar de concurso real o ideal, hay que responder una pregunta: **¿cu
 
 #### 15.3.2. Los criterios de unidad de conducta
 
-Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014; Mir Puig, 2016):
+Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014, p. [verificar]; Mir Puig, 2016, p. [verificar]):
 
 1. **El factor final:** los actos responden a una **misma decisión** del autor.
 2. **El factor normativo:** el **tipo penal** agrupa varios actos en una sola unidad. Por ejemplo, el robo comprende la violencia y el apoderamiento; el secuestro se prolonga en el tiempo como un delito permanente.
@@ -3878,13 +3880,13 @@ No se ha identificado un precedente obligatorio de la Corte Nacional que resuelv
 #### 15.5.3. Concurso ideal heterogéneo y homogéneo
 
 - **Heterogéneo:** la conducta realiza **tipos distintos**. Por ejemplo, el funcionario que, en un mismo acto, recibe un beneficio indebido y dicta una resolución contraria a la ley.
-- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014).
+- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014, p. [verificar]).
 
 #### 15.5.4. La experiencia ecuatoriana: el caso de las drogas
 
-La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. La Corte Nacional de Justicia, en la **Resolución No. 12-2015**, estableció que la tenencia simultánea de distintas sustancias sujetas a fiscalización debía sancionarse aplicando las reglas del concurso real, es decir, acumulando una pena por cada tipo de sustancia[^c15_res12].
+La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. La Corte Nacional de Justicia, en la **Resolución No. 12-2015** [verificar la fecha de aprobación y de publicación en el Registro Oficial], estableció que la tenencia simultánea de distintas sustancias sujetas a fiscalización debía sancionarse aplicando las reglas del concurso real, es decir, acumulando una pena por cada tipo de sustancia[^c15_res12].
 
-La Corte Constitucional, en la **sentencia No. 7-17-CN/19**, declaró la inconstitucionalidad de ese criterio[^c15_cc717]. En lo esencial, consideró que una misma conducta de tenencia no podía fraccionarse en varios delitos según el tipo de sustancia, porque ello vulneraba el principio de proporcionalidad y la prohibición de doble sanción. Posteriormente, la propia Corte Nacional dejó sin efecto el precedente[^c15_cnj2019].
+La Corte Constitucional, en la **sentencia No. 7-17-CN/19** [verificar la fecha], declaró la inconstitucionalidad de ese criterio[^c15_cc717]. En lo esencial, consideró que una misma conducta de tenencia no podía fraccionarse en varios delitos según el tipo de sustancia, porque ello vulneraba el principio de proporcionalidad y la prohibición de doble sanción. Posteriormente, la propia Corte Nacional dejó sin efecto el precedente[^c15_cnj2019].
 
 Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta puede llegar a declararse inconstitucional.
 
@@ -3892,7 +3894,7 @@ Es por esta razón que este caso es tan útil para el litigante: demuestra que *
 
 #### 15.6.1. Concepto
 
-En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016; Zaffaroni et al., 2002).
+En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]).
 
 #### 15.6.2. Los principios
 
@@ -3927,7 +3929,7 @@ El COIP no lo regula. El Código Penal español lo trata como un concurso ideal[
 
 Se trata de **varias acciones** que realizan el mismo tipo penal, ejecutadas con un **plan preconcebido** o aprovechando una **misma ocasión**, contra el mismo bien jurídico. Por ejemplo, el empleado que sustrae pequeñas cantidades de la caja cada mes.
 
-El Código Penal anterior lo reconocía **[verificar el artículo]**, pero el COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012). En la legislación comparada lo regulan, entre otros, España[^c15_espana] y Colombia[^c15_colombia].
+El Código Penal anterior lo reconocía **[verificar el artículo]**, pero el COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012, p. [verificar]). En la legislación comparada lo regulan, entre otros, España[^c15_espana] y Colombia[^c15_colombia].
 
 **Para la defensa**, el argumento del delito continuado sirve para:
 - evitar la acumulación de tantas penas como actos hubo;
@@ -4056,14 +4058,14 @@ En este orden de ideas, el COIP de 2014 incorporó la responsabilidad penal de l
 
 ### 16.2. Los modelos de imputación
 
-La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009; Gómez-Jara Díez, 2010):
+La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009, p. [verificar]; Gómez-Jara Díez, 2010, p. [verificar]):
 
 | Modelo | Idea central | Consecuencia |
 |---|---|---|
 | **Heterorresponsabilidad** (vicarial o por transferencia) | La empresa responde por el delito que comete una persona natural vinculada a ella, en su beneficio | Basta probar el delito de la persona natural y su vínculo con la empresa |
 | **Autorresponsabilidad** (defecto de organización) | La empresa responde por su **propio** hecho: no haberse organizado para prevenir el delito | Importa cómo estaba organizada la empresa: sus controles, su cultura de cumplimiento |
 
-La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
+La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988, p. [verificar]), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
 
 Como veremos, el COIP adoptó en su texto original un modelo cercano a la **heterorresponsabilidad**, y la reforma de 2021 introdujo elementos de **autorresponsabilidad** a través de los programas de cumplimiento.
 
@@ -4085,7 +4087,7 @@ El mismo art. 49 establece que la responsabilidad de la persona jurídica es **i
 
 #### Un caso de aplicación: la empresa extinguida antes de los hechos
 
-En el caso Salcedo (juicio No. 07712-2020-00205, 2024), la Corte Nacional declaró la responsabilidad penal de cinco personas jurídicas por lavado de activos y les impuso el comiso, la disolución y la liquidación. A una sexta empresa, que había sido extinguida en 2017, también la declaró responsable invocando el inciso segundo del art. 50, aunque no le impuso pena "toda vez que, se encuentra disuelta desde el año 2017"[^c16_salcedo_pj].
+En el caso Salcedo, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de enero de 2024 (juicio No. 07712-2020-00205), declaró la responsabilidad penal de cinco personas jurídicas por lavado de activos y les impuso el comiso, la disolución y la liquidación. A una sexta empresa, que había sido extinguida en 2017, también la declaró responsable invocando el inciso segundo del art. 50, aunque no le impuso pena "toda vez que, se encuentra disuelta desde el año 2017"[^c16_salcedo_pj].
 
 Con todo respeto, considero que esa declaración no se sostiene. Los hechos se fijaron entre 2018 y 2020. El art. 50 impide que la empresa **escape** de una responsabilidad ya generada mediante su fusión, transformación o disolución; es decir, presupone que el delito se cometió **mientras la empresa existía**. Una persona jurídica extinguida antes de los hechos no pudo actuar a través de sus administradores, ni beneficiarse del delito, que son los presupuestos del art. 49. Declarar su responsabilidad es atribuir un delito a quien no existía cuando se cometió.
 
@@ -4126,7 +4128,7 @@ La disolución es, en la práctica, la "pena de muerte" de la empresa. Por eso s
 | **Perú** | Ley No. 30424 (2016) | El modelo de prevención puede **eximir** de responsabilidad[^c16_peru] |
 | **Ecuador** | COIP, arts. 45.7 y 49 (reforma de 2021) | Solo **atenúa** |
 
-Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021).
+Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021 [verificar el autor y la página]).
 
 ### 16.6. Estrategia de defensa de la persona jurídica
 
@@ -4259,7 +4261,7 @@ Es por esta razón que el abogado defensor en casos de corrupción y de lavado d
 
 La extinción de dominio es una creación del derecho colombiano. La **Constitución de Colombia de 1991**, en su art. 34, estableció que se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del tesoro público o con grave deterioro de la moral social[^c17_colombia_const]. El desarrollo legal llegó con la Ley 333 de 1996, la Ley 793 de 2002 y, finalmente, el **Código de Extinción de Dominio** (Ley 1708 de 2014)[^c17_colombia_leyes].
 
-En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011).
+En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011, p. [verificar]).
 
 ### 17.3. La extinción de dominio en el Ecuador
 

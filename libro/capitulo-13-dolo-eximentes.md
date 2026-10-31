@@ -27,7 +27,7 @@ De la norma vigente se desprenden dos elementos:
 1. **Elemento cognitivo:** el autor debe **conocer** los elementos objetivos del tipo penal. En el lavado de activos, eso significa conocer, entre otras cosas, que los bienes tienen **origen ilícito**. En el cohecho, que el beneficio es **indebido** y que se vincula con un acto de la función.
 2. **Elemento volitivo:** el autor debe **ejecutar voluntariamente la conducta**.
 
-Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
+Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007, p. [verificar]), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
 
 ### 13.2.3. El delito preterintencional
 
@@ -49,7 +49,7 @@ En el dolo eventual y en la culpa consciente el autor **prevé** que el resultad
 - en el **dolo eventual**, la **acepta**: "pase lo que pase, actúo";
 - en la **culpa consciente**, **confía** en que no se producirá.
 
-Las teorías para trazar esa frontera son conocidas (Roxin, 1997; Mir Puig, 2016):
+Las teorías para trazar esa frontera son conocidas (Roxin, 1997, p. [verificar]; Mir Puig, 2016, p. [verificar]):
 1. **Teoría de la probabilidad o representación:** atiende al grado de probabilidad que el autor se representó.
 2. **Teoría del consentimiento o aceptación:** atiende a si el autor aprobó o aceptó el resultado. Se resume en la **fórmula de Frank**: si el autor hubiera sabido con certeza que el resultado se produciría, ¿habría actuado igual?
 3. **Teoría de la indiferencia:** el resultado le es indiferente.
@@ -80,7 +80,7 @@ En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es
 
 Para la defensa, la tarea consiste en demostrar que el procesado estaba en la tercera situación, o al menos en generar duda razonable sobre la segunda.
 
-La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha, citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^chiriboga-dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
+La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^chiriboga-dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
 
 ## 13.5. La "ignorancia deliberada"
 
@@ -88,7 +88,7 @@ La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gat
 
 La doctrina de la ignorancia deliberada, conocida en el derecho anglosajón como *willful blindness*, sostiene que quien **evita conocer**, pudiendo hacerlo, debe responder **como si hubiera conocido**. La Corte Suprema de los Estados Unidos la sistematizó en el caso *Global-Tech Appliances, Inc. v. SEB S.A.* (2011), con dos requisitos: que el autor crea subjetivamente que existe una alta probabilidad de que un hecho sea cierto, y que realice acciones deliberadas para evitar confirmarlo[^globaltech].
 
-El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007).
+El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007, p. [verificar]).
 
 ### 13.5.2. Por qué es incompatible con el art. 26 del COIP
 
@@ -140,7 +140,7 @@ El inciso tercero agrega que el error invencible sobre una **circunstancia agrav
 
 #### b) Las conductas neutrales y la prohibición de regreso
 
-Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
+Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997, p. [verificar]). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
 - el **cajero bancario** que procesa un depósito siguiendo los procedimientos de la entidad;
 - el **contador** que registra las operaciones que le presentan, conforme a las normas contables;
 - el **notario** que autoriza una escritura cumpliendo los requisitos legales;

@@ -14,7 +14,7 @@ Ese es el eje de todo este capítulo.
 
 ## 5.2. Origen y marco internacional
 
-La figura nació en América Latina. Argentina la incorporó a su Código Penal en 1964, en el art. 268 (2), y desde entonces se ha discutido allí su constitucionalidad (Sancinetti, 1994)[^argentina]. Colombia la tipificó y su Corte Constitucional, en la sentencia C-319 de 1996, la declaró exequible, pero dejó claro que al Estado le corresponde probar el carácter injustificado del incremento y que el procesado no está obligado a demostrar su inocencia[^colombia].
+La figura nació en América Latina. Argentina la incorporó a su Código Penal en 1964, en el art. 268 (2), y desde entonces se ha discutido allí su constitucionalidad (Sancinetti, 1994, p. [verificar])[^argentina]. Colombia la tipificó y su Corte Constitucional, en la sentencia C-319/96, de 18 de julio de 1996 [verificar la fecha], la declaró exequible, pero dejó claro que al Estado le corresponde probar el carácter injustificado del incremento y que el procesado no está obligado a demostrar su inocencia[^colombia].
 
 Luego llegaron los tratados:
 
@@ -134,7 +134,7 @@ Es la misma solución que adoptó la Corte Constitucional de Colombia en la sent
 
 ### 5.6.3. El estado de la jurisprudencia ecuatoriana
 
-No he encontrado un pronunciamiento de la Corte Constitucional ecuatoriana que resuelva directamente la constitucionalidad del art. 279 frente a la presunción de inocencia. Sí existen pronunciamientos sobre la inversión de la carga de la prueba en otros delitos, como la sentencia 14-19-CN/20, que examinó una norma del delito de contrabando (art. 301.2 del COIP) frente al art. 76.2 de la Constitución[^cc1419]. Ese razonamiento puede trasladarse al enriquecimiento ilícito, pero debe verificarse antes de citarlo.
+No he encontrado un pronunciamiento de la Corte Constitucional ecuatoriana que resuelva directamente la constitucionalidad del art. 279 frente a la presunción de inocencia. Sí existen pronunciamientos sobre la inversión de la carga de la prueba en otros delitos, como la sentencia 14-19-CN/20 de la Corte Constitucional [verificar la fecha], que examinó una norma del delito de contrabando (art. 301.2 del COIP) frente al art. 76.2 de la Constitución[^cc1419]. Ese razonamiento puede trasladarse al enriquecimiento ilícito, pero debe verificarse antes de citarlo.
 
 ## 5.7. La prueba
 
@@ -239,7 +239,7 @@ Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Re
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 279, 289 y 297; verificar la versión vigente].
 
-Corte Constitucional de Colombia. (1996). *Sentencia C-319 de 1996*.
+Corte Constitucional de Colombia. (1996, 18 de julio [verificar]). *Sentencia C-319/96*.
 
 Corte Constitucional del Ecuador. (2020). *Sentencia No. 14-19-CN/20* [verificar la decisión].
 

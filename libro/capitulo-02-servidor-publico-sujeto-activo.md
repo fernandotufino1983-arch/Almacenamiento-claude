@@ -98,11 +98,11 @@ La doctrina distingue entre dos clases de delitos especiales:
 
 ### 2.5.2. Los delitos de infracción de deber
 
-Una corriente doctrinal, iniciada por Roxin y desarrollada por Jakobs, propone una explicación más profunda. En ciertos delitos, lo que fundamenta la autoría no es el dominio del hecho, sino la **infracción de un deber especial** que solo tiene el autor: el deber positivo de proteger el bien jurídico que se le ha confiado (Roxin, 2000)[^roxin].
+Una corriente doctrinal, iniciada por Roxin y desarrollada por Jakobs, propone una explicación más profunda. En ciertos delitos, lo que fundamenta la autoría no es el dominio del hecho, sino la **infracción de un deber especial** que solo tiene el autor: el deber positivo de proteger el bien jurídico que se le ha confiado (Roxin, 2000, p. [verificar])[^roxin].
 
 Desde esta perspectiva, el servidor que permite que un tercero se apropie de los fondos que custodia es autor del peculado, aunque no haya tocado el dinero, porque infringió su deber de custodia. Y el particular que se apropia de esos fondos con su ayuda no es autor, aunque haya tenido el dominio material del hecho, porque no tenía ese deber.
 
-Esta teoría tiene gran influencia en la doctrina y la jurisprudencia peruanas (Abanto Vásquez, 2003)[^abanto], y es útil para leer el COIP. Pero el COIP no la adoptó expresamente: el art. 42 define la autoría con criterios de dominio del hecho, y solo el num. 1.b menciona el deber jurídico, en la omisión.
+Esta teoría tiene gran influencia en la doctrina y la jurisprudencia peruanas (Abanto Vásquez, 2003, p. [verificar])[^abanto], y es útil para leer el COIP. Pero el COIP no la adoptó expresamente: el art. 42 define la autoría con criterios de dominio del hecho, y solo el num. 1.b menciona el deber jurídico, en la omisión.
 
 ## 2.6. El particular que participa: el problema del *extraneus*
 

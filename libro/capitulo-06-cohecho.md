@@ -27,7 +27,7 @@ La reforma de 2021 duplicó prácticamente las penas. Esto tiene una consecuenci
 
 En el cohecho no hay necesariamente un perjuicio patrimonial para el Estado. El servidor que recibe un soborno para agilitar un trámite que de todos modos debía aprobar no le quita un dólar a nadie. Y sin embargo, comete un delito.
 
-Es por esta razón que el bien jurídico del cohecho no es el patrimonio público, sino la **imparcialidad** y la **gratuidad** de la función pública: la garantía de que las decisiones del Estado se toman conforme a la ley, y no al mejor postor (Muñoz Conde, 2021; Rojas Vargas, 2007)[^bien]. Lo que se castiga es que el servidor convierta su función en mercancía, aunque el acto que venda sea legal.
+Es por esta razón que el bien jurídico del cohecho no es el patrimonio público, sino la **imparcialidad** y la **gratuidad** de la función pública: la garantía de que las decisiones del Estado se toman conforme a la ley, y no al mejor postor (Muñoz Conde, 2021, p. [verificar]; Rojas Vargas, 2007, p. [verificar])[^bien]. Lo que se castiga es que el servidor convierta su función en mercancía, aunque el acto que venda sea legal.
 
 ## 6.4. El cohecho pasivo
 
@@ -159,7 +159,7 @@ El art. 483 del COIP permite las operaciones encubiertas, bajo la dirección de 
 
 Pero es importante diferenciar al **agente encubierto** del **agente provocador**. El agente encubierto se infiltra en una actividad delictiva que ya existe y la documenta. El agente provocador, en cambio, **induce** a una persona a cometer un delito que no habría cometido por sí misma, para luego detenerla.
 
-En el cohecho, esta diferencia es decisiva. Si un agente se presenta ante un servidor que ya venía exigiendo pagos y graba la entrega, la prueba es válida. Pero si el agente insiste, presiona y ofrece dinero a un servidor que no tenía ninguna intención de corromperse, hasta que este cede, el Estado no descubrió un delito: lo fabricó. El Tribunal Europeo de Derechos Humanos, en el caso *Teixeira de Castro contra Portugal* (1998), sostuvo que la condena basada en la actuación de agentes que incitaron al delito vulnera el derecho a un proceso equitativo[^teixeira]. En el Ecuador, esa prueba debe excluirse conforme al art. 76.4 de la Constitución, porque se obtuvo con violación del debido proceso[^prueba-ilicita].
+En el cohecho, esta diferencia es decisiva. Si un agente se presenta ante un servidor que ya venía exigiendo pagos y graba la entrega, la prueba es válida. Pero si el agente insiste, presiona y ofrece dinero a un servidor que no tenía ninguna intención de corromperse, hasta que este cede, el Estado no descubrió un delito: lo fabricó. El Tribunal Europeo de Derechos Humanos, en la sentencia de 9 de junio de 1998, caso *Teixeira de Castro contra Portugal* (demanda No. 25829/94), sostuvo que la condena basada en la actuación de agentes que incitaron al delito vulnera el derecho a un proceso equitativo[^teixeira]. En el Ecuador, esa prueba debe excluirse conforme al art. 76.4 de la Constitución, porque se obtuvo con violación del debido proceso[^prueba-ilicita].
 
 ### 6.9.3. La prueba del pacto
 
@@ -249,7 +249,7 @@ Organización de los Estados Americanos. (1996). *Convención Interamericana con
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
 
-Tribunal Europeo de Derechos Humanos. (1998). *Teixeira de Castro c. Portugal* (Demanda No. 25829/94), sentencia de 9 de junio de 1998.
+Tribunal Europeo de Derechos Humanos. (1998, 9 de junio). *Teixeira de Castro c. Portugal* (Demanda No. 25829/94), sentencia de 9 de junio de 1998.
 
 [^cp]: Código Penal de 1938 (codificación de 1971), arts. 285 a 290. **[verificar la numeración]**
 

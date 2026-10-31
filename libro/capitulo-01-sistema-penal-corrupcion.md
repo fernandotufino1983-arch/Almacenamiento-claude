@@ -26,7 +26,7 @@ Como podrá apreciar el lector, esta definición sirve para todos los delitos qu
 
 ### 1.2.2. La fórmula de Klitgaard
 
-Robert Klitgaard propuso una fórmula que ha tenido gran influencia en el estudio de la corrupción: **C = M + D − A**. La corrupción es igual al **monopolio** de una decisión, más la **discrecionalidad** de quien la toma, menos la **rendición de cuentas** (Klitgaard, 1988)[^klitgaard].
+Robert Klitgaard propuso una fórmula que ha tenido gran influencia en el estudio de la corrupción: **C = M + D − A**. La corrupción es igual al **monopolio** de una decisión, más la **discrecionalidad** de quien la toma, menos la **rendición de cuentas** (Klitgaard, 1988, p. 75 [verificar])[^klitgaard].
 
 La fórmula tiene un valor que va más allá de la academia. Explica por qué la corrupción se concentra en ciertos lugares de la administración: la contratación en emergencia, donde la discrecionalidad es máxima y el control es mínimo; los permisos municipales, donde un solo funcionario decide; las aduanas, donde la decisión es inmediata y difícil de revisar. Y explica también por qué el derecho penal, por sí solo, no basta: el derecho penal actúa sobre la rendición de cuentas posterior, pero no reduce el monopolio ni la discrecionalidad.
 

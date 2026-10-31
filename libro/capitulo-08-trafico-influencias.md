@@ -36,7 +36,7 @@ A ello se suma un dato que no debe pasarse por alto: la agravación por contrato
 
 ## 8.3. El bien jurídico
 
-El tráfico de influencias protege la **imparcialidad** de la administración pública: la garantía de que las decisiones de los servidores se toman conforme a la ley y al mérito del caso, y no por la presión de quien tiene poder sobre ellos (Muñoz Conde, 2021)[^bien].
+El tráfico de influencias protege la **imparcialidad** de la administración pública: la garantía de que las decisiones de los servidores se toman conforme a la ley y al mérito del caso, y no por la presión de quien tiene poder sobre ellos (Muñoz Conde, 2021, p. [verificar])[^bien].
 
 A diferencia del cohecho, aquí no hay necesariamente un pago. Lo que se corrompe no es la voluntad del servidor a cambio de dinero, sino su independencia frente a la presión de otro servidor.
 

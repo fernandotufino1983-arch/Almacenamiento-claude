@@ -12,14 +12,14 @@ En este orden de ideas, el COIP de 2014 incorporó la responsabilidad penal de l
 
 ## 16.2. Los modelos de imputación
 
-La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009; Gómez-Jara Díez, 2010):
+La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009, p. [verificar]; Gómez-Jara Díez, 2010, p. [verificar]):
 
 | Modelo | Idea central | Consecuencia |
 |---|---|---|
 | **Heterorresponsabilidad** (vicarial o por transferencia) | La empresa responde por el delito que comete una persona natural vinculada a ella, en su beneficio | Basta probar el delito de la persona natural y su vínculo con la empresa |
 | **Autorresponsabilidad** (defecto de organización) | La empresa responde por su **propio** hecho: no haberse organizado para prevenir el delito | Importa cómo estaba organizada la empresa: sus controles, su cultura de cumplimiento |
 
-La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
+La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988, p. [verificar]), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
 
 Como veremos, el COIP adoptó en su texto original un modelo cercano a la **heterorresponsabilidad**, y la reforma de 2021 introdujo elementos de **autorresponsabilidad** a través de los programas de cumplimiento.
 
@@ -41,7 +41,7 @@ El mismo art. 49 establece que la responsabilidad de la persona jurídica es **i
 
 #### Un caso de aplicación: la empresa extinguida antes de los hechos
 
-En el caso Salcedo (juicio No. 07712-2020-00205, 2024), la Corte Nacional declaró la responsabilidad penal de cinco personas jurídicas por lavado de activos y les impuso el comiso, la disolución y la liquidación. A una sexta empresa, que había sido extinguida en 2017, también la declaró responsable invocando el inciso segundo del art. 50, aunque no le impuso pena "toda vez que, se encuentra disuelta desde el año 2017"[^salcedo-pj].
+En el caso Salcedo, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de enero de 2024 (juicio No. 07712-2020-00205), declaró la responsabilidad penal de cinco personas jurídicas por lavado de activos y les impuso el comiso, la disolución y la liquidación. A una sexta empresa, que había sido extinguida en 2017, también la declaró responsable invocando el inciso segundo del art. 50, aunque no le impuso pena "toda vez que, se encuentra disuelta desde el año 2017"[^salcedo-pj].
 
 Con todo respeto, considero que esa declaración no se sostiene. Los hechos se fijaron entre 2018 y 2020. El art. 50 impide que la empresa **escape** de una responsabilidad ya generada mediante su fusión, transformación o disolución; es decir, presupone que el delito se cometió **mientras la empresa existía**. Una persona jurídica extinguida antes de los hechos no pudo actuar a través de sus administradores, ni beneficiarse del delito, que son los presupuestos del art. 49. Declarar su responsabilidad es atribuir un delito a quien no existía cuando se cometió.
 
@@ -82,7 +82,7 @@ La disolución es, en la práctica, la "pena de muerte" de la empresa. Por eso s
 | **Perú** | Ley No. 30424 (2016) | El modelo de prevención puede **eximir** de responsabilidad[^peru] |
 | **Ecuador** | COIP, arts. 45.7 y 49 (reforma de 2021) | Solo **atenúa** |
 
-Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021).
+Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021 [verificar el autor y la página]).
 
 ## 16.6. Estrategia de defensa de la persona jurídica
 

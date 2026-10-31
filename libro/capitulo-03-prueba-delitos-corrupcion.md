@@ -61,7 +61,7 @@ Para la defensa, esto abre un campo de trabajo que muchas veces se desaprovecha.
 | **Diferencia de estándares** | ¿El examen buscaba responsabilidad administrativa, civil o penal? ¿Qué entiende por "indicio de responsabilidad penal"? |
 | **Conocimiento del procesado** | ¿Puede afirmar que el procesado sabía de la irregularidad, o solo que firmó? |
 
-La práctica muestra por qué este control es indispensable. En el caso Espinel, la Corte Nacional aceptó que los informes de la Contraloría con indicios de responsabilidad penal sirvieran, junto con dos instrucciones fiscales en trámite, como indicios del origen ilícito de los activos en un proceso por lavado (capítulo 12, sección 12.3.4). Si el informe ni siquiera fue sustentado por el auditor en el juicio, ese razonamiento contradice el art. 454.6.
+La práctica muestra por qué este control es indispensable. En el caso Espinel, la Sala Especializada de lo Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de julio de 2021 (juicio No. 09333-2018-00282), aceptó que los informes de la Contraloría con indicios de responsabilidad penal sirvieran, junto con dos instrucciones fiscales en trámite, como indicios del origen ilícito de los activos en un proceso por lavado (capítulo 12, sección 12.3.4). Si el informe ni siquiera fue sustentado por el auditor en el juicio, ese razonamiento contradice el art. 454.6.
 
 La última pregunta es la más importante. El auditor puede establecer que hubo un pago sin respaldo o una obra no ejecutada. Pero casi nunca puede establecer el **dolo** del procesado, porque su examen no está diseñado para eso. Y sin dolo no hay peculado (capítulo 4).
 
@@ -156,7 +156,7 @@ El cuarto requisito es el más importante para la defensa. Si los mismos indicio
 
 El art. 76.7.l de la Constitución dispone que las resoluciones de los poderes públicos deben ser motivadas, y que no hay motivación si no se enuncian las normas o principios jurídicos en que se fundan y no se explica la pertinencia de su aplicación a los antecedentes de hecho[^motivacion].
 
-La Corte Constitucional desarrolló este estándar en la sentencia **1158-17-EP/21**, en la que fijó el criterio de la **suficiencia motivacional** y distinguió tres clases de deficiencia: la **inexistencia** de motivación, su **insuficiencia** y la **apariencia** de motivación, que incluye los vicios de incoherencia, inatinencia, incongruencia e incomprensibilidad[^cc1158].
+La Corte Constitucional desarrolló este estándar en la sentencia **1158-17-EP/21**, de 20 de octubre de 2021 [verificar la fecha], en la que fijó el criterio de la **suficiencia motivacional** y distinguió tres clases de deficiencia: la **inexistencia** de motivación, su **insuficiencia** y la **apariencia** de motivación, que incluye los vicios de incoherencia, inatinencia, incongruencia e incomprensibilidad[^cc1158].
 
 ### 3.8.2. La motivación en las sentencias de corrupción
 
@@ -236,9 +236,9 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Monetario y Financiero
 
 Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos* [verificar título exacto y Registro Oficial].
 
-Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21*.
+Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21*.
 
-Corte Nacional de Justicia. (2024). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
+Corte Nacional de Justicia. (2024, 23 de octubre). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 [^art454]: COIP, art. 454.1.
 

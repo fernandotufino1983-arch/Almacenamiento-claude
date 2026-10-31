@@ -14,7 +14,7 @@ En este orden de ideas, el presente capítulo recorre el camino que siguió esta
 
 Se repite en clases y conferencias que la expresión nace en los Estados Unidos de los años veinte y treinta del siglo pasado, cuando las organizaciones criminales de Chicago, con Al Capone a la cabeza, habrían adquirido cadenas de lavanderías para mezclar el dinero del contrabando de alcohol con los ingresos en efectivo de un negocio aparentemente lícito[^capone]. La imagen es poderosa: el dinero sucio entra a la lavandería y sale limpio.
 
-Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002).
+Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015, p. [verificar]). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002, p. [verificar]).
 
 ### 11.2.2. La expresión en la prensa y en los tribunales
 
@@ -30,13 +30,13 @@ Esta pregunta tiene dos respuestas, y conviene conocer ambas porque cada una ens
 
 La doctrina mayoritaria reconoce a **Italia** como el primer país que tipificó una conducta de lavado en su código penal. En 1978, en medio de la ola de secuestros extorsivos atribuidos a organizaciones como las Brigadas Rojas y a la criminalidad mafiosa, el legislador italiano incorporó el artículo 648 bis al *Codice Penale*[^italia]. La norma castigaba la sustitución de dinero o valores provenientes de delitos muy específicos: el robo agravado, la extorsión agravada y el secuestro de personas con fines de extorsión.
 
-Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015).
+Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015, p. [verificar]).
 
 ### 11.3.2. Estados Unidos (1986): el primer delito autónomo y general
 
 Los **Estados Unidos** recorrieron un camino distinto. Primero apostaron por la prevención administrativa: la *Bank Secrecy Act* de 1970 obligó a los bancos a reportar las operaciones en efectivo superiores a diez mil dólares[^bsa]. Durante dieciséis años, sin embargo, mover dinero ilícito no era en sí mismo un delito federal; lo que se castigaba era no reportarlo.
 
-Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004).
+Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004, p. [verificar]).
 
 ### 11.3.3. Lo que enseñan ambos modelos
 
@@ -75,7 +75,7 @@ El camino ecuatoriano reproduce, con algunos años de retraso, la evolución int
 2. **Ley para Reprimir el Lavado de Activos (2005).** Tipificó el lavado con un alcance general, desvinculado del narcotráfico, y creó la Unidad de Inteligencia Financiera[^ley2005].
 3. **Código Orgánico Integral Penal (2014).** Incorporó el lavado de activos al artículo 317, con seis conductas típicas y la cláusula de autonomía[^coip317].
 4. **Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (2016).** Reorganizó el sistema de prevención y transformó la unidad de inteligencia financiera en la actual **UAFE** (Unidad de Análisis Financiero y Económico)[^ley2016].
-5. **Resolución 20-2024 de la Corte Nacional de Justicia.** Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^cnj2024].
+5. **Resolución No. 20-2024 de la Corte Nacional de Justicia**, aprobada por el Pleno el 23 de octubre de 2024 y publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Estableció como precedente obligatorio que el lavado puede juzgarse sin una sentencia previa por el delito de origen, cuyo origen ilícito puede acreditarse mediante prueba indiciaria[^cnj2024].
 
 Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse aislado de su historia. Cada reforma amplió el alcance del delito, pero ninguna eliminó su presupuesto esencial: que los bienes tengan un **origen ilícito**.
 
@@ -93,7 +93,7 @@ Si falta cualquiera de los tres, estaremos frente a otra figura, o frente a una 
 
 ## 11.7. Las fases del lavado
 
-La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015; Prado Saldarriaga, 2007):
+La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
 
 | Fase | Qué ocurre | Ejemplos |
 |---|---|---|
@@ -107,7 +107,7 @@ La importancia práctica de las fases es enorme. La Fiscalía suele tener abunda
 
 La discusión sobre el bien jurídico no es académica. Determina el alcance del tipo penal y ofrece argumentos de lesividad (artículo 3 del COIP). Las posturas principales son tres:
 
-1. **El orden socioeconómico**, entendido como la libre competencia y la integridad del sistema financiero. Es la postura dominante (Fabián Caparrós, 1998).
+1. **El orden socioeconómico**, entendido como la libre competencia y la integridad del sistema financiero. Es la postura dominante (Fabián Caparrós, 1998, p. [verificar]).
 2. **La administración de justicia**, porque el lavado obstaculiza la persecución del delito de origen y el decomiso de sus ganancias.
 3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos.
 
@@ -123,7 +123,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
 | Preventivo | Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos (2016) y su reglamento |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
-| Jurisprudencia | Resolución CNJ 20-2024; sentencias de casación de la Corte Nacional en los juicios No. 09333-2018-00282 (caso Espinel, 2021) y No. 07712-2020-00205 (caso Salcedo, 2024), analizadas en el capítulo 12 |
+| Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 12 |
 
 ### 11.9.1. Las reformas del art. 317 y la ley aplicable
 
@@ -135,13 +135,13 @@ El art. 317 ha cambiado tres veces desde 2014, y esos cambios tienen consecuenci
 | **Reforma de 2021** (R.O. Supl. 525, 27 de agosto de 2021) | Modificó el artículo | El **triple** del monto |
 | **Reforma de 2024** (R.O. Supl. 599, 12 de julio de 2024) | De 5 a 7 años, si el monto es inferior a 100 SBU, hasta **19 a 22 años**, si supera los 200 SBU o hay asociación a través de sociedades o uso de cargos públicos; se añadió el num. 7, sobre la sobrevaloración de mercancías | El **quíntuplo** del monto |
 
-¿Qué ley se aplica cuando el lavado se extiende durante varios años, y en ese tiempo cambia la norma? La Corte Nacional respondió en el caso Espinel: el lavado es un **delito de mera actividad**, que se consuma con la ejecución de los verbos rectores, y debe juzgarse con la ley vigente a la fecha de su **consumación**. Como la sentencia fijó la consumación en 2016, se aplicó el COIP y no la ley de 2005, aunque las operaciones empezaron en 2010[^espinel-ley].
+¿Qué ley se aplica cuando el lavado se extiende durante varios años, y en ese tiempo cambia la norma? La Sala Penal de la Corte Nacional de Justicia respondió en el caso Espinel (sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282): el lavado es un **delito de mera actividad**, que se consuma con la ejecución de los verbos rectores, y debe juzgarse con la ley vigente a la fecha de su **consumación**. Como la sentencia fijó la consumación en 2016, se aplicó el COIP y no la ley de 2005, aunque las operaciones empezaron en 2010[^espinel-ley].
 
 El razonamiento tiene, sin embargo, una tensión interna que la defensa puede aprovechar. En el mismo fallo, la Corte afirmó que el lavado "solo en la última fase", la integración, se consuma. Si el lavado es de mera actividad, cada acto que encaja en un verbo rector lo consuma; si solo se consuma en la integración, las operaciones anteriores no son todavía lavado. En casos con operaciones que empiezan con una ley y terminan con otra, la defensa debe exigir que la sentencia precise **qué acto consumó el delito y en qué fecha**, y discutir la aplicación de la ley más favorable a los actos anteriores a la reforma.
 
-La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso Chiriboga ("FIFA Gate"), la Corte Provincial de Pichincha sostuvo lo contrario que el caso Espinel: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^chiriboga-ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
+La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), sostuvo lo contrario que el caso Espinel: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^chiriboga-ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
 
-Por su parte, en el caso Salcedo la Corte aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^salcedo-multa].
+Por su parte, en el caso Salcedo (sentencia de casación de 29 de enero de 2024, juicio No. 07712-2020-00205), la Corte Nacional aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^salcedo-multa].
 
 ## 11.10. Conclusión
 
@@ -193,9 +193,9 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 **Jurisprudencia**
 
-Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
 
-[^capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015). **[verificar la página]**
+[^capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015, p. [verificar]). **[verificar la página]**
 
 [^watergate]: Se atribuye al diario británico *The Guardian* el uso de la expresión en 1973, en la cobertura del caso Watergate. **[verificar la fuente primaria]**
 

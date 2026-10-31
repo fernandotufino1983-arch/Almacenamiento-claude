@@ -28,7 +28,7 @@ La reforma de 2021 es la que define el peculado que hoy se aplica, y trajo tres 
 
 La doctrina discute si el peculado protege el **patrimonio público** o el **correcto funcionamiento de la administración**. A mi juicio, la discusión es en buena medida falsa, porque el peculado protege ambos a la vez: es un delito pluriofensivo.
 
-Lo que sí es importante tener claro es lo siguiente. El peculado no es un hurto agravado por la calidad del autor. Si así fuera, cualquier servidor público que sustrajera un bien del Estado cometería peculado, y no es así. Lo que caracteriza al peculado es la **infracción de un deber especial**: el deber de lealtad en la administración de los bienes que le fueron confiados (Abanto Vásquez, 2003; Rojas Vargas, 2007)[^infraccion-deber].
+Lo que sí es importante tener claro es lo siguiente. El peculado no es un hurto agravado por la calidad del autor. Si así fuera, cualquier servidor público que sustrajera un bien del Estado cometería peculado, y no es así. Lo que caracteriza al peculado es la **infracción de un deber especial**: el deber de lealtad en la administración de los bienes que le fueron confiados (Abanto Vásquez, 2003, p. [verificar]; Rojas Vargas, 2007, p. [verificar])[^infraccion-deber].
 
 Es decir, el desvalor del peculado no está solo en el perjuicio económico, sino en que quien lo causa es precisamente la persona que debía evitarlo.
 
@@ -70,7 +70,7 @@ Si bien es cierto que la reforma buscaba cerrar un espacio de impunidad, es impo
 
 El elemento que más se discute en los juicios por peculado es la exigencia de que los bienes estén en poder del agente **"en virtud o razón de su cargo"**.
 
-No basta que el servidor trabaje en la institución dueña del bien. Es necesario que, por las funciones que le asigna la ley, el reglamento orgánico funcional o el acto de delegación, tenga sobre ese bien una facultad de **administración, custodia, percepción o disposición**. Esa facultad no requiere tenencia material: el ordenador de gasto que autoriza un pago tiene el dinero "en su poder" aunque nunca lo toque, porque tiene la disponibilidad jurídica sobre él (Rojas Vargas, 2007)[^disponibilidad].
+No basta que el servidor trabaje en la institución dueña del bien. Es necesario que, por las funciones que le asigna la ley, el reglamento orgánico funcional o el acto de delegación, tenga sobre ese bien una facultad de **administración, custodia, percepción o disposición**. Esa facultad no requiere tenencia material: el ordenador de gasto que autoriza un pago tiene el dinero "en su poder" aunque nunca lo toque, porque tiene la disponibilidad jurídica sobre él (Rojas Vargas, 2007, p. [verificar])[^disponibilidad].
 
 Como podrá apreciar el lector, la prueba de este elemento no es testimonial sino documental: el nombramiento, el manual de funciones, la resolución de delegación, el registro de firmas autorizadas en el sistema de pagos. Si el fiscal no incorpora esos documentos, la relación funcional queda como una afirmación.
 

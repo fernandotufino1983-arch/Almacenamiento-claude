@@ -160,7 +160,7 @@ A mi juicio, la prohibición sigue siendo incompatible con la Constitución y co
 
 1. **La prisión preventiva es excepcional.** El art. 77.1 de la Constitución dispone que la privación de libertad "no será la regla general" y que se aplicará para garantizar la comparecencia o el cumplimiento de la pena. Una prohibición automática de sustituirla, sin analizar el caso, la convierte en regla para ciertos delitos[^art771].
 2. **La medida cautelar no puede depender del tipo penal.** La prisión preventiva se justifica por un riesgo procesal concreto, como la fuga o la obstrucción, y no por la gravedad abstracta del delito. Prohibir la sustitución según el delito imputado es tratar al procesado como culpable antes de la sentencia.
-3. **El Ecuador ya fue condenado por una regla similar.** En el caso *Suárez Rosero vs. Ecuador* (1997), la Corte Interamericana de Derechos Humanos sostuvo que la norma del Código Penal que excluía a los procesados por delitos de drogas de los beneficios aplicables a los demás procesados, como la limitación de la duración de la prisión preventiva, vulneraba la Convención, porque los despojaba de un derecho fundamental en razón del delito imputado[^suarez].
+3. **El Ecuador ya fue condenado por una regla similar.** En el caso *Suárez Rosero vs. Ecuador*, sentencia de fondo de 12 de noviembre de 1997 (Serie C No. 35), la Corte Interamericana de Derechos Humanos sostuvo que la norma del Código Penal que excluía a los procesados por delitos de drogas de los beneficios aplicables a los demás procesados, como la limitación de la duración de la prisión preventiva, vulneraba la Convención, porque los despojaba de un derecho fundamental en razón del delito imputado[^suarez].
 
 Es por esta razón que, en los casos de peculado, sobreprecios y corrupción privada, la defensa debe pedir la sustitución de la prisión preventiva igual que en cualquier otro delito, invocando la aplicación directa de la Constitución (art. 11.3) y el control de convencionalidad, y preparar desde el inicio el camino de la acción de inconstitucionalidad o de la consulta de norma del art. 428 de la Constitución.
 
@@ -241,7 +241,7 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Regis
 
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
 
-Corte Interamericana de Derechos Humanos. (1997). *Caso Suárez Rosero vs. Ecuador*. Fondo. Sentencia de 12 de noviembre de 1997. Serie C No. 35.
+Corte Interamericana de Derechos Humanos. (1997, 12 de noviembre). *Caso Suárez Rosero vs. Ecuador*. Fondo. Sentencia de 12 de noviembre de 1997. Serie C No. 35.
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
 
