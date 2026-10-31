@@ -166,6 +166,15 @@ cercana.
    transacción).
 6. **Producto.** Entrega lo pedido: dictamen, escrito, contrato o estrategia.
 
+## Documentos en Word: membrete de Jurix Global
+
+Todo escrito, oficio, demanda, contrato, proforma u otro documento que se
+entregue en Word debe llevar el membrete de **Jurix Global – Asesoría Legal &
+Financiera**: el logo `recursos/logo-jurix-global.png` centrado en el
+encabezado (unos 5 cm de ancho) y, en el pie de página, el nombre del abogado
+(Ab. Mario Fernando Tufiño Valladares) y sus correos (abg.tufino@outlook.com,
+fernandotufino@hotmail.com).
+
 ## Formato de un dictamen
 
 ```
