@@ -143,6 +143,8 @@ La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso 
 
 Por su parte, en el caso Salcedo (sentencia de casación de 29 de enero de 2024, juicio No. 07712-2020-00205), la Corte Nacional aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^salcedo-multa].
 
+Una consecuencia de calificar al lavado como delito de mera actividad es la discusión sobre la **tentativa**. Tanto la Fiscalía como la guía de la PADF sostienen que no cabe. La Fiscalía razona que cada verbo rector se sanciona de forma independiente, por lo que "el solo cometimiento de uno de ellos es considerado como delito consumado de lavado" (Fiscalía General del Estado, 2021, p. 94). Martínez (2021, pp. 40-41) llega a la misma conclusión por una razón de garantía: el lavado ya adelanta la protección del orden económico, porque castiga los actos previos a la integración, y admitir además la tentativa equivaldría a "sancionar penalmente la puesta en peligro de la puesta en peligro". Para la defensa, la consecuencia es útil: si los actos realizados no alcanzan a configurar ninguno de los verbos rectores, la conducta es atípica, y no puede rescatarse como lavado en grado de tentativa.
+
 ## 11.10. Conclusión
 
 El lavado de activos nació en Italia para impedir que los secuestradores disfrutaran del dinero de los rescates, se convirtió en los Estados Unidos en un delito autónomo para combatir al narcotráfico y se internacionalizó con Viena, el GAFI, Palermo y Mérida. El Ecuador siguió ese mismo recorrido, desde la ley de drogas de 1990 hasta el COIP y la Resolución 20-2024.
@@ -176,6 +178,10 @@ Naylor, R. T. (2002). *Wages of crime: Black markets, illegal finance, and the u
 Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terrorismo*. Grijley.
 
 Reuter, P., y Truman, E. M. (2004). *Chasing dirty money: The fight against money laundering*. Institute for International Economics.
+
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
 
 **Normativa**
 

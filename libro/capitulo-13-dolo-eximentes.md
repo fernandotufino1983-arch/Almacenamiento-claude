@@ -49,7 +49,7 @@ En el dolo eventual y en la culpa consciente el autor **prevé** que el resultad
 - en el **dolo eventual**, la **acepta**: "pase lo que pase, actúo";
 - en la **culpa consciente**, **confía** en que no se producirá.
 
-Las teorías para trazar esa frontera son conocidas (Roxin, 1997, p. [verificar]; Mir Puig, 2016, p. [verificar]):
+Las teorías para trazar esa frontera son conocidas (Roxin, 1997, p. 430; Mir Puig, 2016, p. 274, como se citaron en Martínez, 2021, p. 51):
 1. **Teoría de la probabilidad o representación:** atiende al grado de probabilidad que el autor se representó.
 2. **Teoría del consentimiento o aceptación:** atiende a si el autor aprobó o aceptó el resultado. Se resume en la **fórmula de Frank**: si el autor hubiera sabido con certeza que el resultado se produciría, ¿habría actuado igual?
 3. **Teoría de la indiferencia:** el resultado le es indiferente.
@@ -81,6 +81,22 @@ En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es
 Para la defensa, la tarea consiste en demostrar que el procesado estaba en la tercera situación, o al menos en generar duda razonable sobre la segunda.
 
 La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^chiriboga-dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
+
+### 13.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
+
+El problema adquiere una forma especial cuando el procesado es un **sujeto obligado**: un banco, una cooperativa, un notario, un registrador, una inmobiliaria o un comerciante de vehículos, entre otros, a quienes la ley de prevención del lavado impone deberes de **debida diligencia** para conocer a sus clientes. Cuando esos deberes se incumplen y el cliente resulta ser un lavador, la acusación suele sostener que el incumplimiento prueba el dolo eventual.
+
+Martínez (2021, pp. 49-51) propone una distinción que es muy útil para la defensa. No basta con que el sujeto obligado sepa, **en abstracto**, que incumplir la debida diligencia aumenta el riesgo de que su empresa sea usada para lavar dinero. Ese conocimiento lo tiene cualquier profesional del sector, y si fuera suficiente para el dolo, todo incumplimiento administrativo se convertiría en un lavado doloso. Para hablar de dolo eventual, sostiene el autor, el conocimiento de la posibilidad debe ser "un conocimiento actual sobre una posibilidad concreta", y no "un conocimiento sobre una posibilidad teórica, abstracta o hipotética" (Martínez, 2021, p. 50). Si el sujeto obligado no tenía información sobre un cliente determinado, el incumplimiento de la debida diligencia es "un acto de mera imprudencia" y, a lo sumo, un caso de culpa consciente (Martínez, 2021, p. 50). Solo cuando conocía información concreta sobre **ese** cliente o **esa** operación, y aun así omitió los controles, puede plantearse el dolo eventual (Martínez, 2021, p. 51).
+
+Esta distinción importa porque el art. 317 del COIP **no admite la modalidad culposa**[^culposo]. La consecuencia práctica es clara:
+
+| Lo que conocía el sujeto obligado | Calificación | Consecuencia |
+|---|---|---|
+| Nada en concreto: solo el riesgo general del sector | Imprudencia o culpa consciente | **Atípico** como lavado; a lo sumo, sanción administrativa o el delito del art. 319 |
+| Información concreta sobre el cliente o la operación, y omitió los controles | Posible dolo eventual | Discutible: la Fiscalía debe probar ese conocimiento concreto |
+| Sabía que los fondos eran ilícitos | Dolo directo | Lavado doloso |
+
+Para la defensa, la pregunta clave en el contraexamen del oficial de cumplimiento o del funcionario es siempre la misma: **¿qué sabía, en concreto, sobre este cliente y en qué momento?** Una alerta genérica del sistema, una tipología del GAFILAT o un incumplimiento documental no equivalen al conocimiento concreto que exige el dolo.
 
 ## 13.5. La "ignorancia deliberada"
 
@@ -278,6 +294,8 @@ Roxin, C. (1997). *Derecho penal. Parte general. Tomo I: Fundamentos. La estruct
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; verificar la versión vigente].
@@ -289,6 +307,8 @@ Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código O
 Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero; verificar].
 
 Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
+
+[^culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la culpa solo es punible cuando el tipo penal la prevé expresamente, y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP. **[verificar la redacción vigente del art. 27]**
 
 [^art26]: COIP, art. 26, sustituido por el art. 6 de la Ley Orgánica Reformatoria del COIP, R.O. Supl. 107 de 24 de diciembre de 2019. Comentario del autor: buena parte de la literatura y de los escritos judiciales posteriores a 2019 siguen citando la definición derogada ("designio de causar daño"). Conviene verificar siempre la redacción vigente.
 

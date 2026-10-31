@@ -57,6 +57,24 @@ La Ley Orgánica Reformatoria del COIP en Materia Anticorrupción de 2021 reform
 
 Es importante diferenciar el alcance de esta reforma. En el Ecuador, **el programa de cumplimiento atenúa la responsabilidad, pero no la excluye**. Es una diferencia sustancial frente a otros países, como veremos en el apartado 16.5.
 
+### 16.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión
+
+La responsabilidad de la persona jurídica no agota el problema. En casi todos los casos de lavado cometido a través de una empresa, la Fiscalía también procesa a personas naturales: socios, directores, gerentes, oficiales de cumplimiento. Y con frecuencia no les imputa haber hecho algo, sino **no haber impedido** que la empresa fuera usada para lavar dinero.
+
+La vía para esa imputación es la **comisión por omisión** del art. 23 del COIP, según el cual "no impedir un acontecimiento, cuando se tiene la obligación jurídica de impedirlo, equivale a ocasionarlo"[^art23]. La Corte Nacional ha precisado que la posición de garante es "la situación en que se halla una persona, en virtud de la cual tiene el deber jurídico concreto de obrar para impedir que se produzca un resultado típico que es evitable" (Corte Nacional de Justicia, juicio No. 0834-2016, 2017, como se citó en Martínez, 2021, p. 57).
+
+Martínez (2021, pp. 59-63) sostiene que la ley de prevención convierte a los sujetos obligados en garantes del riesgo de lavado, y distribuye esa posición dentro de la empresa así:
+- **los socios o accionistas** son los garantes primarios, porque la ley les atribuye la obligación de contar con un sistema de prevención (Martínez, 2021, p. 60);
+- **los directores y administradores** asumen esa posición por delegación, y su fuente no es la ley sino los estatutos y la regulación interna de la empresa (Martínez, 2021, p. 61);
+- **el oficial de cumplimiento** la asume por una nueva delegación. Pero la delegación "no extingue la responsabilidad, sino que la transforma": quien delega conserva cuatro deberes, que son asegurar la idoneidad del delegado, proveerle los recursos, supervisarlo y corregir sus errores (Martínez, 2021, pp. 62-63).
+
+Como podrá apreciar el lector, este modelo amplía considerablemente el círculo de posibles imputados, y la defensa debe conocer sus límites:
+
+1. **La posición de garante debe probarse con documentos, no presumirse por el cargo.** La propia guía advierte que lo primero que debe buscarse es "la regulación interna de la organización", porque allí se determina qué responsabilidades tenía cada órgano (Martínez, 2021, p. 61). Si los estatutos, los manuales y las actas no asignan al procesado una función de prevención, no hay posición de garante.
+2. **La omisión también debe ser dolosa.** El lavado no admite la modalidad culposa. El director que no supervisó al oficial de cumplimiento por descuido no comete lavado por omisión: a lo sumo, incurre en una infracción administrativa o en la omisión de control del art. 319 del COIP (sección 13.4.4).
+3. **Quien actúa por error puede quedar fuera del tipo.** Martínez (2021, pp. 74-75) analiza el caso del director comercial que cierra un negocio con un lavador sin conocer la alerta que tenía el oficial de cumplimiento. Si el director pudo salir del error con mayor diligencia, su conducta sería, a lo sumo, culposa, y por tanto "atípica" (Martínez, 2021, p. 75).
+4. **La responsabilidad por omisión no sustituye la prueba del origen ilícito.** Antes de discutir quién debió impedir el lavado, la Fiscalía debe probar que hubo lavado: activos de origen ilícito y una conducta típica del art. 317.
+
 ## 16.4. Las penas (art. 71)
 
 El art. 71 establece las penas específicas para las personas jurídicas[^art71]:
@@ -164,6 +182,8 @@ Zúñiga Rodríguez, L. (2009). *Bases para un modelo de imputación de responsa
 
 Iurisdictio. (2021). *Responsabilidad penal de las personas jurídicas y programas de cumplimiento en el Ecuador* [Revista de la Universidad San Francisco de Quito; verificar autor y título exactos].
 
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; verificar la versión vigente].
@@ -175,6 +195,14 @@ Congreso Nacional de Chile. (2009). *Ley No. 20.393, que establece la responsabi
 Congreso de la República del Perú. (2016). *Ley No. 30424, que regula la responsabilidad administrativa de las personas jurídicas*.
 
 España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* [art. 31 bis].
+
+**Jurisprudencia**
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021; verificar la fecha].
+
+[^art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: la ley de prevención del lavado de activos y su reglamento. **[actualizar la cita con la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, de 2024, y verificar la fecha de la sentencia CNJ No. 0834-2016]**
 
 [^art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 

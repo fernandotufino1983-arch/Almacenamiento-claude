@@ -2733,6 +2733,8 @@ La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso 
 
 Por su parte, en el caso Salcedo (sentencia de casación de 29 de enero de 2024, juicio No. 07712-2020-00205), la Corte Nacional aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^c11_salcedo_multa].
 
+Una consecuencia de calificar al lavado como delito de mera actividad es la discusión sobre la **tentativa**. Tanto la Fiscalía como la guía de la PADF sostienen que no cabe. La Fiscalía razona que cada verbo rector se sanciona de forma independiente, por lo que "el solo cometimiento de uno de ellos es considerado como delito consumado de lavado" (Fiscalía General del Estado, 2021, p. 94). Martínez (2021, pp. 40-41) llega a la misma conclusión por una razón de garantía: el lavado ya adelanta la protección del orden económico, porque castiga los actos previos a la integración, y admitir además la tentativa equivaldría a "sancionar penalmente la puesta en peligro de la puesta en peligro". Para la defensa, la consecuencia es útil: si los actos realizados no alcanzan a configurar ninguno de los verbos rectores, la conducta es atípica, y no puede rescatarse como lavado en grado de tentativa.
+
 ### 11.10. Conclusión
 
 El lavado de activos nació en Italia para impedir que los secuestradores disfrutaran del dinero de los rescates, se convirtió en los Estados Unidos en un delito autónomo para combatir al narcotráfico y se internacionalizó con Viena, el GAFI, Palermo y Mérida. El Ecuador siguió ese mismo recorrido, desde la ley de drogas de 1990 hasta el COIP y la Resolución 20-2024.
@@ -2766,6 +2768,10 @@ Naylor, R. T. (2002). *Wages of crime: Black markets, illegal finance, and the u
 Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terrorismo*. Grijley.
 
 Reuter, P., y Truman, E. M. (2004). *Chasing dirty money: The fight against money laundering*. Institute for International Economics.
+
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
 
 **Normativa**
 
@@ -2925,6 +2931,8 @@ Con todo respeto, no puedo compartir ese razonamiento. Una instrucción fiscal e
 
 Para definir lo que debe probarse, la Corte acogió una guía interpretativa elaborada por organismos de cooperación internacional, según la cual no hay que probar el delito precedente "en estricto sentido", sino "la tipicidad objetiva del comportamiento del cual provienen los bienes" y "una relación de causalidad entre los bienes objeto de lavado de activos y un hecho que se ajusta objetivamente a la descripción típica del delito precedente"[^c12_salcedo2].
 
+Esa guía es la de Wilson Martínez para la Fundación Panamericana para el Desarrollo (PADF), y conviene leerla en su fuente, porque dice algo más que lo que la Corte transcribió. Según Martínez (2021, p. 42), la declaratoria de responsabilidad por lavado no exige probar el delito precedente "en estricto sentido", es decir, con todos sus elementos; pero inmediatamente añade que "lo que se necesita **probar**, en realidad, es la existencia de una conducta precedente que se adecúe objetivamente a uno de los tipos penales", sin necesidad de demostrar "la tipicidad subjetiva, la antijuridicidad o la culpabilidad del comportamiento, la autoría o participación" respecto del delito fuente. Como podrá apreciar el lector, la guía no habla de **investigar**: habla de **probar**. Rebaja el contenido de lo que debe probarse (la tipicidad objetiva y el nexo causal, no el delito completo), pero no rebaja la exigencia de prueba sobre ese contenido.
+
 **d) Una sentencia de apelación: el caso Chiriboga ("FIFA Gate").** A estos dos fallos de casación conviene sumar la sentencia de apelación de la Sala Penal de la Corte Provincial de Justicia de Pichincha, de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), que confirmó la condena del expresidente de la Federación Ecuatoriana de Fútbol a diez años de prisión, del tesorero como coautor y del contador como cómplice, por haber recibido en las cuentas de la Federación USD 6.119.565 entre 2010 y 2015[^c12_chiriboga1]. Para el tema de este capítulo, el fallo deja tres enseñanzas.
 
 La primera es que el tribunal sí identificó una actividad delictiva de origen: el esquema de sobornos de la CONMEBOL y de los titulares de los derechos de transmisión. Pero lo hizo, en lo principal, con base en una **acusación formal** presentada ante un tribunal de los Estados Unidos y en una **denuncia** de la fiscalía argentina, recibidas por asistencia penal internacional. Es decir, otra vez, imputaciones pendientes y no hechos probados. La crítica que formulé al caso Espinel se aplica aquí con la misma fuerza.
@@ -2942,7 +2950,7 @@ La **regla** es la que formula el propio caso Salcedo: aun sin sentencia previa 
 La **tendencia** es la de reducir esa exigencia a una mera obligación de "investigar". Discrepo de ella por tres razones:
 
 1. **El texto.** El art. 317 dice que la autonomía "no exime a la Fiscalía de su obligación de investigar el origen ilícito". Esa frase describe un deber de la Fiscalía en la investigación; no reduce el estándar de prueba de un elemento del tipo en el juicio. Un elemento del tipo se prueba, o la conducta es atípica.
-2. **La coherencia con la propia Corte.** El caso Espinel afirmó que el origen ilícito debe "acreditarse", y la nota oficial de la Resolución 20-2024 habla de "acreditación". Una obligación que se satisface con investigar, aunque la investigación no encuentre nada, no es una obligación de probar.
+2. **La coherencia con la propia Corte.** El caso Espinel afirmó que el origen ilícito debe "acreditarse", y la nota oficial de la Resolución 20-2024 habla de "acreditación". Y la propia guía que la Corte acogió en el caso Salcedo dice que lo que se necesita es "probar" la conducta precedente objetivamente típica (Martínez, 2021, p. 42). Una obligación que se satisface con investigar, aunque la investigación no encuentre nada, no es una obligación de probar.
 3. **El límite de la casación.** En el caso Salcedo, para condenar, la Corte afirmó que el lavado se produjo "a través del producto de coimas pagadas mediante la simulación de prestación de servicios", cuando el tribunal de apelación había concluido lo contrario después de valorar la prueba. El art. 656 del COIP prohíbe en casación "la revisión de los hechos" y la "nueva valoración de la prueba". Es legítimo preguntarse si, bajo la forma de una errónea interpretación, no se terminó revalorando la prueba.
 
 En este orden de ideas, mi recomendación práctica es la siguiente. El defensor no debe plantear el debate como "la Fiscalía debe probar el delito de origen", porque la Corte ya respondió que no, y con razón si con ello se entiende una condena previa. Debe plantearlo en los términos que la propia Corte aceptó: **¿cuál es el hecho objetivamente típico del que provienen estos bienes, y cuál es la prueba de la relación de causalidad?** Si la Fiscalía no puede responder esas dos preguntas con hechos probados, y no con procesos pendientes ni con informes administrativos, el elemento normativo no está acreditado.
@@ -3143,6 +3151,8 @@ Organización de las Naciones Unidas. (2000). *Convención de las Naciones Unida
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
 
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
 **Jurisprudencia**
 
 Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
@@ -3195,7 +3205,7 @@ Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Se
 
 [^c12_salcedo1]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, párrafos 30 a 37. La Corte se apoyó en la sentencia de la Corte Constitucional No. 768-15-EP/20 para admitir la casación de la Fiscalía frente a una doble sentencia absolutoria, y dispuso que los jueces de instancia informaran sobre sus actuaciones para determinar un posible error inexcusable (art. 109.7 del Código Orgánico de la Función Judicial).
 
-[^c12_salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). **[verificar los datos de publicación de la guía]**
+[^c12_salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). El pasaje transcrito corresponde a Martínez (2021, p. 42), que a su vez se apoya en un documento de la OEA sin fecha. Comentario del autor: la guía no es una fuente normativa ni jurisprudencial; es un documento de cooperación técnica. Su autoridad en el proceso es la de la doctrina, y el tribunal que la usa debe contrastarla con el texto del art. 317 y con el art. 455 del COIP.
 
 [^c12_chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 13 de septiembre de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente. **[verificar los nombres de los jueces de apelación]**
 
@@ -3255,7 +3265,7 @@ En el dolo eventual y en la culpa consciente el autor **prevé** que el resultad
 - en el **dolo eventual**, la **acepta**: "pase lo que pase, actúo";
 - en la **culpa consciente**, **confía** en que no se producirá.
 
-Las teorías para trazar esa frontera son conocidas (Roxin, 1997, p. [verificar]; Mir Puig, 2016, p. [verificar]):
+Las teorías para trazar esa frontera son conocidas (Roxin, 1997, p. 430; Mir Puig, 2016, p. 274, como se citaron en Martínez, 2021, p. 51):
 1. **Teoría de la probabilidad o representación:** atiende al grado de probabilidad que el autor se representó.
 2. **Teoría del consentimiento o aceptación:** atiende a si el autor aprobó o aceptó el resultado. Se resume en la **fórmula de Frank**: si el autor hubiera sabido con certeza que el resultado se produciría, ¿habría actuado igual?
 3. **Teoría de la indiferencia:** el resultado le es indiferente.
@@ -3287,6 +3297,22 @@ En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es
 Para la defensa, la tarea consiste en demostrar que el procesado estaba en la tercera situación, o al menos en generar duda razonable sobre la segunda.
 
 La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^c13_chiriboga_dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
+
+#### 13.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
+
+El problema adquiere una forma especial cuando el procesado es un **sujeto obligado**: un banco, una cooperativa, un notario, un registrador, una inmobiliaria o un comerciante de vehículos, entre otros, a quienes la ley de prevención del lavado impone deberes de **debida diligencia** para conocer a sus clientes. Cuando esos deberes se incumplen y el cliente resulta ser un lavador, la acusación suele sostener que el incumplimiento prueba el dolo eventual.
+
+Martínez (2021, pp. 49-51) propone una distinción que es muy útil para la defensa. No basta con que el sujeto obligado sepa, **en abstracto**, que incumplir la debida diligencia aumenta el riesgo de que su empresa sea usada para lavar dinero. Ese conocimiento lo tiene cualquier profesional del sector, y si fuera suficiente para el dolo, todo incumplimiento administrativo se convertiría en un lavado doloso. Para hablar de dolo eventual, sostiene el autor, el conocimiento de la posibilidad debe ser "un conocimiento actual sobre una posibilidad concreta", y no "un conocimiento sobre una posibilidad teórica, abstracta o hipotética" (Martínez, 2021, p. 50). Si el sujeto obligado no tenía información sobre un cliente determinado, el incumplimiento de la debida diligencia es "un acto de mera imprudencia" y, a lo sumo, un caso de culpa consciente (Martínez, 2021, p. 50). Solo cuando conocía información concreta sobre **ese** cliente o **esa** operación, y aun así omitió los controles, puede plantearse el dolo eventual (Martínez, 2021, p. 51).
+
+Esta distinción importa porque el art. 317 del COIP **no admite la modalidad culposa**[^c13_culposo]. La consecuencia práctica es clara:
+
+| Lo que conocía el sujeto obligado | Calificación | Consecuencia |
+|---|---|---|
+| Nada en concreto: solo el riesgo general del sector | Imprudencia o culpa consciente | **Atípico** como lavado; a lo sumo, sanción administrativa o el delito del art. 319 |
+| Información concreta sobre el cliente o la operación, y omitió los controles | Posible dolo eventual | Discutible: la Fiscalía debe probar ese conocimiento concreto |
+| Sabía que los fondos eran ilícitos | Dolo directo | Lavado doloso |
+
+Para la defensa, la pregunta clave en el contraexamen del oficial de cumplimiento o del funcionario es siempre la misma: **¿qué sabía, en concreto, sobre este cliente y en qué momento?** Una alerta genérica del sistema, una tipología del GAFILAT o un incumplimiento documental no equivalen al conocimiento concreto que exige el dolo.
 
 ### 13.5. La "ignorancia deliberada"
 
@@ -3484,6 +3510,8 @@ Roxin, C. (1997). *Derecho penal. Parte general. Tomo I: Fundamentos. La estruct
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; verificar la versión vigente].
@@ -3495,6 +3523,8 @@ Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código O
 Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero; verificar].
 
 Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
+
+[^c13_culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la culpa solo es punible cuando el tipo penal la prevé expresamente, y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP. **[verificar la redacción vigente del art. 27]**
 
 [^c13_art26]: COIP, art. 26, sustituido por el art. 6 de la Ley Orgánica Reformatoria del COIP, R.O. Supl. 107 de 24 de diciembre de 2019. Comentario del autor: buena parte de la literatura y de los escritos judiciales posteriores a 2019 siguen citando la definición derogada ("designio de causar daño"). Conviene verificar siempre la redacción vigente.
 
@@ -4067,6 +4097,12 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 | Un mismo acto encaja en el testaferrismo (art. 289) y en el lavado (art. 317, num. 3) | **Concurso aparente** que se resuelve por especialidad |
 | Sobreprecios en varias planillas de un mismo contrato | ¿Varios peculados o uno solo? Es un argumento de **unidad de conducta** o de **delito continuado** |
 
+**El autolavado en la jurisprudencia de la Corte Nacional.** La Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 15 de diciembre de 2017 (juicio No. 13284-2015-01812, ponente Gladys Terán Sierra), sostuvo que "es aconsejable admitir la sanción del autor del hecho previo como posterior lavador", porque el blanqueo "debe ser comprendido no sólo como una forma de encubrimiento sino como un delito independiente (autónomo) contra el orden socioeconómico" (Corte Nacional de Justicia, 15 de diciembre de 2017, como se citó en Fiscalía General del Estado, 2021, p. 98). Es decir, la Corte admite el concurso real entre el delito de origen y el lavado cometido por la misma persona (Martínez, 2021, p. 80).
+
+Frente a esa postura, una parte de la doctrina considera que el lavado realizado por el propio autor del delito de origen es un **acto posterior copenado**, cuyo desvalor ya está cubierto por la pena del primer delito (Fabián Caparrós, 1998, p. 201; Blanco Cordero, 2015, p. 471, como se citaron en Martínez, 2021, p. 80).
+
+Ambas posturas pueden conciliarse con un criterio que la propia Fiscalía recoge. Patricia Faraldo distingue el simple disfrute del producto del delito de la operación destinada a darle apariencia de licitud: "la compra de un coche deportivo para su disfrute por el narcotraficante no es un acto de blanqueo, mientras que si ese mismo auto se adquiere para ser vendido en el extranjero, y de este modo justificar así un aumento patrimonial que en realidad tiene su origen en su actividad ilícita, estaríamos ante un ejemplo de blanqueo" (Faraldo Cabana, 2014, p. 51, como se citó en Fiscalía General del Estado, 2021, p. 47). Para la defensa, esa es la línea que hay que trazar: el autolavado exige una conducta **adicional** de ocultamiento o de apariencia de licitud. Si el autor del delito de origen solo tiene, usa o gasta lo que obtuvo, no hay un segundo delito, sino el agotamiento del primero[^c15_autolavado].
+
 ### 15.10. Caso práctico resuelto
 
 #### Los hechos
@@ -4114,6 +4150,12 @@ Velásquez Velásquez, F. (2020). *Fundamentos de derecho penal. Parte general*.
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+
+Faraldo Cabana, P. (2014). Antes y después de la tipificación expresa del autoblanqueo de capitales. *Estudios Penales y Criminológicos*, *31*, 51 [citado a través de Fiscalía General del Estado, 2021; verificar].
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 3, 5, 13, 20, 21, 44, 55 y 656; verificar la versión vigente].
@@ -4122,11 +4164,15 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017, 15 de diciembre). *Sentencia de casación, juicio No. 13284-2015-01812* (ponente: G. Terán Sierra) [citada a través de Fiscalía General del Estado, 2021, y de Martínez, 2021].
+
 Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19* [verificar la fecha y los términos].
 
 Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
 Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
+
+[^c15_autolavado]: COIP, art. 317, inciso que declara la autonomía del lavado "sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas", y art. 20 (concurso real). Comentario del autor: la cláusula de acumulación del art. 317 permite el concurso, pero no lo impone. Antes de acumular, el juez debe establecer que existen dos conductas distintas y no una sola conducta con su agotamiento natural (sección 15.3).
 
 [^c15_nonbis]: Constitución, art. 76, num. 7, lit. i): "Nadie podrá ser juzgado más de una vez por la misma causa y materia." COIP, art. 5, num. 9: "ninguna persona podrá ser juzgada ni penada más de una vez por los mismos hechos."
 
@@ -4211,6 +4257,24 @@ La Ley Orgánica Reformatoria del COIP en Materia Anticorrupción de 2021 reform
 - estableció en el **art. 49** once **requisitos mínimos** que deben cumplir esos sistemas: identificación y administración de riesgos; controles internos con responsables; supervisión y monitoreo continuo, interno e independiente; modelos de gestión financiera; canal de denuncias; código de ética; capacitación del personal; mecanismos de investigación interna; obligación de informar al encargado de cumplimiento; normas disciplinarias; y programas "conozca a su cliente" o de debida diligencia.
 
 Es importante diferenciar el alcance de esta reforma. En el Ecuador, **el programa de cumplimiento atenúa la responsabilidad, pero no la excluye**. Es una diferencia sustancial frente a otros países, como veremos en el apartado 16.5.
+
+#### 16.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión
+
+La responsabilidad de la persona jurídica no agota el problema. En casi todos los casos de lavado cometido a través de una empresa, la Fiscalía también procesa a personas naturales: socios, directores, gerentes, oficiales de cumplimiento. Y con frecuencia no les imputa haber hecho algo, sino **no haber impedido** que la empresa fuera usada para lavar dinero.
+
+La vía para esa imputación es la **comisión por omisión** del art. 23 del COIP, según el cual "no impedir un acontecimiento, cuando se tiene la obligación jurídica de impedirlo, equivale a ocasionarlo"[^c16_art23]. La Corte Nacional ha precisado que la posición de garante es "la situación en que se halla una persona, en virtud de la cual tiene el deber jurídico concreto de obrar para impedir que se produzca un resultado típico que es evitable" (Corte Nacional de Justicia, juicio No. 0834-2016, 2017, como se citó en Martínez, 2021, p. 57).
+
+Martínez (2021, pp. 59-63) sostiene que la ley de prevención convierte a los sujetos obligados en garantes del riesgo de lavado, y distribuye esa posición dentro de la empresa así:
+- **los socios o accionistas** son los garantes primarios, porque la ley les atribuye la obligación de contar con un sistema de prevención (Martínez, 2021, p. 60);
+- **los directores y administradores** asumen esa posición por delegación, y su fuente no es la ley sino los estatutos y la regulación interna de la empresa (Martínez, 2021, p. 61);
+- **el oficial de cumplimiento** la asume por una nueva delegación. Pero la delegación "no extingue la responsabilidad, sino que la transforma": quien delega conserva cuatro deberes, que son asegurar la idoneidad del delegado, proveerle los recursos, supervisarlo y corregir sus errores (Martínez, 2021, pp. 62-63).
+
+Como podrá apreciar el lector, este modelo amplía considerablemente el círculo de posibles imputados, y la defensa debe conocer sus límites:
+
+1. **La posición de garante debe probarse con documentos, no presumirse por el cargo.** La propia guía advierte que lo primero que debe buscarse es "la regulación interna de la organización", porque allí se determina qué responsabilidades tenía cada órgano (Martínez, 2021, p. 61). Si los estatutos, los manuales y las actas no asignan al procesado una función de prevención, no hay posición de garante.
+2. **La omisión también debe ser dolosa.** El lavado no admite la modalidad culposa. El director que no supervisó al oficial de cumplimiento por descuido no comete lavado por omisión: a lo sumo, incurre en una infracción administrativa o en la omisión de control del art. 319 del COIP (sección 13.4.4).
+3. **Quien actúa por error puede quedar fuera del tipo.** Martínez (2021, pp. 74-75) analiza el caso del director comercial que cierra un negocio con un lavador sin conocer la alerta que tenía el oficial de cumplimiento. Si el director pudo salir del error con mayor diligencia, su conducta sería, a lo sumo, culposa, y por tanto "atípica" (Martínez, 2021, p. 75).
+4. **La responsabilidad por omisión no sustituye la prueba del origen ilícito.** Antes de discutir quién debió impedir el lavado, la Fiscalía debe probar que hubo lavado: activos de origen ilícito y una conducta típica del art. 317.
 
 ### 16.4. Las penas (art. 71)
 
@@ -4319,6 +4383,8 @@ Zúñiga Rodríguez, L. (2009). *Bases para un modelo de imputación de responsa
 
 Iurisdictio. (2021). *Responsabilidad penal de las personas jurídicas y programas de cumplimiento en el Ecuador* [Revista de la Universidad San Francisco de Quito; verificar autor y título exactos].
 
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; verificar la versión vigente].
@@ -4330,6 +4396,14 @@ Congreso Nacional de Chile. (2009). *Ley No. 20.393, que establece la responsabi
 Congreso de la República del Perú. (2016). *Ley No. 30424, que regula la responsabilidad administrativa de las personas jurídicas*.
 
 España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* [art. 31 bis].
+
+**Jurisprudencia**
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021; verificar la fecha].
+
+[^c16_art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: la ley de prevención del lavado de activos y su reglamento. **[actualizar la cita con la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, de 2024, y verificar la fecha de la sentencia CNJ No. 0834-2016]**
 
 [^c16_art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 

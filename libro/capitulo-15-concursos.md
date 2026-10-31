@@ -172,6 +172,12 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 | Un mismo acto encaja en el testaferrismo (art. 289) y en el lavado (art. 317, num. 3) | **Concurso aparente** que se resuelve por especialidad |
 | Sobreprecios en varias planillas de un mismo contrato | ¿Varios peculados o uno solo? Es un argumento de **unidad de conducta** o de **delito continuado** |
 
+**El autolavado en la jurisprudencia de la Corte Nacional.** La Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 15 de diciembre de 2017 (juicio No. 13284-2015-01812, ponente Gladys Terán Sierra), sostuvo que "es aconsejable admitir la sanción del autor del hecho previo como posterior lavador", porque el blanqueo "debe ser comprendido no sólo como una forma de encubrimiento sino como un delito independiente (autónomo) contra el orden socioeconómico" (Corte Nacional de Justicia, 15 de diciembre de 2017, como se citó en Fiscalía General del Estado, 2021, p. 98). Es decir, la Corte admite el concurso real entre el delito de origen y el lavado cometido por la misma persona (Martínez, 2021, p. 80).
+
+Frente a esa postura, una parte de la doctrina considera que el lavado realizado por el propio autor del delito de origen es un **acto posterior copenado**, cuyo desvalor ya está cubierto por la pena del primer delito (Fabián Caparrós, 1998, p. 201; Blanco Cordero, 2015, p. 471, como se citaron en Martínez, 2021, p. 80).
+
+Ambas posturas pueden conciliarse con un criterio que la propia Fiscalía recoge. Patricia Faraldo distingue el simple disfrute del producto del delito de la operación destinada a darle apariencia de licitud: "la compra de un coche deportivo para su disfrute por el narcotraficante no es un acto de blanqueo, mientras que si ese mismo auto se adquiere para ser vendido en el extranjero, y de este modo justificar así un aumento patrimonial que en realidad tiene su origen en su actividad ilícita, estaríamos ante un ejemplo de blanqueo" (Faraldo Cabana, 2014, p. 51, como se citó en Fiscalía General del Estado, 2021, p. 47). Para la defensa, esa es la línea que hay que trazar: el autolavado exige una conducta **adicional** de ocultamiento o de apariencia de licitud. Si el autor del delito de origen solo tiene, usa o gasta lo que obtuvo, no hay un segundo delito, sino el agotamiento del primero[^autolavado].
+
 ## 15.10. Caso práctico resuelto
 
 ### Los hechos
@@ -219,6 +225,12 @@ Velásquez Velásquez, F. (2020). *Fundamentos de derecho penal. Parte general*.
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+
+Faraldo Cabana, P. (2014). Antes y después de la tipificación expresa del autoblanqueo de capitales. *Estudios Penales y Criminológicos*, *31*, 51 [citado a través de Fiscalía General del Estado, 2021; verificar].
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 3, 5, 13, 20, 21, 44, 55 y 656; verificar la versión vigente].
@@ -227,11 +239,15 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017, 15 de diciembre). *Sentencia de casación, juicio No. 13284-2015-01812* (ponente: G. Terán Sierra) [citada a través de Fiscalía General del Estado, 2021, y de Martínez, 2021].
+
 Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19* [verificar la fecha y los términos].
 
 Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
 Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
+
+[^autolavado]: COIP, art. 317, inciso que declara la autonomía del lavado "sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas", y art. 20 (concurso real). Comentario del autor: la cláusula de acumulación del art. 317 permite el concurso, pero no lo impone. Antes de acumular, el juez debe establecer que existen dos conductas distintas y no una sola conducta con su agotamiento natural (sección 15.3).
 
 [^nonbis]: Constitución, art. 76, num. 7, lit. i): "Nadie podrá ser juzgado más de una vez por la misma causa y materia." COIP, art. 5, num. 9: "ninguna persona podrá ser juzgada ni penada más de una vez por los mismos hechos."
 
