@@ -96,11 +96,13 @@ No se ha identificado un precedente obligatorio de la Corte Nacional que resuelv
 
 ### 15.5.4. La experiencia ecuatoriana: el caso de las drogas
 
-La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. La Corte Nacional de Justicia, en la **Resolución No. 12-2015** [verificar la fecha de aprobación y de publicación en el Registro Oficial], estableció que la tenencia simultánea de distintas sustancias sujetas a fiscalización debía sancionarse aplicando las reglas del concurso real, es decir, acumulando una pena por cada tipo de sustancia[^res12].
+La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. El Pleno de la Corte Nacional de Justicia, en la **Resolución No. 12-2015**, expedida el 17 de septiembre de 2015 y publicada en el Registro Oficial Suplemento 593 de 22 de septiembre de 2015, estableció que quien "con un acto incurra en uno o más verbos rectores, con sustancias estupefacientes, sicotrópicas o preparados que las contengan, distintos y en cantidades iguales o diferentes, será sancionada con pena privativa de libertad acumulada según sea la sustancia". Es decir, una pena por cada tipo de sustancia, sumadas como en el concurso real[^res12].
 
-La Corte Constitucional, en la **sentencia No. 7-17-CN/19** [verificar la fecha], declaró la inconstitucionalidad de ese criterio[^cc717]. En lo esencial, consideró que una misma conducta de tenencia no podía fraccionarse en varios delitos según el tipo de sustancia, porque ello vulneraba el principio de proporcionalidad y la prohibición de doble sanción. Posteriormente, la propia Corte Nacional dejó sin efecto el precedente[^cnj2019].
+Ese criterio no sobrevivió. La Sala Penal de la Corte Nacional lo abandonó en tres sentencias de casación, de 2 de agosto de 2018 (juicio No. 17721-2016-1110), 17 de octubre de 2018 (juicio No. 17282-2016-00494) y 9 de enero de 2019 (juicio No. 17282-2016-05465), y el Pleno, en la **Resolución No. 02-2019**, de 6 de febrero de 2019, dejó sin efecto la Resolución 12-2015 y declaró como nuevo precedente obligatorio que, cuando los verbos rectores del art. 220 del COIP son "atribuibles a una misma persona en unidad de tiempo y acción, se debe aplicar el concurso ideal de delitos, por el que se punirá únicamente la conducta más severamente sancionada en el tipo penal, conforme el principio de absorción"[^cnj2019]. La línea argumental de la Corte partió del principio de proporcionalidad del art. 76.6 de la Constitución y de una idea que conviene retener: el art. 220 tiene una estructura polinuclear, con catorce verbos rectores, pero "tales acciones no son varios delitos ni tampoco autónomos e independientes".
 
-Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta puede llegar a declararse inconstitucional.
+La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-CN/19** [verificar la fecha, el contenido y si es anterior o posterior a la Resolución 02-2019][^cc717].
+
+Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta vulnera el principio de proporcionalidad, como terminó reconociendo la propia Corte Nacional.
 
 ## 15.6. El concurso aparente de leyes
 
@@ -200,7 +202,7 @@ Frente a una acusación por trece delitos acumulados, una defensa técnica en ma
 
 1. ¿Por qué la unidad de conducta no equivale a la unidad de movimiento?
 2. ¿Qué diferencia hay entre el concurso ideal y el concurso aparente, y por qué la distinción protege el non bis in idem?
-3. ¿Qué enseñó el caso de la tenencia de distintas sustancias (Resolución CNJ 12-2015 y sentencia CC 7-17-CN/19)?
+3. ¿Qué enseñó el caso de la tenencia de distintas sustancias (Resoluciones CNJ 12-2015 y 02-2019)?
 4. ¿Con qué argumento sostendría la aplicación del art. 21 a un concurso medial, si el COIP no lo regula?
 5. ¿Por qué el autolavado puede discutirse como un acto posterior copenado?
 6. ¿El tope del art. 20 se calcula sobre la pena impuesta o sobre el máximo legal? Argumente ambas posturas.
@@ -227,9 +229,9 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19* [verificar la fecha y los términos].
 
-Corte Nacional de Justicia del Ecuador. (2015). *Resolución No. 12-2015* [verificar].
+Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
-Corte Nacional de Justicia del Ecuador. (2019). *Resolución que deja sin efecto el precedente jurisprudencial obligatorio sobre el concurso de delitos en materia de drogas* [verificar el número].
+Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
 
 [^nonbis]: Constitución, art. 76, num. 7, lit. i): "Nadie podrá ser juzgado más de una vez por la misma causa y materia." COIP, art. 5, num. 9: "ninguna persona podrá ser juzgada ni penada más de una vez por los mismos hechos."
 
@@ -243,11 +245,11 @@ Corte Nacional de Justicia del Ecuador. (2019). *Resolución que deja sin efecto
 
 [^art21]: COIP, art. 21, según el texto con última modificación de 17 de febrero de 2021. **[verificar]**
 
-[^res12]: Corte Nacional de Justicia, Resolución No. 12-2015. **[verificar el número, la fecha y el contenido exacto]**
+[^res12]: Corte Nacional de Justicia, Resolución No. 12-2015, citada por la Resolución No. 02-2019, art. 2. Comentario del autor: la propia Resolución 02-2019 da dos datos distintos para la 12-2015: en sus considerandos, la fecha de 16 de septiembre de 2015 y el Registro Oficial 592; en su art. 2, la fecha de 17 de septiembre de 2015 y el Registro Oficial 593. Se sigue la parte resolutiva. **[confirmar en el Registro Oficial]**
 
 [^cc717]: Corte Constitucional del Ecuador, sentencia No. 7-17-CN/19. **[verificar la fecha y la ratio decidendi]** Comentario del autor: la sentencia es un buen ejemplo de cómo la proporcionalidad de la pena (art. 76.6 de la Constitución) sirve para controlar la forma de contar las conductas.
 
-[^cnj2019]: Corte Nacional de Justicia, resolución publicada en 2019 que deja sin efecto el precedente jurisprudencial obligatorio sobre el concurso de delitos en materia de drogas. **[verificar el número]**
+[^cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 6 de febrero de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP. **[verificar el número y la fecha del Registro Oficial de publicación]**
 
 [^espana]: Código Penal español (Ley Orgánica 10/1995), art. 77 (concurso ideal y medial) y art. 74 (delito continuado). **[verificar]**
 

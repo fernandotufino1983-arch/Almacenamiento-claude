@@ -135,6 +135,12 @@ Muchas inferencias fallan porque la regla de experiencia que las sostiene es **f
 
 La defensa debe obligar a la acusación, y al juez, a **explicitar la regla de experiencia**, porque una regla que se expone en voz alta suele revelar su debilidad.
 
+Esta exigencia tiene respaldo en la jurisprudencia comparada. La Sala de Casación Penal de la Corte Suprema de Justicia de Colombia, en la sentencia SP1569-2018, de 9 de mayo de 2018 (radicación No. 45.889, ponente Patricia Salazar Cuéllar), describió la construcción del indicio en cuatro pasos: probar el hecho indicador, explicitar la regla de la experiencia, enunciar el hecho indicado y valorarlo en conjunto con las demás pruebas. Sobre el segundo paso, fue categórica:
+
+> "Probado el hecho indicador, el segundo paso es explicitar la regla de la experiencia, de la que va a depender, en buena medida, el carácter o fuerza probatoria del indicio. Además, por cuanto la regla de la experiencia eventualmente usada puede ser falsa, o tomada con un alcance diferente al que realmente tiene, es indispensable expresarla como presupuesto de su contradicción y, de esa forma, garantizar adecuadamente el derecho de defensa" (Corte Suprema de Justicia de Colombia, SP1569-2018, 9 de mayo de 2018, p. 31).
+
+Como podrá apreciar el lector, la Corte colombiana convierte la explicitación de la regla en una **garantía del derecho de defensa**: una regla que no se expresa no se puede contradecir. En el Ecuador, ese mismo razonamiento se apoya en el art. 76.7, literales a y l, de la Constitución[^sp1569].
+
 ### 14.6.3. Atacar la conclusión: la hipótesis alternativa
 
 Una inferencia es válida solo si su conclusión es **la única razonable**. La defensa debe proponer una **hipótesis alternativa** plausible y sostenerla con contraindicios. Basta con que esa hipótesis sea razonable y no esté descartada por la prueba: no es necesario probarla con certeza.
@@ -173,7 +179,7 @@ Si bien es cierto que esos elementos pueden ser relevantes, es importante difere
 ## 14.7. El control de la inferencia en los recursos
 
 - **Apelación:** el tribunal de alzada puede revisar la valoración de la prueba y la razonabilidad de la inferencia.
-- **Casación:** como vimos al estudiar ese recurso, no cabe revalorar la prueba. Pero sí cabe alegar la **violación de las reglas de la sana crítica** o de la norma que exige hechos reales y no presunciones (art. 455 del COIP), siempre que se plantee como un error de derecho y no como una discusión sobre los hechos[^casacion].
+- **Casación:** como vimos al estudiar ese recurso, no cabe revalorar la prueba. Pero sí cabe alegar la **violación de las reglas de la sana crítica** o de la norma que exige hechos reales y no presunciones (art. 455 del COIP), siempre que se plantee como un error de derecho y no como una discusión sobre los hechos[^casacion]. La sentencia SP1569-2018 de la Corte Suprema colombiana ofrece una pauta útil para ordenar el cargo: hay que identificar "en cuál fase de la construcción indiciaria se presenta el supuesto yerro", si en el hecho indicador, en la inferencia o en la articulación de los indicios entre sí, y, cuando se discuten a la vez la prueba del hecho indicador y la inferencia, hacerlo "en cargos distintos y de manera subsidiaria" (Corte Suprema de Justicia de Colombia, SP1569-2018, 9 de mayo de 2018, p. 32).
 - **Acción extraordinaria de protección:** la falta de motivación reforzada de la inferencia puede vulnerar el art. 76.7.l de la Constitución.
 
 ## 14.8. Modelo de argumento: impugnación de una inferencia
@@ -244,6 +250,8 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo). *Sentencia SP1569-2018, radicación No. 45.889* (M. P. Patricia Salazar Cuéllar).
+
 Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
 
 [^cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). **[verificar la numeración y la redacción]** Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
@@ -259,6 +267,8 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 [^murray]: Tribunal Europeo de Derechos Humanos, *John Murray c. Reino Unido* (1996). El tribunal admitió que, en circunstancias que exigen claramente una explicación, el silencio del acusado pueda tomarse en cuenta, pero nunca como fundamento exclusivo ni principal de la condena. **[verificar]**
 
 [^casacion]: Sobre la casación penal y la prohibición de revalorar la prueba, véase el art. 656 del COIP. Comentario del autor: el reto es plantear la impugnación como un error en la aplicación del art. 455 o de las reglas de la sana crítica, y no como una nueva lectura de los hechos.
+
+[^sp1569]: Constitución, art. 76, num. 7, lits. a) (derecho a la defensa) y l) (motivación). Comentario del autor: la sentencia colombiana no es vinculante en el Ecuador, pero su estructura de cuatro pasos es una buena herramienta para exigir al tribunal que motive la inferencia y para ordenar el contraexamen del perito y el alegato de clausura.
 
 [^espinel-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5.
 

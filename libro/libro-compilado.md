@@ -3656,6 +3656,12 @@ Muchas inferencias fallan porque la regla de experiencia que las sostiene es **f
 
 La defensa debe obligar a la acusación, y al juez, a **explicitar la regla de experiencia**, porque una regla que se expone en voz alta suele revelar su debilidad.
 
+Esta exigencia tiene respaldo en la jurisprudencia comparada. La Sala de Casación Penal de la Corte Suprema de Justicia de Colombia, en la sentencia SP1569-2018, de 9 de mayo de 2018 (radicación No. 45.889, ponente Patricia Salazar Cuéllar), describió la construcción del indicio en cuatro pasos: probar el hecho indicador, explicitar la regla de la experiencia, enunciar el hecho indicado y valorarlo en conjunto con las demás pruebas. Sobre el segundo paso, fue categórica:
+
+> "Probado el hecho indicador, el segundo paso es explicitar la regla de la experiencia, de la que va a depender, en buena medida, el carácter o fuerza probatoria del indicio. Además, por cuanto la regla de la experiencia eventualmente usada puede ser falsa, o tomada con un alcance diferente al que realmente tiene, es indispensable expresarla como presupuesto de su contradicción y, de esa forma, garantizar adecuadamente el derecho de defensa" (Corte Suprema de Justicia de Colombia, SP1569-2018, 9 de mayo de 2018, p. 31).
+
+Como podrá apreciar el lector, la Corte colombiana convierte la explicitación de la regla en una **garantía del derecho de defensa**: una regla que no se expresa no se puede contradecir. En el Ecuador, ese mismo razonamiento se apoya en el art. 76.7, literales a y l, de la Constitución[^c14_sp1569].
+
 #### 14.6.3. Atacar la conclusión: la hipótesis alternativa
 
 Una inferencia es válida solo si su conclusión es **la única razonable**. La defensa debe proponer una **hipótesis alternativa** plausible y sostenerla con contraindicios. Basta con que esa hipótesis sea razonable y no esté descartada por la prueba: no es necesario probarla con certeza.
@@ -3694,7 +3700,7 @@ Si bien es cierto que esos elementos pueden ser relevantes, es importante difere
 ### 14.7. El control de la inferencia en los recursos
 
 - **Apelación:** el tribunal de alzada puede revisar la valoración de la prueba y la razonabilidad de la inferencia.
-- **Casación:** como vimos al estudiar ese recurso, no cabe revalorar la prueba. Pero sí cabe alegar la **violación de las reglas de la sana crítica** o de la norma que exige hechos reales y no presunciones (art. 455 del COIP), siempre que se plantee como un error de derecho y no como una discusión sobre los hechos[^c14_casacion].
+- **Casación:** como vimos al estudiar ese recurso, no cabe revalorar la prueba. Pero sí cabe alegar la **violación de las reglas de la sana crítica** o de la norma que exige hechos reales y no presunciones (art. 455 del COIP), siempre que se plantee como un error de derecho y no como una discusión sobre los hechos[^c14_casacion]. La sentencia SP1569-2018 de la Corte Suprema colombiana ofrece una pauta útil para ordenar el cargo: hay que identificar "en cuál fase de la construcción indiciaria se presenta el supuesto yerro", si en el hecho indicador, en la inferencia o en la articulación de los indicios entre sí, y, cuando se discuten a la vez la prueba del hecho indicador y la inferencia, hacerlo "en cargos distintos y de manera subsidiaria" (Corte Suprema de Justicia de Colombia, SP1569-2018, 9 de mayo de 2018, p. 32).
 - **Acción extraordinaria de protección:** la falta de motivación reforzada de la inferencia puede vulnerar el art. 76.7.l de la Constitución.
 
 ### 14.8. Modelo de argumento: impugnación de una inferencia
@@ -3765,6 +3771,8 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo). *Sentencia SP1569-2018, radicación No. 45.889* (M. P. Patricia Salazar Cuéllar).
+
 Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
 
 [^c14_cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). **[verificar la numeración y la redacción]** Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
@@ -3780,6 +3788,8 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 [^c14_murray]: Tribunal Europeo de Derechos Humanos, *John Murray c. Reino Unido* (1996). El tribunal admitió que, en circunstancias que exigen claramente una explicación, el silencio del acusado pueda tomarse en cuenta, pero nunca como fundamento exclusivo ni principal de la condena. **[verificar]**
 
 [^c14_casacion]: Sobre la casación penal y la prohibición de revalorar la prueba, véase el art. 656 del COIP. Comentario del autor: el reto es plantear la impugnación como un error en la aplicación del art. 455 o de las reglas de la sana crítica, y no como una nueva lectura de los hechos.
+
+[^c14_sp1569]: Constitución, art. 76, num. 7, lits. a) (derecho a la defensa) y l) (motivación). Comentario del autor: la sentencia colombiana no es vinculante en el Ecuador, pero su estructura de cuatro pasos es una buena herramienta para exigir al tribunal que motive la inferencia y para ordenar el contraexamen del perito y el alegato de clausura.
 
 [^c14_espinel_indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5.
 
@@ -3884,11 +3894,13 @@ No se ha identificado un precedente obligatorio de la Corte Nacional que resuelv
 
 #### 15.5.4. La experiencia ecuatoriana: el caso de las drogas
 
-La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. La Corte Nacional de Justicia, en la **Resolución No. 12-2015** [verificar la fecha de aprobación y de publicación en el Registro Oficial], estableció que la tenencia simultánea de distintas sustancias sujetas a fiscalización debía sancionarse aplicando las reglas del concurso real, es decir, acumulando una pena por cada tipo de sustancia[^c15_res12].
+La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. El Pleno de la Corte Nacional de Justicia, en la **Resolución No. 12-2015**, expedida el 17 de septiembre de 2015 y publicada en el Registro Oficial Suplemento 593 de 22 de septiembre de 2015, estableció que quien "con un acto incurra en uno o más verbos rectores, con sustancias estupefacientes, sicotrópicas o preparados que las contengan, distintos y en cantidades iguales o diferentes, será sancionada con pena privativa de libertad acumulada según sea la sustancia". Es decir, una pena por cada tipo de sustancia, sumadas como en el concurso real[^c15_res12].
 
-La Corte Constitucional, en la **sentencia No. 7-17-CN/19** [verificar la fecha], declaró la inconstitucionalidad de ese criterio[^c15_cc717]. En lo esencial, consideró que una misma conducta de tenencia no podía fraccionarse en varios delitos según el tipo de sustancia, porque ello vulneraba el principio de proporcionalidad y la prohibición de doble sanción. Posteriormente, la propia Corte Nacional dejó sin efecto el precedente[^c15_cnj2019].
+Ese criterio no sobrevivió. La Sala Penal de la Corte Nacional lo abandonó en tres sentencias de casación, de 2 de agosto de 2018 (juicio No. 17721-2016-1110), 17 de octubre de 2018 (juicio No. 17282-2016-00494) y 9 de enero de 2019 (juicio No. 17282-2016-05465), y el Pleno, en la **Resolución No. 02-2019**, de 6 de febrero de 2019, dejó sin efecto la Resolución 12-2015 y declaró como nuevo precedente obligatorio que, cuando los verbos rectores del art. 220 del COIP son "atribuibles a una misma persona en unidad de tiempo y acción, se debe aplicar el concurso ideal de delitos, por el que se punirá únicamente la conducta más severamente sancionada en el tipo penal, conforme el principio de absorción"[^c15_cnj2019]. La línea argumental de la Corte partió del principio de proporcionalidad del art. 76.6 de la Constitución y de una idea que conviene retener: el art. 220 tiene una estructura polinuclear, con catorce verbos rectores, pero "tales acciones no son varios delitos ni tampoco autónomos e independientes".
 
-Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta puede llegar a declararse inconstitucional.
+La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-CN/19** [verificar la fecha, el contenido y si es anterior o posterior a la Resolución 02-2019][^c15_cc717].
+
+Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta vulnera el principio de proporcionalidad, como terminó reconociendo la propia Corte Nacional.
 
 ### 15.6. El concurso aparente de leyes
 
@@ -3988,7 +4000,7 @@ Frente a una acusación por trece delitos acumulados, una defensa técnica en ma
 
 1. ¿Por qué la unidad de conducta no equivale a la unidad de movimiento?
 2. ¿Qué diferencia hay entre el concurso ideal y el concurso aparente, y por qué la distinción protege el non bis in idem?
-3. ¿Qué enseñó el caso de la tenencia de distintas sustancias (Resolución CNJ 12-2015 y sentencia CC 7-17-CN/19)?
+3. ¿Qué enseñó el caso de la tenencia de distintas sustancias (Resoluciones CNJ 12-2015 y 02-2019)?
 4. ¿Con qué argumento sostendría la aplicación del art. 21 a un concurso medial, si el COIP no lo regula?
 5. ¿Por qué el autolavado puede discutirse como un acto posterior copenado?
 6. ¿El tope del art. 20 se calcula sobre la pena impuesta o sobre el máximo legal? Argumente ambas posturas.
@@ -4015,9 +4027,9 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19* [verificar la fecha y los términos].
 
-Corte Nacional de Justicia del Ecuador. (2015). *Resolución No. 12-2015* [verificar].
+Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
-Corte Nacional de Justicia del Ecuador. (2019). *Resolución que deja sin efecto el precedente jurisprudencial obligatorio sobre el concurso de delitos en materia de drogas* [verificar el número].
+Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
 
 [^c15_nonbis]: Constitución, art. 76, num. 7, lit. i): "Nadie podrá ser juzgado más de una vez por la misma causa y materia." COIP, art. 5, num. 9: "ninguna persona podrá ser juzgada ni penada más de una vez por los mismos hechos."
 
@@ -4031,11 +4043,11 @@ Corte Nacional de Justicia del Ecuador. (2019). *Resolución que deja sin efecto
 
 [^c15_art21]: COIP, art. 21, según el texto con última modificación de 17 de febrero de 2021. **[verificar]**
 
-[^c15_res12]: Corte Nacional de Justicia, Resolución No. 12-2015. **[verificar el número, la fecha y el contenido exacto]**
+[^c15_res12]: Corte Nacional de Justicia, Resolución No. 12-2015, citada por la Resolución No. 02-2019, art. 2. Comentario del autor: la propia Resolución 02-2019 da dos datos distintos para la 12-2015: en sus considerandos, la fecha de 16 de septiembre de 2015 y el Registro Oficial 592; en su art. 2, la fecha de 17 de septiembre de 2015 y el Registro Oficial 593. Se sigue la parte resolutiva. **[confirmar en el Registro Oficial]**
 
 [^c15_cc717]: Corte Constitucional del Ecuador, sentencia No. 7-17-CN/19. **[verificar la fecha y la ratio decidendi]** Comentario del autor: la sentencia es un buen ejemplo de cómo la proporcionalidad de la pena (art. 76.6 de la Constitución) sirve para controlar la forma de contar las conductas.
 
-[^c15_cnj2019]: Corte Nacional de Justicia, resolución publicada en 2019 que deja sin efecto el precedente jurisprudencial obligatorio sobre el concurso de delitos en materia de drogas. **[verificar el número]**
+[^c15_cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 6 de febrero de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP. **[verificar el número y la fecha del Registro Oficial de publicación]**
 
 [^c15_espana]: Código Penal español (Ley Orgánica 10/1995), art. 77 (concurso ideal y medial) y art. 74 (delito continuado). **[verificar]**
 
