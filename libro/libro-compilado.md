@@ -8,329 +8,345 @@
 
 <<PAGEBREAK>>
 
+<<CENTER>> 
+
+<<CENTER>> 
+
+<<CENTER>> 
+
+<<CENTER>> *A mi familia, que es mi motor.*
+
+<<CENTER>> *Por su paciencia en las horas que este libro les quitó,*
+
+<<CENTER>> *por su apoyo en cada etapa del camino*
+
+<<CENTER>> *y por recordarme siempre para qué hago lo que hago.*
+
+<<PAGEBREAK>>
+
 ## Índice
 
-<<IDX1>> Prólogo|9
-<<IDX0>> Parte I. El delito de lavado de activos|12
-<<IDX1>> Capítulo 1. El lavado de activos: origen, concepto y marco normativo|12
-<<IDX2>> 1.1. Planteamiento|12
-<<IDX2>> 1.2. El origen de la expresión "lavado de dinero"|12
-<<IDX3>> 1.2.1. La anécdota de las lavanderías|12
-<<IDX3>> 1.2.2. La expresión en la prensa y en los tribunales|12
-<<IDX2>> 1.3. ¿Cuál fue el primer país en tipificarlo?|13
-<<IDX3>> 1.3.1. Italia (1978): la primera tipificación|13
-<<IDX3>> 1.3.2. Estados Unidos (1986): el primer delito autónomo y general|13
-<<IDX3>> 1.3.3. Lo que enseñan ambos modelos|13
-<<IDX2>> 1.4. La internacionalización: de Viena al GAFI|14
-<<IDX3>> 1.4.1. La Convención de Viena (1988)|14
-<<IDX3>> 1.4.2. El GAFI (1989) y las Recomendaciones|14
-<<IDX3>> 1.4.3. Palermo (2000) y Mérida (2003)|14
-<<IDX2>> 1.5. La evolución en el Ecuador|14
-<<IDX2>> 1.6. Concepto|16
-<<IDX3>> 1.6.1. Riqueza "negra" y riqueza "sucia"|16
-<<IDX3>> 1.6.2. El lavado es de "capitales", no de cualquier ganancia|17
-<<IDX2>> 1.7. Las fases del lavado|17
-<<IDX3>> 1.7.1. Las técnicas más frecuentes y lo que significan para la defensa|18
-<<IDX2>> 1.8. El bien jurídico protegido|19
-<<IDX2>> 1.9. El marco normativo vigente|20
-<<IDX3>> 1.9.1. Las reformas del art. 317 y la ley aplicable|20
-<<IDX3>> 1.9.2. Los verbos del art. 317: una lectura para la defensa|22
-<<IDX2>> 1.10. Conclusión|23
-<<IDX2>> Referencias|23
-<<IDX1>> Capítulo 2. La autonomía del lavado de activos y el delito precedente|26
-<<IDX2>> 2.1. Planteamiento del problema|26
-<<IDX2>> 2.2. ¿Por qué el lavado es un delito autónomo?|26
-<<IDX3>> 2.2.1. La razón político-criminal|26
-<<IDX3>> 2.2.2. La razón internacional|27
-<<IDX2>> 2.3. La autonomía en el derecho ecuatoriano|27
-<<IDX3>> 2.3.1. Antecedentes|27
-<<IDX3>> 2.3.2. El art. 317 del COIP|27
-<<IDX3>> 2.3.3. La Resolución 20-2024 de la Corte Nacional de Justicia|28
-<<IDX3>> 2.3.4. La jurisprudencia de casación: los casos Espinel (2021) y Salcedo (2024)|28
-<<IDX2>> 2.4. Autonomía procesal frente a autonomía probatoria|32
-<<IDX3>> 2.4.1. El origen ilícito es un elemento del tipo|32
-<<IDX3>> 2.4.2. Lo que la autonomía permite y lo que no permite|33
-<<IDX3>> 2.4.3. Los cuatro niveles de determinación del delito de origen|33
-<<IDX3>> 2.4.4. La frontera con el enriquecimiento no justificado|34
-<<IDX3>> 2.4.5. El delito de origen cometido en el extranjero|34
-<<IDX2>> 2.5. La prueba indiciaria del origen ilícito|35
-<<IDX3>> 2.5.1. Por qué la prueba indiciaria es legítima|35
-<<IDX3>> 2.5.2. Requisitos de validez|35
-<<IDX3>> 2.5.3. Los indicios típicos en el lavado|35
-<<IDX3>> 2.5.4. Los contraindicios|36
-<<IDX2>> 2.6. Derecho comparado|36
-<<IDX3>> 2.6.1. España|36
-<<IDX3>> 2.6.2. Perú|36
-<<IDX3>> 2.6.3. Colombia|36
-<<IDX3>> 2.6.4. Conclusión comparada|37
-<<IDX2>> 2.7. Consecuencias para la defensa|37
-<<IDX3>> 2.7.1. En la investigación previa|37
-<<IDX3>> 2.7.2. En la formulación de cargos y en la etapa preparatoria|37
-<<IDX3>> 2.7.3. En juicio|37
-<<IDX3>> 2.7.4. En los recursos|37
-<<IDX3>> 2.7.5. Modelo de argumento|38
-<<IDX2>> 2.8. Caso práctico resuelto|38
-<<IDX2>> 2.9. Lista de revisión|39
-<<IDX2>> Referencias|39
-<<IDX1>> Capítulo 3. El tipo subjetivo: dolo, dolo eventual y causas que eximen de responsabilidad|42
-<<IDX2>> 3.1. Planteamiento|42
-<<IDX2>> 3.2. El dolo en el COIP: la reforma de 2019|42
-<<IDX3>> 3.2.1. El cambio de texto|42
-<<IDX3>> 3.2.2. Los dos elementos del dolo|42
-<<IDX3>> 3.2.3. El delito preterintencional|43
-<<IDX2>> 3.3. Las clases de dolo|43
-<<IDX2>> 3.4. El dolo eventual|43
-<<IDX3>> 3.4.1. La frontera con la culpa consciente|43
-<<IDX3>> 3.4.2. ¿Cabe el dolo eventual en el COIP?|43
-<<IDX3>> 3.4.3. El dolo eventual en el lavado de activos|44
-<<IDX3>> 3.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto|44
-<<IDX2>> 3.5. La "ignorancia deliberada"|46
-<<IDX3>> 3.5.1. Qué es|46
-<<IDX3>> 3.5.2. Por qué es incompatible con el art. 26 del COIP|46
-<<IDX3>> 3.5.3. Cómo responder cuando la acusación invoca la ignorancia deliberada|46
-<<IDX2>> 3.6. La prueba del dolo|47
-<<IDX2>> 3.7. Las causas que eximen de responsabilidad|48
-<<IDX3>> 3.7.1. Causas que excluyen la conducta (art. 24)|48
-<<IDX3>> 3.7.2. Causas que excluyen la tipicidad|48
-<<IDX3>> 3.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)|49
-<<IDX3>> 3.7.4. Causas que excluyen la culpabilidad (arts. 34 a 37)|50
-<<IDX2>> 3.8. El caso especial de los honorarios del abogado|51
-<<IDX3>> 3.8.1. El problema|51
-<<IDX3>> 3.8.2. La solución alemana|51
-<<IDX3>> 3.8.3. La solución en el Ecuador|51
-<<IDX2>> 3.9. Estrategia de defensa|52
-<<IDX2>> 3.10. Caso práctico resuelto|52
-<<IDX2>> 3.11. Lista de revisión|53
-<<IDX2>> Referencias|53
-<<IDX1>> Capítulo 4. La prueba del lavado de activos: informes técnicos y prueba indiciaria|55
-<<IDX2>> 4.1. Planteamiento|55
-<<IDX2>> 4.2. La prueba indiciaria: qué es y por qué el lavado se juzga con ella|55
-<<IDX3>> 4.2.1. Prueba directa y prueba indirecta|55
-<<IDX3>> 4.2.2. ¿Por qué el lavado de activos se prueba casi siempre por indicios?|56
-<<IDX3>> 4.2.3. Un matiz necesario: "casi siempre", no "siempre"|57
-<<IDX3>> 4.2.4. El riesgo para la defensa: cuando el indicio se convierte en presunción|58
-<<IDX3>> 4.2.5. ¿Se invierte la carga de la prueba en el lavado?|59
-<<IDX2>> 4.3. Qué es un indicio|60
-<<IDX3>> 4.3.1. La estructura de la inferencia|60
-<<IDX3>> 4.3.2. Indicio, presunción y sospecha|61
-<<IDX3>> 4.3.3. Clases de indicios|61
-<<IDX2>> 4.4. La base legal en el Ecuador|61
-<<IDX3>> 4.4.1. El antecedente: el Código de Procedimiento Penal de 2000|61
-<<IDX3>> 4.4.2. El COIP: el art. 455 y la prohibición de las presunciones|61
-<<IDX3>> 4.4.3. Las demás normas aplicables|62
-<<IDX2>> 4.5. El estándar de prueba y la motivación reforzada|62
-<<IDX3>> 4.5.1. Más allá de toda duda razonable|62
-<<IDX3>> 4.5.2. La motivación reforzada|62
-<<IDX2>> 4.6. La prueba documental y técnica: informes, reportes y cuentas bancarias|62
-<<IDX3>> 4.6.1. La regla de oro: el informe escrito no es prueba|63
-<<IDX3>> 4.6.2. El reporte de la UAFE|63
-<<IDX3>> 4.6.3. El informe de la Contraloría cuando el delito de origen es de corrupción|64
-<<IDX3>> 4.6.4. La información bancaria y la exclusión de la prueba ilícita|66
-<<IDX2>> 4.7. El peritaje contable y patrimonial|66
-<<IDX3>> 4.7.1. Los métodos de análisis patrimonial|66
-<<IDX3>> 4.7.2. Preguntas para el contraexamen del perito|67
-<<IDX3>> 4.7.3. El peritaje de parte|67
-<<IDX2>> 4.8. Cómo atacar una inferencia|67
-<<IDX3>> 4.8.1. Atacar el hecho base|67
-<<IDX3>> 4.8.2. Atacar la regla de experiencia|68
-<<IDX3>> 4.8.3. Atacar la conclusión: la hipótesis alternativa|69
-<<IDX3>> 4.8.4. El silencio del procesado y la coartada no probada|69
-<<IDX3>> 4.8.5. Las falacias más frecuentes en las acusaciones|69
-<<IDX3>> 4.8.6. Lo que la Corte Nacional ha aceptado como indicio|69
-<<IDX3>> 4.8.7. Cómo presentar los contraindicios|70
-<<IDX2>> 4.9. El control de la inferencia en los recursos|71
-<<IDX2>> 4.10. Modelo de argumento: impugnación de una inferencia|72
-<<IDX2>> 4.11. Caso práctico resuelto|72
-<<IDX2>> 4.12. Lista de revisión|73
-<<IDX2>> Referencias|73
-<<IDX1>> Capítulo 5. Los concursos de infracciones|76
-<<IDX2>> 5.1. Planteamiento|76
-<<IDX2>> 5.2. Los sistemas de determinación de la pena en los concursos|76
-<<IDX2>> 5.3. La pregunta previa: unidad o pluralidad de conductas|76
-<<IDX3>> 5.3.1. Por qué es la pregunta decisiva|76
-<<IDX3>> 5.3.2. Los criterios de unidad de conducta|77
-<<IDX2>> 5.4. El concurso real (art. 20)|77
-<<IDX3>> 5.4.1. El texto|77
-<<IDX3>> 5.4.2. Los requisitos|77
-<<IDX3>> 5.4.3. El cálculo de la pena|77
-<<IDX3>> 5.4.4. El punto de litigio: ¿el doble de qué pena?|78
-<<IDX2>> 5.5. El concurso ideal (art. 21)|78
-<<IDX3>> 5.5.1. El texto|78
-<<IDX3>> 5.5.2. Los requisitos|78
-<<IDX3>> 5.5.3. Concurso ideal heterogéneo y homogéneo|78
-<<IDX3>> 5.5.4. La experiencia ecuatoriana: el caso de las drogas|79
-<<IDX2>> 5.6. El concurso aparente de leyes|79
-<<IDX3>> 5.6.1. Concepto|79
-<<IDX3>> 5.6.2. Los principios|80
-<<IDX3>> 5.6.3. Los actos copenados|80
-<<IDX3>> 5.6.4. Por qué el concurso aparente es la primera defensa|80
-<<IDX2>> 5.7. Figuras que el COIP no regula|80
-<<IDX3>> 5.7.1. El concurso medial|80
-<<IDX3>> 5.7.2. El delito continuado|81
-<<IDX3>> 5.7.3. El delito masa|81
-<<IDX2>> 5.8. Cuestiones procesales|81
-<<IDX2>> 5.9. Los concursos en los delitos de corrupción y lavado de activos|82
-<<IDX3>> 5.9.1. La defraudación tributaria como delito de origen|83
-<<IDX2>> 5.10. Caso práctico resuelto|84
-<<IDX2>> 5.11. Lista de revisión|85
-<<IDX2>> Referencias|85
-<<IDX1>> Capítulo 6. La responsabilidad penal de la persona jurídica|87
-<<IDX2>> 6.1. Planteamiento|87
-<<IDX2>> 6.2. Los modelos de imputación|87
-<<IDX2>> 6.3. La regulación en el COIP|87
-<<IDX3>> 6.3.1. El art. 49: los presupuestos|87
-<<IDX3>> 6.3.2. La independencia de la responsabilidad|88
-<<IDX3>> 6.3.3. La exclusión: el beneficio de un tercero|88
-<<IDX3>> 6.3.4. La reforma de 2021: los programas de cumplimiento|89
-<<IDX3>> 6.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión|89
-<<IDX2>> 6.4. Las penas (art. 71)|90
-<<IDX2>> 6.5. Derecho comparado|91
-<<IDX2>> 6.6. Estrategia de defensa de la persona jurídica|91
-<<IDX3>> 6.6.1. Atacar los presupuestos del art. 49|91
-<<IDX3>> 6.6.2. El programa de cumplimiento|92
-<<IDX3>> 6.6.3. La proporcionalidad de la pena|92
-<<IDX3>> 6.6.4. Las garantías procesales de la persona jurídica|92
-<<IDX3>> 6.6.5. La empresa de fachada: cuándo no hay persona jurídica que defender|92
-<<IDX2>> 6.7. Asesoría preventiva: el programa de cumplimiento|93
-<<IDX3>> 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo|93
-<<IDX2>> 6.8. Caso práctico resuelto|95
-<<IDX2>> 6.9. Lista de revisión|95
-<<IDX2>> Referencias|96
-<<IDX1>> Capítulo 7. La extinción de dominio y las medidas cautelares reales|98
-<<IDX2>> 7.1. Planteamiento|98
-<<IDX2>> 7.2. Origen: el modelo colombiano|98
-<<IDX2>> 7.3. La extinción de dominio en el Ecuador|98
-<<IDX3>> 7.3.1. La ley de 2021|98
-<<IDX3>> 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional|98
-<<IDX2>> 7.4. Naturaleza jurídica|99
-<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|99
-<<IDX2>> 7.5. Los presupuestos|100
-<<IDX2>> 7.6. El procedimiento|101
-<<IDX2>> 7.7. El tercero de buena fe|101
-<<IDX2>> 7.8. Las medidas cautelares reales|101
-<<IDX2>> 7.9. Estrategia de defensa|102
-<<IDX3>> 7.9.1. En el proceso de extinción de dominio|102
-<<IDX3>> 7.9.2. La coordinación con el proceso penal|102
-<<IDX3>> 7.9.3. La prueba del origen lícito de los bienes|103
-<<IDX2>> 7.10. Caso práctico resuelto|103
-<<IDX2>> 7.11. Lista de revisión|104
-<<IDX2>> Referencias|104
-<<IDX0>> Parte II. Estrategia de defensa|106
-<<IDX1>> Capítulo 8. La defensa en la investigación previa|106
-<<IDX2>> 8.1. Planteamiento|106
-<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|106
-<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|107
-<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|107
-<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|107
-<<IDX2>> 8.4. Los derechos del investigado|108
-<<IDX3>> 8.4.1. El acceso al expediente|108
-<<IDX3>> 8.4.2. El derecho al silencio|108
-<<IDX3>> 8.4.3. Rendir o no la versión|108
-<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|109
-<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|110
-<<IDX3>> 8.5.1. El fundamento|110
-<<IDX3>> 8.5.2. Qué pedir|110
-<<IDX3>> 8.5.3. La pericia de parte|111
-<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|111
-<<IDX2>> 8.6. Los plazos y el archivo|111
-<<IDX3>> 8.6.1. Los plazos|111
-<<IDX3>> 8.6.2. El archivo|111
-<<IDX2>> 8.7. Las medidas cautelares reales|112
-<<IDX2>> 8.8. La cooperación eficaz|113
-<<IDX2>> 8.9. La reserva y la exposición pública|113
-<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|113
-<<IDX2>> 8.11. Caso práctico resuelto|114
-<<IDX2>> 8.12. Lista de revisión|115
-<<IDX2>> Referencias|116
-<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|117
-<<IDX2>> 9.1. Planteamiento|117
-<<IDX2>> 9.2. La base legal|117
-<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|117
-<<IDX3>> 9.2.2. Los requisitos del perito y del informe|117
-<<IDX3>> 9.2.3. El criterio de valoración|118
-<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|118
-<<IDX2>> 9.4. Los métodos que usa la Fiscalía|119
-<<IDX3>> 9.4.1. La auditoría forense|119
-<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|119
-<<IDX2>> 9.5. Cuándo encargar la pericia de parte|120
-<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|120
-<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|120
-<<IDX2>> 9.6. Cómo elegir al perito|120
-<<IDX2>> 9.7. El encargo pericial: qué preguntar|121
-<<IDX2>> 9.8. La reconstrucción del patrimonio|121
-<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|121
-<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|122
-<<IDX3>> 9.8.3. La valoración de los bienes|122
-<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|122
-<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|123
-<<IDX2>> 9.9. El informe pericial de parte|124
-<<IDX3>> 9.9.1. Estructura recomendada|124
-<<IDX3>> 9.9.2. El cuadro de conciliación|124
-<<IDX2>> 9.10. La pericia de parte en el juicio|125
-<<IDX3>> 9.10.1. El interrogatorio del perito de parte|125
-<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|125
-<<IDX3>> 9.10.3. El alegato|125
-<<IDX2>> 9.11. Modelo de encargo pericial|125
-<<IDX2>> 9.12. Caso práctico resuelto|126
-<<IDX2>> 9.13. Lista de revisión|127
-<<IDX2>> Referencias|127
-<<IDX1>> Capítulo 10. La litigación en juicio|129
-<<IDX2>> 10.1. Planteamiento|129
-<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|129
-<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|129
-<<IDX3>> 10.2.2. Controlar la acusación|129
-<<IDX3>> 10.2.3. La exclusión de la prueba|130
-<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|130
-<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|130
-<<IDX2>> 10.3. La teoría del caso|131
-<<IDX3>> 10.3.1. Elegir el elemento|131
-<<IDX3>> 10.3.2. Una sola historia|131
-<<IDX2>> 10.4. El alegato de apertura|131
-<<IDX2>> 10.5. La práctica de la prueba|132
-<<IDX3>> 10.5.1. Las reglas del art. 615|132
-<<IDX3>> 10.5.2. El testimonio del procesado|132
-<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|133
-<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|133
-<<IDX3>> 10.5.5. Las objeciones|134
-<<IDX3>> 10.5.6. El juicio con varios procesados|134
-<<IDX2>> 10.6. El alegato de clausura|135
-<<IDX3>> 10.6.1. La última palabra|135
-<<IDX3>> 10.6.2. Estructura|135
-<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|136
-<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|136
-<<IDX2>> 10.9. Caso práctico resuelto|137
-<<IDX2>> 10.10. Lista de revisión|138
-<<IDX2>> Referencias|138
-<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|139
-<<IDX2>> 11.1. Planteamiento|139
-<<IDX2>> 11.2. Las reglas generales de la impugnación|139
-<<IDX2>> 11.3. La apelación|140
-<<IDX3>> 11.3.1. Qué se puede apelar|140
-<<IDX3>> 11.3.2. El trámite|140
-<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|140
-<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|140
-<<IDX2>> 11.4. La casación|141
-<<IDX3>> 11.4.1. Su objeto: la violación de la ley|141
-<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|142
-<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|142
-<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|142
-<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|143
-<<IDX3>> 11.4.6. El trámite|143
-<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|143
-<<IDX2>> 11.5. La revisión|144
-<<IDX3>> 11.5.1. Las causales|144
-<<IDX3>> 11.5.2. Los requisitos|144
-<<IDX3>> 11.5.3. La lección del caso Chiriboga|144
-<<IDX2>> 11.6. La acción extraordinaria de protección|145
-<<IDX3>> 11.6.1. Qué es y qué no es|145
-<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|145
-<<IDX3>> 11.6.3. Cómo plantearla|145
-<<IDX2>> 11.7. El recurso de hecho|146
-<<IDX2>> 11.8. Qué recurso para qué argumento|146
-<<IDX2>> 11.9. Modelo de cargo de casación|146
-<<IDX2>> 11.10. Caso práctico resuelto|147
-<<IDX2>> 11.11. Lista de revisión|148
-<<IDX2>> Referencias|148
+<<IDX1>> Prólogo|10
+<<IDX0>> Parte I. El delito de lavado de activos|13
+<<IDX1>> Capítulo 1. El lavado de activos: origen, concepto y marco normativo|13
+<<IDX2>> 1.1. Planteamiento|13
+<<IDX2>> 1.2. El origen de la expresión "lavado de dinero"|13
+<<IDX3>> 1.2.1. La anécdota de las lavanderías|13
+<<IDX3>> 1.2.2. La expresión en la prensa y en los tribunales|13
+<<IDX2>> 1.3. ¿Cuál fue el primer país en tipificarlo?|14
+<<IDX3>> 1.3.1. Italia (1978): la primera tipificación|14
+<<IDX3>> 1.3.2. Estados Unidos (1986): el primer delito autónomo y general|14
+<<IDX3>> 1.3.3. Lo que enseñan ambos modelos|14
+<<IDX2>> 1.4. La internacionalización: de Viena al GAFI|15
+<<IDX3>> 1.4.1. La Convención de Viena (1988)|15
+<<IDX3>> 1.4.2. El GAFI (1989) y las Recomendaciones|15
+<<IDX3>> 1.4.3. Palermo (2000) y Mérida (2003)|15
+<<IDX2>> 1.5. La evolución en el Ecuador|15
+<<IDX2>> 1.6. Concepto|17
+<<IDX3>> 1.6.1. Riqueza "negra" y riqueza "sucia"|17
+<<IDX3>> 1.6.2. El lavado es de "capitales", no de cualquier ganancia|18
+<<IDX2>> 1.7. Las fases del lavado|18
+<<IDX3>> 1.7.1. Las técnicas más frecuentes y lo que significan para la defensa|19
+<<IDX2>> 1.8. El bien jurídico protegido|20
+<<IDX2>> 1.9. El marco normativo vigente|21
+<<IDX3>> 1.9.1. Las reformas del art. 317 y la ley aplicable|21
+<<IDX3>> 1.9.2. Los verbos del art. 317: una lectura para la defensa|23
+<<IDX2>> 1.10. Conclusión|24
+<<IDX2>> Referencias|24
+<<IDX1>> Capítulo 2. La autonomía del lavado de activos y el delito precedente|27
+<<IDX2>> 2.1. Planteamiento del problema|27
+<<IDX2>> 2.2. ¿Por qué el lavado es un delito autónomo?|27
+<<IDX3>> 2.2.1. La razón político-criminal|27
+<<IDX3>> 2.2.2. La razón internacional|28
+<<IDX2>> 2.3. La autonomía en el derecho ecuatoriano|28
+<<IDX3>> 2.3.1. Antecedentes|28
+<<IDX3>> 2.3.2. El art. 317 del COIP|28
+<<IDX3>> 2.3.3. La Resolución 20-2024 de la Corte Nacional de Justicia|29
+<<IDX3>> 2.3.4. La jurisprudencia de casación: los casos Espinel (2021) y Salcedo (2024)|29
+<<IDX2>> 2.4. Autonomía procesal frente a autonomía probatoria|33
+<<IDX3>> 2.4.1. El origen ilícito es un elemento del tipo|33
+<<IDX3>> 2.4.2. Lo que la autonomía permite y lo que no permite|34
+<<IDX3>> 2.4.3. Los cuatro niveles de determinación del delito de origen|34
+<<IDX3>> 2.4.4. La frontera con el enriquecimiento no justificado|35
+<<IDX3>> 2.4.5. El delito de origen cometido en el extranjero|35
+<<IDX2>> 2.5. La prueba indiciaria del origen ilícito|36
+<<IDX3>> 2.5.1. Por qué la prueba indiciaria es legítima|36
+<<IDX3>> 2.5.2. Requisitos de validez|36
+<<IDX3>> 2.5.3. Los indicios típicos en el lavado|36
+<<IDX3>> 2.5.4. Los contraindicios|37
+<<IDX2>> 2.6. Derecho comparado|37
+<<IDX3>> 2.6.1. España|37
+<<IDX3>> 2.6.2. Perú|37
+<<IDX3>> 2.6.3. Colombia|37
+<<IDX3>> 2.6.4. Conclusión comparada|38
+<<IDX2>> 2.7. Consecuencias para la defensa|38
+<<IDX3>> 2.7.1. En la investigación previa|38
+<<IDX3>> 2.7.2. En la formulación de cargos y en la etapa preparatoria|38
+<<IDX3>> 2.7.3. En juicio|38
+<<IDX3>> 2.7.4. En los recursos|38
+<<IDX3>> 2.7.5. Modelo de argumento|39
+<<IDX2>> 2.8. Caso práctico resuelto|39
+<<IDX2>> 2.9. Lista de revisión|40
+<<IDX2>> Referencias|40
+<<IDX1>> Capítulo 3. El tipo subjetivo: dolo, dolo eventual y causas que eximen de responsabilidad|43
+<<IDX2>> 3.1. Planteamiento|43
+<<IDX2>> 3.2. El dolo en el COIP: la reforma de 2019|43
+<<IDX3>> 3.2.1. El cambio de texto|43
+<<IDX3>> 3.2.2. Los dos elementos del dolo|43
+<<IDX3>> 3.2.3. El delito preterintencional|44
+<<IDX2>> 3.3. Las clases de dolo|44
+<<IDX2>> 3.4. El dolo eventual|44
+<<IDX3>> 3.4.1. La frontera con la culpa consciente|44
+<<IDX3>> 3.4.2. ¿Cabe el dolo eventual en el COIP?|44
+<<IDX3>> 3.4.3. El dolo eventual en el lavado de activos|45
+<<IDX3>> 3.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto|45
+<<IDX2>> 3.5. La "ignorancia deliberada"|47
+<<IDX3>> 3.5.1. Qué es|47
+<<IDX3>> 3.5.2. Por qué es incompatible con el art. 26 del COIP|47
+<<IDX3>> 3.5.3. Cómo responder cuando la acusación invoca la ignorancia deliberada|47
+<<IDX2>> 3.6. La prueba del dolo|48
+<<IDX2>> 3.7. Las causas que eximen de responsabilidad|49
+<<IDX3>> 3.7.1. Causas que excluyen la conducta (art. 24)|49
+<<IDX3>> 3.7.2. Causas que excluyen la tipicidad|49
+<<IDX3>> 3.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)|50
+<<IDX3>> 3.7.4. Causas que excluyen la culpabilidad (arts. 34 a 37)|51
+<<IDX2>> 3.8. El caso especial de los honorarios del abogado|52
+<<IDX3>> 3.8.1. El problema|52
+<<IDX3>> 3.8.2. La solución alemana|52
+<<IDX3>> 3.8.3. La solución en el Ecuador|52
+<<IDX2>> 3.9. Estrategia de defensa|53
+<<IDX2>> 3.10. Caso práctico resuelto|53
+<<IDX2>> 3.11. Lista de revisión|54
+<<IDX2>> Referencias|54
+<<IDX1>> Capítulo 4. La prueba del lavado de activos: informes técnicos y prueba indiciaria|56
+<<IDX2>> 4.1. Planteamiento|56
+<<IDX2>> 4.2. La prueba indiciaria: qué es y por qué el lavado se juzga con ella|56
+<<IDX3>> 4.2.1. Prueba directa y prueba indirecta|56
+<<IDX3>> 4.2.2. ¿Por qué el lavado de activos se prueba casi siempre por indicios?|57
+<<IDX3>> 4.2.3. Un matiz necesario: "casi siempre", no "siempre"|58
+<<IDX3>> 4.2.4. El riesgo para la defensa: cuando el indicio se convierte en presunción|59
+<<IDX3>> 4.2.5. ¿Se invierte la carga de la prueba en el lavado?|60
+<<IDX2>> 4.3. Qué es un indicio|61
+<<IDX3>> 4.3.1. La estructura de la inferencia|61
+<<IDX3>> 4.3.2. Indicio, presunción y sospecha|62
+<<IDX3>> 4.3.3. Clases de indicios|62
+<<IDX2>> 4.4. La base legal en el Ecuador|62
+<<IDX3>> 4.4.1. El antecedente: el Código de Procedimiento Penal de 2000|62
+<<IDX3>> 4.4.2. El COIP: el art. 455 y la prohibición de las presunciones|62
+<<IDX3>> 4.4.3. Las demás normas aplicables|63
+<<IDX2>> 4.5. El estándar de prueba y la motivación reforzada|63
+<<IDX3>> 4.5.1. Más allá de toda duda razonable|63
+<<IDX3>> 4.5.2. La motivación reforzada|63
+<<IDX2>> 4.6. La prueba documental y técnica: informes, reportes y cuentas bancarias|63
+<<IDX3>> 4.6.1. La regla de oro: el informe escrito no es prueba|64
+<<IDX3>> 4.6.2. El reporte de la UAFE|64
+<<IDX3>> 4.6.3. El informe de la Contraloría cuando el delito de origen es de corrupción|65
+<<IDX3>> 4.6.4. La información bancaria y la exclusión de la prueba ilícita|67
+<<IDX2>> 4.7. El peritaje contable y patrimonial|67
+<<IDX3>> 4.7.1. Los métodos de análisis patrimonial|67
+<<IDX3>> 4.7.2. Preguntas para el contraexamen del perito|68
+<<IDX3>> 4.7.3. El peritaje de parte|68
+<<IDX2>> 4.8. Cómo atacar una inferencia|68
+<<IDX3>> 4.8.1. Atacar el hecho base|68
+<<IDX3>> 4.8.2. Atacar la regla de experiencia|69
+<<IDX3>> 4.8.3. Atacar la conclusión: la hipótesis alternativa|70
+<<IDX3>> 4.8.4. El silencio del procesado y la coartada no probada|70
+<<IDX3>> 4.8.5. Las falacias más frecuentes en las acusaciones|70
+<<IDX3>> 4.8.6. Lo que la Corte Nacional ha aceptado como indicio|70
+<<IDX3>> 4.8.7. Cómo presentar los contraindicios|71
+<<IDX2>> 4.9. El control de la inferencia en los recursos|72
+<<IDX2>> 4.10. Modelo de argumento: impugnación de una inferencia|73
+<<IDX2>> 4.11. Caso práctico resuelto|73
+<<IDX2>> 4.12. Lista de revisión|74
+<<IDX2>> Referencias|74
+<<IDX1>> Capítulo 5. Los concursos de infracciones|77
+<<IDX2>> 5.1. Planteamiento|77
+<<IDX2>> 5.2. Los sistemas de determinación de la pena en los concursos|77
+<<IDX2>> 5.3. La pregunta previa: unidad o pluralidad de conductas|77
+<<IDX3>> 5.3.1. Por qué es la pregunta decisiva|77
+<<IDX3>> 5.3.2. Los criterios de unidad de conducta|78
+<<IDX2>> 5.4. El concurso real (art. 20)|78
+<<IDX3>> 5.4.1. El texto|78
+<<IDX3>> 5.4.2. Los requisitos|78
+<<IDX3>> 5.4.3. El cálculo de la pena|78
+<<IDX3>> 5.4.4. El punto de litigio: ¿el doble de qué pena?|79
+<<IDX2>> 5.5. El concurso ideal (art. 21)|79
+<<IDX3>> 5.5.1. El texto|79
+<<IDX3>> 5.5.2. Los requisitos|79
+<<IDX3>> 5.5.3. Concurso ideal heterogéneo y homogéneo|79
+<<IDX3>> 5.5.4. La experiencia ecuatoriana: el caso de las drogas|80
+<<IDX2>> 5.6. El concurso aparente de leyes|80
+<<IDX3>> 5.6.1. Concepto|80
+<<IDX3>> 5.6.2. Los principios|81
+<<IDX3>> 5.6.3. Los actos copenados|81
+<<IDX3>> 5.6.4. Por qué el concurso aparente es la primera defensa|81
+<<IDX2>> 5.7. Figuras que el COIP no regula|81
+<<IDX3>> 5.7.1. El concurso medial|81
+<<IDX3>> 5.7.2. El delito continuado|82
+<<IDX3>> 5.7.3. El delito masa|82
+<<IDX2>> 5.8. Cuestiones procesales|82
+<<IDX2>> 5.9. Los concursos en los delitos de corrupción y lavado de activos|83
+<<IDX3>> 5.9.1. La defraudación tributaria como delito de origen|84
+<<IDX2>> 5.10. Caso práctico resuelto|85
+<<IDX2>> 5.11. Lista de revisión|86
+<<IDX2>> Referencias|86
+<<IDX1>> Capítulo 6. La responsabilidad penal de la persona jurídica|88
+<<IDX2>> 6.1. Planteamiento|88
+<<IDX2>> 6.2. Los modelos de imputación|88
+<<IDX2>> 6.3. La regulación en el COIP|88
+<<IDX3>> 6.3.1. El art. 49: los presupuestos|88
+<<IDX3>> 6.3.2. La independencia de la responsabilidad|89
+<<IDX3>> 6.3.3. La exclusión: el beneficio de un tercero|89
+<<IDX3>> 6.3.4. La reforma de 2021: los programas de cumplimiento|90
+<<IDX3>> 6.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión|90
+<<IDX2>> 6.4. Las penas (art. 71)|91
+<<IDX2>> 6.5. Derecho comparado|92
+<<IDX2>> 6.6. Estrategia de defensa de la persona jurídica|92
+<<IDX3>> 6.6.1. Atacar los presupuestos del art. 49|92
+<<IDX3>> 6.6.2. El programa de cumplimiento|93
+<<IDX3>> 6.6.3. La proporcionalidad de la pena|93
+<<IDX3>> 6.6.4. Las garantías procesales de la persona jurídica|93
+<<IDX3>> 6.6.5. La empresa de fachada: cuándo no hay persona jurídica que defender|93
+<<IDX2>> 6.7. Asesoría preventiva: el programa de cumplimiento|94
+<<IDX3>> 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo|94
+<<IDX2>> 6.8. Caso práctico resuelto|96
+<<IDX2>> 6.9. Lista de revisión|96
+<<IDX2>> Referencias|97
+<<IDX1>> Capítulo 7. La extinción de dominio y las medidas cautelares reales|99
+<<IDX2>> 7.1. Planteamiento|99
+<<IDX2>> 7.2. Origen: el modelo colombiano|99
+<<IDX2>> 7.3. La extinción de dominio en el Ecuador|99
+<<IDX3>> 7.3.1. La ley de 2021|99
+<<IDX3>> 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional|99
+<<IDX2>> 7.4. Naturaleza jurídica|100
+<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|100
+<<IDX2>> 7.5. Los presupuestos|101
+<<IDX2>> 7.6. El procedimiento|102
+<<IDX2>> 7.7. El tercero de buena fe|102
+<<IDX2>> 7.8. Las medidas cautelares reales|102
+<<IDX2>> 7.9. Estrategia de defensa|103
+<<IDX3>> 7.9.1. En el proceso de extinción de dominio|103
+<<IDX3>> 7.9.2. La coordinación con el proceso penal|103
+<<IDX3>> 7.9.3. La prueba del origen lícito de los bienes|104
+<<IDX2>> 7.10. Caso práctico resuelto|104
+<<IDX2>> 7.11. Lista de revisión|105
+<<IDX2>> Referencias|105
+<<IDX0>> Parte II. Estrategia de defensa|107
+<<IDX1>> Capítulo 8. La defensa en la investigación previa|107
+<<IDX2>> 8.1. Planteamiento|107
+<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|107
+<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|108
+<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|108
+<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|108
+<<IDX2>> 8.4. Los derechos del investigado|109
+<<IDX3>> 8.4.1. El acceso al expediente|109
+<<IDX3>> 8.4.2. El derecho al silencio|109
+<<IDX3>> 8.4.3. Rendir o no la versión|109
+<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|110
+<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|111
+<<IDX3>> 8.5.1. El fundamento|111
+<<IDX3>> 8.5.2. Qué pedir|111
+<<IDX3>> 8.5.3. La pericia de parte|112
+<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|112
+<<IDX2>> 8.6. Los plazos y el archivo|112
+<<IDX3>> 8.6.1. Los plazos|112
+<<IDX3>> 8.6.2. El archivo|112
+<<IDX2>> 8.7. Las medidas cautelares reales|113
+<<IDX2>> 8.8. La cooperación eficaz|114
+<<IDX2>> 8.9. La reserva y la exposición pública|114
+<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|114
+<<IDX2>> 8.11. Caso práctico resuelto|115
+<<IDX2>> 8.12. Lista de revisión|116
+<<IDX2>> Referencias|117
+<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|118
+<<IDX2>> 9.1. Planteamiento|118
+<<IDX2>> 9.2. La base legal|118
+<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|118
+<<IDX3>> 9.2.2. Los requisitos del perito y del informe|118
+<<IDX3>> 9.2.3. El criterio de valoración|119
+<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|119
+<<IDX2>> 9.4. Los métodos que usa la Fiscalía|120
+<<IDX3>> 9.4.1. La auditoría forense|120
+<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|120
+<<IDX2>> 9.5. Cuándo encargar la pericia de parte|121
+<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|121
+<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|121
+<<IDX2>> 9.6. Cómo elegir al perito|121
+<<IDX2>> 9.7. El encargo pericial: qué preguntar|122
+<<IDX2>> 9.8. La reconstrucción del patrimonio|122
+<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|122
+<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|123
+<<IDX3>> 9.8.3. La valoración de los bienes|123
+<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|123
+<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|124
+<<IDX2>> 9.9. El informe pericial de parte|125
+<<IDX3>> 9.9.1. Estructura recomendada|125
+<<IDX3>> 9.9.2. El cuadro de conciliación|125
+<<IDX2>> 9.10. La pericia de parte en el juicio|126
+<<IDX3>> 9.10.1. El interrogatorio del perito de parte|126
+<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|126
+<<IDX3>> 9.10.3. El alegato|126
+<<IDX2>> 9.11. Modelo de encargo pericial|126
+<<IDX2>> 9.12. Caso práctico resuelto|127
+<<IDX2>> 9.13. Lista de revisión|128
+<<IDX2>> Referencias|128
+<<IDX1>> Capítulo 10. La litigación en juicio|130
+<<IDX2>> 10.1. Planteamiento|130
+<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|130
+<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|130
+<<IDX3>> 10.2.2. Controlar la acusación|130
+<<IDX3>> 10.2.3. La exclusión de la prueba|131
+<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|131
+<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|131
+<<IDX2>> 10.3. La teoría del caso|132
+<<IDX3>> 10.3.1. Elegir el elemento|132
+<<IDX3>> 10.3.2. Una sola historia|132
+<<IDX2>> 10.4. El alegato de apertura|132
+<<IDX2>> 10.5. La práctica de la prueba|133
+<<IDX3>> 10.5.1. Las reglas del art. 615|133
+<<IDX3>> 10.5.2. El testimonio del procesado|133
+<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|134
+<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|134
+<<IDX3>> 10.5.5. Las objeciones|135
+<<IDX3>> 10.5.6. El juicio con varios procesados|135
+<<IDX2>> 10.6. El alegato de clausura|136
+<<IDX3>> 10.6.1. La última palabra|136
+<<IDX3>> 10.6.2. Estructura|136
+<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|137
+<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|137
+<<IDX2>> 10.9. Caso práctico resuelto|138
+<<IDX2>> 10.10. Lista de revisión|139
+<<IDX2>> Referencias|139
+<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|140
+<<IDX2>> 11.1. Planteamiento|140
+<<IDX2>> 11.2. Las reglas generales de la impugnación|140
+<<IDX2>> 11.3. La apelación|141
+<<IDX3>> 11.3.1. Qué se puede apelar|141
+<<IDX3>> 11.3.2. El trámite|141
+<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|141
+<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|141
+<<IDX2>> 11.4. La casación|142
+<<IDX3>> 11.4.1. Su objeto: la violación de la ley|142
+<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|143
+<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|143
+<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|143
+<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|144
+<<IDX3>> 11.4.6. El trámite|144
+<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|144
+<<IDX2>> 11.5. La revisión|145
+<<IDX3>> 11.5.1. Las causales|145
+<<IDX3>> 11.5.2. Los requisitos|145
+<<IDX3>> 11.5.3. La lección del caso Chiriboga|145
+<<IDX2>> 11.6. La acción extraordinaria de protección|146
+<<IDX3>> 11.6.1. Qué es y qué no es|146
+<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|146
+<<IDX3>> 11.6.3. Cómo plantearla|146
+<<IDX2>> 11.7. El recurso de hecho|147
+<<IDX2>> 11.8. Qué recurso para qué argumento|147
+<<IDX2>> 11.9. Modelo de cargo de casación|147
+<<IDX2>> 11.10. Caso práctico resuelto|148
+<<IDX2>> 11.11. Lista de revisión|149
+<<IDX2>> Referencias|149
 
 <<PAGEBREAK>>
 
