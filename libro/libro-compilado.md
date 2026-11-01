@@ -6,8 +6,6 @@
 
 <<CENTER>> Borrador de trabajo · Noviembre de 2026
 
-> **Criterios de citación.** La doctrina se cita en el texto con autor, año y página, conforme a APA 7: (Roxin, 1997, p. 307) o Roxin (1997, p. 307). La jurisprudencia se identifica en el texto, la primera vez que aparece en cada capítulo, con el tribunal, el tipo de decisión, la fecha completa (día, mes y año) y el número de juicio o de causa; en las menciones siguientes se usa el nombre del caso. Las notas al pie contienen las bases legales (artículos de la Constitución, el COIP y las demás leyes), el lugar exacto de la sentencia citada (considerando o párrafo) y los comentarios del autor. Las referencias completas van al final de cada capítulo. La mención "p. [verificar]" señala que falta confirmar la página en la edición consultada.
-
 <<PAGEBREAK>>
 
 ## Índice
