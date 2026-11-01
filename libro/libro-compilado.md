@@ -4,8 +4,6 @@
 
 <<CENTER>> **Mgtr. Fernando Tufiño Valladares**
 
-<<CENTER>> Guayaquil, 2026
-
 <<PAGEBREAK>>
 
 <<CENTER>> 
