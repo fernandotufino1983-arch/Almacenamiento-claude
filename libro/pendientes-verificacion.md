@@ -45,13 +45,8 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 
 ## Capítulo 7
 
-1. Fecha exacta de publicación de la Ley Orgánica de Extinción de Dominio (R.O. Quinto Suplemento 452, 2021).
-2. Estándar de prueba que fija la Ley Orgánica de Extinción de Dominio.
-3. Plazos de cada fase, recursos, medidas cautelares y destino de los bienes en la Ley Orgánica de Extinción de Dominio.
-4. Términos exactos del Dictamen 1-21-OP/21 (artículos objetados del proyecto, entre ellos los arts. 4 y 72) y sentencias posteriores 780-18-EP/23 y 8-22-IN/26.
-5. Quién investiga y quién demanda en la extinción de dominio (Fiscalía y Procuraduría, según fuentes secundarias).
-6. Presupuestos y fases de la extinción de dominio en el articulado de la ley.
-7. Definición legal de tercero de buena fe en la Ley Orgánica de Extinción de Dominio.
+1. Fecha exacta de publicación de la Ley Orgánica de Extinción de Dominio en el Registro Oficial Quinto Suplemento 452 (2021). El articulado se contrastó con el texto aprobado por la Asamblea y remitido al Ejecutivo (oficio PAN-CLC-2021-0376); conviene confirmar que coincide con el publicado.
+2. Términos exactos del Dictamen 1-21-OP/21 (artículos objetados del proyecto, entre ellos los arts. 4 y 72) y sentencias posteriores 780-18-EP/23 y 8-22-IN/26.
 
 ## Capítulo 8
 
@@ -70,4 +65,3 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 ## Otros pendientes
 
 1. **Anexo B:** tipologías regionales del GAFILAT y casos de la UAFE (se retiró la nota; si sube los informes, se incorporan con su página).
-2. **Capítulo 7:** varias afirmaciones sobre la Ley Orgánica de Extinción de Dominio se apoyan en fuentes secundarias ("según las fuentes disponibles"). Lo ideal es subir al Drive el texto de la ley para contrastarlas con el articulado.
