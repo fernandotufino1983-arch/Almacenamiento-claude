@@ -1,6 +1,6 @@
 # Capítulo 1. El lavado de activos: origen, concepto y marco normativo
 
-> **Borrador de trabajo, versión 1.1.** Redactado con el perfil de escritura del autor. Incorpora las sentencias de casación de los casos Espinel (2021) y Salcedo (2024). Las citas marcadas con **[verificar]** deben contrastarse con la fuente original antes de publicar. Formato de citas y referencias: APA, 7.ª edición.
+> **Borrador de trabajo, versión 1.1.** Redactado con el perfil de escritura del autor. Incorpora las sentencias de casación de las casaciones de 2021 y 2024. Las citas marcadas con **[verificar]** deben contrastarse con la fuente original antes de publicar. Formato de citas y referencias: APA, 7.ª edición.
 
 ## 1.1. Planteamiento
 
@@ -161,7 +161,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
 | Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento; para hechos anteriores, la ley de 2016 |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
-| Jurisprudencia | Resolución CNJ No. 20-2024; sentencias de casación de la Corte Nacional de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 2 |
+| Jurisprudencia | Resolución CNJ No. 20-2024; sentencias de casación de la Corte Nacional de 2021, juicio No. 09333-2018-00282, y de 2024, juicio No. 07712-2020-00205; sentencia de apelación de la Corte Provincial de Pichincha de 2017, juicio No. 17282-2015-05549, analizadas en el capítulo 2 |
 
 ### 1.9.1. Las reformas del art. 317 y la ley aplicable
 
@@ -173,13 +173,13 @@ El art. 317 ha cambiado tres veces desde 2014, y esos cambios tienen consecuenci
 | **Reforma de 2021** (R.O. Supl. 525, 27 de agosto de 2021) | Modificó el artículo | El **triple** del monto |
 | **Reforma de 2024** (R.O. Supl. 599, 12 de julio de 2024) | De 5 a 7 años, si el monto es inferior a 100 SBU, hasta **19 a 22 años**, si supera los 200 SBU o hay asociación a través de sociedades o uso de cargos públicos; se añadió el num. 7, sobre la sobrevaloración de mercancías | El **quíntuplo** del monto |
 
-¿Qué ley se aplica cuando el lavado se extiende durante varios años, y en ese tiempo cambia la norma? La Sala Penal de la Corte Nacional de Justicia respondió en el caso Espinel (sentencia de casación de 2021, juicio No. 09333-2018-00282): el lavado es un **delito de mera actividad**, que se consuma con la ejecución de los verbos rectores, y debe juzgarse con la ley vigente a la fecha de su **consumación**. Como la sentencia fijó la consumación en 2016, se aplicó el COIP y no la ley de 2005, aunque las operaciones empezaron en 2010[^espinel-ley].
+¿Qué ley se aplica cuando el lavado se extiende durante varios años, y en ese tiempo cambia la norma? La Sala Penal de la Corte Nacional de Justicia respondió en la sentencia de casación de 2021 (juicio No. 09333-2018-00282): el lavado es un **delito de mera actividad**, que se consuma con la ejecución de los verbos rectores, y debe juzgarse con la ley vigente a la fecha de su **consumación**. Como la sentencia fijó la consumación en 2016, se aplicó el COIP y no la ley de 2005, aunque las operaciones empezaron en 2010[^espinel-ley].
 
 El razonamiento tiene, sin embargo, una tensión interna que la defensa puede aprovechar. En el mismo fallo, la Corte afirmó que el lavado "solo en la última fase", la integración, se consuma. Si el lavado es de mera actividad, cada acto que encaja en un verbo rector lo consuma; si solo se consuma en la integración, las operaciones anteriores no son todavía lavado. En casos con operaciones que empiezan con una ley y terminan con otra, la defensa debe exigir que la sentencia precise **qué acto consumó el delito y en qué fecha**, y discutir la aplicación de la ley más favorable a los actos anteriores a la reforma.
 
-La jurisprudencia, además, no ha sido uniforme en la calificación. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 2017 (juicio No. 17282-2015-05549), sostuvo lo contrario que el caso Espinel: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^chiriboga-ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
+La jurisprudencia, además, no ha sido uniforme en la calificación. La Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 2017 (juicio No. 17282-2015-05549), sostuvo lo contrario que la casación de 2021: que el lavado es un delito "formal", "de peligro" y "permanente y continuado", y con ese argumento aplicó el COIP a operaciones realizadas desde 2010, cuando estaba vigente la ley de 2005, cuya pena era de seis a nueve años frente a los diez a trece del COIP[^chiriboga-ley]. Como podrá apreciar el lector, dos tribunales llegaron al mismo resultado, aplicar la ley más grave, por caminos opuestos: uno, porque el lavado es de mera actividad y se consumó tarde; el otro, porque es permanente y no cesó. Esa contradicción es, en sí misma, un argumento para la defensa: la calificación de un delito no puede depender de cuál de las dos lleva a la pena mayor.
 
-Por su parte, en el caso Salcedo (sentencia de casación de 2024, juicio No. 07712-2020-00205), la Corte Nacional aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^salcedo-multa].
+Por su parte, en la sentencia de casación de 2024 (juicio No. 07712-2020-00205), la Corte Nacional aplicó la **multa del duplo** del texto anterior a 2021, por favorabilidad, a hechos de 2018 a 2020[^salcedo-multa].
 
 Una consecuencia de calificar al lavado como delito de mera actividad es la discusión sobre la **tentativa**. Tanto la Fiscalía como la guía de la PADF sostienen que no cabe. La Fiscalía razona que cada verbo rector se sanciona de forma independiente, por lo que "el solo cometimiento de uno de ellos es considerado como delito consumado de lavado" (Fiscalía General del Estado, 2021, p. 94). Martínez (2021, pp. 40-41) llega a la misma conclusión por una razón de garantía: el lavado ya adelanta la protección del orden económico, porque castiga los actos previos a la integración, y admitir además la tentativa equivaldría a "sancionar penalmente la puesta en peligro de la puesta en peligro". Para la defensa, la consecuencia es útil: si los actos realizados no alcanzan a configurar ninguno de los verbos rectores, la conducta es atípica, y no puede rescatarse como lavado en grado de tentativa.
 
@@ -207,7 +207,7 @@ En todo ese camino hay una constante que el abogado defensor no puede perder de 
 
 Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 
-Las dos sentencias de casación que analizo en el capítulo 2, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
+Las dos sentencias de casación que analizo en el capítulo 2, las de 2021 y 2024, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ## Referencias
 
@@ -297,7 +297,7 @@ Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [prece
 
 [^lesividad]: COIP, art. 3: "La intervención penal está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas. Constituye el último recurso, cuando no son suficientes los mecanismos extrapenales."
 
-[^reformas317]: Texto original según la transcripción del art. 317 en la sentencia de casación del caso Salcedo (juicio No. 07712-2020-00205, párrafo 23 y su nota 3); texto vigente según la compilación del COIP con última actualización de 7 de octubre de 2026.
+[^reformas317]: Texto original según la transcripción del art. 317 en la sentencia de casación de 2024 (juicio No. 07712-2020-00205, párrafo 23 y su nota 3); texto vigente según la compilación del COIP con última actualización de 7 de octubre de 2026.
 
 [^espinel-ley]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 2021, considerando 7.5. Algunos procesados no recurrentes pidieron aplicar el art. 15 de la ley de lavado de 2005; la Corte no lo aceptó, entre otras razones porque solo el recurrente podía formular cargos.
 

@@ -41,7 +41,7 @@ El mismo art. 49 establece que la responsabilidad de la persona jurídica es **i
 
 #### Un caso de aplicación: la empresa extinguida antes de los hechos
 
-En el caso Salcedo, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 2024 (juicio No. 07712-2020-00205), declaró la responsabilidad penal de cinco personas jurídicas por lavado de activos y les impuso el comiso, la disolución y la liquidación. A una sexta empresa, que había sido extinguida en 2017, también la declaró responsable invocando el inciso segundo del art. 50, aunque no le impuso pena "toda vez que, se encuentra disuelta desde el año 2017"[^salcedo-pj].
+En la casación de 2024, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 2024 (juicio No. 07712-2020-00205), declaró la responsabilidad penal de cinco personas jurídicas por lavado de activos y les impuso el comiso, la disolución y la liquidación. A una sexta empresa, que había sido extinguida en 2017, también la declaró responsable invocando el inciso segundo del art. 50, aunque no le impuso pena "toda vez que, se encuentra disuelta desde el año 2017"[^salcedo-pj].
 
 Con todo respeto, considero que esa declaración no se sostiene. Los hechos se fijaron entre 2018 y 2020. El art. 50 impide que la empresa **escape** de una responsabilidad ya generada mediante su fusión, transformación o disolución; es decir, presupone que el delito se cometió **mientras la empresa existía**. Una persona jurídica extinguida antes de los hechos no pudo actuar a través de sus administradores, ni beneficiarse del delito, que son los presupuestos del art. 49. Declarar su responsabilidad es atribuir un delito a quien no existía cuando se cometió.
 
@@ -228,7 +228,7 @@ España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* 
 
 **Jurisprudencia**
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205*.
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021].
 

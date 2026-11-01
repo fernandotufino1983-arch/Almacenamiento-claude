@@ -6,7 +6,7 @@
 
 Una sentencia condenatoria por lavado de activos no es el final del caso. Pero tampoco es un simple punto de partida para "volver a intentarlo". Cada recurso tiene una función distinta, un objeto distinto y unos límites que, si no se respetan, convierten un buen argumento en un recurso improcedente.
 
-La práctica muestra que muchos recursos en materia de lavado fracasan no porque la defensa no tuviera razón, sino porque la planteó en el recurso equivocado o con la causal equivocada. El caso Espinel es el mejor ejemplo: la defensa tenía razón sobre el elemento normativo del tipo, y la Corte Nacional se lo reconoció, pero declaró improcedente el recurso porque se planteó como errónea interpretación cuando correspondía la indebida aplicación (capítulo 2, sección 2.3.4).
+La práctica muestra que muchos recursos en materia de lavado fracasan no porque la defensa no tuviera razón, sino porque la planteó en el recurso equivocado o con la causal equivocada. La casación de 2021 es el mejor ejemplo: la defensa tenía razón sobre el elemento normativo del tipo, y la Corte Nacional se lo reconoció, pero declaró improcedente el recurso porque se planteó como errónea interpretación cuando correspondía la indebida aplicación (capítulo 2, sección 2.3.4).
 
 Es por esta razón que este capítulo no se limita a describir los recursos. Explica, para cada uno, **qué argumentos de los capítulos anteriores caben en él y cuáles no**.
 
@@ -78,9 +78,9 @@ Es decir, la casación trabaja sobre los **hechos que el tribunal de apelación 
 | **Indebida aplicación** | Se aplica una norma que no corresponde a los hechos fijados | Condenar por lavado cuando los hechos fijados solo describen un patrimonio no justificado, sin un hecho objetivamente típico de origen |
 | **Errónea interpretación** | Se aplica la norma correcta, pero con un sentido equivocado | Entender que el origen ilícito del art. 317 se satisface con la sola existencia de otros procesos penales pendientes |
 
-### 11.4.3. La lección del caso Espinel: escoger bien la causal
+### 11.4.3. La lección de la casación de 2021: escoger bien la causal
 
-En el caso Espinel, la defensa sostuvo que el tribunal condenó por activos "injustificados" y no por activos de origen ilícito. La Corte Nacional, en la sentencia de casación de 2021 (juicio No. 09333-2018-00282), aceptó que el origen ilícito es un elemento normativo del tipo, pero declaró el recurso improcedente: el reproche, que los hechos probados no encajan en el tipo, correspondía a la indebida aplicación, no a la errónea interpretación (capítulo 2, sección 2.3.4).
+En la casación de 2021, la defensa sostuvo que el tribunal condenó por activos "injustificados" y no por activos de origen ilícito. La Corte Nacional, en la sentencia de casación de 2021 (juicio No. 09333-2018-00282), aceptó que el origen ilícito es un elemento normativo del tipo, pero declaró el recurso improcedente: el reproche, que los hechos probados no encajan en el tipo, correspondía a la indebida aplicación, no a la errónea interpretación (capítulo 2, sección 2.3.4).
 
 De ahí sale una regla que conviene tener presente al redactar cada cargo:
 - **Si se sostiene que los hechos fijados no configuran un elemento del tipo**, la causal es la **indebida aplicación**.
@@ -97,12 +97,12 @@ Si la casación no admite una nueva valoración de la prueba, ¿significa que la
 
 La pauta de la Corte Suprema colombiana en la sentencia SP1569-2018 es útil para ordenar el cargo: hay que identificar en qué fase de la construcción del indicio está el error, si en el hecho indicador, en la inferencia o en la articulación de los indicios, y si se discute a la vez la prueba del hecho y la inferencia, hacerlo "en cargos distintos y de manera subsidiaria" (capítulo 4, sección 4.9).
 
-### 11.4.5. La casación de la Fiscalía: el caso Salcedo
+### 11.4.5. La casación de la Fiscalía: la casación de 2024
 
-La casación no es solo un recurso de la defensa. En el caso Salcedo, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20[^cc768].
+La casación no es solo un recurso de la defensa. En la casación de 2024, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20[^cc768].
 
 Para la defensa que debe responder a una casación fiscal, el caso deja dos lecciones:
-1. **Vigilar el límite del art. 656.** Si la Fiscalía pide, bajo la forma de una errónea interpretación, que la Corte llegue a una conclusión de hecho distinta de la que fijó el tribunal de apelación, ese pedido es inadmisible. Como vimos en el capítulo 2 (sección 2.3.4), es legítimo preguntarse si en el propio caso Salcedo no se terminó revalorando la prueba.
+1. **Vigilar el límite del art. 656.** Si la Fiscalía pide, bajo la forma de una errónea interpretación, que la Corte llegue a una conclusión de hecho distinta de la que fijó el tribunal de apelación, ese pedido es inadmisible. Como vimos en el capítulo 2 (sección 2.3.4), es legítimo preguntarse si en la propia casación de 2024 no se terminó revalorando la prueba.
 2. **Exigir el estándar sustantivo.** Aun si la Corte acepta que no se requiere "comprobar" el delito de origen, debe identificar el hecho objetivamente típico y la relación de causalidad con los bienes. Ese es el criterio que la propia Corte formuló.
 
 ### 11.4.6. El trámite
@@ -121,7 +121,7 @@ Y una regla que la defensa siempre debe invocar: "Si se observa que la sentencia
 |---|---|
 | Pedir que se revalore la prueba o que se reescriban los hechos | Recurso inadmisible (art. 656, inciso 2) |
 | No identificar la norma concreta violada | El cargo no puede analizarse |
-| Mezclar causales incompatibles sobre la misma norma | Improcedencia, como en el caso Espinel |
+| Mezclar causales incompatibles sobre la misma norma | Improcedencia, como en la casación de 2021 |
 | Atacar la sentencia de primera instancia en lugar de la de apelación | El recurso no se dirige contra la decisión impugnable |
 | No demostrar la trascendencia del error | Aunque exista el vicio, no cambia la decisión |
 | Copiar el recurso de apelación | La Corte lo percibe como un pedido de tercera instancia |
@@ -138,9 +138,9 @@ En el lavado, la tercera causal es la que importa. Y su última parte, la de los
 
 El art. 658 añade tres límites: la revisión "solo podrá declararse en virtud de nuevas pruebas que demuestren el error de hecho de la sentencia impugnada"; no son admisibles los testimonios de quienes declararon en la audiencia de juicio; y la interposición del recurso no suspende la ejecución de la sentencia. El art. 659 exige que el escrito esté fundamentado y contenga la petición de nuevas pruebas, y advierte que, si no lo hace, "se declarará inadmisible y se lo desechará sin lugar a uno nuevo por la misma causa"[^art659].
 
-### 11.5.3. La lección del caso Chiriboga
+### 11.5.3. La lección de la apelación de 2017
 
-En el caso Chiriboga, la Corte Nacional inadmitió en 2023 el recurso de revisión del tesorero de la Federación, que había presentado como prueba nueva unas transferencias internacionales (capítulo 2, sección 2.3.4). La lección es que no basta con presentar una prueba nueva y relevante. El escrito debe:
+En la apelación de 2017, la Corte Nacional inadmitió en 2023 el recurso de revisión del tesorero de la Federación, que había presentado como prueba nueva unas transferencias internacionales (capítulo 2, sección 2.3.4). La lección es que no basta con presentar una prueba nueva y relevante. El escrito debe:
 1. decir cuál de los supuestos del art. 658.3 se configura: documento falso, testigo falso, pericia maliciosa o pericia errada;
 2. identificar el documento, el testimonio o la pericia concretos en que se basó la sentencia;
 3. señalar el fragmento de la sentencia que contiene el error de hecho;
@@ -246,11 +246,11 @@ Corte Constitucional del Ecuador. (2020). *Sentencia No. 768-15-EP/20*.
 
 Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21*.
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021). *Sentencia de casación, juicio No. 09333-2018-00282*.
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2023). *Resolución de revisión, juicio No. 17282-2015-05549* (caso Chiriboga).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2023). *Resolución de revisión, juicio No. 17282-2015-05549*.
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205*.
 
 Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018). *Sentencia SP1569-2018, radicación No. 45.889*.
 
