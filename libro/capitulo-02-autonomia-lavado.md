@@ -164,6 +164,20 @@ El nivel 4 tiene su propia respuesta en el COIP, y esa respuesta **no es el lava
 
 La existencia de estos tipos refuerza la tesis de este capítulo. Si bastara un patrimonio no justificado para condenar por lavado, los arts. 279 y 297 serían innecesarios. El legislador creó tipos distintos porque se trata de conductas distintas, con exigencias probatorias distintas.
 
+### 2.4.5. El delito de origen cometido en el extranjero
+
+La autonomía del lavado tiene una dimensión territorial que en la práctica genera muchos problemas. El art. 317 dispone que el lavado "será punible aun cuando las actividades de que provinieren los bienes [...] se hubiesen realizado, total o parcialmente, en el extranjero, según las reglas del artículo 14 de este Código"[^extranjero].
+
+La norma tiene dos lecturas, y la diferencia entre ellas no es menor. La primera, que es la que suele aplicar la Fiscalía, entiende que basta con que el dinero haya llegado de afuera para que el juez ecuatoriano pueda juzgar el lavado sin más. La segunda, que es la que se ajusta al texto, exige algo adicional: la remisión expresa al art. 14 obliga a verificar que el caso cumple alguno de los supuestos de aplicación extraterritorial de la ley penal ecuatoriana, entre ellos que la infracción produzca efectos en el Ecuador[^art14]. Es decir, la ley no renuncia a los límites de la jurisdicción, sino que los recuerda.
+
+Para la defensa, este supuesto plantea además un problema probatorio serio. Si el delito de origen se cometió en otro país, la Fiscalía debe demostrar, aunque sea por indicios, que en ese país existió una actividad delictiva. Aquí aparecen tres preguntas que el abogado debe hacerse desde el primer día:
+
+1. **¿La conducta de origen es delito en ambos países?** El origen ilícito exige que la actividad generadora de los bienes sea delictiva. Una actividad que es lícita en el país donde se realizó, aunque en el Ecuador estuviera prohibida, plantea un problema serio de tipicidad que la defensa debe plantear con firmeza.
+2. **¿Cómo llegó la prueba del extranjero?** La información obtenida en otro país solo puede ingresar al proceso por los canales de la asistencia penal internacional. Un correo electrónico de un funcionario extranjero, una nota de prensa o una "información de inteligencia" no son prueba del delito de origen.
+3. **¿Ya fue juzgado el hecho en el otro país?** Si el delito de origen fue juzgado y la persona fue absuelta en el extranjero, ese dato es un contraindicio de enorme peso, aunque no impida por sí solo el juicio por lavado.
+
+Como podrá apreciar el lector, la autonomía del lavado no autoriza a la Fiscalía a dar por probado el origen ilícito solo porque el dinero tiene un origen lejano. Que el dinero venga de afuera no lo hace sucio. Muchas familias ecuatorianas viven de remesas, de herencias o de negocios en el exterior, y la distancia entre el lugar donde se generó el ingreso y el lugar donde se gastó no es, por sí misma, un indicio de nada.
+
 ## 2.5. La prueba indiciaria del origen ilícito
 
 ### 2.5.1. Por qué la prueba indiciaria es legítima
@@ -381,3 +395,7 @@ Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Se
 [^chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: no aparece ni en la sentencia de apelación ni en la resolución de revisión de 2023. **[pendiente: obtener el auto de inadmisión de la casación]**
 
 [^chiriboga3]: Corte Nacional de Justicia, Sala Penal, juicio No. 17282-2015-05549, resolución de 15 de marzo de 2023 (ponente: F. Córdova Ochoa), que inadmitió el recurso de revisión interpuesto por Hugo Edison Mora Azanza por falta de fundamentación (arts. 658.3 y 659 del COIP).
+
+[^extranjero]: COIP, art. 317, penúltimo inciso.
+
+[^art14]: COIP, art. 14, num. 2, lit. a). Comentario del autor: la remisión al art. 14 no es decorativa; obliga a fundamentar la jurisdicción ecuatoriana cuando todo o parte del hecho ocurrió fuera del país.

@@ -168,6 +168,22 @@ Por su parte, en el caso Salcedo (sentencia de casación de 29 de enero de 2024,
 
 Una consecuencia de calificar al lavado como delito de mera actividad es la discusión sobre la **tentativa**. Tanto la Fiscalía como la guía de la PADF sostienen que no cabe. La Fiscalía razona que cada verbo rector se sanciona de forma independiente, por lo que "el solo cometimiento de uno de ellos es considerado como delito consumado de lavado" (Fiscalía General del Estado, 2021, p. 94). Martínez (2021, pp. 40-41) llega a la misma conclusión por una razón de garantía: el lavado ya adelanta la protección del orden económico, porque castiga los actos previos a la integración, y admitir además la tentativa equivaldría a "sancionar penalmente la puesta en peligro de la puesta en peligro". Para la defensa, la consecuencia es útil: si los actos realizados no alcanzan a configurar ninguno de los verbos rectores, la conducta es atípica, y no puede rescatarse como lavado en grado de tentativa.
 
+### 1.9.2. Los verbos del art. 317: una lectura para la defensa
+
+El art. 317 del COIP describe el lavado mediante siete numerales y más de veinte verbos[^verbos317]. A primera vista, la amplitud del tipo parece no dejar espacio a la defensa: casi cualquier contacto con un bien de origen ilícito encaja en alguno de ellos. Sin embargo, una lectura cuidadosa demuestra que los numerales no castigan lo mismo, y esa diferencia es la que el abogado debe explotar.
+
+**El numeral 1 castiga el contacto con el bien.** Tener, adquirir, poseer, utilizar o beneficiarse de activos de origen ilícito. Es el numeral más amplio y el que con más frecuencia invoca la Fiscalía, porque le basta demostrar que el procesado tuvo el bien. Precisamente por esa amplitud, es aquí donde el elemento subjetivo hace todo el trabajo: quien tiene un bien sin saber que proviene de un delito no lava activos, simplemente tiene un bien. Es por esta razón que, frente a una acusación por el numeral 1, la defensa casi nunca discute el contacto, sino el conocimiento.
+
+**El numeral 2 castiga el ocultamiento.** Ocultar, disimular o impedir la determinación real del origen. Aquí no basta el contacto: la conducta debe estar orientada a borrar el rastro. En consecuencia, la Fiscalía debe probar un acto de encubrimiento, y no solo la tenencia. Si el procesado depositó el dinero a su propio nombre, en su propia cuenta y lo declaró ante el SRI, difícilmente puede decirse que lo ocultó.
+
+**El numeral 3 castiga el préstamo del nombre.** Es la figura del testaferro. El verbo exige que la persona preste su nombre "para la comisión de los delitos tipificados en este artículo", es decir, que sepa para qué se usa su nombre. El familiar que firma unas escrituras porque el pariente se lo pidió, sin conocer el origen del dinero, no presta su nombre para lavar: presta su nombre, y nada más.
+
+**El numeral 4 castiga a quien organiza, gestiona, asesora, participa o financia.** Es el numeral que más preocupa a los profesionales: contadores, abogados, asesores tributarios. Si bien es cierto que el asesor que diseña una estructura para ocultar dinero ilícito comete lavado, es importante diferenciar entre el asesoramiento orientado al delito y el asesoramiento neutral, que se presta a cualquier cliente en las mismas condiciones. Sobre esta frontera se volverá en el capítulo 3, al tratar las conductas neutrales.
+
+**Los numerales 5, 6 y 7 describen modalidades concretas:** las operaciones financieras para dar apariencia de licitud, el paso de dinero ilícito por los pasos y puentes del país y la sobrevaloración de mercancías. Los numerales 5 y 7 incorporan expresamente una finalidad, "con el objetivo de dar apariencia de licitud", que es un elemento subjetivo adicional al dolo. La Fiscalía debe probarla.
+
+En este orden de ideas, la primera tarea del defensor al recibir una formulación de cargos es preguntarse **por qué numeral** se acusa. Una acusación que menciona el art. 317 sin precisar el numeral y el verbo concreto es una acusación imprecisa, y la imprecisión afecta el derecho a conocer de forma detallada la acusación[^conocer]. La defensa no puede contradecir lo que no conoce.
+
 ## 1.10. Conclusión
 
 El lavado de activos nació en Italia para impedir que los secuestradores disfrutaran del dinero de los rescates, se convirtió en los Estados Unidos en un delito autónomo para combatir al narcotráfico y se internacionalizó con Viena, el GAFI, Palermo y Mérida. El Ecuador siguió ese mismo recorrido, desde la ley de drogas de 1990 hasta el COIP y la Resolución 20-2024.
@@ -271,3 +287,7 @@ Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 
 [^salcedo-multa]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, nota 3 y parte resolutiva, num. 6.
 
 [^chiriboga-ley]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017, considerando 5.5.2. La defensa alegó que la ley de 2005 sancionaba el mismo hecho con seis a nueve años.
+
+[^verbos317]: COIP, art. 317, nums. 1 a 7, en su texto reformado por la ley publicada en el Registro Oficial Suplemento 599 de 12 de julio de 2024.
+
+[^conocer]: Constitución de la República del Ecuador, art. 76, num. 7, lit. a); COIP, art. 5, num. 4 (inocencia).

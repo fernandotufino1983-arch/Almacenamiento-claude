@@ -45,6 +45,25 @@ Es importante diferenciar la extinción de dominio de las figuras con las que su
 
 Como podrá apreciar el lector, la autonomía de la extinción de dominio tiene una consecuencia práctica muy seria: **la absolución penal no impide necesariamente la extinción de dominio**. El proceso patrimonial no discute la culpabilidad de una persona, sino el origen o destino de un bien.
 
+### 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias
+
+La confusión entre el comiso penal y la extinción de dominio es frecuente, y no es inocua. Ambas figuras terminan con la pérdida de los bienes a favor del Estado, pero responden a lógicas distintas, y el defensor que las confunde se equivoca de estrategia.
+
+El comiso penal está regulado en el art. 69, numeral 2, del COIP. Procede "en todos los casos de delitos dolosos" y recae sobre los bienes "cuando estos son instrumentos, productos o réditos en la comisión del delito"[^comiso69]. La norma incluye también los bienes en los que se transforman los productos del delito y el producto que se mezcla con bienes de origen lícito, dentro de ciertos límites. El art. 317 remite expresamente al comiso como parte de la pena del lavado[^comiso317].
+
+| Criterio | Comiso penal | Extinción de dominio |
+|---|---|---|
+| **Naturaleza** | Es una pena, restrictiva del derecho de propiedad | Es una consecuencia patrimonial que la ley declara independiente de la responsabilidad penal |
+| **Presupuesto** | Una sentencia condenatoria por un delito doloso | Que el bien tenga un origen o una destinación ilícita, aunque no exista condena |
+| **Persona afectada** | El sentenciado, y los bienes vinculados al delito | El titular del bien, sea o no responsable de un delito |
+| **Garantías** | Todas las del proceso penal, incluida la presunción de inocencia | Las del debido proceso, con un estándar y unas reglas probatorias propias que la defensa debe discutir |
+
+La diferencia más importante para la defensa es la segunda. En el comiso, si no hay condena, no hay pérdida del bien. En la extinción de dominio, la absolución penal no cierra la puerta, porque el proceso se dirige contra el bien y no contra la persona. Es por esta razón que un cliente absuelto por lavado puede enfrentar, después, una demanda de extinción de dominio sobre los mismos bienes.
+
+El art. 317 agregó, además, un puente entre ambas figuras: castiga con las mismas penas del lavado las conductas que se realicen "sobre bienes cuya extinción de dominio haya sido declarada"[^extincion317]. Es decir, quien adquiere, oculta o administra un bien cuyo dominio ya fue extinguido comete lavado de activos. Para el abogado que asesora una compra de inmuebles o de vehículos, este dato obliga a verificar si el bien estuvo sometido a un proceso de extinción.
+
+En consecuencia, la estrategia patrimonial del cliente no puede pensarse solo en clave penal. El defensor debe preguntarse, desde el principio, qué pasará con los bienes si el cliente es absuelto, y preparar la prueba del origen lícito de modo que sirva en ambos procesos.
+
 ## 7.5. Los presupuestos
 
 Según las fuentes disponibles, para que proceda la extinción de dominio deben acreditarse tres elementos[^presupuestos]:
@@ -107,6 +126,19 @@ Para la defensa, la clave es la **audiencia de ratificación**. Allí deben exig
 - **Lo que se declara en un proceso se usa en el otro.** Una explicación del patrimonio dada en la investigación penal será usada en la extinción de dominio, y viceversa.
 - **Una absolución penal es un argumento fuerte, pero no decisivo.** Si la sentencia penal declaró que no se probó el origen ilícito, ese pronunciamiento debe hacerse valer en el proceso patrimonial.
 - **El peritaje de parte sirve en ambos frentes.** Conviene encargarlo una sola vez y con un alcance que cubra los dos procesos.
+
+### 7.9.3. La prueba del origen lícito de los bienes
+
+En la extinción de dominio, más todavía que en el proceso penal, la suerte del caso depende de la prueba documental del origen de los bienes. Por eso conviene que el abogado organice esa prueba con un método, y que lo haga antes de que se presente la demanda.
+
+El método que recomiendo tiene cuatro pasos:
+
+1. **Hacer el inventario completo.** Una lista de cada bien cuestionado, con su fecha de adquisición, su precio, la forma de pago y el titular registral. Los bienes que el Estado reclama deben estar identificados uno por uno, porque cada uno puede tener una historia distinta.
+2. **Reconstruir la fuente de cada bien.** Para cada bien hay que responder una pregunta: ¿con qué dinero se pagó? La respuesta debe estar respaldada por documentos: el crédito bancario, la venta de otro bien, la herencia, el ahorro acumulado en una cuenta, los ingresos declarados. Un bien comprado con un crédito hipotecario aprobado por un banco, que se pagó con los ingresos del titular, difícilmente puede tener un origen ilícito.
+3. **Separar los bienes por época.** Los bienes adquiridos antes de los hechos que se investigan, o antes de cualquier actividad sospechosa, deben quedar fuera del proceso. La defensa debe insistir en esa separación, porque la tendencia del Estado es tratar todo el patrimonio como un bloque.
+4. **Demostrar la buena fe del tercero.** Si el bien está a nombre de una persona distinta del investigado, como el cónyuge, los hijos o un comprador, hay que probar que esa persona lo adquirió de forma regular, pagó un precio real y no tenía motivos para sospechar del origen del bien.
+
+Como podrá apreciar el lector, este trabajo coincide en buena medida con la reconstrucción del patrimonio que realiza la pericia contable de parte, que se estudia en el capítulo 9. Por eso es conveniente que el mismo perito trabaje para ambos procesos, con un solo informe que pueda presentarse en el proceso penal y en el de extinción de dominio, y que la estrategia de los dos se diseñe de forma coordinada. Lo que la defensa dice en un proceso, el Estado lo usará en el otro.
 
 ## 7.10. Caso práctico resuelto
 
@@ -175,3 +207,9 @@ Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo
 [^buenafe]: **[verificar la definición legal]** Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
 
 [^cautelares]: Sobre las medidas cautelares reales en el proceso penal, véase el COIP; sobre las propias del proceso de extinción de dominio, la ley especial. **[verificar los artículos]**
+
+[^comiso69]: COIP, art. 69, num. 2. La compilación del COIP advierte que la reforma de este numeral por el Decreto Ley 477 (R.O. Supl. 700, 10 de diciembre de 2024) fue declarada inconstitucional por la Corte Constitucional, con efectos retroactivos.
+
+[^comiso317]: COIP, art. 317, inciso que sigue al num. 3.
+
+[^extincion317]: COIP, art. 317, inciso que dispone: "Las mismas penas se aplicarán cuando las conductas descritas en este artículo se realicen sobre bienes cuya extinción de dominio haya sido declarada".

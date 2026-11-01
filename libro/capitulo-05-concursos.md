@@ -184,6 +184,22 @@ Es importante diferenciar dos momentos. El soborno que recibe el servidor, o el 
 
 Para la defensa, la consecuencia práctica es clara. Cuando la acusación por lavado describe, en realidad, la recepción o la tenencia del producto del delito de origen, el abogado debe pedir que se recalifique el hecho. Si el delito de origen no fue acusado, o si ya fue juzgado, esa recalificación puede significar la absolución por el lavado.
 
+### 5.9.1. La defraudación tributaria como delito de origen
+
+Una de las preguntas más frecuentes en la práctica es si el dinero que se dejó de pagar al fisco puede ser objeto de lavado. La pregunta no es teórica: muchas investigaciones por lavado comienzan con un análisis tributario, y la Fiscalía suele sumar ambas imputaciones.
+
+La defraudación tributaria del art. 298 del COIP castiga a quien simule, oculte, omita, falsee o engañe a la Administración Tributaria para dejar de pagar los tributos realmente debidos, en las modalidades que el propio artículo enumera[^art298]. El problema para el lavado está en el objeto: el lavado recae sobre activos de origen ilícito, y el contribuyente que defrauda no obtiene un bien nuevo del delito, sino que conserva una parte de un patrimonio que ya tenía y que, en su origen, puede ser perfectamente lícito.
+
+Es por esta razón que la cuestión divide a la doctrina. Para una posición, la cuota defraudada es un ahorro ilícito que se integra al patrimonio y puede lavarse como cualquier otro producto del delito. Para la otra, el dinero no pagado nunca salió de manos del contribuyente, de modo que no hay un bien que "provenga" del delito: hay un bien lícito sobre el que pesa una deuda tributaria. La sección 1.6.1 ya distinguió entre la riqueza "negra", que se oculta al fisco, y la riqueza "sucia", que nace del delito. La defraudación tributaria convierte en negra una riqueza que puede ser limpia, pero no la ensucia.
+
+Para la defensa, esta distinción tiene tres consecuencias prácticas:
+
+1. **La Fiscalía debe identificar qué bien concreto es el producto de la defraudación.** No puede tratar todo el patrimonio del contribuyente como ilícito porque una parte de los impuestos no se pagó. A lo sumo, el objeto del lavado sería la cuota defraudada, y no el negocio entero que la generó.
+2. **El concurso no puede multiplicar el reproche.** Si el mismo hecho, ocultar ingresos al SRI, se califica a la vez como defraudación y como lavado, la defensa debe plantear el concurso aparente o, en su caso, la unidad de conducta, conforme a las secciones 5.3 y 5.6. Ocultar el ingreso al fisco no es un acto distinto de defraudar: es la defraudación misma.
+3. **La regularización tributaria es un contraindicio.** Si el contribuyente pagó la deuda, presentó declaraciones sustitutivas o llegó a un acuerdo con la Administración, ese comportamiento contradice la tesis de que quería dar apariencia de licitud a un bien ilícito.
+
+En consecuencia, cuando la acusación por lavado descansa exclusivamente en una diferencia tributaria, el defensor debe exigir que la Fiscalía explique por qué un problema con el fisco se convirtió en un delito contra el orden socioeconómico. Una deuda tributaria no es un delito de origen.
+
 ## 5.10. Caso práctico resuelto
 
 ### Los hechos
@@ -277,3 +293,5 @@ Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 0
 [^analogia]: COIP, art. 13, num. 3: "Queda prohibida la utilización de la analogía para crear infracciones penales, ampliar los límites de los presupuestos legales que permiten la aplicación de una sanción o medida cautelar o para establecer excepciones o restricciones de derechos." Comentario del autor: la prohibición está dirigida a la analogía en perjuicio del procesado; la analogía en su favor no está prohibida.
 
 [^colombia]: Código Penal colombiano (Ley 599 de 2000), art. 31, parágrafo (delito continuado y delito masa). **[verificar]**
+
+[^art298]: COIP, art. 298. Comentario del autor: el artículo enumera las modalidades de la defraudación; la acusación debe precisar cuál de ellas se atribuye.

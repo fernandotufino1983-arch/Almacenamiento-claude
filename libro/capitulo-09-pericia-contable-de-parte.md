@@ -139,6 +139,21 @@ La pericia de parte debe enfrentar esa idea con una herramienta concreta: **la a
 
 Es decir, cuando en un patrimonio conviven fondos lícitos e ilícitos, la duda sobre qué parte se usó en cada operación se resuelve a favor del procesado. La pericia de parte debe hacer ese cálculo de forma expresa: cuánto patrimonio lícito documentado existía en cada momento y qué operaciones podían cubrirse con él. Lo que quede por encima de ese límite es, como máximo, lo que la Fiscalía podría discutir.
 
+### 9.8.5. Los ingresos en efectivo y la economía informal
+
+En el Ecuador, una parte importante de la actividad económica se mueve en efectivo y fuera de los registros formales. El comerciante del mercado, el transportista, el agricultor que vende su cosecha, el pequeño constructor o el negocio familiar que nunca llevó contabilidad generan ingresos reales que no siempre dejan rastro en el sistema financiero ni en las declaraciones tributarias. La dolarización, además, facilita que el ahorro se guarde en billetes.
+
+Para la Fiscalía, el efectivo suele ser un indicio de lavado. Para la defensa, el efectivo es muchas veces la consecuencia natural de una actividad lícita no bancarizada. Si bien es cierto que el uso intensivo de efectivo aparece en las tipologías de lavado, es importante diferenciar entre el efectivo que no tiene explicación y el efectivo que proviene de una actividad que, por su propia naturaleza, se paga en efectivo.
+
+La pericia de parte debe enfrentar este problema con método, y no con afirmaciones generales. Recomiendo cuatro herramientas:
+
+1. **Probar la existencia de la actividad.** Antes de discutir montos, hay que demostrar que el negocio existía: el RUC o el RISE, los permisos municipales, las fotografías del local, los testimonios de clientes y proveedores, las compras de mercadería y los pagos de arriendo. Un negocio informal sigue dejando huellas.
+2. **Estimar los ingresos con datos objetivos.** El perito puede reconstruir el volumen del negocio a partir de las compras a proveedores, el margen habitual del sector y el tiempo de funcionamiento. Una estimación prudente, bien explicada y respaldada en datos verificables tiene valor probatorio, aunque no sustituya a una contabilidad formal.
+3. **Contrastar con el nivel de vida.** Si el procesado vivía con modestia mientras acumulaba ahorro, ese dato apoya la explicación del ahorro en efectivo. Si, en cambio, sus gastos superaban claramente los ingresos estimados, la pericia de parte debe reconocerlo y explicarlo, porque el perito de la Fiscalía lo hará.
+4. **Explicar la falta de declaración tributaria.** Que un ingreso no se haya declarado al SRI no lo convierte en ilícito. Como se explicó en la sección 5.9.1, la omisión tributaria convierte en "negra" una riqueza que puede ser limpia, pero no la transforma en producto de un delito. La pericia debe distinguir ambas cosas con claridad.
+
+En este orden de ideas, el perito de parte no debe pretender que todo el efectivo está justificado si no lo está. La credibilidad del informe depende de su prudencia: es preferible justificar con solidez el setenta por ciento del patrimonio cuestionado que afirmar sin respaldo que se justifica el cien por ciento. El tribunal confía en el perito que reconoce los límites de su trabajo.
+
 ## 9.9. El informe pericial de parte
 
 ### 9.9.1. Estructura recomendada

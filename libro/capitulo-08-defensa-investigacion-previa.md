@@ -71,6 +71,24 @@ Y una regla que no tiene excepciones: **el cliente no rinde versión sin haber p
 
 Recordemos también lo que expliqué en el capítulo 4: el silencio no es un indicio de culpabilidad, pero una explicación que se ofrece y luego no se prueba puede debilitar la defensa. Si la explicación no está documentada, a veces es mejor no darla todavía.
 
+### 8.4.4. La entrevista con el cliente: verificar antes de creer
+
+La defensa en un caso de lavado comienza mucho antes de la primera diligencia, en la primera conversación con el cliente. Y en esa conversación hay una regla que la experiencia enseña pronto: la versión del cliente debe verificarse antes de construir sobre ella una estrategia.
+
+No se trata de desconfiar del cliente por principio, sino de reconocer que en los casos de lavado la explicación del origen del dinero es el centro de la defensa, y que esa explicación será sometida a un examen implacable. Si el cliente dice que el dinero provino de la venta de un terreno, la Fiscalía buscará la escritura, el avalúo, el registro de la propiedad y los movimientos bancarios. Si alguno de esos datos no coincide, la explicación se derrumba, y con ella la credibilidad de toda la defensa. Es por esta razón que el abogado debe ser el primero en hacer ese examen.
+
+La entrevista inicial debe cubrir, al menos, los siguientes puntos:
+
+1. **El patrimonio completo del cliente**, con fechas y valores: inmuebles, vehículos, cuentas, inversiones, participaciones en compañías y bienes a nombre de terceros.
+2. **Las fuentes de ingreso**, desde el periodo anterior a los hechos investigados: sueldos, negocios, herencias, préstamos, remesas, ventas de bienes.
+3. **Los documentos que respaldan cada fuente**, y dónde están: declaraciones del impuesto a la renta, estados de cuenta, contratos, facturas, escrituras.
+4. **Las relaciones con las demás personas investigadas**, y el origen de esas relaciones.
+5. **Lo que el cliente ya dijo**, a quién y por escrito: respuestas a la UAFE, al SRI, a la Contraloría o al banco. Una contradicción entre lo que el cliente dijo antes y lo que dirá ahora es un indicio que la Fiscalía no dejará pasar.
+
+Con esa información, el abogado debe contrastar cada afirmación con un documento. Lo que tiene respaldo se convierte en una diligencia de descargo; lo que no lo tiene, todavía no puede usarse. Si el cliente no puede respaldar una parte de su explicación, es preferible saberlo en la investigación previa, cuando todavía hay tiempo para buscar la prueba o para replantear la estrategia, que descubrirlo en el juicio, frente al contraexamen.
+
+En consecuencia, el abogado debe explicar al cliente, con franqueza, que la defensa se construye con lo que se puede probar y no con lo que se afirma. El secreto profesional protege todo lo que el cliente le diga a su abogado, y por eso el cliente debe decirle todo, también lo que le perjudica[^secreto]. Un abogado que se entera de un hecho perjudicial en la audiencia de juicio ya no puede hacer nada con él.
+
 ## 8.5. La defensa activa: las diligencias de descargo
 
 ### 8.5.1. El fundamento
@@ -257,3 +275,5 @@ Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*
 [^art549]: COIP, art. 549, sustituido por el art. 88 de la ley publicada en el R.O. Supl. 279 de 29 de marzo de 2023.
 
 [^art491]: COIP, art. 491.
+
+[^secreto]: Comentario del autor: el secreto profesional del abogado protege la comunicación con el cliente; conviene explicárselo al inicio de la entrevista para que hable con franqueza. **[verificar la norma del Código Orgánico de la Función Judicial que se citará]**

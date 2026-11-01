@@ -319,6 +319,20 @@ Si bien es cierto que esos elementos pueden ser relevantes, es importante difere
 2. **Un informe administrativo no es prueba por sí mismo.** El art. 454.6 del COIP impide admitir como prueba los informes que no se sustentan en el testimonio de quien los elaboró. Si el auditor no declaró en el juicio, el informe no puede ser el hecho base de un indicio.
 3. **Una tipología es una guía de detección, no una regla de experiencia.** Las tipologías del GAFILAT describen cómo suele verse el lavado, y sirven para orientar una investigación. Pero muchas de esas conductas, como manejar efectivo, depositar en montos pequeños o tener empresas con poca actividad, también describen negocios lícitos o informales. Para que una tipología se convierta en indicio, la Fiscalía debe probar el hecho concreto y explicar por qué, en ese caso, no hay una explicación lícita razonable.
 
+### 4.8.7. Cómo presentar los contraindicios
+
+Atacar la inferencia de la Fiscalía es necesario, pero no siempre suficiente. En muchos casos, el juez necesita además una explicación alternativa que pueda creer, y esa explicación se construye con contraindicios: hechos probados que hacen menos probable el origen ilícito o la existencia del dolo.
+
+Si bien es cierto que la carga de la prueba es de la Fiscalía y el procesado no tiene que probar su inocencia[^inocencia4], es importante diferenciar entre la carga de la prueba y la estrategia de la defensa. La defensa no está obligada a probar nada, pero en un juicio por indicios el silencio absoluto frente a una cadena de indicios graves es un riesgo que pocos defensores deberían correr. Por eso conviene presentar los contraindicios de forma ordenada, siguiendo cinco reglas.
+
+1. **Un contraindicio también es un hecho que debe probarse.** No basta con alegar que el dinero provenía de un negocio familiar. Hay que probar que el negocio existía, que producía ingresos y que esos ingresos se corresponden en tiempo y en monto con los bienes cuestionados. Un contraindicio no probado no es un contraindicio, es una afirmación.
+2. **Cada contraindicio debe responder a un indicio concreto.** La defensa debe tomar la cadena de indicios de la Fiscalía y contestar uno por uno. Al indicio del incremento patrimonial se responde con la fuente de ingresos; al indicio de las operaciones en efectivo, con la naturaleza del negocio; al indicio de la vinculación con un investigado, con la explicación de esa relación.
+3. **La documentación debe ser anterior a la investigación.** Un contrato, una factura o una declaración tributaria elaborados antes de que comenzara la investigación tienen un valor muy superior a los documentos preparados después. El juez desconfía, con razón, de la prueba fabricada para el juicio.
+4. **Hay que conectar los contraindicios con la duda razonable.** El objetivo no es convencer al tribunal de una versión alternativa con certeza absoluta, sino demostrar que existe una explicación razonable distinta de la que propone la Fiscalía. Si esa explicación es plausible y tiene respaldo, la inferencia de la Fiscalía deja de ser la única posible, y la condena ya no puede fundarse en ella[^nexo4].
+5. **Hay que exigir que la sentencia los valore.** El tribunal no puede limitarse a enumerar los indicios de cargo e ignorar los de descargo. La motivación exige explicar por qué se descartan los contraindicios[^motiv4]. Si la sentencia guarda silencio sobre ellos, ese silencio es un vicio que se lleva a los recursos, como se explica en la sección siguiente.
+
+En este orden de ideas, la defensa más eficaz frente a una acusación indiciaria combina dos movimientos: debilitar la cadena de la Fiscalía y, al mismo tiempo, ofrecer al tribunal una explicación lícita de los mismos hechos. Uno sin el otro suele quedarse corto.
+
 ## 4.9. El control de la inferencia en los recursos
 
 - **Apelación:** el tribunal de alzada puede revisar la valoración de la prueba y la razonabilidad de la inferencia.
@@ -473,3 +487,9 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 [^espinel-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5.
 
 [^salcedo-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, párrafos 35 a 37.
+
+[^inocencia4]: Constitución de la República del Ecuador, art. 76, num. 2; COIP, art. 5, num. 4.
+
+[^nexo4]: COIP, art. 455, que exige que la prueba y los elementos de prueba tengan un nexo causal entre la infracción y la persona procesada, fundado en hechos reales introducidos o que puedan ser introducidos a través de un medio de prueba, y nunca en presunciones.
+
+[^motiv4]: Constitución de la República del Ecuador, art. 76, num. 7, lit. l).

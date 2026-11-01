@@ -118,6 +118,20 @@ Si bien es cierto que la ignorancia deliberada responde a una preocupación leg�
 
 En consecuencia, la defensa debe insistir en que la ignorancia deliberada no es una forma de dolo en el COIP. Lo que sí puede hacer la Fiscalía, y es legítimo, es **probar el conocimiento mediante indicios**. Pero eso es otra cosa: es demostrar que el procesado sabía, no presumir que debía saber.
 
+### 3.5.3. Cómo responder cuando la acusación invoca la ignorancia deliberada
+
+En la práctica, la Fiscalía rara vez menciona la expresión "ignorancia deliberada". Lo que hace es argumentar que el procesado "debió saber", "no podía desconocer" o "tenía la obligación de preguntar". Esas fórmulas son la ignorancia deliberada con otro nombre, y la defensa debe identificarlas y desactivarlas.
+
+La respuesta tiene tres pasos.
+
+**Primero, exigir que la acusación diga si el procesado sabía o no sabía.** El art. 26 no admite un punto intermedio: o la persona conocía los elementos objetivos del tipo, o no los conocía[^art26b]. Si la Fiscalía afirma que el procesado "debió saber", está reconociendo, implícitamente, que no puede probar que supiera. En consecuencia, el defensor debe obligar al acusador a elegir: si sostiene que sabía, que lo pruebe; si sostiene que debió saber, está describiendo una negligencia, y el lavado de activos no admite la modalidad culposa.
+
+**Segundo, distinguir el deber de averiguar del conocimiento.** Si el procesado es un sujeto obligado, el incumplimiento de sus deberes de debida diligencia tiene consecuencias administrativas en la ley de prevención, y puede ser un indicio de conocimiento, pero no es el conocimiento mismo. Como se explicó en la sección 3.4.4, el sujeto obligado responde penalmente cuando conoce en concreto la procedencia ilícita, no cuando incumple un protocolo. Si el procesado no es sujeto obligado, el argumento es todavía más sencillo: no tenía un deber legal de investigar el origen del dinero que recibía.
+
+**Tercero, ofrecer una explicación del desconocimiento.** El juez debe entender por qué una persona razonable, en la posición del procesado, no tenía motivos para sospechar. Aquí son útiles los datos concretos: la relación de confianza con quien entregó el dinero, la apariencia de normalidad de la operación, la existencia de documentos que la respaldaban, la ausencia de alertas del banco o del notario. Una defensa que solo dice "no sabía" es débil; una defensa que explica por qué no había razón para saber es mucho más sólida.
+
+Es por esta razón que el defensor debe preparar, desde la investigación previa, la reconstrucción del contexto en que ocurrió la operación. El dolo se prueba por indicios, y el desconocimiento también se demuestra con hechos.
+
 ## 3.6. La prueba del dolo
 
 El dolo no se ve; se infiere. Nadie confiesa que sabía que el dinero era ilícito. Por eso su prueba es casi siempre **indiciaria**, y debe cumplir los mismos requisitos que vimos en el capítulo 2: hechos base probados, pluralidad de indicios, concordancia, enlace lógico, una sola conclusión razonable y motivación reforzada.
@@ -332,3 +346,5 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 [^chiriboga-dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017.
 
 [^chiriboga-contador]: Ibídem.
+
+[^art26b]: COIP, art. 26.

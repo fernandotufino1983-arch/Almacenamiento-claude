@@ -46,6 +46,22 @@ La apelación es el único recurso en el que la defensa puede discutir **todo**:
 
 Mi recomendación es preparar la apelación como si fuera la última oportunidad de discutir los hechos, **porque lo es**. Lo que no se discuta en apelación difícilmente podrá discutirse después, porque la casación no admite la revisión de los hechos ni una nueva valoración de la prueba.
 
+### 11.3.4. Cómo se prepara una apelación desde el juicio
+
+La apelación no se gana en la audiencia ante la Corte Provincial, sino en el juicio. Lo que no ocurrió en la audiencia de juicio, lo que no se objetó, lo que no se pidió y lo que no quedó grabado, difícilmente podrá discutirse después. El defensor que piensa en el recurso solo cuando recibe la sentencia condenatoria ya llega tarde.
+
+Por eso recomiendo que, durante el juicio, el abogado trabaje con la apelación en mente. En concreto:
+
+1. **Objetar en el momento.** Una pregunta sugestiva, una prueba que no fue anunciada o un testigo que lee un informe en lugar de declarar deben objetarse en el acto. La objeción deja constancia del vicio y de que la defensa no lo consintió.
+2. **Pedir que conste lo que el tribunal niega.** Si el tribunal rechaza una prueba de la defensa o una objeción, el defensor debe pedir que se deje constancia de su petición y de la negativa. Ese registro es la base del cargo en la apelación.
+3. **Llevar un registro propio de la audiencia.** Las audiencias se graban, pero buscar un minuto concreto en horas de grabación es difícil. El abogado debe anotar, durante el juicio, el momento en que cada testigo dijo lo relevante, para poder citarlo con precisión en la fundamentación.
+4. **Revisar la sentencia escrita con la grabación.** Entre lo que el tribunal anunció en la audiencia y lo que escribió en la sentencia puede haber diferencias. Y entre lo que la sentencia atribuye a un testigo y lo que el testigo dijo puede haber errores. Cada diferencia es un posible cargo.
+5. **Respetar el plazo.** El recurso de apelación se interpone dentro de los tres días de notificada la sentencia[^plazo654]. Es un plazo breve, y por eso la estructura del recurso debe estar pensada antes de la notificación.
+
+En la audiencia de apelación, además, el recurso debe fundamentarse oralmente, y si el recurrente no lo fundamenta se entiende que desiste[^desist11]. Es decir, la Corte Provincial no revisa de oficio la sentencia, sino que responde a los argumentos que la defensa le presenta. Una apelación que se limita a repetir el alegato de clausura del juicio pierde la oportunidad de señalar, con precisión, dónde se equivocó el tribunal.
+
+En consecuencia, la fundamentación debe organizarse por cargos concretos: qué dijo la sentencia, qué debió decir, qué prueba lo demuestra y qué consecuencia tiene ese error en la decisión. El tribunal de alzada debe poder seguir el razonamiento sin tener que buscar nada por su cuenta.
+
 ## 11.4. La casación
 
 ### 11.4.1. Su objeto: la violación de la ley
@@ -263,3 +279,7 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 [^logjcc]: Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, arts. 58 a 64 (acción extraordinaria de protección). **[verificar el término vigente para presentar la acción y la numeración de los artículos]**
 
 [^art661]: COIP, art. 661.
+
+[^plazo654]: COIP, art. 654, num. 1.
+
+[^desist11]: COIP, art. 652, nums. 3 y 9.

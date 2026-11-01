@@ -129,6 +129,20 @@ El art. 502, num. 8, dispone que los testimonios "no podrán ser interrumpidos, 
 
 Una objeción que no se presenta en el momento se pierde. Y una objeción que se presenta pero no consta en el registro tampoco sirve para el recurso. El defensor debe asegurarse de que cada objeción y su resolución queden grabadas.
 
+### 10.5.6. El juicio con varios procesados
+
+Los juicios por lavado rara vez tienen un solo procesado. La Fiscalía suele acusar en un mismo proceso al supuesto autor del delito de origen, a sus familiares, a los testaferros, a los profesionales que intervinieron y a las empresas utilizadas. Esa pluralidad de acusados cambia la dinámica del juicio, y el defensor debe tenerla presente desde la preparación.
+
+**El primer riesgo es la contaminación.** Cuando el tribunal escucha durante días la prueba contra el procesado principal, la tendencia natural es extender la conclusión a todos los que aparecen a su alrededor. El familiar que firmó una escritura queda envuelto en la misma narrativa que el líder de la organización. Es por esta razón que la defensa de un procesado secundario debe individualizar a su cliente desde el alegato de apertura: qué hizo él, qué sabía él y qué prueba existe contra él, y no contra los demás.
+
+**El segundo riesgo es la contradicción entre defensas.** Las teorías del caso de los coprocesados pueden ser incompatibles. Si el procesado principal sostiene que el dinero era lícito y el testaferro sostiene que no sabía nada porque el principal lo engañó, una defensa debilita a la otra. El abogado debe conocer, antes del juicio, las teorías de las demás defensas, y decidir si coordina con ellas o si toma distancia. Esa decisión debe tomarse pensando solo en el interés del propio cliente, porque el defensor no representa a los demás procesados.
+
+**El tercer riesgo es el coprocesado que coopera.** La cooperación eficaz permite a un procesado obtener beneficios a cambio de información que contribuya a esclarecer los hechos o a identificar a los responsables[^coop10]. Su testimonio puede ser devastador, pero también es el más vulnerable. En el contraexamen, la defensa debe poner en evidencia el interés del cooperador: qué beneficio obtuvo, cuándo cambió su versión y qué parte de lo que dice está corroborada por otra prueba. La información del cooperador debe ser precisa, verídica y comprobable, de modo que su sola palabra, sin corroboración, no debería bastar para condenar.
+
+**El cuarto aspecto es el testimonio de los coprocesados.** Cada procesado decide si rinde testimonio, y ese testimonio es un medio de defensa[^art507b]. Si un coprocesado declara y menciona al cliente, la defensa tiene derecho a contraexaminarlo. Conviene preparar ese contraexamen con el mismo cuidado que el de un testigo de la Fiscalía.
+
+Finalmente, el defensor debe recordar que, si su cliente es condenado y otro coprocesado recurre con éxito por un motivo que no sea exclusivamente personal, el recurso lo beneficia también, como se explica en el capítulo 11[^extensivo10]. En los juicios con varios procesados, la estrategia de uno nunca es del todo independiente de la de los demás.
+
 ## 10.6. El alegato de clausura
 
 ### 10.6.1. La última palabra
@@ -230,3 +244,9 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Regis
 [^art619]: COIP, art. 619, nums. 1 y 2. Comentario del autor: es el principio de congruencia entre acusación y sentencia. En el lavado tiene especial importancia, porque la Fiscalía suele ampliar en el juicio las operaciones o los delitos de origen que menciona.
 
 [^art621]: COIP, arts. 621 y 622, nums. 2 y 3. Véase también el art. 76.7, lit. l, de la Constitución (motivación).
+
+[^coop10]: COIP, art. 491.
+
+[^art507b]: COIP, art. 507, nums. 1 y 3.
+
+[^extensivo10]: COIP, art. 652, num. 5.

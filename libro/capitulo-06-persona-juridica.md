@@ -125,6 +125,20 @@ Como podrá apreciar el lector, el Ecuador está en una posición más severa qu
 
 La persona jurídica procesada tiene **derecho a la defensa**, a ser informada de la imputación, a presentar prueba y a recurrir. Conviene definir desde el inicio **quién la representa en el proceso**: no debería ser la misma persona natural acusada, porque sus intereses pueden ser contrapuestos.
 
+### 6.6.5. La empresa de fachada: cuándo no hay persona jurídica que defender
+
+En los casos de lavado aparece con frecuencia una figura particular: la sociedad que no tiene actividad real, que no tiene empleados ni oficinas y que solo existe para recibir y mover dinero. Es la empresa de fachada o de papel. Su tratamiento penal es distinto del de una empresa real que, en el curso de su actividad, se ve envuelta en una operación de lavado, y el defensor debe identificar con claridad en cuál de las dos situaciones se encuentra.
+
+El art. 317 del COIP agrava la pena cuando el delito presupone la asociación para delinquir "a través de la constitución de sociedades o empresas, o de la utilización de las que se encuentren legalmente constituidas", y ordena "la disolución y liquidación de la persona jurídica creada para la comisión del delito"[^disolucion]. La norma distingue, por tanto, dos supuestos: la sociedad **creada** para lavar y la sociedad **utilizada** para lavar.
+
+**La sociedad creada para lavar** no es, en rigor, una persona jurídica que actúa, sino un instrumento de las personas naturales que la manejan. Su responsabilidad propia, conforme al art. 49, tiene poco sentido práctico, porque no hay una organización distinta de sus administradores ni un programa de cumplimiento que valorar. En estos casos, la defensa de la persona jurídica pierde importancia frente a la defensa de las personas naturales, y la discusión se traslada a quién decidía realmente: el representante legal que figura en los papeles o la persona que daba las órdenes.
+
+**La sociedad utilizada para lavar** es una empresa real, con actividad, empleados y clientes, en la que se cometió un delito. Aquí la defensa de la persona jurídica tiene pleno sentido. Debe demostrarse que el delito no se cometió en beneficio de la empresa sino de un tercero o de un empleado que actuó por su cuenta, que la organización tenía controles y que esos controles fueron burlados[^art49b]. En este supuesto, la disolución y liquidación prevista en el art. 317 no debería proceder, porque la norma la reserva para la sociedad "creada para la comisión del delito".
+
+Para el abogado, la consecuencia es clara: la primera tarea en un caso de persona jurídica es demostrar que la empresa existe de verdad. Los estados financieros, la nómina, los contratos con clientes y proveedores, las declaraciones tributarias de varios años y la existencia de un local o de una planta son la mejor prueba de que la sociedad no es una pantalla. Una empresa que puede demostrar su actividad real tiene una defensa; una empresa que no puede hacerlo, en la práctica, no la tiene.
+
+En este orden de ideas, conviene advertir también al empresario que acude al estudio sin estar investigado. Las sociedades inactivas que se mantienen abiertas "por si acaso", las cuentas bancarias de empresas sin operaciones y los socios que no saben qué hace la compañía de la que son accionistas son precisamente el tipo de estructura que la Unidad de Análisis Financiero y Económico considera inusual. La asesoría preventiva comienza por cerrar lo que no se usa.
+
 ## 6.7. Asesoría preventiva: el programa de cumplimiento
 
 Para el abogado, la responsabilidad penal de la persona jurídica no es solo un tema de litigio. Es también un **servicio de asesoría preventiva**. Un programa de cumplimiento mínimo debería contener:
@@ -219,3 +233,7 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 [^supuestos]: Comentario del autor: la interpretación estricta exige que el tipo penal prevea una sanción para la persona jurídica. Conviene revisar, delito por delito, si el COIP establece una pena específica para la persona jurídica, por ejemplo en el lavado de activos (art. 317). **[verificar]**
 
 [^salcedo-pj]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, parte resolutiva, nums. 4 y 5. La defensa había alertado desde la etapa intermedia que esa empresa estaba extinguida.
+
+[^disolucion]: COIP, art. 317, num. 3, lit. b), e inciso siguiente.
+
+[^art49b]: COIP, art. 49.
