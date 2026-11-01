@@ -18,7 +18,7 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 
 ## Capítulo 2
 
-1. Auto de inadmisión de la casación en el caso Chiriboga (juicio 17282-2015-05549), al que la UAFE atribuyó la frase sobre la carga de la prueba.
+1. Auto de inadmisión de la casación en el juicio 17282-2015-05549 (apelación de 2017), al que la UAFE atribuyó la frase sobre la carga de la prueba.
 2. Si existe un pronunciamiento de la Corte Nacional sobre el lavado cuando el delito de origen está prescrito.
 3. Sentencia de la Corte Constitucional que exige motivación reforzada en la prueba indiciaria (se convirtió en comentario del autor).
 4. Texto literal de la parte resolutiva de la Resolución CNJ 20-2024 y números de los fallos de triple reiteración.
