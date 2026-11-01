@@ -185,11 +185,11 @@
 <<IDX3>> 5.7.2. El delito continuado|69
 <<IDX3>> 5.7.3. El delito masa|69
 <<IDX2>> 5.8. Cuestiones procesales|69
-<<IDX2>> 5.9. Los concursos en los delitos de corrupción y lavado de activos|70
+<<IDX2>> 5.9. Los concursos en el lavado de activos|70
 <<IDX3>> 5.9.1. La defraudación tributaria como delito de origen|71
 <<IDX2>> 5.10. Caso práctico resuelto|72
 <<IDX2>> 5.11. Lista de revisión|72
-<<IDX2>> Referencias|72
+<<IDX2>> Referencias|73
 <<IDX1>> Capítulo 6. La responsabilidad penal de la persona jurídica|74
 <<IDX2>> 6.1. Planteamiento|74
 <<IDX2>> 6.2. Los modelos de imputación|74
@@ -379,7 +379,7 @@ El libro recoge además las novedades más recientes del sistema: la ley de 2024
 
 Confío en que esta obra sea una herramienta útil para abogados defensores, fiscales, jueces, peritos, oficiales de cumplimiento y estudiantes de derecho, y en que contribuya a que en el Ecuador los procesos por lavado de activos se resuelvan con mayor rigor técnico y con pleno respeto de las garantías.
 
-Quiero agradecer a mis colegas y a mis clientes, de quienes he aprendido lo que ningún manual enseña [Nota del autor: agradecimientos personales]. Soy consciente de que el camino está lejos de terminar. Quedan pendientes, entre otros desafíos, la capacitación especializada de los operadores de justicia, la uniformidad de los criterios judiciales sobre el estándar de prueba y una política criminal que persiga el dinero ilícito sin sacrificar los derechos de quienes son inocentes.
+Quiero agradecer, sobre todo, a mi familia. Este libro se escribió en las noches, los fines de semana y las horas que debieron ser suyas, y nunca recibí de ellos un reproche, sino ánimo para seguir. Su apoyo ha estado presente en cada etapa de mi vida profesional, en los casos que se ganaron y en los que dolieron, y sin esa confianza silenciosa esta obra no existiría. A ellos les debo mucho más que estas páginas. Soy consciente de que el camino está lejos de terminar. Quedan pendientes, entre otros desafíos, la capacitación especializada de los operadores de justicia, la uniformidad de los criterios judiciales sobre el estándar de prueba y una política criminal que persiga el dinero ilícito sin sacrificar los derechos de quienes son inocentes.
 
 Guayaquil, noviembre de 2026
 
@@ -2116,15 +2116,15 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 4. **Procedimientos especiales y medidas cautelares.** La pena total puede definir si procede el procedimiento abreviado, la suspensión condicional de la pena o la prisión preventiva.
 5. **Casación.** La aplicación del art. 20 donde correspondía el art. 21, o la ignorancia de un concurso aparente, constituye una **indebida aplicación de la ley**, que es causal de casación (art. 656 del COIP).
 
-### 5.9. Los concursos en los delitos de corrupción y lavado de activos
+### 5.9. Los concursos en el lavado de activos
 
 | Situación | Análisis |
 |---|---|
 | Un servidor recibe un soborno y luego lo oculta con testaferros | Dos conductas: **concurso real** entre cohecho y lavado. Se discute el autolavado |
 | El autor del delito de origen solo tiene y usa el dinero obtenido | La defensa puede sostener que es un **acto posterior copenado**: no hay lavado autónomo |
-| Se prueba el cohecho y, además, el incremento patrimonial que este generó | **Concurso aparente** por consunción: el enriquecimiento ilícito queda absorbido por el cohecho |
+| Por los mismos bienes se acusa lavado de activos y enriquecimiento privado no justificado (art. 297) | **Concurso aparente**: un mismo incremento patrimonial no puede castigarse dos veces; si se prueba el origen ilícito, el lavado desplaza al enriquecimiento |
 | Un mismo acto encaja en el testaferrismo (art. 289) y en el lavado (art. 317, num. 3) | **Concurso aparente** que se resuelve por especialidad |
-| Sobreprecios en varias planillas de un mismo contrato | ¿Varios peculados o uno solo? Es un argumento de **unidad de conducta** o de **delito continuado** |
+| Varios depósitos o compras con dinero de un mismo origen y dentro de un mismo plan | ¿Varios lavados o uno solo? Es un argumento de **unidad de conducta** o de **delito continuado** |
 
 **El autolavado en la jurisprudencia de la Corte Nacional.** La Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 2017 (juicio No. 13284-2015-01812, ponente Gladys Terán Sierra), sostuvo que "es aconsejable admitir la sanción del autor del hecho previo como posterior lavador", porque el blanqueo "debe ser comprendido no sólo como una forma de encubrimiento sino como un delito independiente (autónomo) contra el orden socioeconómico" (Corte Nacional de Justicia, 2017, como se citó en Fiscalía General del Estado, 2021, p. 98). Es decir, la Corte admite el concurso real entre el delito de origen y el lavado cometido por la misma persona (Martínez, 2021, p. 80).
 
@@ -2157,15 +2157,15 @@ En consecuencia, cuando la acusación por lavado descansa exclusivamente en una 
 ### 5.10. Caso práctico resuelto
 
 #### Los hechos
-Un tesorero municipal emite, en un periodo de ocho meses, seis órdenes de pago a favor de una empresa que no prestó los servicios contratados, por un total de USD 180.000. Para ocultar los pagos, falsifica las actas de entrega-recepción. Parte del dinero lo deposita en la cuenta de su cuñado. La Fiscalía acusa por **seis peculados, seis falsificaciones y un lavado de activos**, en concurso real.
+Durante catorce meses, Andrés realiza veintidós depósitos en efectivo en sus cuentas, todos por montos inferiores a USD 10.000, y con ese dinero compra dos vehículos y un departamento. La Fiscalía sostiene que el dinero proviene del contrabando que dirige su hermano, y acusa a Andrés por **veintidós delitos de lavado de activos**, uno por cada depósito, más **asociación ilícita**, en concurso real. Para fijar la pena, suma el monto de todas las operaciones y lo ubica en el tramo más alto del art. 317.
 
 #### Análisis
-1. **¿Seis peculados o uno?** Las seis órdenes responden a un mismo plan, sobre un mismo contrato y contra el mismo patrimonio público. Hay argumentos sólidos de **unidad de conducta**, o al menos de **delito continuado**: un solo peculado por USD 180.000.
-2. **¿Las falsificaciones son delitos autónomos?** Las actas falsas fueron el **medio** para ejecutar y encubrir el peculado. La defensa puede sostener que hay un **concurso medial**, y por tanto que se aplica la pena del delito más grave.
-3. **¿Hay lavado?** El depósito en la cuenta del cuñado podría configurar lavado (art. 317), pero la defensa debe discutir si fue un acto de **ocultamiento** o el simple **agotamiento** del peculado. Si no hubo una operación orientada a dar apariencia de licitud, es un **acto posterior copenado**.
+1. **¿Veintidós lavados o uno?** Los depósitos responden a un mismo plan, con dinero de un mismo origen, en un periodo continuo y con una misma finalidad. Hay argumentos sólidos de **unidad de conducta** (sección 5.3), o al menos de **delito continuado**: un solo lavado. La defensa debe advertir, sin embargo, la contradicción en que incurre la Fiscalía: si los depósitos son veintidós delitos distintos, cada uno debe juzgarse con su propio monto, que es inferior a cien salarios básicos unificados; si se suman los montos para ubicar la pena en el tramo más alto, se está reconociendo que se trata de una sola conducta. La acusación no puede fragmentar los hechos para multiplicar los delitos y, al mismo tiempo, sumarlos para agravar la pena.
+2. **¿Cabe la asociación ilícita?** El art. 370 del COIP sanciona la asociación de dos o más personas para cometer delitos "sancionados con pena privativa de libertad de menos de cinco años". El lavado de activos tiene una pena mínima de cinco años, de modo que la asociación ilícita no se configura. Además, el propio art. 317 ya agrava la pena cuando el lavado presupone la asociación para delinquir: sancionar la asociación por separado sería castigar dos veces el mismo hecho (sección 5.6).
+3. **¿Hay lavado en todas las operaciones?** Antes de discutir el concurso, la defensa debe exigir que la Fiscalía pruebe, para cada operación, el origen ilícito del dinero y el conocimiento de Andrés, conforme a los capítulos 2 a 4. Si Andrés tenía ingresos propios que explican una parte de los depósitos, esa parte debe excluirse del monto, y con ello puede cambiar el tramo de la pena.
 
 #### Conclusión
-Frente a una acusación por trece delitos acumulados, una defensa técnica en materia de concursos puede reducir la imputación a **un peculado**, eventualmente en concurso con un lavado. La diferencia en la pena final es enorme. Como podrá apreciar el lector, el concurso no es un detalle de la sentencia: muchas veces es el centro de la defensa.
+Frente a una acusación por veintitrés delitos acumulados, una defensa técnica en materia de concursos puede reducir la imputación a **un solo lavado de activos**, con un monto depurado de las operaciones lícitas. La diferencia en la pena final es enorme. Como podrá apreciar el lector, el concurso no es un detalle de la sentencia: muchas veces es el centro de la defensa.
 
 ### 5.11. Lista de revisión
 

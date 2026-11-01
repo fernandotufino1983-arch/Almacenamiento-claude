@@ -69,7 +69,5 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 
 ## Otros pendientes
 
-1. **Agradecimientos del prólogo:** nombres de las personas o instituciones a las que quiere agradecer.
-2. **Anexo B:** tipologías regionales del GAFILAT y casos de la UAFE (se retiró la nota; si sube los informes, se incorporan con su página).
-3. **Capítulo 7:** varias afirmaciones sobre la Ley Orgánica de Extinción de Dominio se apoyan en fuentes secundarias ("según las fuentes disponibles"). Lo ideal es subir al Drive el texto de la ley para contrastarlas con el articulado.
-4. **Capítulo 5:** el caso práctico (5.10) y la sección 5.9 usan un ejemplo de peculado de un tesorero municipal. Si quiere mantener el libro centrado solo en el lavado de activos, conviene cambiar el ejemplo.
+1. **Anexo B:** tipologías regionales del GAFILAT y casos de la UAFE (se retiró la nota; si sube los informes, se incorporan con su página).
+2. **Capítulo 7:** varias afirmaciones sobre la Ley Orgánica de Extinción de Dominio se apoyan en fuentes secundarias ("según las fuentes disponibles"). Lo ideal es subir al Drive el texto de la ley para contrastarlas con el articulado.

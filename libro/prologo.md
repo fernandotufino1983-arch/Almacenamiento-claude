@@ -24,7 +24,7 @@ El libro recoge además las novedades más recientes del sistema: la ley de 2024
 
 Confío en que esta obra sea una herramienta útil para abogados defensores, fiscales, jueces, peritos, oficiales de cumplimiento y estudiantes de derecho, y en que contribuya a que en el Ecuador los procesos por lavado de activos se resuelvan con mayor rigor técnico y con pleno respeto de las garantías.
 
-Quiero agradecer a mis colegas y a mis clientes, de quienes he aprendido lo que ningún manual enseña [Nota del autor: agradecimientos personales]. Soy consciente de que el camino está lejos de terminar. Quedan pendientes, entre otros desafíos, la capacitación especializada de los operadores de justicia, la uniformidad de los criterios judiciales sobre el estándar de prueba y una política criminal que persiga el dinero ilícito sin sacrificar los derechos de quienes son inocentes.
+Quiero agradecer, sobre todo, a mi familia. Este libro se escribió en las noches, los fines de semana y las horas que debieron ser suyas, y nunca recibí de ellos un reproche, sino ánimo para seguir. Su apoyo ha estado presente en cada etapa de mi vida profesional, en los casos que se ganaron y en los que dolieron, y sin esa confianza silenciosa esta obra no existiría. A ellos les debo mucho más que estas páginas. Soy consciente de que el camino está lejos de terminar. Quedan pendientes, entre otros desafíos, la capacitación especializada de los operadores de justicia, la uniformidad de los criterios judiciales sobre el estándar de prueba y una política criminal que persiga el dinero ilícito sin sacrificar los derechos de quienes son inocentes.
 
 Guayaquil, noviembre de 2026
 
