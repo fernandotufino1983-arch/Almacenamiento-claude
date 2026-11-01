@@ -4,6 +4,7 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 
 ## Criterio general
 
+- **Fechas de las sentencias y resoluciones judiciales.** A pedido del autor, se retiraron el día y el mes de todas las sentencias, resoluciones, acuerdos plenarios y dictámenes citados (nacionales y extranjeros); se conserva solo el año y el número de juicio o de causa. Las fechas de las leyes y de su publicación en el Registro Oficial se mantienen.
 - **Páginas de doctrina.** En 29 citas de paráfrasis se retiró la mención "p. [verificar]" (Blanco Cordero, 2015; Prado Saldarriaga, 2007; Reuter y Truman, 2004; Naylor, 2002; Ragués i Vallès, 2007; Jakobs, 1997; Gascón Abellán, 2010; Taruffo, 2002; Ferrer Beltrán, 2007; Mir Puig, 2016; Zaffaroni et al., 2002; Roxin, 2014; Posada Maya, 2012; Zúñiga Rodríguez, 2009; Gómez-Jara Díez, 2010; Tiedemann, 1988; UNODC, 2011). APA 7 permite citar una paráfrasis sin página. Si tiene los libros a mano, se pueden agregar.
 - **Datos confirmados con el COIP y la Constitución del repositorio** (textos de los arts. 20, 27, 45, 55, 297, 455 y 457 del COIP; vigencia de la compilación al 7 de octubre de 2026; Registro Oficial de la Resolución 20-2024): se corrigieron y se retiró la marca.
 - **Datos de conocimiento general** (artículos de las convenciones de Viena, Palermo y Mérida; leyes estadounidenses, italianas, españolas, colombianas, chilenas y peruanas; Registros Oficiales de las leyes ecuatorianas de 1990, 2005, 2009, 2016 y del COIP; fecha de la sentencia 1158-17-EP/21): se retiró la marca. Conviene una revisión final del editor.
@@ -17,6 +18,7 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 
 ## Capítulo 2
 
+0. Auto de inadmisión de la casación en el caso Chiriboga (juicio 17282-2015-05549), al que la UAFE atribuyó la frase sobre la carga de la prueba.
 1. Si existe un pronunciamiento de la Corte Nacional sobre el lavado cuando el delito de origen está prescrito.
 2. Sentencia de la Corte Constitucional que exige motivación reforzada en la prueba indiciaria (se convirtió en comentario del autor).
 3. Texto literal de la parte resolutiva de la Resolución CNJ 20-2024 y números de los fallos de triple reiteración.

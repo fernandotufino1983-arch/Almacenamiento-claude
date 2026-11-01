@@ -24,21 +24,21 @@ Es importante diferenciar dos cosas que suelen confundirse. Que una prueba sea *
 
 En la mayoría de los delitos, la prueba indiciaria es un recurso complementario. En el lavado de activos, en cambio, es **la regla**. La propia Fiscalía lo reconoce cuando califica a la prueba indiciaria como el "elemento prioritario dentro del delito de lavado de activos" (Fiscalía General del Estado, 2021, p. 71). Propongo cinco razones que explican por qué.
 
-**1. La conducta consiste precisamente en borrar el rastro.** El lavado no es un delito que deje huellas por descuido: es un delito cuya finalidad es **eliminar las huellas** del delito anterior. La Corte Constitucional de Colombia, en la sentencia C-685, citada por la Fiscalía General del Estado (2021), describió la segunda fase del lavado como aquella en la que el dinero "se somete a operaciones más o menos complejas que pretenden borrar el rastro de ilegalidad que les dio origen", mediante "empresa fachada, testaferros, operaciones financieras ficticias, redundantes o repetitivas" (Corte Constitucional de Colombia, C-685, como se citó en Corte Suprema de Justicia de Colombia, radicación No. 43706, 18 de septiembre de 2018, y en Fiscalía General del Estado, 2021, p. 101). Si el lavado tuvo éxito, por definición no queda una prueba directa del origen ilícito. Lo que queda son las anomalías que el propio lavado produce: los movimientos sin lógica económica, las sociedades vacías, el patrimonio que no se explica.
+**1. La conducta consiste precisamente en borrar el rastro.** El lavado no es un delito que deje huellas por descuido: es un delito cuya finalidad es **eliminar las huellas** del delito anterior. La Corte Constitucional de Colombia, en la sentencia C-685, citada por la Fiscalía General del Estado (2021), describió la segunda fase del lavado como aquella en la que el dinero "se somete a operaciones más o menos complejas que pretenden borrar el rastro de ilegalidad que les dio origen", mediante "empresa fachada, testaferros, operaciones financieras ficticias, redundantes o repetitivas" (Corte Constitucional de Colombia, C-685, como se citó en Corte Suprema de Justicia de Colombia, radicación No. 43706, 2018, y en Fiscalía General del Estado, 2021, p. 101). Si el lavado tuvo éxito, por definición no queda una prueba directa del origen ilícito. Lo que queda son las anomalías que el propio lavado produce: los movimientos sin lógica económica, las sociedades vacías, el patrimonio que no se explica.
 
-**2. El origen ilícito es un hecho que ocurrió fuera del proceso.** El art. 317 del COIP exige que los activos tengan "origen ilícito", y la Corte Nacional, en el caso Espinel (sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282), reconoció que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva"[^espinel-normativo]. Pero ese elemento se refiere a un hecho **anterior y distinto** al lavado: el delito que generó los bienes. Ese hecho pudo cometerlo otra persona, pudo ocurrir en otro país y pudo no haber sido juzgado nunca. Como el lavado es autónomo y no exige una sentencia previa por el delito de origen (art. 317 del COIP y Resolución CNJ No. 20-2024), el tribunal del lavado casi nunca tiene ante sí la prueba directa de ese delito. Tiene, a lo sumo, rastros de él.
+**2. El origen ilícito es un hecho que ocurrió fuera del proceso.** El art. 317 del COIP exige que los activos tengan "origen ilícito", y la Corte Nacional, en el caso Espinel (sentencia de casación de 2021, juicio No. 09333-2018-00282), reconoció que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva"[^espinel-normativo]. Pero ese elemento se refiere a un hecho **anterior y distinto** al lavado: el delito que generó los bienes. Ese hecho pudo cometerlo otra persona, pudo ocurrir en otro país y pudo no haber sido juzgado nunca. Como el lavado es autónomo y no exige una sentencia previa por el delito de origen (art. 317 del COIP y Resolución CNJ No. 20-2024), el tribunal del lavado casi nunca tiene ante sí la prueba directa de ese delito. Tiene, a lo sumo, rastros de él.
 
 **3. El conocimiento del origen ilícito es un hecho interno.** El lavado es un delito doloso: el procesado debe **saber**, o al menos representarse, que los bienes provienen de una actividad delictiva (capítulo 3). El conocimiento es un estado mental, y los estados mentales no se ven: se infieren de la conducta externa. Que el procesado aceptó comisiones desproporcionadas, que evitó los controles bancarios, que usó testaferros o que mintió sobre el origen de los fondos son hechos externos de los que se deduce lo que sabía.
 
 **4. Los tratados lo autorizan de forma expresa.** La Convención de Viena de 1988 (art. 3.3), la Convención de Palermo de 2000 (art. 6.2.f) y la Convención de Mérida de 2003 (art. 28) disponen, con fórmulas casi idénticas, que el conocimiento, la intención o la finalidad que exige el delito "podrán inferirse de circunstancias fácticas objetivas"[^tratados-inferencia]. Es decir, el derecho internacional que dio origen al tipo penal de lavado previó desde el principio que su elemento subjetivo se probaría por inferencia.
 
-**5. La jurisprudencia nacional lo asumió.** La Resolución No. 20-2024 de la Corte Nacional de Justicia, de 23 de octubre de 2024, admitió la "acreditación del origen ilícito" de los activos mediante prueba indiciaria[^res20-indicios]. Con ello, lo que era una práctica de los tribunales pasó a ser un precedente obligatorio.
+**5. La jurisprudencia nacional lo asumió.** La Resolución No. 20-2024 de la Corte Nacional de Justicia, de 2024, admitió la "acreditación del origen ilícito" de los activos mediante prueba indiciaria[^res20-indicios]. Con ello, lo que era una práctica de los tribunales pasó a ser un precedente obligatorio.
 
 ### 4.2.3. Un matiz necesario: "casi siempre", no "siempre"
 
 Es frecuente escuchar que el lavado "solo" se prueba con indicios. La afirmación es útil como descripción de la práctica, pero es inexacta como regla, y el defensor debe conocer el matiz.
 
-El origen ilícito y el dolo pueden probarse también con **prueba directa**. La Sala de Casación Penal de la Corte Suprema de Justicia de Colombia, en la sentencia de 18 de enero de 2017 (radicación No. 40120), sostuvo que el origen ilícito de los bienes "debe demostrarse" como cualquier otro elemento del tipo, y que su acreditación puede hacerse "a través de 'prueba directa' o 'prueba indirecta'" (Corte Suprema de Justicia de Colombia, radicación No. 40120, 18 de enero de 2017, como se citó en Fiscalía General del Estado, 2021, pp. 101-102). En el Ecuador, son ejemplos de prueba directa el testimonio de quien se acogió a la **cooperación eficaz** (art. 491 del COIP), las comunicaciones obtenidas mediante **interceptación** autorizada, lo actuado por un **agente encubierto** (art. 483 del COIP) o la sentencia condenatoria dictada en otro país por el delito de origen, recibida por asistencia penal internacional.
+El origen ilícito y el dolo pueden probarse también con **prueba directa**. La Sala de Casación Penal de la Corte Suprema de Justicia de Colombia, en la sentencia de 2017 (radicación No. 40120), sostuvo que el origen ilícito de los bienes "debe demostrarse" como cualquier otro elemento del tipo, y que su acreditación puede hacerse "a través de 'prueba directa' o 'prueba indirecta'" (Corte Suprema de Justicia de Colombia, radicación No. 40120, 2017, como se citó en Fiscalía General del Estado, 2021, pp. 101-102). En el Ecuador, son ejemplos de prueba directa el testimonio de quien se acogió a la **cooperación eficaz** (art. 491 del COIP), las comunicaciones obtenidas mediante **interceptación** autorizada, lo actuado por un **agente encubierto** (art. 483 del COIP) o la sentencia condenatoria dictada en otro país por el delito de origen, recibida por asistencia penal internacional.
 
 Además, no todos los elementos del lavado se prueban del mismo modo. Conviene distinguirlos:
 
@@ -58,11 +58,11 @@ La propia Fiscalía marca el límite. Al describir la investigación financiera,
 
 La jurisprudencia comparada ofrece tres reglas para mantener al indicio dentro de su función:
 
-1. **Los indicios deben ser plurales, estar probados y reforzarse entre sí.** La Corte Suprema de Justicia del Perú, en el Acuerdo Plenario No. 3-2010/CJ-116, de 16 de noviembre de 2010, exigió "hechos base o indicios plenamente acreditados, que en función a su frecuente ambivalencia, han de ser plurales, concomitantes al hecho que se trata de probar e interrelacionados", y un razonamiento del tribunal "explícito y claro" que permita el control de la inferencia (Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116, 16 de noviembre de 2010, como se citó en Fiscalía General del Estado, 2021, p. 104).
+1. **Los indicios deben ser plurales, estar probados y reforzarse entre sí.** La Corte Suprema de Justicia del Perú, en el Acuerdo Plenario No. 3-2010/CJ-116, de 2010, exigió "hechos base o indicios plenamente acreditados, que en función a su frecuente ambivalencia, han de ser plurales, concomitantes al hecho que se trata de probar e interrelacionados", y un razonamiento del tribunal "explícito y claro" que permita el control de la inferencia (Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116, 2010, como se citó en Fiscalía General del Estado, 2021, p. 104).
 
 2. **Los indicios deben converger en una sola conclusión.** La Corte Suprema de Justicia de Colombia, en la sentencia de diciembre de 2009 dictada en el proceso No. 28267, exigió que los hechos indicadores "ensamblen entre sí como piezas integrantes de un todo" y que las inferencias sean "convergentes, es decir, concurrir hacia una misma conclusión y no hacia varias hipótesis de solución" (Corte Suprema de Justicia de Colombia, proceso No. 28267, diciembre de 2009, como se citó en Fiscalía General del Estado, 2021, pp. 102-103). Si los indicios admiten dos lecturas, una lícita y otra ilícita, no prueban el delito.
 
-3. **La hipótesis alternativa de la defensa no necesita certeza, sino plausibilidad.** En la sentencia de 18 de enero de 2017 (radicación No. 40120), la Corte colombiana sostuvo que, mientras la hipótesis de la acusación debe demostrarse más allá de duda razonable, las hipótesis alternativas de la defensa "si bien no están sometidas a ese estándar, deben ser verdaderamente plausibles" (Corte Suprema de Justicia de Colombia, radicación No. 40120, 18 de enero de 2017, como se citó en Fiscalía General del Estado, 2021, p. 102)[^40120-carga].
+3. **La hipótesis alternativa de la defensa no necesita certeza, sino plausibilidad.** En la sentencia de 2017 (radicación No. 40120), la Corte colombiana sostuvo que, mientras la hipótesis de la acusación debe demostrarse más allá de duda razonable, las hipótesis alternativas de la defensa "si bien no están sometidas a ese estándar, deben ser verdaderamente plausibles" (Corte Suprema de Justicia de Colombia, radicación No. 40120, 2017, como se citó en Fiscalía General del Estado, 2021, p. 102)[^40120-carga].
 
 Es por esta razón que la estrategia de la defensa en un caso de lavado no consiste en negar que existen indicios, porque casi siempre existen. Consiste en demostrar que **no alcanzan**: que alguno no está probado, que la regla de experiencia que los une es falsa o demasiado general, o que dejan abierta una explicación lícita razonable. Las secciones siguientes desarrollan cada uno de esos caminos.
 
@@ -278,9 +278,9 @@ Hay, además, un argumento de fondo contra las reglas que convierten un instrume
 
 La defensa debe obligar a la acusación, y al juez, a **explicitar la regla de experiencia**, porque una regla que se expone en voz alta suele revelar su debilidad.
 
-Esta exigencia tiene respaldo en la jurisprudencia comparada. La Sala de Casación Penal de la Corte Suprema de Justicia de Colombia, en la sentencia SP1569-2018, de 9 de mayo de 2018 (radicación No. 45.889, ponente Patricia Salazar Cuéllar), describió la construcción del indicio en cuatro pasos: probar el hecho indicador, explicitar la regla de la experiencia, enunciar el hecho indicado y valorarlo en conjunto con las demás pruebas. Sobre el segundo paso, fue categórica:
+Esta exigencia tiene respaldo en la jurisprudencia comparada. La Sala de Casación Penal de la Corte Suprema de Justicia de Colombia, en la sentencia SP1569-2018, de 2018 (radicación No. 45.889, ponente Patricia Salazar Cuéllar), describió la construcción del indicio en cuatro pasos: probar el hecho indicador, explicitar la regla de la experiencia, enunciar el hecho indicado y valorarlo en conjunto con las demás pruebas. Sobre el segundo paso, fue categórica:
 
-> "Probado el hecho indicador, el segundo paso es explicitar la regla de la experiencia, de la que va a depender, en buena medida, el carácter o fuerza probatoria del indicio. Además, por cuanto la regla de la experiencia eventualmente usada puede ser falsa, o tomada con un alcance diferente al que realmente tiene, es indispensable expresarla como presupuesto de su contradicción y, de esa forma, garantizar adecuadamente el derecho de defensa" (Corte Suprema de Justicia de Colombia, SP1569-2018, 9 de mayo de 2018, p. 31).
+> "Probado el hecho indicador, el segundo paso es explicitar la regla de la experiencia, de la que va a depender, en buena medida, el carácter o fuerza probatoria del indicio. Además, por cuanto la regla de la experiencia eventualmente usada puede ser falsa, o tomada con un alcance diferente al que realmente tiene, es indispensable expresarla como presupuesto de su contradicción y, de esa forma, garantizar adecuadamente el derecho de defensa" (Corte Suprema de Justicia de Colombia, SP1569-2018, 2018, p. 31).
 
 Como podrá apreciar el lector, la Corte colombiana convierte la explicitación de la regla en una **garantía del derecho de defensa**: una regla que no se expresa no se puede contradecir. En el Ecuador, ese mismo razonamiento se apoya en el art. 76.7, literales a y l, de la Constitución[^sp1569].
 
@@ -309,9 +309,9 @@ Una inferencia es válida solo si su conclusión es **la única razonable**. La 
 
 Dos sentencias de casación de la Sala Penal muestran qué ha aceptado la Corte Nacional como indicio del origen ilícito, y por qué la defensa debe discutirlo (capítulo 2, sección 2.3.4).
 
-En el **caso Espinel**, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de julio de 2021 (juicio No. 09333-2018-00282), consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^espinel-indicios].
+En el **caso Espinel**, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 2021 (juicio No. 09333-2018-00282), consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^espinel-indicios].
 
-En el **caso Salcedo**, la misma Sala, en la sentencia de casación de 29 de enero de 2024 (juicio No. 07712-2020-00205), reprochó al tribunal de apelación no haber considerado como señales del lavado el transporte de efectivo por un paso fronterizo, el fraccionamiento de transferencias, el uso de empresas sin actividad aparente y de documentos falsos, apoyándose en las tipologías del GAFILAT y en las recomendaciones del GAFI[^salcedo-indicios].
+En el **caso Salcedo**, la misma Sala, en la sentencia de casación de 2024 (juicio No. 07712-2020-00205), reprochó al tribunal de apelación no haber considerado como señales del lavado el transporte de efectivo por un paso fronterizo, el fraccionamiento de transferencias, el uso de empresas sin actividad aparente y de documentos falsos, apoyándose en las tipologías del GAFILAT y en las recomendaciones del GAFI[^salcedo-indicios].
 
 Si bien es cierto que esos elementos pueden ser relevantes, es importante diferenciar su función. Propongo tres reglas para su control:
 
@@ -336,7 +336,7 @@ En este orden de ideas, la defensa más eficaz frente a una acusación indiciari
 ## 4.9. El control de la inferencia en los recursos
 
 - **Apelación:** el tribunal de alzada puede revisar la valoración de la prueba y la razonabilidad de la inferencia.
-- **Casación:** como vimos al estudiar ese recurso, no cabe revalorar la prueba. Pero sí cabe alegar la **violación de las reglas de la sana crítica** o de la norma que exige hechos reales y no presunciones (art. 455 del COIP), siempre que se plantee como un error de derecho y no como una discusión sobre los hechos[^casacion]. La sentencia SP1569-2018 de la Corte Suprema colombiana ofrece una pauta útil para ordenar el cargo: hay que identificar "en cuál fase de la construcción indiciaria se presenta el supuesto yerro", si en el hecho indicador, en la inferencia o en la articulación de los indicios entre sí, y, cuando se discuten a la vez la prueba del hecho indicador y la inferencia, hacerlo "en cargos distintos y de manera subsidiaria" (Corte Suprema de Justicia de Colombia, SP1569-2018, 9 de mayo de 2018, p. 32).
+- **Casación:** como vimos al estudiar ese recurso, no cabe revalorar la prueba. Pero sí cabe alegar la **violación de las reglas de la sana crítica** o de la norma que exige hechos reales y no presunciones (art. 455 del COIP), siempre que se plantee como un error de derecho y no como una discusión sobre los hechos[^casacion]. La sentencia SP1569-2018 de la Corte Suprema colombiana ofrece una pauta útil para ordenar el cargo: hay que identificar "en cuál fase de la construcción indiciaria se presenta el supuesto yerro", si en el hecho indicador, en la inferencia o en la articulación de los indicios entre sí, y, cuando se discuten a la vez la prueba del hecho indicador y la inferencia, hacerlo "en cargos distintos y de manera subsidiaria" (Corte Suprema de Justicia de Colombia, SP1569-2018, 2018, p. 32).
 - **Acción extraordinaria de protección:** la falta de motivación reforzada de la inferencia puede vulnerar el art. 76.7.l de la Constitución.
 
 ## 4.10. Modelo de argumento: impugnación de una inferencia
@@ -412,27 +412,27 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
 Corte Constitucional de Colombia. (s. f.). *Sentencia C-685* [citada a través de Fiscalía General del Estado, 2021].
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
 
-Corte Nacional de Justicia del Ecuador, Pleno. (2024, 23 de octubre). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
+Corte Nacional de Justicia del Ecuador, Pleno. (2024). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2009, diciembre). *Sentencia, proceso No. 28267* [citada a través de Fiscalía General del Estado, 2021].
 
-Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2017, 18 de enero). *Sentencia de casación, radicación No. 40120* [citada a través de Fiscalía General del Estado, 2021].
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2017). *Sentencia de casación, radicación No. 40120* [citada a través de Fiscalía General del Estado, 2021].
 
-Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 18 de septiembre). *Sentencia de casación, radicación No. 43706* [citada a través de Fiscalía General del Estado, 2021].
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018). *Sentencia de casación, radicación No. 43706* [citada a través de Fiscalía General del Estado, 2021].
 
-Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo). *Sentencia SP1569-2018, radicación No. 45.889* (M. P. Patricia Salazar Cuéllar).
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018). *Sentencia SP1569-2018, radicación No. 45.889* (M. P. Patricia Salazar Cuéllar).
 
-Corte Suprema de Justicia de la República del Perú. (2010, 16 de noviembre). *Acuerdo Plenario No. 3-2010/CJ-116* [citado a través de Fiscalía General del Estado, 2021].
+Corte Suprema de Justicia de la República del Perú. (2010). *Acuerdo Plenario No. 3-2010/CJ-116* [citado a través de Fiscalía General del Estado, 2021].
 
-Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
+Tribunal Europeo de Derechos Humanos. (1996). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 1996.
 
 [^carga-425]: Constitución, art. 76, num. 2; COIP, arts. 5, num. 4, 317 (inciso sobre la autonomía) y 455.
 
@@ -456,11 +456,11 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^manual-def]: Fiscalía General del Estado, Dirección de Estudios Penales, *Manual de lavado de activos*, cap. 4, sección 3, que se apoya en García Cavero (2010, p. 56). Comentario del autor: la definición del órgano acusador es útil para la defensa, porque reconoce que la prueba indiciaria descansa en un "nexo causal" y en la "lógica", y no en la sola sospecha.
 
-[^espinel-normativo]: Corte Nacional de Justicia, Sala Penal, sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282. Base legal: COIP, art. 317, inciso que dispone que la autonomía del delito "no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito".
+[^espinel-normativo]: Corte Nacional de Justicia, Sala Penal, sentencia de casación de 2021, juicio No. 09333-2018-00282. Base legal: COIP, art. 317, inciso que dispone que la autonomía del delito "no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito".
 
 [^tratados-inferencia]: Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas (Viena, 1988), art. 3.3: "El conocimiento, la intención o la finalidad requeridos como elementos de cualquiera de los delitos enunciados en el párrafo 1 del presente artículo podrán inferirse de las circunstancias objetivas del caso"; Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Palermo, 2000), art. 6.2.f; Convención de las Naciones Unidas contra la Corrupción (Mérida, 2003), art. 28. Comentario del autor: los tratados autorizan a **inferir** el elemento subjetivo de circunstancias **objetivas**; no autorizan a presumirlo. La diferencia es la misma que establece el art. 455 del COIP.
 
-[^res20-indicios]: Corte Nacional de Justicia, Pleno, Resolución No. 20-2024, de 23 de octubre de 2024, Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Base constitucional: arts. 184.2 y 185 de la Constitución (precedentes de triple reiteración).
+[^res20-indicios]: Corte Nacional de Justicia, Pleno, Resolución No. 20-2024, Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Base constitucional: arts. 184.2 y 185 de la Constitución (precedentes de triple reiteración).
 
 [^art455-142]: COIP, art. 455. Véase también el art. 5.3 del COIP (duda a favor del reo) y el art. 76.2 de la Constitución (presunción de inocencia).
 
@@ -482,9 +482,9 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^sp1569]: Constitución, art. 76, num. 7, lits. a) (derecho a la defensa) y l) (motivación). Comentario del autor: la sentencia colombiana no es vinculante en el Ecuador, pero su estructura de cuatro pasos es una buena herramienta para exigir al tribunal que motive la inferencia y para ordenar el contraexamen del perito y el alegato de clausura.
 
-[^espinel-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5.
+[^espinel-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 2021, considerando 7.4.1.5.
 
-[^salcedo-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, párrafos 35 a 37.
+[^salcedo-indicios]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 2024, párrafos 35 a 37.
 
 [^inocencia4]: Constitución de la República del Ecuador, art. 76, num. 2; COIP, art. 5, num. 4.
 

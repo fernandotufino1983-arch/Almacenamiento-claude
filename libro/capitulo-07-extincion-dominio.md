@@ -24,7 +24,7 @@ El Ecuador aprobó la **Ley Orgánica de Extinción de Dominio** en 2021[^ley]. 
 
 ### 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional
 
-El Presidente de la República objetó por inconstitucionalidad varios artículos del proyecto. La Corte Constitucional, en el **Dictamen No. 1-21-OP/21 de 17 de marzo de 2021**, aceptó parcialmente esas objeciones y concluyó que el **carácter imprescriptible** y **retrospectivo** que el proyecto atribuía a la acción de extinción de dominio era **inconstitucional**, por ser incompatible con el derecho a la **seguridad jurídica** y con el principio de **legalidad**[^dictamen].
+El Presidente de la República objetó por inconstitucionalidad varios artículos del proyecto. La Corte Constitucional, en el **Dictamen No. 1-21-OP/21 de 2021**, aceptó parcialmente esas objeciones y concluyó que el **carácter imprescriptible** y **retrospectivo** que el proyecto atribuía a la acción de extinción de dominio era **inconstitucional**, por ser incompatible con el derecho a la **seguridad jurídica** y con el principio de **legalidad**[^dictamen].
 
 Las fuentes que analizan el dictamen destacan que la retroactividad prevista en el proyecto era ilimitada: el Estado habría podido reclamar bienes adquiridos en cualquier momento del pasado, sin importar cuántos terceros de buena fe los hubieran adquirido después.
 
@@ -181,7 +181,7 @@ Constitución Política de Colombia. (1991). Art. 34.
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo de 2021.
+Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 2021.
 
 [^uafe173]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.3, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. Si el juez ratifica la medida y se inicia la instrucción fiscal, los fondos se trasladan, en el término de cinco días, a una cuenta única en el Banco Central del Ecuador. Garantías aplicables: Constitución, arts. 66.26 (propiedad) y 76; COIP, arts. 519 y 520.
 
@@ -191,7 +191,7 @@ Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo
 
 [^ley]: Ley Orgánica de Extinción de Dominio, publicada en el Quinto Suplemento del Registro Oficial 452 en 2021. El texto está disponible en el sitio de la Procuraduría General del Estado.
 
-[^dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 17 de marzo de 2021. Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; conviene revisarlas antes de citarlas en un escrito.
+[^dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 2021. Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; conviene revisarlas antes de citarlas en un escrito.
 
 [^actores]: Según las fuentes disponibles, la investigación patrimonial corresponde a la Fiscalía General del Estado y la demanda la presenta la Procuraduría General del Estado.
 

@@ -80,7 +80,7 @@ Es decir, la casación trabaja sobre los **hechos que el tribunal de apelación 
 
 ### 11.4.3. La lección del caso Espinel: escoger bien la causal
 
-En el caso Espinel, la defensa sostuvo que el tribunal condenó por activos "injustificados" y no por activos de origen ilícito. La Corte Nacional, en la sentencia de casación de 29 de julio de 2021 (juicio No. 09333-2018-00282), aceptó que el origen ilícito es un elemento normativo del tipo, pero declaró el recurso improcedente: el reproche, que los hechos probados no encajan en el tipo, correspondía a la indebida aplicación, no a la errónea interpretación (capítulo 2, sección 2.3.4).
+En el caso Espinel, la defensa sostuvo que el tribunal condenó por activos "injustificados" y no por activos de origen ilícito. La Corte Nacional, en la sentencia de casación de 2021 (juicio No. 09333-2018-00282), aceptó que el origen ilícito es un elemento normativo del tipo, pero declaró el recurso improcedente: el reproche, que los hechos probados no encajan en el tipo, correspondía a la indebida aplicación, no a la errónea interpretación (capítulo 2, sección 2.3.4).
 
 De ahí sale una regla que conviene tener presente al redactar cada cargo:
 - **Si se sostiene que los hechos fijados no configuran un elemento del tipo**, la causal es la **indebida aplicación**.
@@ -99,7 +99,7 @@ La pauta de la Corte Suprema colombiana en la sentencia SP1569-2018 es útil par
 
 ### 11.4.5. La casación de la Fiscalía: el caso Salcedo
 
-La casación no es solo un recurso de la defensa. En el caso Salcedo, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 29 de enero de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20[^cc768].
+La casación no es solo un recurso de la defensa. En el caso Salcedo, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20[^cc768].
 
 Para la defensa que debe responder a una casación fiscal, el caso deja dos lecciones:
 1. **Vigilar el límite del art. 656.** Si la Fiscalía pide, bajo la forma de una errónea interpretación, que la Corte llegue a una conclusión de hecho distinta de la que fijó el tribunal de apelación, ese pedido es inadmisible. Como vimos en el capítulo 2 (sección 2.3.4), es legítimo preguntarse si en el propio caso Salcedo no se terminó revalorando la prueba.
@@ -140,7 +140,7 @@ El art. 658 añade tres límites: la revisión "solo podrá declararse en virtud
 
 ### 11.5.3. La lección del caso Chiriboga
 
-En el caso Chiriboga, la Corte Nacional inadmitió el 15 de marzo de 2023 el recurso de revisión del tesorero de la Federación, que había presentado como prueba nueva unas transferencias internacionales (capítulo 2, sección 2.3.4). La lección es que no basta con presentar una prueba nueva y relevante. El escrito debe:
+En el caso Chiriboga, la Corte Nacional inadmitió en 2023 el recurso de revisión del tesorero de la Federación, que había presentado como prueba nueva unas transferencias internacionales (capítulo 2, sección 2.3.4). La lección es que no basta con presentar una prueba nueva y relevante. El escrito debe:
 1. decir cuál de los supuestos del art. 658.3 se configura: documento falso, testigo falso, pericia maliciosa o pericia errada;
 2. identificar el documento, el testimonio o la pericia concretos en que se basó la sentencia;
 3. señalar el fragmento de la sentencia que contiene el error de hecho;
@@ -197,7 +197,7 @@ Cuando el juez o tribunal niega un recurso oportunamente interpuesto y expresame
 >
 > **c) Hechos fijados por el tribunal de apelación:** el tribunal dio por probado que mi defendido realizó depósitos en efectivo por USD [monto] entre [fechas], que esos depósitos superan los ingresos que declaró al Servicio de Rentas Internas y que un familiar suyo se encuentra procesado por [delito] (considerando [número] de la sentencia). No dio por probado ningún hecho delictivo concreto del que provengan esos fondos, ni relación alguna entre ellos y el proceso de su familiar.
 >
-> **d) Cómo se produjo el vicio:** Señores jueces, como ustedes podrán apreciar, los hechos que el propio tribunal fijó describen un patrimonio no justificado, no un patrimonio de origen ilícito. Esta Corte, en la sentencia de 29 de julio de 2021 (juicio No. 09333-2018-00282), reconoció que el origen ilícito "constituye un elemento normativo dentro de la tipicidad objetiva", y en la sentencia de 29 de enero de 2024 (juicio No. 07712-2020-00205) exigió acreditar un hecho que se ajuste objetivamente a un tipo penal y su relación de causalidad con los bienes. Al aplicar el art. 317 a hechos que no contienen ese elemento, el tribunal aplicó indebidamente la norma.
+> **d) Cómo se produjo el vicio:** Señores jueces, como ustedes podrán apreciar, los hechos que el propio tribunal fijó describen un patrimonio no justificado, no un patrimonio de origen ilícito. Esta Corte, en la sentencia de 2021 (juicio No. 09333-2018-00282), reconoció que el origen ilícito "constituye un elemento normativo dentro de la tipicidad objetiva", y en la sentencia de 2024 (juicio No. 07712-2020-00205) exigió acreditar un hecho que se ajuste objetivamente a un tipo penal y su relación de causalidad con los bienes. Al aplicar el art. 317 a hechos que no contienen ese elemento, el tribunal aplicó indebidamente la norma.
 >
 > **e) Trascendencia:** de no haberse producido el vicio, los hechos fijados no habrían permitido condenar por lavado de activos, y correspondía ratificar el estado de inocencia de mi defendido.
 >
@@ -244,15 +244,15 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Regis
 
 Corte Constitucional del Ecuador. (2020). *Sentencia No. 768-15-EP/20*.
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21*.
+Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21*.
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2023, 15 de marzo). *Resolución de revisión, juicio No. 17282-2015-05549* (caso Chiriboga).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2023). *Resolución de revisión, juicio No. 17282-2015-05549* (caso Chiriboga).
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
 
-Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo). *Sentencia SP1569-2018, radicación No. 45.889*.
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018). *Sentencia SP1569-2018, radicación No. 45.889*.
 
 [^art652]: COIP, art. 652, nums. 1, 5, 6, 7, 8, 9 y 10.
 

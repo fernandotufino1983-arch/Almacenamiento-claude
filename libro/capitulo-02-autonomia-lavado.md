@@ -54,7 +54,7 @@ Quien cita solo la primera mitad de la norma, cita la norma a medias.
 
 ### 2.3.3. La Resolución 20-2024 de la Corte Nacional de Justicia
 
-El 23 de octubre de 2024, el Pleno de la Corte Nacional de Justicia aprobó la **Resolución No. 20-2024**, publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024, que establece un **precedente jurisprudencial obligatorio** sobre el lavado de activos, sobre la base de fallos de triple reiteración de la Sala Penal[^cnj2024].
+En 2024, el Pleno de la Corte Nacional de Justicia aprobó la **Resolución No. 20-2024**, publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024, que establece un **precedente jurisprudencial obligatorio** sobre el lavado de activos, sobre la base de fallos de triple reiteración de la Sala Penal[^cnj2024].
 
 Según las fuentes disponibles, el precedente sostiene que:
 - **no se requiere una sentencia condenatoria previa** por el delito de origen para procesar o condenar por lavado de activos;
@@ -70,13 +70,13 @@ Dos sentencias de casación de la Sala Penal de la Corte Nacional permiten ver c
 | | **Caso Espinel** | **Caso Salcedo** |
 |---|---|---|
 | Proceso | Juicio No. 09333-2018-00282 | Juicio No. 07712-2020-00205 |
-| Fecha | 29 de julio de 2021 | 29 de enero de 2024 |
+| Año | 2021 | 2024 |
 | Ponente | Felipe Córdova Ochoa | Marco Rodríguez Ruiz |
 | Recurrente | El procesado, condenado a diez años | La Fiscalía, frente a una doble sentencia absolutoria |
 | Cargo | Errónea interpretación del art. 317: se condenó por activos "injustificados", no por activos de origen ilícito | Errónea interpretación del art. 317: el tribunal de apelación exigió "comprobar" los delitos de origen |
 | Decisión | Recurso improcedente; se confirma la condena | Se casa la sentencia; condena de trece años a los autores y de seis años y seis meses a los cómplices; responsabilidad de cinco personas jurídicas |
 
-**a) Lo que dijo la Corte en el caso Espinel (CNJ, sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282).** La defensa planteó exactamente la tesis de este capítulo: "injustificación del activo no es igual a origen ilícito". La Corte no la rechazó. Al contrario, afirmó que "la mera tenencia de activos no configura el delito en cuestión, se precisa que estos activos posean un origen ilícito", que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva", y que el lavado "solamente se consuma cuando los verbos rectores [...] recaen sobre un beneficio o rédito que provenga de la comisión de un acto típico, antijurídico y culpable"[^espinel1]. Citó además a Pariona Pastrana para sostener que el acto delictivo previo "es un elemento normativo del delito de lavado de activos" que debe probarse, al menos, mediante indicios.
+**a) Lo que dijo la Corte en el caso Espinel (CNJ, sentencia de casación de 2021, juicio No. 09333-2018-00282).** La defensa planteó exactamente la tesis de este capítulo: "injustificación del activo no es igual a origen ilícito". La Corte no la rechazó. Al contrario, afirmó que "la mera tenencia de activos no configura el delito en cuestión, se precisa que estos activos posean un origen ilícito", que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva", y que el lavado "solamente se consuma cuando los verbos rectores [...] recaen sobre un beneficio o rédito que provenga de la comisión de un acto típico, antijurídico y culpable"[^espinel1]. Citó además a Pariona Pastrana para sostener que el acto delictivo previo "es un elemento normativo del delito de lavado de activos" que debe probarse, al menos, mediante indicios.
 
 Es decir, en el plano de la interpretación, la Corte dio la razón a la defensa. Si el recurso se rechazó fue por otras dos razones:
 
@@ -87,7 +87,7 @@ Aquí está, a mi juicio, el punto crítico de este fallo. ¿Cuáles fueron los 
 
 Con todo respeto, no puedo compartir ese razonamiento. Una instrucción fiscal en trámite no es un indicio de que el delito existió: es el reflejo de que la Fiscalía sospecha que existió, y el procesado conserva, respecto de ese delito, su estado de inocencia (art. 76.2 de la Constitución y art. 5.4 del COIP). Y un informe de la Contraloría no es prueba, conforme al art. 454.6 del COIP (capítulo 4, sección 4.6.3). Construir el origen ilícito del lavado sobre la sola existencia de otros procesos pendientes es, en el fondo, sustituir la prueba por la acumulación de imputaciones. Además, la "probabilidad" no es el estándar de condena: el art. 5.3 del COIP exige el convencimiento más allá de toda duda razonable.
 
-**b) Lo que dijo la Corte en el caso Salcedo (CNJ, sentencia de casación de 29 de enero de 2024, juicio No. 07712-2020-00205).** Este fallo va más lejos. El tribunal de apelación había absuelto porque la Fiscalía no logró probar "qué cantidad de dinero habría generado" el peculado y la delincuencia organizada que invocó como delitos de origen, ni cómo ese dinero se habría colocado o integrado en el periodo de 2018 a 2020. La Corte Nacional casó esa sentencia y sostuvo que[^salcedo1]:
+**b) Lo que dijo la Corte en el caso Salcedo (CNJ, sentencia de casación de 2024, juicio No. 07712-2020-00205).** Este fallo va más lejos. El tribunal de apelación había absuelto porque la Fiscalía no logró probar "qué cantidad de dinero habría generado" el peculado y la delincuencia organizada que invocó como delitos de origen, ni cómo ese dinero se habría colocado o integrado en el periodo de 2018 a 2020. La Corte Nacional casó esa sentencia y sostuvo que[^salcedo1]:
 
 - el tribunal de apelación creó "una suerte de prejudicialidad no contemplada en la norma" al exigir la **comprobación** de los delitos de origen;
 - lo único que el art. 317 exige a la Fiscalía es **investigar** el origen ilícito;
@@ -99,13 +99,13 @@ Para definir lo que debe probarse, la Corte acogió una guía interpretativa ela
 
 Esa guía es la de Wilson Martínez para la Fundación Panamericana para el Desarrollo (PADF), y conviene leerla en su fuente, porque dice algo más que lo que la Corte transcribió. Según Martínez (2021, p. 42), la declaratoria de responsabilidad por lavado no exige probar el delito precedente "en estricto sentido", es decir, con todos sus elementos; pero inmediatamente añade que "lo que se necesita **probar**, en realidad, es la existencia de una conducta precedente que se adecúe objetivamente a uno de los tipos penales", sin necesidad de demostrar "la tipicidad subjetiva, la antijuridicidad o la culpabilidad del comportamiento, la autoría o participación" respecto del delito fuente. Como podrá apreciar el lector, la guía no habla de **investigar**: habla de **probar**. Rebaja el contenido de lo que debe probarse (la tipicidad objetiva y el nexo causal, no el delito completo), pero no rebaja la exigencia de prueba sobre ese contenido.
 
-**d) Una sentencia de apelación: el caso Chiriboga ("FIFA Gate").** A estos dos fallos de casación conviene sumar la sentencia de apelación de la Sala Penal de la Corte Provincial de Justicia de Pichincha, de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), que confirmó la condena del expresidente de la Federación Ecuatoriana de Fútbol a diez años de prisión, del tesorero como coautor y del contador como cómplice, por haber recibido en las cuentas de la Federación USD 6.119.565 entre 2010 y 2015[^chiriboga1]. Para el tema de este capítulo, el fallo deja tres enseñanzas.
+**d) Una sentencia de apelación: el caso Chiriboga ("FIFA Gate").** A estos dos fallos de casación conviene sumar la sentencia de apelación de la Sala Penal de la Corte Provincial de Justicia de Pichincha, de 2017 (juicio No. 17282-2015-05549), que confirmó la condena del expresidente de la Federación Ecuatoriana de Fútbol a diez años de prisión, del tesorero como coautor y del contador como cómplice, por haber recibido en las cuentas de la Federación USD 6.119.565 entre 2010 y 2015[^chiriboga1]. Para el tema de este capítulo, el fallo deja tres enseñanzas.
 
 La primera es que el tribunal sí identificó una actividad delictiva de origen: el esquema de sobornos de la CONMEBOL y de los titulares de los derechos de transmisión. Pero lo hizo, en lo principal, con base en una **acusación formal** presentada ante un tribunal de los Estados Unidos y en una **denuncia** de la fiscalía argentina, recibidas por asistencia penal internacional. Es decir, otra vez, imputaciones pendientes y no hechos probados. La crítica que formulé al caso Espinel se aplica aquí con la misma fuerza.
 
 La segunda es más preocupante. Respecto de los ingresos por los contratos de derechos de televisión, el tribunal sostuvo que, "al no haber sido facturados o no emitir un comprobante de venta, se cometen otros ilícitos que le contamina al dinero y lo convierte en ilícito". Con todo respeto, esa afirmación invierte la lógica del lavado. El origen del dinero era un contrato, que la propia sentencia reconoce vigente; la falta de facturación posterior podrá constituir, si se cumplen sus elementos, una infracción tributaria, pero no convierte en "producto del delito" un dinero que se obtuvo lícitamente. Un ingreso lícito no declarado no es un activo de origen ilícito; a lo sumo, la cuota tributaria defraudada podría serlo, y solo si se prueba la defraudación.
 
-La tercera tiene que ver con la frase que la UAFE atribuyó a este caso en la audiencia de casación del caso Espinel: "basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". **Esa frase no aparece en la sentencia de apelación**, que revisé completa. Por el contrario, el tribunal afirmó que la carga de la prueba "estaba a cargo del ente acusador" y que el nexo causal tiene como prerrequisito "la certeza de la existencia del delito". Tampoco aparece en la resolución de la Corte Nacional que, el 15 de marzo de 2023, inadmitió el recurso de revisión del tesorero. Si la frase existe, debe estar en el auto que inadmitió la casación, y debe verificarse antes de citarla[^chiriboga2].
+La tercera tiene que ver con la frase que la UAFE atribuyó a este caso en la audiencia de casación del caso Espinel: "basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". **Esa frase no aparece en la sentencia de apelación**, que revisé completa. Por el contrario, el tribunal afirmó que la carga de la prueba "estaba a cargo del ente acusador" y que el nexo causal tiene como prerrequisito "la certeza de la existencia del delito". Tampoco aparece en la resolución de la Corte Nacional que, en 2023, inadmitió el recurso de revisión del tesorero. Si la frase existe, debe estar en el auto que inadmitió la casación, y debe verificarse antes de citarla[^chiriboga2].
 
 La historia posterior del caso deja, además, una lección procesal. El tesorero sostuvo desde la apelación que las cinco transferencias de la CONMEBOL que la sentencia consideró "falsas donaciones", por no constar en el listado enviado desde Paraguay, sí existían, y en revisión presentó las copias certificadas de esas transferencias con sus códigos SWIFT. La Corte Nacional no llegó a examinarlas: inadmitió el recurso porque el escrito no identificó qué documento, testigo o pericia era falso o errado, como exige el art. 658.3 del COIP, ni confrontó el razonamiento de la sentencia con una versión alternativa de los hechos[^chiriboga3]. Una prueba nueva, por relevante que sea, no abre la revisión si no se encaja con precisión en una de sus causales.
 
@@ -226,7 +226,7 @@ Un contraindicio no necesita probar con certeza el origen lícito. Basta con que
 El Tribunal Supremo español sostiene desde hace años que no es necesaria una condena previa por el delito de origen y que el origen ilícito puede probarse mediante indicios. Su jurisprudencia es la fuente de los indicios clásicos que vimos en el apartado anterior. Al mismo tiempo, ha exigido que se acredite una conexión con una actividad delictiva, sin que baste la mera sospecha[^espana].
 
 ### 2.6.2. Perú
-El caso peruano es especialmente útil porque la Corte Suprema abordó de forma directa el estándar de prueba. El **Acuerdo Plenario No. 3-2010/CJ-116**, de 16 de noviembre de 2010, desarrolló la autonomía del delito y la prueba indiciaria, y la **Sentencia Plenaria Casatoria No. 1-2017/CIJ-433**, de 11 de octubre de 2017, precisó que la autonomía no elimina la necesidad de acreditar el origen delictivo, y que el estándar de prueba se eleva a lo largo del proceso hasta exigir, para condenar, la convicción más allá de toda duda razonable[^peru].
+El caso peruano es especialmente útil porque la Corte Suprema abordó de forma directa el estándar de prueba. El **Acuerdo Plenario No. 3-2010/CJ-116**, de 2010, desarrolló la autonomía del delito y la prueba indiciaria, y la **Sentencia Plenaria Casatoria No. 1-2017/CIJ-433**, de 2017, precisó que la autonomía no elimina la necesidad de acreditar el origen delictivo, y que el estándar de prueba se eleva a lo largo del proceso hasta exigir, para condenar, la convicción más allá de toda duda razonable[^peru].
 
 ### 2.6.3. Colombia
 La Corte Suprema de Justicia colombiana ha sostenido que el lavado es autónomo y que no requiere una sentencia previa por el delito de origen, aunque sí la demostración de que los bienes provienen de alguna de las actividades delictivas previstas en la ley[^colombia].
@@ -310,13 +310,13 @@ Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terroris
 
 **Normativa y jurisprudencia**
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (ponente: F. Córdova Ochoa).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021). *Sentencia de casación, juicio No. 09333-2018-00282* (ponente: F. Córdova Ochoa).
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2023, 15 de marzo). *Resolución de revisión, juicio No. 17282-2015-05549* (ponente: F. Córdova Ochoa).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2023). *Resolución de revisión, juicio No. 17282-2015-05549* (ponente: F. Córdova Ochoa).
 
-Corte Provincial de Justicia de Pichincha, Sala de lo Penal. (2017, 13 de septiembre). *Sentencia de apelación, juicio No. 17282-2015-05549*.
+Corte Provincial de Justicia de Pichincha, Sala de lo Penal. (2017). *Sentencia de apelación, juicio No. 17282-2015-05549*.
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; versión con última actualización de 7 de octubre de 2026].
 
@@ -336,13 +336,13 @@ Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de 
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos]. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
+Corte Nacional de Justicia del Ecuador. (2024). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos]. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
-Corte Suprema de Justicia de la República del Perú. (2010, 16 de noviembre). *Acuerdo Plenario No. 3-2010/CJ-116*.
+Corte Suprema de Justicia de la República del Perú. (2010). *Acuerdo Plenario No. 3-2010/CJ-116*.
 
-Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Sentencia Plenaria Casatoria No. 1-2017/CIJ-433*.
+Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenaria Casatoria No. 1-2017/CIJ-433*.
 
 [^viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b).
 
@@ -354,7 +354,7 @@ Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Se
 
 [^art317]: COIP, art. 317, modificado por el art. 9 de la ley publicada en el R.O. Supl. 525 de 27 de agosto de 2021 y reformado por el art. 8 de la ley publicada en el R.O. Supl. 599 de 12 de julio de 2024. La compilación vigente remite, en nota a este artículo, a la Resolución de triple reiteración No. 20 de la Corte Nacional (R.O. Supl. 689, 22 de noviembre de 2024). Comentario del autor: la segunda parte de la norma, la obligación de investigar el origen ilícito, es la que con más frecuencia se omite al citarla.
 
-[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
+[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno en 2024. Publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 [^obligatorio]: Constitución, art. 185: las sentencias emitidas por las salas especializadas de la Corte Nacional de Justicia que reiteren por tres ocasiones la misma opinión sobre un mismo punto constituyen jurisprudencia obligatoria.
 
@@ -380,19 +380,19 @@ Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Se
 
 [^nota317]: Nota de la compilación del COIP (versión con última actualización de 7 de octubre de 2026) al art. 317: "la acreditación del origen ilícito de los bienes puede realizarse mediante prueba indiciaria, sin que se exija una sentencia condenatoria previa respecto de los delitos precedentes".
 
-[^espinel1]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.4.1.5. La Corte cita a Pariona Pastrana, J. (2007). *El delito precedente en el delito de lavado de activos*. Instituto Pacífico, p. 144.
+[^espinel1]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 2021, considerando 7.4.1.5. La Corte cita a Pariona Pastrana, J. (2007). *El delito precedente en el delito de lavado de activos*. Instituto Pacífico, p. 144.
 
 [^espinel2]: Ibídem, considerando 7.4.1.5. Comentario del autor: en sus intervenciones, la UAFE citó además el llamado caso "FIFA gate" (juicio No. 17282-2015-05549), del que transcribió la frase: "No se necesita la comisión de otros delitos, sino que basta que el sujeto activo de la infracción no demuestre el origen legítimo de los recursos". La Corte no hizo suyo ese criterio, y la frase no aparece en la sentencia de apelación de ese caso (ver el literal d de esta sección).
 
-[^salcedo1]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, párrafos 30 a 37. La Corte se apoyó en la sentencia de la Corte Constitucional No. 768-15-EP/20 para admitir la casación de la Fiscalía frente a una doble sentencia absolutoria, y dispuso que los jueces de instancia informaran sobre sus actuaciones para determinar un posible error inexcusable (art. 109.7 del Código Orgánico de la Función Judicial).
+[^salcedo1]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 2024, párrafos 30 a 37. La Corte se apoyó en la sentencia de la Corte Constitucional No. 768-15-EP/20 para admitir la casación de la Fiscalía frente a una doble sentencia absolutoria, y dispuso que los jueces de instancia informaran sobre sus actuaciones para determinar un posible error inexcusable (art. 109.7 del Código Orgánico de la Función Judicial).
 
 [^salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). El pasaje transcrito corresponde a Martínez (2021, p. 42), que a su vez se apoya en un documento de la OEA sin fecha. Comentario del autor: la guía no es una fuente normativa ni jurisprudencial; es un documento de cooperación técnica. Su autoridad en el proceso es la de la doctrina, y el tribunal que la usa debe contrastarla con el texto del art. 317 y con el art. 455 del COIP.
 
-[^chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 13 de septiembre de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente.
+[^chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente.
 
-[^chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: no aparece ni en la sentencia de apelación ni en la resolución de revisión de 2023. **[pendiente: obtener el auto de inadmisión de la casación]**
+[^chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: no aparece ni en la sentencia de apelación ni en la resolución de revisión de 2023.
 
-[^chiriboga3]: Corte Nacional de Justicia, Sala Penal, juicio No. 17282-2015-05549, resolución de 15 de marzo de 2023 (ponente: F. Córdova Ochoa), que inadmitió el recurso de revisión interpuesto por Hugo Edison Mora Azanza por falta de fundamentación (arts. 658.3 y 659 del COIP).
+[^chiriboga3]: Corte Nacional de Justicia, Sala Penal, juicio No. 17282-2015-05549, resolución de 2023 (ponente: F. Córdova Ochoa), que inadmitió el recurso de revisión interpuesto por Hugo Edison Mora Azanza por falta de fundamentación (arts. 658.3 y 659 del COIP).
 
 [^extranjero]: COIP, art. 317, penúltimo inciso.
 

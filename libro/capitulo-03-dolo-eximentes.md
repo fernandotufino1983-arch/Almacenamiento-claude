@@ -80,7 +80,7 @@ En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es
 
 Para la defensa, la tarea consiste en demostrar que el procesado estaba en la tercera situación, o al menos en generar duda razonable sobre la segunda.
 
-La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^chiriboga-dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
+La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 2017 (juicio No. 17282-2015-05549), citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^chiriboga-dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
 
 ### 3.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
 
@@ -315,7 +315,7 @@ Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código O
 
 **Jurisprudencia**
 
-Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero].
+Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero].
 
 Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
@@ -339,9 +339,9 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
 [^art36]: COIP, art. 36. Comentario del autor: en estos casos el juez dicta una medida de seguridad en lugar de una pena.
 
-[^bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01).
+[^bverfg]: Tribunal Constitucional Federal alemán, sentencia de 2004 (2 BvR 1520/01, 2 BvR 1521/01).
 
-[^chiriboga-dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017.
+[^chiriboga-dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 2017.
 
 [^chiriboga-contador]: Ibídem.
 

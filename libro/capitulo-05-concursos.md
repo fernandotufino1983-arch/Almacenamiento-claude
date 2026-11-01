@@ -96,9 +96,9 @@ No se ha identificado un precedente obligatorio de la Corte Nacional que resuelv
 
 ### 5.5.4. La experiencia ecuatoriana: el caso de las drogas
 
-La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. El Pleno de la Corte Nacional de Justicia, en la **Resolución No. 12-2015**, expedida el 17 de septiembre de 2015 y publicada en el Registro Oficial Suplemento 593 de 22 de septiembre de 2015, estableció que quien "con un acto incurra en uno o más verbos rectores, con sustancias estupefacientes, sicotrópicas o preparados que las contengan, distintos y en cantidades iguales o diferentes, será sancionada con pena privativa de libertad acumulada según sea la sustancia". Es decir, una pena por cada tipo de sustancia, sumadas como en el concurso real[^res12].
+La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. El Pleno de la Corte Nacional de Justicia, en la **Resolución No. 12-2015**, expedida en 2015 y publicada en el Registro Oficial Suplemento 593 de 22 de septiembre de 2015, estableció que quien "con un acto incurra en uno o más verbos rectores, con sustancias estupefacientes, sicotrópicas o preparados que las contengan, distintos y en cantidades iguales o diferentes, será sancionada con pena privativa de libertad acumulada según sea la sustancia". Es decir, una pena por cada tipo de sustancia, sumadas como en el concurso real[^res12].
 
-Ese criterio no sobrevivió. La Sala Penal de la Corte Nacional lo abandonó en tres sentencias de casación, de 2 de agosto de 2018 (juicio No. 17721-2016-1110), 17 de octubre de 2018 (juicio No. 17282-2016-00494) y 9 de enero de 2019 (juicio No. 17282-2016-05465), y el Pleno, en la **Resolución No. 02-2019**, de 6 de febrero de 2019, dejó sin efecto la Resolución 12-2015 y declaró como nuevo precedente obligatorio que, cuando los verbos rectores del art. 220 del COIP son "atribuibles a una misma persona en unidad de tiempo y acción, se debe aplicar el concurso ideal de delitos, por el que se punirá únicamente la conducta más severamente sancionada en el tipo penal, conforme el principio de absorción"[^cnj2019]. La línea argumental de la Corte partió del principio de proporcionalidad del art. 76.6 de la Constitución y de una idea que conviene retener: el art. 220 tiene una estructura polinuclear, con catorce verbos rectores, pero "tales acciones no son varios delitos ni tampoco autónomos e independientes".
+Ese criterio no sobrevivió. La Sala Penal de la Corte Nacional lo abandonó en tres sentencias de casación, de 2018 (juicio No. 17721-2016-1110), 2018 (juicio No. 17282-2016-00494) y 2019 (juicio No. 17282-2016-05465), y el Pleno, en la **Resolución No. 02-2019**, de 2019, dejó sin efecto la Resolución 12-2015 y declaró como nuevo precedente obligatorio que, cuando los verbos rectores del art. 220 del COIP son "atribuibles a una misma persona en unidad de tiempo y acción, se debe aplicar el concurso ideal de delitos, por el que se punirá únicamente la conducta más severamente sancionada en el tipo penal, conforme el principio de absorción"[^cnj2019]. La línea argumental de la Corte partió del principio de proporcionalidad del art. 76.6 de la Constitución y de una idea que conviene retener: el art. 220 tiene una estructura polinuclear, con catorce verbos rectores, pero "tales acciones no son varios delitos ni tampoco autónomos e independientes".
 
 La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-CN/19**[^cc717].
 
@@ -172,7 +172,7 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 | Un mismo acto encaja en el testaferrismo (art. 289) y en el lavado (art. 317, num. 3) | **Concurso aparente** que se resuelve por especialidad |
 | Sobreprecios en varias planillas de un mismo contrato | ¿Varios peculados o uno solo? Es un argumento de **unidad de conducta** o de **delito continuado** |
 
-**El autolavado en la jurisprudencia de la Corte Nacional.** La Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 15 de diciembre de 2017 (juicio No. 13284-2015-01812, ponente Gladys Terán Sierra), sostuvo que "es aconsejable admitir la sanción del autor del hecho previo como posterior lavador", porque el blanqueo "debe ser comprendido no sólo como una forma de encubrimiento sino como un delito independiente (autónomo) contra el orden socioeconómico" (Corte Nacional de Justicia, 15 de diciembre de 2017, como se citó en Fiscalía General del Estado, 2021, p. 98). Es decir, la Corte admite el concurso real entre el delito de origen y el lavado cometido por la misma persona (Martínez, 2021, p. 80).
+**El autolavado en la jurisprudencia de la Corte Nacional.** La Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 2017 (juicio No. 13284-2015-01812, ponente Gladys Terán Sierra), sostuvo que "es aconsejable admitir la sanción del autor del hecho previo como posterior lavador", porque el blanqueo "debe ser comprendido no sólo como una forma de encubrimiento sino como un delito independiente (autónomo) contra el orden socioeconómico" (Corte Nacional de Justicia, 2017, como se citó en Fiscalía General del Estado, 2021, p. 98). Es decir, la Corte admite el concurso real entre el delito de origen y el lavado cometido por la misma persona (Martínez, 2021, p. 80).
 
 Frente a esa postura, una parte de la doctrina considera que el lavado realizado por el propio autor del delito de origen es un **acto posterior copenado**, cuyo desvalor ya está cubierto por la pena del primer delito (Fabián Caparrós, 1998, p. 201; Blanco Cordero, 2015, p. 471, como se citaron en Martínez, 2021, p. 80).
 
@@ -256,13 +256,13 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017, 15 de diciembre). *Sentencia de casación, juicio No. 13284-2015-01812* (ponente: G. Terán Sierra) [citada a través de Fiscalía General del Estado, 2021, y de Martínez, 2021].
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia de casación, juicio No. 13284-2015-01812* (ponente: G. Terán Sierra) [citada a través de Fiscalía General del Estado, 2021, y de Martínez, 2021].
 
 Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19*.
 
-Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
+Corte Nacional de Justicia del Ecuador. (2015). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
-Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
+Corte Nacional de Justicia del Ecuador. (2019). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
 
 [^esfera]: COIP, art. 317, en relación con el art. 76.7, lit. i, de la Constitución (*ne bis in idem*) y con el art. 21 del COIP (concurso ideal). Comentario del autor: el artículo de Villacreses y Herrera no identifica el número de juicio del caso que analiza; antes de citarlo como precedente en un escrito, conviene ubicar la sentencia.
 
@@ -280,11 +280,11 @@ Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 0
 
 [^art21]: COIP, art. 21, texto vigente según la compilación con última actualización de 7 de octubre de 2026.
 
-[^res12]: Corte Nacional de Justicia, Resolución No. 12-2015, citada por la Resolución No. 02-2019, art. 2. Comentario del autor: la propia Resolución 02-2019 da dos datos distintos para la 12-2015: en sus considerandos, la fecha de 16 de septiembre de 2015 y el Registro Oficial 592; en su art. 2, la fecha de 17 de septiembre de 2015 y el Registro Oficial 593. Se sigue la parte resolutiva. **[confirmar en el Registro Oficial]**
+[^res12]: Corte Nacional de Justicia, Resolución No. 12-2015, citada por la Resolución No. 02-2019, art. 2.
 
 [^cc717]: Corte Constitucional del Ecuador, sentencia No. 7-17-CN/19. Comentario del autor: la sentencia es un buen ejemplo de cómo la proporcionalidad de la pena (art. 76.6 de la Constitución) sirve para controlar la forma de contar las conductas.
 
-[^cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 6 de febrero de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP.
+[^cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP.
 
 [^espana]: Código Penal español (Ley Orgánica 10/1995), art. 77 (concurso ideal y medial) y art. 74 (delito continuado).
 
