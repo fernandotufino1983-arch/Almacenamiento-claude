@@ -22,9 +22,7 @@ Mucha gente cree que tener dinero que no puede explicar ya es lavado de activos.
 ## Texto de la publicación
 
 > ¿Tener dinero que no puedes justificar es lavado de activos? 🤔 No necesariamente. La Fiscalía tiene que probar el origen ilícito y que lo sabías. Te lo explico en 45 segundos.
->
 > 📘 *¿De dónde salió el dinero? La defensa penal en el delito de lavado de activos*
->
 > #LavadoDeActivos #DerechoPenal #Ecuador #Guayaquil #Abogado #COIP
 
 **Comentario fijado:** "¿Quieres el libro o tienes una duda? Escríbeme por mensaje directo."
