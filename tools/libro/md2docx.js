@@ -57,7 +57,7 @@ while (i < lines.length) {
   i++;
 }
 const A4 = { width: 11906, height: 16838 };
-const footer = new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: 'Ab. Fernando Tufiño · Estudio de derecho penal · Pág. ', size: 16, color: '808080' }), new TextRun({ children: [PageNumber.CURRENT], size: 16, color: '808080' })] })] });
+const footer = new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: 'Mgtr. Fernando Tufiño Valladares · Pág. ', size: 16, color: '808080' }), new TextRun({ children: [PageNumber.CURRENT], size: 16, color: '808080' })] })] });
 const sections = [];
 if (cover) sections.push({ properties: { page: { size: A4, margin: { top: 0, bottom: 0, left: 0, right: 0, header: 0, footer: 0 } } },
   children: [new Paragraph({ spacing: { before: 0, after: 0 }, children: [new ImageRun({ type: 'png', data: fs.readFileSync(cover), transformation: { width: 794, height: 1122 } })] })] });
