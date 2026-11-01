@@ -26,7 +26,7 @@ Confío en que esta obra sea una herramienta útil para abogados defensores, fis
 
 Quiero agradecer a mis colegas y a mis clientes, de quienes he aprendido lo que ningún manual enseña [Nota del autor: agradecimientos personales]. Soy consciente de que el camino está lejos de terminar. Quedan pendientes, entre otros desafíos, la capacitación especializada de los operadores de justicia, la uniformidad de los criterios judiciales sobre el estándar de prueba y una política criminal que persiga el dinero ilícito sin sacrificar los derechos de quienes son inocentes.
 
-[Ciudad], [mes] de 2026
+Guayaquil, noviembre de 2026
 
 **Ab. Fernando Tufiño Valladares**
 
