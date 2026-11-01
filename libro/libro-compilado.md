@@ -197,144 +197,144 @@
 <<IDX3>> 6.6.5. La empresa de fachada: cuándo no hay persona jurídica que defender|92
 <<IDX2>> 6.7. Asesoría preventiva: el programa de cumplimiento|93
 <<IDX3>> 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo|93
-<<IDX2>> 6.8. Caso práctico resuelto|94
+<<IDX2>> 6.8. Caso práctico resuelto|95
 <<IDX2>> 6.9. Lista de revisión|95
-<<IDX2>> Referencias|95
-<<IDX1>> Capítulo 7. La extinción de dominio y las medidas cautelares reales|97
-<<IDX2>> 7.1. Planteamiento|97
-<<IDX2>> 7.2. Origen: el modelo colombiano|97
-<<IDX2>> 7.3. La extinción de dominio en el Ecuador|97
-<<IDX3>> 7.3.1. La ley de 2021|97
-<<IDX3>> 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional|97
-<<IDX2>> 7.4. Naturaleza jurídica|98
-<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|98
-<<IDX2>> 7.5. Los presupuestos|99
-<<IDX2>> 7.6. El procedimiento|100
-<<IDX2>> 7.7. El tercero de buena fe|100
-<<IDX2>> 7.8. Las medidas cautelares reales|100
-<<IDX2>> 7.9. Estrategia de defensa|101
-<<IDX3>> 7.9.1. En el proceso de extinción de dominio|101
-<<IDX3>> 7.9.2. La coordinación con el proceso penal|101
-<<IDX3>> 7.9.3. La prueba del origen lícito de los bienes|102
-<<IDX2>> 7.10. Caso práctico resuelto|102
-<<IDX2>> 7.11. Lista de revisión|103
-<<IDX2>> Referencias|103
-<<IDX0>> Parte II. Estrategia de defensa|105
-<<IDX1>> Capítulo 8. La defensa en la investigación previa|105
-<<IDX2>> 8.1. Planteamiento|105
-<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|105
-<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|106
-<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|106
-<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|106
-<<IDX2>> 8.4. Los derechos del investigado|107
-<<IDX3>> 8.4.1. El acceso al expediente|107
-<<IDX3>> 8.4.2. El derecho al silencio|107
-<<IDX3>> 8.4.3. Rendir o no la versión|107
-<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|108
-<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|109
-<<IDX3>> 8.5.1. El fundamento|109
-<<IDX3>> 8.5.2. Qué pedir|109
-<<IDX3>> 8.5.3. La pericia de parte|110
-<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|110
-<<IDX2>> 8.6. Los plazos y el archivo|110
-<<IDX3>> 8.6.1. Los plazos|110
-<<IDX3>> 8.6.2. El archivo|110
-<<IDX2>> 8.7. Las medidas cautelares reales|111
-<<IDX2>> 8.8. La cooperación eficaz|112
-<<IDX2>> 8.9. La reserva y la exposición pública|112
-<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|112
-<<IDX2>> 8.11. Caso práctico resuelto|113
-<<IDX2>> 8.12. Lista de revisión|114
-<<IDX2>> Referencias|115
-<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|116
-<<IDX2>> 9.1. Planteamiento|116
-<<IDX2>> 9.2. La base legal|116
-<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|116
-<<IDX3>> 9.2.2. Los requisitos del perito y del informe|116
-<<IDX3>> 9.2.3. El criterio de valoración|117
-<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|117
-<<IDX2>> 9.4. Los métodos que usa la Fiscalía|118
-<<IDX3>> 9.4.1. La auditoría forense|118
-<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|118
-<<IDX2>> 9.5. Cuándo encargar la pericia de parte|119
-<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|119
-<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|119
-<<IDX2>> 9.6. Cómo elegir al perito|119
-<<IDX2>> 9.7. El encargo pericial: qué preguntar|120
-<<IDX2>> 9.8. La reconstrucción del patrimonio|120
-<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|120
-<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|121
-<<IDX3>> 9.8.3. La valoración de los bienes|121
-<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|121
-<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|122
-<<IDX2>> 9.9. El informe pericial de parte|123
-<<IDX3>> 9.9.1. Estructura recomendada|123
-<<IDX3>> 9.9.2. El cuadro de conciliación|123
-<<IDX2>> 9.10. La pericia de parte en el juicio|124
-<<IDX3>> 9.10.1. El interrogatorio del perito de parte|124
-<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|124
-<<IDX3>> 9.10.3. El alegato|124
-<<IDX2>> 9.11. Modelo de encargo pericial|124
-<<IDX2>> 9.12. Caso práctico resuelto|125
-<<IDX2>> 9.13. Lista de revisión|126
-<<IDX2>> Referencias|126
-<<IDX1>> Capítulo 10. La litigación en juicio|128
-<<IDX2>> 10.1. Planteamiento|128
-<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|128
-<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|128
-<<IDX3>> 10.2.2. Controlar la acusación|128
-<<IDX3>> 10.2.3. La exclusión de la prueba|129
-<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|129
-<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|129
-<<IDX2>> 10.3. La teoría del caso|130
-<<IDX3>> 10.3.1. Elegir el elemento|130
-<<IDX3>> 10.3.2. Una sola historia|130
-<<IDX2>> 10.4. El alegato de apertura|130
-<<IDX2>> 10.5. La práctica de la prueba|131
-<<IDX3>> 10.5.1. Las reglas del art. 615|131
-<<IDX3>> 10.5.2. El testimonio del procesado|131
-<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|132
-<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|132
-<<IDX3>> 10.5.5. Las objeciones|133
-<<IDX3>> 10.5.6. El juicio con varios procesados|133
-<<IDX2>> 10.6. El alegato de clausura|134
-<<IDX3>> 10.6.1. La última palabra|134
-<<IDX3>> 10.6.2. Estructura|134
-<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|135
-<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|135
-<<IDX2>> 10.9. Caso práctico resuelto|136
-<<IDX2>> 10.10. Lista de revisión|137
-<<IDX2>> Referencias|137
-<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|138
-<<IDX2>> 11.1. Planteamiento|138
-<<IDX2>> 11.2. Las reglas generales de la impugnación|138
-<<IDX2>> 11.3. La apelación|139
-<<IDX3>> 11.3.1. Qué se puede apelar|139
-<<IDX3>> 11.3.2. El trámite|139
-<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|139
-<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|139
-<<IDX2>> 11.4. La casación|140
-<<IDX3>> 11.4.1. Su objeto: la violación de la ley|140
-<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|141
-<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|141
-<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|141
-<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|142
-<<IDX3>> 11.4.6. El trámite|142
-<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|142
-<<IDX2>> 11.5. La revisión|143
-<<IDX3>> 11.5.1. Las causales|143
-<<IDX3>> 11.5.2. Los requisitos|143
-<<IDX3>> 11.5.3. La lección del caso Chiriboga|143
-<<IDX2>> 11.6. La acción extraordinaria de protección|144
-<<IDX3>> 11.6.1. Qué es y qué no es|144
-<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|144
-<<IDX3>> 11.6.3. Cómo plantearla|144
-<<IDX2>> 11.7. El recurso de hecho|145
-<<IDX2>> 11.8. Qué recurso para qué argumento|145
-<<IDX2>> 11.9. Modelo de cargo de casación|145
-<<IDX2>> 11.10. Caso práctico resuelto|146
-<<IDX2>> 11.11. Lista de revisión|147
-<<IDX2>> Referencias|147
+<<IDX2>> Referencias|96
+<<IDX1>> Capítulo 7. La extinción de dominio y las medidas cautelares reales|98
+<<IDX2>> 7.1. Planteamiento|98
+<<IDX2>> 7.2. Origen: el modelo colombiano|98
+<<IDX2>> 7.3. La extinción de dominio en el Ecuador|98
+<<IDX3>> 7.3.1. La ley de 2021|98
+<<IDX3>> 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional|98
+<<IDX2>> 7.4. Naturaleza jurídica|99
+<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|99
+<<IDX2>> 7.5. Los presupuestos|100
+<<IDX2>> 7.6. El procedimiento|101
+<<IDX2>> 7.7. El tercero de buena fe|101
+<<IDX2>> 7.8. Las medidas cautelares reales|101
+<<IDX2>> 7.9. Estrategia de defensa|102
+<<IDX3>> 7.9.1. En el proceso de extinción de dominio|102
+<<IDX3>> 7.9.2. La coordinación con el proceso penal|102
+<<IDX3>> 7.9.3. La prueba del origen lícito de los bienes|103
+<<IDX2>> 7.10. Caso práctico resuelto|103
+<<IDX2>> 7.11. Lista de revisión|104
+<<IDX2>> Referencias|104
+<<IDX0>> Parte II. Estrategia de defensa|106
+<<IDX1>> Capítulo 8. La defensa en la investigación previa|106
+<<IDX2>> 8.1. Planteamiento|106
+<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|106
+<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|107
+<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|107
+<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|107
+<<IDX2>> 8.4. Los derechos del investigado|108
+<<IDX3>> 8.4.1. El acceso al expediente|108
+<<IDX3>> 8.4.2. El derecho al silencio|108
+<<IDX3>> 8.4.3. Rendir o no la versión|108
+<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|109
+<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|110
+<<IDX3>> 8.5.1. El fundamento|110
+<<IDX3>> 8.5.2. Qué pedir|110
+<<IDX3>> 8.5.3. La pericia de parte|111
+<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|111
+<<IDX2>> 8.6. Los plazos y el archivo|111
+<<IDX3>> 8.6.1. Los plazos|111
+<<IDX3>> 8.6.2. El archivo|111
+<<IDX2>> 8.7. Las medidas cautelares reales|112
+<<IDX2>> 8.8. La cooperación eficaz|113
+<<IDX2>> 8.9. La reserva y la exposición pública|113
+<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|113
+<<IDX2>> 8.11. Caso práctico resuelto|114
+<<IDX2>> 8.12. Lista de revisión|115
+<<IDX2>> Referencias|116
+<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|117
+<<IDX2>> 9.1. Planteamiento|117
+<<IDX2>> 9.2. La base legal|117
+<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|117
+<<IDX3>> 9.2.2. Los requisitos del perito y del informe|117
+<<IDX3>> 9.2.3. El criterio de valoración|118
+<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|118
+<<IDX2>> 9.4. Los métodos que usa la Fiscalía|119
+<<IDX3>> 9.4.1. La auditoría forense|119
+<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|119
+<<IDX2>> 9.5. Cuándo encargar la pericia de parte|120
+<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|120
+<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|120
+<<IDX2>> 9.6. Cómo elegir al perito|120
+<<IDX2>> 9.7. El encargo pericial: qué preguntar|121
+<<IDX2>> 9.8. La reconstrucción del patrimonio|121
+<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|121
+<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|122
+<<IDX3>> 9.8.3. La valoración de los bienes|122
+<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|122
+<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|123
+<<IDX2>> 9.9. El informe pericial de parte|124
+<<IDX3>> 9.9.1. Estructura recomendada|124
+<<IDX3>> 9.9.2. El cuadro de conciliación|124
+<<IDX2>> 9.10. La pericia de parte en el juicio|125
+<<IDX3>> 9.10.1. El interrogatorio del perito de parte|125
+<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|125
+<<IDX3>> 9.10.3. El alegato|125
+<<IDX2>> 9.11. Modelo de encargo pericial|125
+<<IDX2>> 9.12. Caso práctico resuelto|126
+<<IDX2>> 9.13. Lista de revisión|127
+<<IDX2>> Referencias|127
+<<IDX1>> Capítulo 10. La litigación en juicio|129
+<<IDX2>> 10.1. Planteamiento|129
+<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|129
+<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|129
+<<IDX3>> 10.2.2. Controlar la acusación|129
+<<IDX3>> 10.2.3. La exclusión de la prueba|130
+<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|130
+<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|130
+<<IDX2>> 10.3. La teoría del caso|131
+<<IDX3>> 10.3.1. Elegir el elemento|131
+<<IDX3>> 10.3.2. Una sola historia|131
+<<IDX2>> 10.4. El alegato de apertura|131
+<<IDX2>> 10.5. La práctica de la prueba|132
+<<IDX3>> 10.5.1. Las reglas del art. 615|132
+<<IDX3>> 10.5.2. El testimonio del procesado|132
+<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|133
+<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|133
+<<IDX3>> 10.5.5. Las objeciones|134
+<<IDX3>> 10.5.6. El juicio con varios procesados|134
+<<IDX2>> 10.6. El alegato de clausura|135
+<<IDX3>> 10.6.1. La última palabra|135
+<<IDX3>> 10.6.2. Estructura|135
+<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|136
+<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|136
+<<IDX2>> 10.9. Caso práctico resuelto|137
+<<IDX2>> 10.10. Lista de revisión|138
+<<IDX2>> Referencias|138
+<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|139
+<<IDX2>> 11.1. Planteamiento|139
+<<IDX2>> 11.2. Las reglas generales de la impugnación|139
+<<IDX2>> 11.3. La apelación|140
+<<IDX3>> 11.3.1. Qué se puede apelar|140
+<<IDX3>> 11.3.2. El trámite|140
+<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|140
+<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|140
+<<IDX2>> 11.4. La casación|141
+<<IDX3>> 11.4.1. Su objeto: la violación de la ley|141
+<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|142
+<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|142
+<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|142
+<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|143
+<<IDX3>> 11.4.6. El trámite|143
+<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|143
+<<IDX2>> 11.5. La revisión|144
+<<IDX3>> 11.5.1. Las causales|144
+<<IDX3>> 11.5.2. Los requisitos|144
+<<IDX3>> 11.5.3. La lección del caso Chiriboga|144
+<<IDX2>> 11.6. La acción extraordinaria de protección|145
+<<IDX3>> 11.6.1. Qué es y qué no es|145
+<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|145
+<<IDX3>> 11.6.3. Cómo plantearla|145
+<<IDX2>> 11.7. El recurso de hecho|146
+<<IDX2>> 11.8. Qué recurso para qué argumento|146
+<<IDX2>> 11.9. Modelo de cargo de casación|146
+<<IDX2>> 11.10. Caso práctico resuelto|147
+<<IDX2>> 11.11. Lista de revisión|148
+<<IDX2>> Referencias|148
 
 <<PAGEBREAK>>
 
@@ -515,7 +515,7 @@ Además de las fases, la literatura de prevención describe las técnicas con la
 3. **La mezcla de fondos lícitos e ilícitos** en negocios que, por su naturaleza, manejan mucho efectivo, como estaciones de combustible, restaurantes o supermercados, que sirven para justificar depósitos importantes (p. 43).
 4. **Las empresas fantasma**, que solo existen en los documentos y no realizan la actividad que declaran (p. 39).
 5. **El préstamo de regreso**, en el que el delincuente constituye una sociedad en el exterior y se "presta" a sí mismo el dinero que generó con el delito (p. 46).
-6. **La falsa facturación de comercio exterior**, mediante la sobrevaloración de importaciones o exportaciones para justificar fondos recibidos del extranjero (p. 46).
+6. **La falsa facturación de comercio exterior**, mediante la sobrevaloración de importaciones o exportaciones para justificar fondos recibidos del extranjero (p. 47).
 
 Para el abogado defensor, conocer estas técnicas tiene una utilidad que va más allá de lo descriptivo. La Fiscalía y la UAFE construyen sus casos comparando la conducta del investigado con estas tipologías, y la acusación suele decir, en el fondo, "lo que hizo el procesado se parece a una técnica de lavado". Si bien es cierto que el parecido puede ser un punto de partida para investigar, es importante diferenciar entre el parecido y la prueba. Un restaurante que deposita su recaudación diaria en efectivo hace exactamente lo mismo que un restaurante usado para mezclar fondos; un comerciante que hace varios depósitos pequeños porque vende al por menor hace lo mismo que quien fracciona para eludir un reporte. La conducta externa es idéntica. Lo que separa una cosa de la otra es el origen del dinero y el conocimiento de quien lo maneja, y eso es lo que la Fiscalía debe probar.
 
@@ -571,7 +571,7 @@ El art. 317 del COIP describe el lavado mediante siete numerales y más de veint
 
 **El numeral 2 castiga el ocultamiento.** Ocultar, disimular o impedir la determinación real del origen. Aquí no basta el contacto: la conducta debe estar orientada a borrar el rastro. En consecuencia, la Fiscalía debe probar un acto de encubrimiento, y no solo la tenencia. Si el procesado depositó el dinero a su propio nombre, en su propia cuenta y lo declaró ante el SRI, difícilmente puede decirse que lo ocultó.
 
-**El numeral 3 castiga el préstamo del nombre.** Es la figura del testaferro. El verbo exige que la persona preste su nombre "para la comisión de los delitos tipificados en este artículo", es decir, que sepa para qué se usa su nombre. El familiar que firma unas escrituras porque el pariente se lo pidió, sin conocer el origen del dinero, no presta su nombre para lavar: presta su nombre, y nada más.
+**El numeral 3 castiga el préstamo del nombre.** Es la figura del testaferro. El verbo exige que la persona preste su nombre "para la comisión de los delitos tipificados en este artículo", es decir, que sepa para qué se usa su nombre. El familiar que firma unas escrituras porque el pariente se lo pidió, sin conocer el origen del dinero, no presta su nombre para lavar: presta su nombre, y nada más. La literatura de prevención describe al testaferro como la persona que presta su cuenta bancaria, su nombre, su identidad, su firma, su RUC o sus facturas para que otro adquiera bienes, constituya empresas o mueva dinero, y advierte que quien se presta para ello "por desconocimiento, ambición o simplemente por ayudar a algún amigo, pariente o tercero" termina involucrado en actividades ilícitas (Castello Rojas y Segovia Carrillo, 2015, p. 92). La advertencia es útil como prevención, pero no como regla de imputación: de los tres motivos que menciona, solo la ambición acompañada del conocimiento del origen ilícito puede fundar el dolo. Quien presta su nombre por desconocimiento o por ayudar a un pariente, sin saber para qué se usa, puede verse involucrado en una investigación, pero no comete lavado.
 
 **El numeral 4 castiga a quien organiza, gestiona, asesora, participa o financia.** Es el numeral que más preocupa a los profesionales: contadores, abogados, asesores tributarios. Si bien es cierto que el asesor que diseña una estructura para ocultar dinero ilícito comete lavado, es importante diferenciar entre el asesoramiento orientado al delito y el asesoramiento neutral, que se presta a cualquier cliente en las mismas condiciones. Sobre esta frontera se volverá en el capítulo 3, al tratar las conductas neutrales.
 
@@ -2413,6 +2413,10 @@ Para el abogado, estas situaciones tienen dos lecturas.
 **En la asesoría preventiva**, son las señales de alerta que el microempresario debe conocer. No hace falta un programa de cumplimiento sofisticado: basta con que el negocio identifique a quien le entrega dinero, guarde los contratos y los comprobantes, y desconfíe de las ofertas que no tienen explicación comercial. Una carpeta con la copia de la cédula del inversionista, el contrato de préstamo y los depósitos bancarios puede ser, años después, la diferencia entre un archivo y una acusación.
 
 **En la defensa**, estas mismas situaciones permiten explicar cómo llegó el dinero ilícito al negocio del cliente sin que él lo supiera. El microempresario que aceptó un préstamo de un conocido para salvar su negocio, sin preguntar de dónde provenía el dinero, no actuó con dolo: actuó como actúa cualquier pequeño comerciante que necesita liquidez. Como se explicó en el capítulo 3, el ciudadano común no tiene el deber legal de investigar el origen de cada dólar que recibe. En consecuencia, la defensa debe reconstruir el contexto de la operación, la necesidad económica del negocio, la relación con quien entregó el dinero y la apariencia de normalidad de lo ocurrido, para demostrar que el cliente fue un instrumento y no un lavador.
+
+El trabajo de campo de esos autores agrega un dato que el defensor debe conocer. Según los funcionarios bancarios entrevistados, las instituciones financieras no facilitan créditos a los microempresarios, que terminan buscando otros métodos para inyectar liquidez a sus negocios (Castello Rojas y Segovia Carrillo, 2015, p. 118); entre esas alternativas aparecen las cooperativas y, con frecuencia, los prestamistas informales, los llamados "chulqueros" (p. 122). Los propios microempresarios entrevistados reconocieron como situaciones sospechosas las ventas a precios demasiado bajos, las propuestas de negocio en las que quien las ofrece gana poco, las propuestas para actuar como testaferros y la compraventa de mercadería sin factura (p. 123). En consecuencia, el pequeño comerciante que recibió dinero de una fuente informal no actuó, por ese solo hecho, de forma sospechosa: actuó como actúa buena parte del sector que no tiene acceso al crédito formal. Esa realidad económica es un contexto que la defensa debe probar y que el juez debe considerar al valorar el dolo.
+
+Finalmente, el manual que proponen esos autores recoge un catálogo de señales de alerta para las empresas, entre ellas el incremento exagerado de las ventas o la recuperación económica sin explicación suficiente después de atravesar dificultades financieras, la compraventa de empresas quebradas por personas sin trayectoria en el sector, las empresas recién creadas que al poco tiempo dominan el mercado y la infraestructura que no guarda relación con los montos que se manejan (pp. 186-187). Señalan, además, que las empresas con problemas de endeudamiento o con cartera de difícil cobro tienen mayor riesgo de ser utilizadas (p. 188). Para el abogado, este catálogo tiene un doble filo. En la asesoría preventiva, permite al cliente detectar a tiempo la operación que lo puede comprometer. En la defensa, conviene anticipar que la Fiscalía leerá la conducta del cliente a la luz de estas señales, y preparar la explicación de cada una: una empresa endeudada que recibe un socio nuevo y se recupera no está lavando dinero si el socio aportó capital lícito y documentado. Una señal de alerta justifica que el sujeto obligado reporte y que la autoridad investigue, pero no es un indicio de dolo por sí misma.
 
 ### 6.8. Caso práctico resuelto
 
