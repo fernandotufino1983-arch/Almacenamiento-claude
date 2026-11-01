@@ -20,6 +20,12 @@ for ptitle,chs in parts:
                 k=m2.group(1); key=k if k!='Referencias' else cur+'|Ref'
                 idx.append('<<IDX2>> '+k+'|'+str(PG.get(key,'')))
             elif m3: idx.append('<<IDX3>> '+m3.group(1)+'|'+str(PG.get(m3.group(1),'')))
+ANX=os.path.exists(L+'anexos.md')
+if ANX:
+    idx.append('<<IDX0>> Anexos|'+str(PG.get('Anexos','')))
+    for ln in open(L+'anexos.md').read().splitlines():
+        m=re.match(r'^## (Anexo [A-Z]\. .*)$',ln)
+        if m: idx.append('<<IDX1>> '+m.group(1)+'|'+str(PG.get(m.group(1),'')))
 json.dump([l for l in idx if l.startswith('<<IDX')],open(IDXOUT,'w'))
 out=[head,'<<PAGEBREAK>>\n\n'+'\n'.join(idx)+'\n\n<<PAGEBREAK>>\n\n']
 pl=[]
@@ -41,4 +47,11 @@ for ptitle,chs in parts:
             if re.match(r'^(#{1,3}) ',ln): ln='#'+ln
             lines.append(ln)
         out.append('\n'.join(lines).strip()+'\n\n')
+if ANX:
+    al=[]
+    for ln in open(L+'anexos.md').read().splitlines():
+        ln=re.sub(r'\[\^([\w-]+)\]',lambda m:'[^ax_%s]'%m.group(1),ln)
+        if re.match(r'^(#{1,3}) ',ln): ln='#'+ln
+        al.append(ln)
+    out.append('<<PAGEBREAK>>\n\n'+'\n'.join(al).strip()+'\n')
 open(L+'libro-compilado.md','w').write(''.join(out))
