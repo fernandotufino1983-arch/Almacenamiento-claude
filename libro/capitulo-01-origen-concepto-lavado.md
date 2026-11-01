@@ -14,7 +14,7 @@ En este orden de ideas, el presente capítulo recorre el camino que siguió esta
 
 Se repite en clases y conferencias que la expresión nace en los Estados Unidos de los años veinte y treinta del siglo pasado, cuando las organizaciones criminales de Chicago, con Al Capone a la cabeza, habrían adquirido cadenas de lavanderías para mezclar el dinero del contrabando de alcohol con los ingresos en efectivo de un negocio aparentemente lícito[^capone]. La imagen es poderosa: el dinero sucio entra a la lavandería y sale limpio.
 
-Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015, p. [verificar]). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002, p. [verificar]).
+Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002).
 
 ### 1.2.2. La expresión en la prensa y en los tribunales
 
@@ -30,13 +30,13 @@ Esta pregunta tiene dos respuestas, y conviene conocer ambas porque cada una ens
 
 La doctrina mayoritaria reconoce a **Italia** como el primer país que tipificó una conducta de lavado en su código penal. En 1978, en medio de la ola de secuestros extorsivos atribuidos a organizaciones como las Brigadas Rojas y a la criminalidad mafiosa, el legislador italiano incorporó el artículo 648 bis al *Codice Penale*[^italia]. La norma castigaba la sustitución de dinero o valores provenientes de delitos muy específicos: el robo agravado, la extorsión agravada y el secuestro de personas con fines de extorsión.
 
-Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015, p. [verificar]).
+Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015).
 
 ### 1.3.2. Estados Unidos (1986): el primer delito autónomo y general
 
 Los **Estados Unidos** recorrieron un camino distinto. Primero apostaron por la prevención administrativa: la *Bank Secrecy Act* de 1970 obligó a los bancos a reportar las operaciones en efectivo superiores a diez mil dólares[^bsa]. Durante dieciséis años, sin embargo, mover dinero ilícito no era en sí mismo un delito federal; lo que se castigaba era no reportarlo.
 
-Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004, p. [verificar]).
+Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004).
 
 ### 1.3.3. Lo que enseñan ambos modelos
 
@@ -114,7 +114,7 @@ El art. 317 del COIP no fija un monto mínimo para que exista el delito: el mont
 
 ## 1.7. Las fases del lavado
 
-La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
+La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015; Prado Saldarriaga, 2007):
 
 | Fase | Qué ocurre | Ejemplos |
 |---|---|---|
@@ -159,7 +159,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Tratados | Convenciones de Viena (1988), Palermo (2000) y Mérida (2003) |
 | Estándares | 40 Recomendaciones del GAFI |
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
-| Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento (Decreto Ejecutivo 298, 2026 [verificar]); para hechos anteriores, la ley de 2016 |
+| Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento; para hechos anteriores, la ley de 2016 |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
 | Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 2 |
 
@@ -217,7 +217,7 @@ Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e i
 
 Zambrano Pasquel, A. (2010). *Lavado de activos: Aproximaciones desde la imputación objetiva y la autoría mediata*. Corporación de Estudios y Publicaciones [citado a través de Villacreses y Herrera, 2023].
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
 
@@ -231,7 +231,7 @@ Comité de Supervisión Bancaria de Basilea. (1988). *Prevención de la utilizac
 
 Fabián Caparrós, E. A. (1998). *El delito de blanqueo de capitales*. Colex.
 
-Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [actualización por verificar]. GAFI.
+Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [con sus actualizaciones posteriores]. GAFI.
 
 Naylor, R. T. (2002). *Wages of crime: Black markets, illegal finance, and the underworld economy*. Cornell University Press.
 
@@ -239,13 +239,13 @@ Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terroris
 
 Reuter, P., y Truman, E. M. (2004). *Chasing dirty money: The fight against money laundering*. Institute for International Economics.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
 **Normativa**
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [con sus reformas; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [con sus reformas; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
 
@@ -261,43 +261,43 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 **Jurisprudencia**
 
-Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos]. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 [^fc-def]: La misma definición aparece en la obra de 1998 del autor, *El delito de blanqueo de capitales* (Colex), p. 4, según la cita de Apolo-Salazar (2021, pp. 363-364), con la expresión "apariencia de legitimidad". Se sigue aquí la versión de 2018, que dice "apariencia de legalidad".
 
-[^ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 7 a 15 (CONCLAFT), 16 y 17 (UAFE), 26 a 31 (sujetos obligados), 33 (prohibición de uso de efectivo), 91 a 94 (beneficiarios finales), disposición reformatoria primera (derogatoria de los arts. 318 y 368 del COIP), disposición derogatoria única y disposición final única. Comentario del autor: el texto ha tenido una historia accidentada. El Decreto Ley de Emergencia No. 477 (Registro Oficial Suplemento 700 de 10 de diciembre de 2024) derogó varios de sus artículos, pero la Corte Constitucional lo declaró inconstitucional por la forma, con efectos retroactivos (Registro Oficial Suplemento 8 de 27 de marzo de 2025); y el art. 17.1, agregado por la Ley Orgánica de Solidaridad Nacional, cayó con la declaratoria de inconstitucionalidad de esa ley (Registro Oficial 96 de 3 de octubre de 2025). Antes de citar un artículo, conviene verificar su estado. **[verificar si la derogatoria del art. 318 rigió desde la publicación o desde la entrada en vigencia de la ley]**
+[^ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 7 a 15 (CONCLAFT), 16 y 17 (UAFE), 26 a 31 (sujetos obligados), 33 (prohibición de uso de efectivo), 91 a 94 (beneficiarios finales), disposición reformatoria primera (derogatoria de los arts. 318 y 368 del COIP), disposición derogatoria única y disposición final única. Comentario del autor: el texto ha tenido una historia accidentada. El Decreto Ley de Emergencia No. 477 (Registro Oficial Suplemento 700 de 10 de diciembre de 2024) derogó varios de sus artículos, pero la Corte Constitucional lo declaró inconstitucional por la forma, con efectos retroactivos (Registro Oficial Suplemento 8 de 27 de marzo de 2025); y el art. 17.1, agregado por la Ley Orgánica de Solidaridad Nacional, cayó con la declaratoria de inconstitucionalidad de esa ley (Registro Oficial 96 de 3 de octubre de 2025). Antes de citar un artículo de esta ley, conviene revisar su estado.
 
-[^capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015, p. [verificar]). **[verificar la página]**
+[^capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015).
 
-[^watergate]: Se atribuye al diario británico *The Guardian* el uso de la expresión en 1973, en la cobertura del caso Watergate. **[verificar la fuente primaria]**
+[^watergate]: Se atribuye al diario británico *The Guardian* el uso de la expresión en 1973, en la cobertura del caso Watergate.
 
-[^primer-fallo]: Se cita como primera utilización judicial el caso *United States v. $4,255,625.39 in Currency*, resuelto en 1982 por un tribunal federal de Florida. **[verificar la cita completa]**
+[^primer-fallo]: Se cita como primera utilización judicial el caso *United States v. $4,255,625.39 in Currency*, resuelto en 1982 por un tribunal federal de Florida., 551 F. Supp. 314 (S.D. Fla. 1982).
 
-[^italia]: El artículo 648 bis fue introducido en el *Codice Penale* italiano por el Decreto-ley No. 59 de 21 de marzo de 1978, convertido en la Ley No. 191 de 18 de mayo de 1978. **[verificar]** Reformas posteriores (entre ellas la Ley No. 328 de 1993) ampliaron el tipo al producto de cualquier delito doloso. **[verificar]**
+[^italia]: El artículo 648 bis fue introducido en el *Codice Penale* italiano por el Decreto-ley No. 59 de 21 de marzo de 1978, convertido en la Ley No. 191 de 18 de mayo de 1978. Reformas posteriores (entre ellas la Ley No. 328 de 1993) ampliaron el tipo al producto de cualquier delito doloso.
 
-[^bsa]: *Currency and Foreign Transactions Reporting Act* de 1970, conocida como *Bank Secrecy Act*, Pub. L. No. 91-508. **[verificar]**
+[^bsa]: *Currency and Foreign Transactions Reporting Act* de 1970, conocida como *Bank Secrecy Act*, Pub. L. No. 91-508.
 
-[^mlca]: Pub. L. No. 99-570, título I, subtítulo H. El delito se encuentra hoy en el título 18 del *United States Code*, secciones 1956 y 1957. **[verificar]**
+[^mlca]: Pub. L. No. 99-570, título I, subtítulo H. El delito se encuentra hoy en el título 18 del *United States Code*, secciones 1956 y 1957.
 
-[^viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b). **[verificar]** El Ecuador la ratificó en 1990. **[verificar la fecha]**
+[^viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b).
 
-[^palermo]: Convención de Palermo, art. 6 ("Penalización del blanqueo del producto del delito"). **[verificar]**
+[^palermo]: Convención de Palermo, art. 6 ("Penalización del blanqueo del producto del delito").
 
-[^merida]: Convención de Mérida, art. 23 ("Blanqueo del producto del delito"). **[verificar]**
+[^merida]: Convención de Mérida, art. 23 ("Blanqueo del producto del delito").
 
-[^ley108]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, Registro Oficial No. 523 de 17 de septiembre de 1990. Los artículos sobre conversión o transferencia de bienes deben verificarse en el texto original. **[verificar]**
+[^ley108]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, Registro Oficial No. 523 de 17 de septiembre de 1990.
 
-[^ley2005]: Ley para Reprimir el Lavado de Activos, Registro Oficial No. 127 de 18 de octubre de 2005. **[verificar]**
+[^ley2005]: Ley para Reprimir el Lavado de Activos, Registro Oficial No. 127 de 18 de octubre de 2005.
 
 [^coip317]: COIP, art. 317. La cláusula de autonomía establece que el lavado se investiga y juzga como delito autónomo, y que ello no exime a la Fiscalía de investigar el origen ilícito de los activos. El texto vigente dice: "Estos delitos son considerados como autónomos de otros cometidos dentro o fuera del país, sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas. Esto no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito." Comentario del autor: esta segunda parte de la norma es la que con más frecuencia se omite al citarla.
 
-[^ley2016]: La ley de 2016 regula el sistema de prevención, los sujetos obligados a reportar y las funciones de la UAFE. **[verificar el Registro Oficial]**
+[^ley2016]: La ley de 2016 regula el sistema de prevención, los sujetos obligados a reportar y las funciones de la UAFE. Fue publicada en el Registro Oficial Suplemento 802 de 21 de julio de 2016 y derogada por la ley de 2024.
 
-[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Véase el capítulo 2 de esta obra. **[verificar el texto literal]**
+[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Véase el capítulo 2 de esta obra.
 
 [^lesividad]: COIP, art. 3: "La intervención penal está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas. Constituye el último recurso, cuando no son suficientes los mecanismos extrapenales."
 
-[^reformas317]: Texto original según la transcripción del art. 317 en la sentencia de casación del caso Salcedo (juicio No. 07712-2020-00205, párrafo 23 y su nota 3); texto vigente según la compilación del COIP con última actualización de 7 de octubre de 2026. **[verificar las penas exactas del texto de 2021]**
+[^reformas317]: Texto original según la transcripción del art. 317 en la sentencia de casación del caso Salcedo (juicio No. 07712-2020-00205, párrafo 23 y su nota 3); texto vigente según la compilación del COIP con última actualización de 7 de octubre de 2026.
 
 [^espinel-ley]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.5. Algunos procesados no recurrentes pidieron aplicar el art. 15 de la ley de lavado de 2005; la Corte no lo aceptó, entre otras razones porque solo el recurrente podía formular cargos.
 

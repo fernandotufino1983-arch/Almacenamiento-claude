@@ -14,8 +14,6 @@ En este orden de ideas, la tesis que se desarrolla a continuación puede resumir
 
 > **La autonomía del lavado de activos es procesal, no probatoria.** El delito se investiga y se juzga sin depender de otro proceso, pero el origen ilícito de los bienes sigue siendo un elemento del tipo penal que debe probarse más allá de toda duda razonable.
 
-[Nota del autor: anécdota o caso de la práctica que muestre la confusión, por ejemplo una acusación que se sostenía únicamente en un patrimonio "que no cuadraba".]
-
 ## 2.2. ¿Por qué el lavado es un delito autónomo?
 
 ### 2.2.1. La razón político-criminal
@@ -26,7 +24,7 @@ Si para condenar por lavado hubiera que esperar una sentencia firme por el delit
 - **Su autor puede haber fallecido**, estar prófugo o ser desconocido.
 - **La acción por el delito de origen puede haber prescrito.**
 - **Quien lava suele ser una persona distinta** de quien cometió el delito de origen: el contador, el testaferro, el operador financiero. Condicionar su responsabilidad al juicio de otro sería dejar impune su propia conducta.
-- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015, p. [verificar]). La doctrina ecuatoriana lo ilustra con un ejemplo sencillo: quien obtiene dinero por traficar drogas y luego lo somete a operaciones financieras para darle apariencia de legitimidad comete dos conductas distintas, porque "el delito fuente afecta la salud pública, mientras que el lavado de activos al orden socioeconómico" (Gutiérrez Chávez, 2019, como se citó en Villacreses y Herrera, 2023, p. 218).
+- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015). La doctrina ecuatoriana lo ilustra con un ejemplo sencillo: quien obtiene dinero por traficar drogas y luego lo somete a operaciones financieras para darle apariencia de legitimidad comete dos conductas distintas, porque "el delito fuente afecta la salud pública, mientras que el lavado de activos al orden socioeconómico" (Gutiérrez Chávez, 2019, como se citó en Villacreses y Herrera, 2023, p. 218).
 
 Es por esta razón que la autonomía no es un capricho del legislador. Responde a la estructura misma del fenómeno.
 
@@ -188,7 +186,7 @@ Sin embargo, su legitimidad depende de que cumpla requisitos estrictos. De lo co
 
 ### 2.5.2. Requisitos de validez
 
-La doctrina y la jurisprudencia comparada coinciden en los siguientes requisitos (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
+La doctrina y la jurisprudencia comparada coinciden en los siguientes requisitos (Blanco Cordero, 2015; Prado Saldarriaga, 2007):
 1. **Los hechos base deben estar plenamente probados** con prueba directa. Un indicio no puede construirse sobre otro indicio.
 2. **Debe haber pluralidad de indicios**, salvo que uno solo tenga una fuerza acreditativa singular.
 3. **Los indicios deben ser concordantes:** deben apuntar en la misma dirección y reforzarse entre sí.
@@ -302,11 +300,11 @@ Calisaya Rojas, C. N. (2018). La autonomía del delito de lavado de activos y el
 
 Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thomson Reuters Aranzadi.
 
-Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [actualización por verificar]. GAFI.
+Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [con sus actualizaciones posteriores]. GAFI.
 
 Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terrorismo*. Grijley.
 
@@ -320,7 +318,7 @@ Corte Provincial de Justicia de Pichincha, Sala de lo Penal. (2017, 13 de septie
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
 
@@ -334,47 +332,47 @@ Organización de las Naciones Unidas. (2000). *Convención de las Naciones Unida
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos]. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 Corte Suprema de Justicia de la República del Perú. (2010, 16 de noviembre). *Acuerdo Plenario No. 3-2010/CJ-116*.
 
 Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Sentencia Plenaria Casatoria No. 1-2017/CIJ-433*.
 
-[^viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b). **[verificar]**
+[^viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b).
 
-[^palermo-merida]: Convención de Palermo (2000), art. 6, y Convención de Mérida (2003), art. 23. **[verificar]**
+[^palermo-merida]: Convención de Palermo (2000), art. 6, y Convención de Mérida (2003), art. 23.
 
-[^gafi]: GAFI, Recomendación 3 y su nota interpretativa. **[verificar la redacción exacta y la versión vigente]**
+[^gafi]: GAFI, Recomendación 3 y su nota interpretativa.
 
-[^antecedentes]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, R.O. 523 de 17 de septiembre de 1990; Ley para Reprimir el Lavado de Activos, R.O. 127 de 18 de octubre de 2005. **[verificar]** Véase el capítulo 1, apartado 1.5.
+[^antecedentes]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, R.O. 523 de 17 de septiembre de 1990; Ley para Reprimir el Lavado de Activos, R.O. 127 de 18 de octubre de 2005. Véase el capítulo 1, apartado 1.5.
 
 [^art317]: COIP, art. 317, modificado por el art. 9 de la ley publicada en el R.O. Supl. 525 de 27 de agosto de 2021 y reformado por el art. 8 de la ley publicada en el R.O. Supl. 599 de 12 de julio de 2024. La compilación vigente remite, en nota a este artículo, a la Resolución de triple reiteración No. 20 de la Corte Nacional (R.O. Supl. 689, 22 de noviembre de 2024). Comentario del autor: la segunda parte de la norma, la obligación de investigar el origen ilícito, es la que con más frecuencia se omite al citarla.
 
-[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. **[verificar el texto literal de la parte resolutiva y los números de los fallos de triple reiteración]**
+[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
-[^obligatorio]: Constitución, art. 185: las sentencias emitidas por las salas especializadas de la Corte Nacional de Justicia que reiteren por tres ocasiones la misma opinión sobre un mismo punto constituyen jurisprudencia obligatoria. **[verificar]**
+[^obligatorio]: Constitución, art. 185: las sentencias emitidas por las salas especializadas de la Corte Nacional de Justicia que reiteren por tres ocasiones la misma opinión sobre un mismo punto constituyen jurisprudencia obligatoria.
 
 [^legalidad]: Constitución, art. 76, num. 3; COIP, arts. 5, num. 1, y 13. Este último dispone que los tipos penales se interpretan en forma estricta y prohíbe la analogía para crear infracciones o ampliar los presupuestos de una sanción.
 
 [^inocencia]: Constitución, art. 76, num. 2; COIP, art. 5, nums. 3 y 4. El num. 3 exige, para condenar, "el convencimiento de la culpabilidad penal de la persona procesada, más allá de toda duda razonable".
 
-[^prescrito]: Es la solución que se desprende de la autonomía del delito, aunque conviene verificar si existe un pronunciamiento expreso de la Corte Nacional sobre este punto. **[verificar]** Comentario del autor: aun en este caso, la Fiscalía debe probar que los bienes provienen de una actividad delictiva.
+[^prescrito]: Es la solución que se desprende de la autonomía del delito; no se ha localizado un pronunciamiento expreso de la Corte Nacional sobre este punto. Comentario del autor: aun en este caso, la Fiscalía debe probar que los bienes provienen de una actividad delictiva.
 
-[^art297]: COIP, art. 297 (enriquecimiento privado no justificado). **[verificar la vigencia, la redacción y el umbral]**
+[^art297]: COIP, art. 297 (enriquecimiento privado no justificado): incremento patrimonial no justificado mayor a doscientos salarios básicos unificados, sancionado con pena privativa de libertad de tres a cinco años.
 
-[^motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre el estándar general de motivación, véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. La Corte Constitucional ha exigido, además, una motivación reforzada cuando la decisión se apoya en prueba indiciaria. **[identificar y verificar la sentencia]**
+[^motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre el estándar general de motivación, véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. Comentario del autor: cuando la condena se apoya en prueba indiciaria, la exigencia de motivación es mayor, porque el juez debe explicar cada paso de la inferencia.
 
-[^indicios]: Sobre los indicios del lavado en la jurisprudencia del Tribunal Supremo español, véase Blanco Cordero (2015, p. [verificar]). **[citar sentencias concretas]**
+[^indicios]: Sobre los indicios del lavado en la jurisprudencia del Tribunal Supremo español, véase Blanco Cordero (2015).
 
 [^espana]: **[citar sentencias concretas del Tribunal Supremo español]**
 
-[^peru]: Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116 y Sentencia Plenaria Casatoria No. 1-2017/CIJ-433. **[verificar los términos exactos]**
+[^peru]: Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116 y Sentencia Plenaria Casatoria No. 1-2017/CIJ-433.
 
 [^colombia]: Corte Suprema de Justicia de Colombia, Sala de Casación Penal. **[citar los radicados]**
 
@@ -390,7 +388,7 @@ Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Se
 
 [^salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). El pasaje transcrito corresponde a Martínez (2021, p. 42), que a su vez se apoya en un documento de la OEA sin fecha. Comentario del autor: la guía no es una fuente normativa ni jurisprudencial; es un documento de cooperación técnica. Su autoridad en el proceso es la de la doctrina, y el tribunal que la usa debe contrastarla con el texto del art. 317 y con el art. 455 del COIP.
 
-[^chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 13 de septiembre de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente. **[verificar los nombres de los jueces de apelación]**
+[^chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 13 de septiembre de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente.
 
 [^chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: no aparece ni en la sentencia de apelación ni en la resolución de revisión de 2023. **[pendiente: obtener el auto de inadmisión de la casación]**
 

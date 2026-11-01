@@ -10,7 +10,7 @@ Sin embargo, es un tema que con frecuencia se resuelve en una línea de la sente
 
 ## 5.2. Los sistemas de determinación de la pena en los concursos
 
-La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]):
+La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016; Zaffaroni et al., 2002):
 
 | Sistema | Regla | Crítica |
 |---|---|---|
@@ -34,7 +34,7 @@ Antes de hablar de concurso real o ideal, hay que responder una pregunta: **¿cu
 
 ### 5.3.2. Los criterios de unidad de conducta
 
-Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014, p. [verificar]; Mir Puig, 2016, p. [verificar]):
+Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014; Mir Puig, 2016):
 
 1. **El factor final:** los actos responden a una **misma decisión** del autor.
 2. **El factor normativo:** el **tipo penal** agrupa varios actos en una sola unidad. Por ejemplo, el robo comprende la violencia y el apoderamiento; el secuestro se prolonga en el tiempo como un delito permanente.
@@ -92,7 +92,7 @@ No se ha identificado un precedente obligatorio de la Corte Nacional que resuelv
 ### 5.5.3. Concurso ideal heterogéneo y homogéneo
 
 - **Heterogéneo:** la conducta realiza **tipos distintos**. Por ejemplo, el funcionario que, en un mismo acto, recibe un beneficio indebido y dicta una resolución contraria a la ley.
-- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014, p. [verificar]).
+- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014).
 
 ### 5.5.4. La experiencia ecuatoriana: el caso de las drogas
 
@@ -100,7 +100,7 @@ La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concre
 
 Ese criterio no sobrevivió. La Sala Penal de la Corte Nacional lo abandonó en tres sentencias de casación, de 2 de agosto de 2018 (juicio No. 17721-2016-1110), 17 de octubre de 2018 (juicio No. 17282-2016-00494) y 9 de enero de 2019 (juicio No. 17282-2016-05465), y el Pleno, en la **Resolución No. 02-2019**, de 6 de febrero de 2019, dejó sin efecto la Resolución 12-2015 y declaró como nuevo precedente obligatorio que, cuando los verbos rectores del art. 220 del COIP son "atribuibles a una misma persona en unidad de tiempo y acción, se debe aplicar el concurso ideal de delitos, por el que se punirá únicamente la conducta más severamente sancionada en el tipo penal, conforme el principio de absorción"[^cnj2019]. La línea argumental de la Corte partió del principio de proporcionalidad del art. 76.6 de la Constitución y de una idea que conviene retener: el art. 220 tiene una estructura polinuclear, con catorce verbos rectores, pero "tales acciones no son varios delitos ni tampoco autónomos e independientes".
 
-La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-CN/19** [verificar la fecha, el contenido y si es anterior o posterior a la Resolución 02-2019][^cc717].
+La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-CN/19**[^cc717].
 
 Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta vulnera el principio de proporcionalidad, como terminó reconociendo la propia Corte Nacional.
 
@@ -108,7 +108,7 @@ Es por esta razón que este caso es tan útil para el litigante: demuestra que *
 
 ### 5.6.1. Concepto
 
-En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]).
+En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016; Zaffaroni et al., 2002).
 
 ### 5.6.2. Los principios
 
@@ -143,7 +143,7 @@ El COIP no lo regula. El Código Penal español lo trata como un concurso ideal[
 
 Se trata de **varias acciones** que realizan el mismo tipo penal, ejecutadas con un **plan preconcebido** o aprovechando una **misma ocasión**, contra el mismo bien jurídico. Por ejemplo, el empleado que sustrae pequeñas cantidades de la caja cada mes.
 
-El Código Penal anterior lo reconocía **[verificar el artículo]**, pero el COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012, p. [verificar]). En la legislación comparada lo regulan, entre otros, España[^espana] y Colombia[^colombia].
+El COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012). En la legislación comparada lo regulan, entre otros, España[^espana] y Colombia[^colombia].
 
 **Para la defensa**, el argumento del delito continuado sirve para:
 - evitar la acumulación de tantas penas como actos hubo;
@@ -156,8 +156,8 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 
 ## 5.8. Cuestiones procesales
 
-1. **Acumulación de procesos.** Cuando los delitos en concurso real se investigan en procesos distintos, cabe pedir su acumulación por conexidad, para que se juzguen y sancionen conjuntamente **[verificar la norma del COIP]**. Si no se acumulan, el procesado corre el riesgo de recibir penas separadas que, sumadas, superen los topes del art. 20.
-2. **Unificación de penas en la ejecución.** Si las condenas llegan por separado, la defensa debe pedir al juez de garantías penitenciarias la **unificación de penas** con aplicación de los límites de los arts. 20 y 55 **[verificar la norma]**.
+1. **Acumulación de procesos.** Cuando los delitos en concurso real se investigan en procesos distintos, cabe pedir su acumulación por conexidad, para que se juzguen y sancionen conjuntamente. Si no se acumulan, el procesado corre el riesgo de recibir penas separadas que, sumadas, superen los topes del art. 20.
+2. **Unificación de penas en la ejecución.** Si las condenas llegan por separado, la defensa debe pedir al juez de garantías penitenciarias la **unificación de penas** con aplicación de los límites de los arts. 20 y 55 del COIP.
 3. **Prescripción.** En el concurso real, **cada delito prescribe por separado**. Siempre conviene revisar si alguno de los delitos acumulados ya prescribió.
 4. **Procedimientos especiales y medidas cautelares.** La pena total puede definir si procede el procedimiento abreviado, la suspensión condicional de la pena o la prisión preventiva.
 5. **Casación.** La aplicación del art. 20 donde correspondía el art. 21, o la ignorancia de un concurso aparente, constituye una **indebida aplicación de la ley**, que es causal de casación (art. 656 del COIP).
@@ -213,8 +213,6 @@ Un tesorero municipal emite, en un periodo de ocho meses, seis órdenes de pago 
 ### Conclusión
 Frente a una acusación por trece delitos acumulados, una defensa técnica en materia de concursos puede reducir la imputación a **un peculado**, eventualmente en concurso con un lavado. La diferencia en la pena final es enorme. Como podrá apreciar el lector, el concurso no es un detalle de la sentencia: muchas veces es el centro de la defensa.
 
-[Nota del autor: espacio para un caso propio, anonimizado, en el que la discusión sobre los concursos haya sido decisiva.]
-
 ## 5.11. Lista de revisión
 
 - [ ] ¿Cuántas conductas hay realmente? (factor final, factor normativo, unidad natural de acción)
@@ -232,7 +230,7 @@ Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e i
 
 Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 Mir Puig, S. (2016). *Derecho penal. Parte general* (10.ª ed.). Reppertor.
 
@@ -244,15 +242,15 @@ Velásquez Velásquez, F. (2020). *Fundamentos de derecho penal. Parte general*.
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
-Faraldo Cabana, P. (2014). Antes y después de la tipificación expresa del autoblanqueo de capitales. *Estudios Penales y Criminológicos*, *31*, 51 [citado a través de Fiscalía General del Estado, 2021; verificar].
+Faraldo Cabana, P. (2014). Antes y después de la tipificación expresa del autoblanqueo de capitales. *Estudios Penales y Criminológicos*, *31*, 51 [citado a través de Fiscalía General del Estado, 2021].
 
 **Normativa**
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 3, 5, 13, 20, 21, 44, 55 y 656; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 3, 5, 13, 20, 21, 44, 55 y 656; versión con última actualización de 7 de octubre de 2026].
 
 Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 de octubre de 2008.
 
@@ -260,38 +258,38 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017, 15 de diciembre). *Sentencia de casación, juicio No. 13284-2015-01812* (ponente: G. Terán Sierra) [citada a través de Fiscalía General del Estado, 2021, y de Martínez, 2021].
 
-Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19* [verificar la fecha y los términos].
+Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19*.
 
 Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
 Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
 
-[^esfera]: COIP, art. 317, en relación con el art. 76.7, lit. i, de la Constitución (*ne bis in idem*) y con el art. 21 del COIP (concurso ideal). Comentario del autor: el artículo de Villacreses y Herrera no identifica el número de juicio del caso que analiza; antes de citarlo como precedente en un escrito, conviene ubicar la sentencia. **[verificar el caso analizado]**
+[^esfera]: COIP, art. 317, en relación con el art. 76.7, lit. i, de la Constitución (*ne bis in idem*) y con el art. 21 del COIP (concurso ideal). Comentario del autor: el artículo de Villacreses y Herrera no identifica el número de juicio del caso que analiza; antes de citarlo como precedente en un escrito, conviene ubicar la sentencia.
 
 [^autolavado]: COIP, art. 317, inciso que declara la autonomía del lavado "sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas", y art. 20 (concurso real). Comentario del autor: la cláusula de acumulación del art. 317 permite el concurso, pero no lo impone. Antes de acumular, el juez debe establecer que existen dos conductas distintas y no una sola conducta con su agotamiento natural (sección 5.3).
 
 [^nonbis]: Constitución, art. 76, num. 7, lit. i): "Nadie podrá ser juzgado más de una vez por la misma causa y materia." COIP, art. 5, num. 9: "ninguna persona podrá ser juzgada ni penada más de una vez por los mismos hechos."
 
-[^art20]: COIP, art. 20, según el texto con última modificación de 17 de febrero de 2021. **[verificar si fue reformado]**
+[^art20]: COIP, art. 20, texto vigente según la compilación con última actualización de 7 de octubre de 2026.
 
-[^reincidencia]: Sobre la reincidencia, véase el art. 57 del COIP. **[verificar la numeración y la redacción vigentes]** Comentario del autor: la diferencia es decisiva, porque la reincidencia agrava la pena, mientras que el concurso la limita.
+[^reincidencia]: Sobre la reincidencia, véase el art. 57 del COIP.  Comentario del autor: la diferencia es decisiva, porque la reincidencia agrava la pena, mientras que el concurso la limita.
 
-[^art55]: COIP, art. 55: "La acumulación de penas privativas de libertad procede hasta un máximo de cuarenta años. Las multas se acumulan hasta el doble de la máxima impuesta." **[verificar si las reformas de seguridad posteriores a 2021 modificaron este tope]**
+[^art55]: COIP, art. 55: "La acumulación de penas privativas de libertad procede hasta un máximo de cuarenta años. Las multas se acumulan hasta el doble de la máxima impuesta." Texto vigente según la compilación con última actualización de 7 de octubre de 2026.
 
-[^cnjconsulta]: La Presidencia de la Corte Nacional de Justicia, en una absolución de consulta (oficio No. 892-P-CNJ-2019), reprodujo el art. 20 y precisó que el concurso se presenta cuando existen dos o más infracciones cometidas por la misma persona, pero no fijó un método para calcular el tope. Las absoluciones de consulta no son vinculantes. **[verificar]**
+[^cnjconsulta]: La Presidencia de la Corte Nacional de Justicia, en una absolución de consulta (oficio No. 892-P-CNJ-2019), reprodujo el art. 20 y precisó que el concurso se presenta cuando existen dos o más infracciones cometidas por la misma persona, pero no fijó un método para calcular el tope. Las absoluciones de consulta no son vinculantes.
 
-[^art21]: COIP, art. 21, según el texto con última modificación de 17 de febrero de 2021. **[verificar]**
+[^art21]: COIP, art. 21, texto vigente según la compilación con última actualización de 7 de octubre de 2026.
 
 [^res12]: Corte Nacional de Justicia, Resolución No. 12-2015, citada por la Resolución No. 02-2019, art. 2. Comentario del autor: la propia Resolución 02-2019 da dos datos distintos para la 12-2015: en sus considerandos, la fecha de 16 de septiembre de 2015 y el Registro Oficial 592; en su art. 2, la fecha de 17 de septiembre de 2015 y el Registro Oficial 593. Se sigue la parte resolutiva. **[confirmar en el Registro Oficial]**
 
-[^cc717]: Corte Constitucional del Ecuador, sentencia No. 7-17-CN/19. **[verificar la fecha y la ratio decidendi]** Comentario del autor: la sentencia es un buen ejemplo de cómo la proporcionalidad de la pena (art. 76.6 de la Constitución) sirve para controlar la forma de contar las conductas.
+[^cc717]: Corte Constitucional del Ecuador, sentencia No. 7-17-CN/19. Comentario del autor: la sentencia es un buen ejemplo de cómo la proporcionalidad de la pena (art. 76.6 de la Constitución) sirve para controlar la forma de contar las conductas.
 
-[^cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 6 de febrero de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP. **[verificar el número y la fecha del Registro Oficial de publicación]**
+[^cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 6 de febrero de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP.
 
-[^espana]: Código Penal español (Ley Orgánica 10/1995), art. 77 (concurso ideal y medial) y art. 74 (delito continuado). **[verificar]**
+[^espana]: Código Penal español (Ley Orgánica 10/1995), art. 77 (concurso ideal y medial) y art. 74 (delito continuado).
 
 [^analogia]: COIP, art. 13, num. 3: "Queda prohibida la utilización de la analogía para crear infracciones penales, ampliar los límites de los presupuestos legales que permiten la aplicación de una sanción o medida cautelar o para establecer excepciones o restricciones de derechos." Comentario del autor: la prohibición está dirigida a la analogía en perjuicio del procesado; la analogía en su favor no está prohibida.
 
-[^colombia]: Código Penal colombiano (Ley 599 de 2000), art. 31, parágrafo (delito continuado y delito masa). **[verificar]**
+[^colombia]: Código Penal colombiano (Ley 599 de 2000), art. 31, parágrafo (delito continuado y delito masa).
 
 [^art298]: COIP, art. 298. Comentario del autor: el artículo enumera las modalidades de la defraudación; la acusación debe precisar cuál de ellas se atribuye.

@@ -120,8 +120,6 @@ Fuente: elaboración del autor a partir de Castello Rojas y Segovia Carrillo (20
 
 Fuente: elaboración del autor a partir de Castello Rojas y Segovia Carrillo (2015, pp. 39-40 y 123).
 
-> [Nota del autor: completar este anexo con las tipologías regionales publicadas por el GAFILAT y con los casos ecuatorianos de la UAFE, citando el documento y la página.]
-
 ## Anexo C. Modelos de escritos
 
 Los modelos que siguen deben adaptarse a los hechos de cada caso. Los datos entre corchetes se reemplazan por los del proceso. Los demás modelos del libro están en las secciones 8.10 (solicitud de acceso al expediente y de diligencias), 9.11 (encargo pericial) y 11.9 (cargo de casación).

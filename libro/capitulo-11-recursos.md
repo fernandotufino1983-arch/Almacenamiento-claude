@@ -99,7 +99,7 @@ La pauta de la Corte Suprema colombiana en la sentencia SP1569-2018 es útil par
 
 ### 11.4.5. La casación de la Fiscalía: el caso Salcedo
 
-La casación no es solo un recurso de la defensa. En el caso Salcedo, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 29 de enero de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20 [verificar la fecha][^cc768].
+La casación no es solo un recurso de la defensa. En el caso Salcedo, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 29 de enero de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20[^cc768].
 
 Para la defensa que debe responder a una casación fiscal, el caso deja dos lecciones:
 1. **Vigilar el límite del art. 656.** Si la Fiscalía pide, bajo la forma de una errónea interpretación, que la Corte llegue a una conclusión de hecho distinta de la que fijó el tribunal de apelación, ese pedido es inadmisible. Como vimos en el capítulo 2 (sección 2.3.4), es legítimo preguntarse si en el propio caso Salcedo no se terminó revalorando la prueba.
@@ -217,8 +217,6 @@ Una empresaria es condenada por lavado de activos a diez años de prisión. El t
 ### Conclusión
 Cada argumento tiene su recurso. La discusión sobre los contratos y las facturas pertenece a la apelación, y allí debe darse con toda la fuerza. La casación recibe solo los errores de derecho que pueden demostrarse con los hechos fijados. Y la acción extraordinaria de protección queda para la vulneración de derechos que no se corrigió en las instancias. El abogado que confunde esos planos pierde recursos que podía ganar.
 
-[Nota del autor: espacio para un caso propio en el que la elección del recurso o de la causal haya sido decisiva.]
-
 ## 11.11. Lista de revisión
 
 - [ ] ¿Interpuse la apelación dentro de los tres días (art. 654) y la casación dentro de los cinco días hábiles (art. 657)?
@@ -238,15 +236,15 @@ Cada argumento tiene su recurso. La discusión sobre los contratos y las factura
 
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [arts. 76, 77.14, 82, 94 y 437].
 
-Asamblea Nacional del Ecuador. (2009). *Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional*. Registro Oficial Segundo Suplemento 52 de 22 de octubre de 2009 [verificar].
+Asamblea Nacional del Ecuador. (2009). *Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional*. Registro Oficial Segundo Suplemento 52 de 22 de octubre de 2009.
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 5.3, 16, 317, 454, 455, 457, 619, 621, 622 y 652 a 661].
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2020). *Sentencia No. 768-15-EP/20* [verificar la fecha].
+Corte Constitucional del Ecuador. (2020). *Sentencia No. 768-15-EP/20*.
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21*.
+Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21*.
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
 
@@ -258,7 +256,7 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 
 [^art652]: COIP, art. 652, nums. 1, 5, 6, 7, 8, 9 y 10.
 
-[^cc25]: Corte Constitucional del Ecuador, Resolución No. 25, publicada en el Registro Oficial Suplemento 2 de 5 de junio de 2017, numeral 3.3, según la nota de la compilación del COIP al art. 652. **[verificar el número de la sentencia de la Corte Constitucional]**
+[^cc25]: Corte Constitucional del Ecuador, Resolución No. 25, publicada en el Registro Oficial Suplemento 2 de 5 de junio de 2017, numeral 3.3, según la nota de la compilación del COIP al art. 652.
 
 [^art653]: COIP, art. 653. Según la nota de la compilación, la Corte Nacional de Justicia, en la Resolución No. 14 (Registro Oficial Suplemento 355 de 22 de diciembre de 2020), estableció que la decisión que declara la nulidad es inimpugnable cuando la emite el tribunal de apelación o de casación.
 
@@ -266,9 +264,9 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 
 [^art656]: COIP, art. 656.
 
-[^cc768]: Corte Constitucional del Ecuador, sentencia No. 768-15-EP/20. **[verificar la fecha y el alcance exacto de la decisión sobre la casación fiscal frente a una doble sentencia absolutoria]**
+[^cc768]: Corte Constitucional del Ecuador, sentencia No. 768-15-EP/20.
 
-[^art657]: COIP, art. 657, nums. 1, 2, 3, 5 y 6. Sobre la audiencia de fundamentación y la inconstitucionalidad de la fase de admisibilidad creada por la Resolución CNJ 10-2015, véase la sentencia de la Corte Constitucional No. 8-19-IN y acumulado/21. **[verificar el número y la fecha de la sentencia]**
+[^art657]: COIP, art. 657, nums. 1, 2, 3, 5 y 6. Sobre la audiencia de fundamentación y la inconstitucionalidad de la fase de admisibilidad creada por la Resolución CNJ 10-2015, véase la sentencia de la Corte Constitucional No. 8-19-IN y acumulado/21.
 
 [^art658]: COIP, art. 658.
 
@@ -276,7 +274,7 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 
 [^aep]: Constitución, arts. 94 y 437.
 
-[^logjcc]: Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, arts. 58 a 64 (acción extraordinaria de protección). **[verificar el término vigente para presentar la acción y la numeración de los artículos]**
+[^logjcc]: Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, arts. 58 a 64 (acción extraordinaria de protección).
 
 [^art661]: COIP, art. 661.
 

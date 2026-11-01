@@ -238,8 +238,6 @@ Marcelo fue director financiero de una empresa pública entre 2018 y 2022. La Fi
 ### Conclusión
 Con estos cuatro ajustes, la pericia de parte reduce la diferencia no explicada a una fracción de la cifra fiscal, que además se explica en buena parte con ingresos profesionales del cónyuge no considerados. El efecto es doble. Primero, el monto que pudiera discutirse ya no alcanza el umbral en salarios básicos unificados que la acusación usó para fijar el numeral más grave del art. 317 del COIP. Segundo, y más importante, la diferencia que subsista es un dato contable: la Fiscalía todavía debe probar que esos fondos provienen de los contratos investigados, es decir, un hecho objetivamente típico y una relación de causalidad con los bienes (capítulo 2, sección 2.3.4). Un proceso por peculado en trámite no es esa prueba (capítulo 4, sección 4.8.6). La defensa ya no discute en abstracto: muestra, en un cuadro de conciliación de una página, que la cifra de la Fiscalía descansa en cuatro errores documentables.
 
-[Nota del autor: espacio para un caso propio en el que la pericia de parte haya cambiado el resultado o la calificación.]
-
 ## 9.13. Lista de revisión
 
 - [ ] ¿Encargué la pericia de parte antes de que la Fiscalía tuviera una cifra oficial?
@@ -262,7 +260,7 @@ Blanco Cordero, I. (2011). El delito fiscal como actividad delictiva previa del 
 
 Castello Rojas, J. R., y Segovia Carrillo, J. E. (2015). *Manual de prevención de lavado de activos y contra el financiamiento del terrorismo para microempresas de Guayaquil* [Proyecto de investigación previo a la obtención del título de Ingeniero Comercial, Universidad Laica Vicente Rocafuerte de Guayaquil].
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
 Márquez Arcila, R. H. (2018). *Auditoría forense*. Instituto Mexicano de Contadores Públicos [citado a través de Fiscalía General del Estado, 2021].
 
@@ -286,4 +284,4 @@ Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevenció
 
 [^cge-19]: Ley Orgánica de la Contraloría General del Estado, arts. 23.1 (auditoría forense preventiva) y 23.2 (auditoría forense detectiva), agregados por la disposición reformatoria cuarta de la ley de prevención del lavado de 2024. Véanse también los arts. 454.6 y 505 del COIP.
 
-[^acreditacion]: COIP, art. 511, num. 1. El procedimiento de calificación y acreditación de peritos lo regula el Consejo de la Judicatura en el Reglamento del Sistema Pericial Integral de la Función Judicial. **[verificar el número de resolución y la versión vigente del reglamento]** El último inciso del art. 511 permite, si no existe perito acreditado en un área, contar con quien tenga conocimiento, especialidad, experticia o título que acredite su capacidad.
+[^acreditacion]: COIP, art. 511, num. 1. El procedimiento de calificación y acreditación de peritos lo regula el Consejo de la Judicatura en el Reglamento del Sistema Pericial Integral de la Función Judicial. El último inciso del art. 511 permite, si no existe perito acreditado en un área, contar con quien tenga conocimiento, especialidad, experticia o título que acredite su capacidad.

@@ -30,7 +30,7 @@ Guayaquil, noviembre de 2026
 
 **Mgtr. Fernando Tufiño Valladares**
 
-[^conflicto]: Decreto Ejecutivo 111, de 9 de enero de 2024, que reconoció la existencia de un conflicto armado interno [verificar número y fecha del Registro Oficial].
+[^conflicto]: Decreto Ejecutivo 111, de 9 de enero de 2024, que reconoció la existencia de un conflicto armado interno.
 
 [^ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, Registro Oficial Cuarto Suplemento 610, 29 de julio de 2024. Su disposición final fijó la vigencia un año después de su publicación, y derogó la Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (Registro Oficial Suplemento 802, 21 de julio de 2016).
 

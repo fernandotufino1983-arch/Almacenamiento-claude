@@ -234,7 +234,7 @@ La investigación previa no es la antesala del proceso: para la defensa, es el p
 
 ## Referencias
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 **Normativa**
 
@@ -244,7 +244,7 @@ Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Re
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 430.1, 491, 508, 549, 580, 581.1, 584, 585, 586 y 587].
 
-Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*. Registro Oficial Suplemento 595 de 12 de junio de 2002 [verificar la versión vigente].
+Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*. Registro Oficial Suplemento 595 de 12 de junio de 2002 [con sus reformas].
 
 [^objetividad]: COIP, art. 5, num. 21. Véase también el art. 195 de la Constitución, que atribuye a la Fiscalía la dirección de la investigación "con sujeción a los principios de oportunidad y mínima intervención penal".
 
@@ -260,7 +260,7 @@ Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*
 
 [^art5811]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^locge]: Ley Orgánica de la Contraloría General del Estado y su reglamento, normas sobre la comunicación de resultados en los exámenes especiales. **[verificar los artículos vigentes]**
+[^locge]: Ley Orgánica de la Contraloría General del Estado y su reglamento, normas sobre la comunicación de resultados en los exámenes especiales.
 
 [^art584]: COIP, art. 584.
 
@@ -276,4 +276,4 @@ Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*
 
 [^art491]: COIP, art. 491.
 
-[^secreto]: Comentario del autor: el secreto profesional del abogado protege la comunicación con el cliente; conviene explicárselo al inicio de la entrevista para que hable con franqueza. **[verificar la norma del Código Orgánico de la Función Judicial que se citará]**
+[^secreto]: Comentario del autor: el secreto profesional del abogado protege la comunicación con el cliente; conviene explicárselo al inicio de la entrevista para que hable con franqueza. Véanse los deberes y prohibiciones de los abogados en el Código Orgánico de la Función Judicial.

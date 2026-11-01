@@ -27,7 +27,7 @@ De la norma vigente se desprenden dos elementos:
 1. **Elemento cognitivo:** el autor debe **conocer** los elementos objetivos del tipo penal. En el lavado de activos, eso significa conocer, entre otras cosas, que los bienes tienen **origen ilícito**. En el cohecho, que el beneficio es **indebido** y que se vincula con un acto de la función.
 2. **Elemento volitivo:** el autor debe **ejecutar voluntariamente la conducta**.
 
-Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007, p. [verificar]), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
+Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
 
 ### 3.2.3. El delito preterintencional
 
@@ -106,7 +106,7 @@ Fabián Caparrós explica por qué esta distinción no es un artificio de la def
 
 La doctrina de la ignorancia deliberada, conocida en el derecho anglosajón como *willful blindness*, sostiene que quien **evita conocer**, pudiendo hacerlo, debe responder **como si hubiera conocido**. La Corte Suprema de los Estados Unidos la sistematizó en el caso *Global-Tech Appliances, Inc. v. SEB S.A.* (2011), con dos requisitos: que el autor crea subjetivamente que existe una alta probabilidad de que un hecho sea cierto, y que realice acciones deliberadas para evitar confirmarlo[^globaltech].
 
-El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007, p. [verificar]).
+El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007).
 
 ### 3.5.2. Por qué es incompatible con el art. 26 del COIP
 
@@ -172,7 +172,7 @@ El inciso tercero agrega que el error invencible sobre una **circunstancia agrav
 
 #### b) Las conductas neutrales y la prohibición de regreso
 
-Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997, p. [verificar]). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
+Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
 - el **cajero bancario** que procesa un depósito siguiendo los procedimientos de la entidad;
 - el **contador** que registra las operaciones que le presentan, conforme a las normas contables;
 - el **notario** que autoriza una escritura cumpliendo los requisitos legales;
@@ -225,7 +225,7 @@ Solo exime si deriva de **caso fortuito** y priva del conocimiento. En los delit
 El COIP **no regula** expresamente el miedo insuperable ni el estado de necesidad exculpante, que otros códigos sí contemplan. Cuando el testaferro coaccionado no encaja en el estado de necesidad justificante del art. 32 (por ejemplo, porque el daño causado es tan grave como el evitado), la defensa debe construir el argumento de la **inexigibilidad de otra conducta**:
 - la culpabilidad es un **juicio de reproche**, y no puede reprocharse a quien, en esas circunstancias, no tenía otra alternativa razonable;
 - el principio de **culpabilidad** tiene base constitucional;
-- en el peor de los casos, la coacción opera como **atenuante** (art. 45 del COIP) **[verificar el numeral aplicable]**.
+- en el peor de los casos, la coacción opera como **atenuante** (art. 45, num. 2, del COIP: actuar "por temor intenso o bajo violencia").
 
 ## 3.8. El caso especial de los honorarios del abogado
 
@@ -250,8 +250,6 @@ El COIP no regula expresamente esta situación. Sin embargo, el abogado ecuatori
 4. **La presunción de inocencia** protege también al cliente: el abogado no puede tratar como ilícito el dinero de alguien que todavía no ha sido condenado.
 
 **Límites:** la protección desaparece cuando el abogado **abandona su rol**. Por ejemplo, si cobra honorarios desproporcionados que en realidad encubren una inversión, si recibe bienes para "guardarlos", si asesora sobre cómo ocultar fondos o si sabe con certeza, por ejemplo por confesión del propio cliente, que el pago concreto proviene del delito.
-
-[Nota del autor: reflexión personal sobre la práctica profesional y las precauciones que adopta el abogado defensor frente al pago de honorarios.]
 
 ## 3.9. Estrategia de defensa
 
@@ -305,25 +303,25 @@ Roxin, C. (1997). *Derecho penal. Parte general. Tomo I: Fundamentos. La estruct
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal*. Registro Oficial Suplemento 107 de 24 de diciembre de 2019.
 
 **Jurisprudencia**
 
-Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero; verificar].
+Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero].
 
 Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
 [^art30]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 30. Véanse también la Constitución, art. 76.7, lits. e y g (comunicación libre y privada con el defensor) y el art. 63 de la misma ley, que exime de responsabilidad civil, administrativa y penal a quien reporta de buena fe en cumplimiento de la ley.
 
-[^culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la culpa solo es punible cuando el tipo penal la prevé expresamente, y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP. **[verificar la redacción vigente del art. 27]**
+[^culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la conducta culposa "es punible cuando se encuentra tipificada como infracción en este código", y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP.
 
 [^art26]: COIP, art. 26, sustituido por el art. 6 de la Ley Orgánica Reformatoria del COIP, R.O. Supl. 107 de 24 de diciembre de 2019. Comentario del autor: buena parte de la literatura y de los escritos judiciales posteriores a 2019 siguen citando la definición derogada ("designio de causar daño"). Conviene verificar siempre la redacción vigente.
 
@@ -341,7 +339,7 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
 [^art36]: COIP, art. 36. Comentario del autor: en estos casos el juez dicta una medida de seguridad en lugar de una pena.
 
-[^bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01). **[verificar la cita y los términos exactos]**
+[^bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01).
 
 [^chiriboga-dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017.
 

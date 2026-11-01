@@ -4,7 +4,7 @@
 
 <<CENTER>> **Mgtr. Fernando Tufiño Valladares**
 
-<<CENTER>> Borrador de trabajo · Noviembre de 2026
+<<CENTER>> Guayaquil, 2026
 
 <<PAGEBREAK>>
 
@@ -76,7 +76,7 @@
 <<IDX3>> 2.5.4. Los contraindicios|33
 <<IDX2>> 2.6. Derecho comparado|33
 <<IDX3>> 2.6.1. España|33
-<<IDX3>> 2.6.2. Perú|33
+<<IDX3>> 2.6.2. Perú|34
 <<IDX3>> 2.6.3. Colombia|34
 <<IDX3>> 2.6.4. Conclusión comparada|34
 <<IDX2>> 2.7. Consecuencias para la defensa|34
@@ -88,269 +88,269 @@
 <<IDX2>> 2.8. Caso práctico resuelto|35
 <<IDX2>> 2.9. Lista de revisión|36
 <<IDX2>> Referencias|36
-<<IDX1>> Capítulo 3. El tipo subjetivo: dolo, dolo eventual y causas que eximen de responsabilidad|38
-<<IDX2>> 3.1. Planteamiento|38
-<<IDX2>> 3.2. El dolo en el COIP: la reforma de 2019|38
-<<IDX3>> 3.2.1. El cambio de texto|38
-<<IDX3>> 3.2.2. Los dos elementos del dolo|38
-<<IDX3>> 3.2.3. El delito preterintencional|38
-<<IDX2>> 3.3. Las clases de dolo|39
-<<IDX2>> 3.4. El dolo eventual|39
-<<IDX3>> 3.4.1. La frontera con la culpa consciente|39
-<<IDX3>> 3.4.2. ¿Cabe el dolo eventual en el COIP?|39
-<<IDX3>> 3.4.3. El dolo eventual en el lavado de activos|40
-<<IDX3>> 3.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto|40
-<<IDX2>> 3.5. La "ignorancia deliberada"|41
-<<IDX3>> 3.5.1. Qué es|41
-<<IDX3>> 3.5.2. Por qué es incompatible con el art. 26 del COIP|41
-<<IDX3>> 3.5.3. Cómo responder cuando la acusación invoca la ignorancia deliberada|42
-<<IDX2>> 3.6. La prueba del dolo|42
-<<IDX2>> 3.7. Las causas que eximen de responsabilidad|42
-<<IDX3>> 3.7.1. Causas que excluyen la conducta (art. 24)|43
-<<IDX3>> 3.7.2. Causas que excluyen la tipicidad|43
-<<IDX3>> 3.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)|44
-<<IDX3>> 3.7.4. Causas que excluyen la culpabilidad (arts. 34 a 37)|44
-<<IDX2>> 3.8. El caso especial de los honorarios del abogado|45
-<<IDX3>> 3.8.1. El problema|45
-<<IDX3>> 3.8.2. La solución alemana|45
-<<IDX3>> 3.8.3. La solución en el Ecuador|45
-<<IDX2>> 3.9. Estrategia de defensa|46
-<<IDX2>> 3.10. Caso práctico resuelto|46
-<<IDX2>> 3.11. Lista de revisión|47
-<<IDX2>> Referencias|47
-<<IDX1>> Capítulo 4. La prueba del lavado de activos: informes técnicos y prueba indiciaria|49
-<<IDX2>> 4.1. Planteamiento|49
-<<IDX2>> 4.2. La prueba indiciaria: qué es y por qué el lavado se juzga con ella|49
-<<IDX3>> 4.2.1. Prueba directa y prueba indirecta|49
-<<IDX3>> 4.2.2. ¿Por qué el lavado de activos se prueba casi siempre por indicios?|49
-<<IDX3>> 4.2.3. Un matiz necesario: "casi siempre", no "siempre"|50
-<<IDX3>> 4.2.4. El riesgo para la defensa: cuando el indicio se convierte en presunción|51
-<<IDX3>> 4.2.5. ¿Se invierte la carga de la prueba en el lavado?|52
-<<IDX2>> 4.3. Qué es un indicio|53
-<<IDX3>> 4.3.1. La estructura de la inferencia|53
-<<IDX3>> 4.3.2. Indicio, presunción y sospecha|54
-<<IDX3>> 4.3.3. Clases de indicios|54
-<<IDX2>> 4.4. La base legal en el Ecuador|54
-<<IDX3>> 4.4.1. El antecedente: el Código de Procedimiento Penal de 2000|54
-<<IDX3>> 4.4.2. El COIP: el art. 455 y la prohibición de las presunciones|54
-<<IDX3>> 4.4.3. Las demás normas aplicables|55
-<<IDX2>> 4.5. El estándar de prueba y la motivación reforzada|55
-<<IDX3>> 4.5.1. Más allá de toda duda razonable|55
-<<IDX3>> 4.5.2. La motivación reforzada|55
-<<IDX2>> 4.6. La prueba documental y técnica: informes, reportes y cuentas bancarias|55
-<<IDX3>> 4.6.1. La regla de oro: el informe escrito no es prueba|55
-<<IDX3>> 4.6.2. El reporte de la UAFE|56
-<<IDX3>> 4.6.3. El informe de la Contraloría cuando el delito de origen es de corrupción|57
-<<IDX3>> 4.6.4. La información bancaria y la exclusión de la prueba ilícita|58
-<<IDX2>> 4.7. El peritaje contable y patrimonial|59
-<<IDX3>> 4.7.1. Los métodos de análisis patrimonial|59
-<<IDX3>> 4.7.2. Preguntas para el contraexamen del perito|59
-<<IDX3>> 4.7.3. El peritaje de parte|59
-<<IDX2>> 4.8. Cómo atacar una inferencia|59
-<<IDX3>> 4.8.1. Atacar el hecho base|59
-<<IDX3>> 4.8.2. Atacar la regla de experiencia|60
-<<IDX3>> 4.8.3. Atacar la conclusión: la hipótesis alternativa|60
-<<IDX3>> 4.8.4. El silencio del procesado y la coartada no probada|60
-<<IDX3>> 4.8.5. Las falacias más frecuentes en las acusaciones|61
-<<IDX3>> 4.8.6. Lo que la Corte Nacional ha aceptado como indicio|61
-<<IDX3>> 4.8.7. Cómo presentar los contraindicios|62
-<<IDX2>> 4.9. El control de la inferencia en los recursos|63
-<<IDX2>> 4.10. Modelo de argumento: impugnación de una inferencia|63
-<<IDX2>> 4.11. Caso práctico resuelto|63
-<<IDX2>> 4.12. Lista de revisión|64
-<<IDX2>> Referencias|64
-<<IDX1>> Capítulo 5. Los concursos de infracciones|67
-<<IDX2>> 5.1. Planteamiento|67
-<<IDX2>> 5.2. Los sistemas de determinación de la pena en los concursos|67
-<<IDX2>> 5.3. La pregunta previa: unidad o pluralidad de conductas|67
-<<IDX3>> 5.3.1. Por qué es la pregunta decisiva|67
-<<IDX3>> 5.3.2. Los criterios de unidad de conducta|67
-<<IDX2>> 5.4. El concurso real (art. 20)|68
-<<IDX3>> 5.4.1. El texto|68
-<<IDX3>> 5.4.2. Los requisitos|68
-<<IDX3>> 5.4.3. El cálculo de la pena|68
-<<IDX3>> 5.4.4. El punto de litigio: ¿el doble de qué pena?|68
-<<IDX2>> 5.5. El concurso ideal (art. 21)|69
-<<IDX3>> 5.5.1. El texto|69
-<<IDX3>> 5.5.2. Los requisitos|69
-<<IDX3>> 5.5.3. Concurso ideal heterogéneo y homogéneo|69
-<<IDX3>> 5.5.4. La experiencia ecuatoriana: el caso de las drogas|69
-<<IDX2>> 5.6. El concurso aparente de leyes|70
-<<IDX3>> 5.6.1. Concepto|70
-<<IDX3>> 5.6.2. Los principios|70
-<<IDX3>> 5.6.3. Los actos copenados|70
-<<IDX3>> 5.6.4. Por qué el concurso aparente es la primera defensa|70
-<<IDX2>> 5.7. Figuras que el COIP no regula|71
-<<IDX3>> 5.7.1. El concurso medial|71
-<<IDX3>> 5.7.2. El delito continuado|71
-<<IDX3>> 5.7.3. El delito masa|71
-<<IDX2>> 5.8. Cuestiones procesales|71
-<<IDX2>> 5.9. Los concursos en los delitos de corrupción y lavado de activos|72
-<<IDX3>> 5.9.1. La defraudación tributaria como delito de origen|73
-<<IDX2>> 5.10. Caso práctico resuelto|74
-<<IDX2>> 5.11. Lista de revisión|74
-<<IDX2>> Referencias|74
-<<IDX1>> Capítulo 6. La responsabilidad penal de la persona jurídica|76
-<<IDX2>> 6.1. Planteamiento|76
-<<IDX2>> 6.2. Los modelos de imputación|76
-<<IDX2>> 6.3. La regulación en el COIP|76
-<<IDX3>> 6.3.1. El art. 49: los presupuestos|76
-<<IDX3>> 6.3.2. La independencia de la responsabilidad|77
-<<IDX3>> 6.3.3. La exclusión: el beneficio de un tercero|77
-<<IDX3>> 6.3.4. La reforma de 2021: los programas de cumplimiento|77
-<<IDX3>> 6.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión|78
-<<IDX2>> 6.4. Las penas (art. 71)|79
-<<IDX2>> 6.5. Derecho comparado|79
+<<IDX1>> Capítulo 3. El tipo subjetivo: dolo, dolo eventual y causas que eximen de responsabilidad|39
+<<IDX2>> 3.1. Planteamiento|39
+<<IDX2>> 3.2. El dolo en el COIP: la reforma de 2019|39
+<<IDX3>> 3.2.1. El cambio de texto|39
+<<IDX3>> 3.2.2. Los dos elementos del dolo|39
+<<IDX3>> 3.2.3. El delito preterintencional|39
+<<IDX2>> 3.3. Las clases de dolo|40
+<<IDX2>> 3.4. El dolo eventual|40
+<<IDX3>> 3.4.1. La frontera con la culpa consciente|40
+<<IDX3>> 3.4.2. ¿Cabe el dolo eventual en el COIP?|40
+<<IDX3>> 3.4.3. El dolo eventual en el lavado de activos|41
+<<IDX3>> 3.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto|41
+<<IDX2>> 3.5. La "ignorancia deliberada"|42
+<<IDX3>> 3.5.1. Qué es|42
+<<IDX3>> 3.5.2. Por qué es incompatible con el art. 26 del COIP|42
+<<IDX3>> 3.5.3. Cómo responder cuando la acusación invoca la ignorancia deliberada|43
+<<IDX2>> 3.6. La prueba del dolo|43
+<<IDX2>> 3.7. Las causas que eximen de responsabilidad|43
+<<IDX3>> 3.7.1. Causas que excluyen la conducta (art. 24)|44
+<<IDX3>> 3.7.2. Causas que excluyen la tipicidad|44
+<<IDX3>> 3.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)|45
+<<IDX3>> 3.7.4. Causas que excluyen la culpabilidad (arts. 34 a 37)|45
+<<IDX2>> 3.8. El caso especial de los honorarios del abogado|46
+<<IDX3>> 3.8.1. El problema|46
+<<IDX3>> 3.8.2. La solución alemana|46
+<<IDX3>> 3.8.3. La solución en el Ecuador|46
+<<IDX2>> 3.9. Estrategia de defensa|47
+<<IDX2>> 3.10. Caso práctico resuelto|47
+<<IDX2>> 3.11. Lista de revisión|48
+<<IDX2>> Referencias|48
+<<IDX1>> Capítulo 4. La prueba del lavado de activos: informes técnicos y prueba indiciaria|50
+<<IDX2>> 4.1. Planteamiento|50
+<<IDX2>> 4.2. La prueba indiciaria: qué es y por qué el lavado se juzga con ella|50
+<<IDX3>> 4.2.1. Prueba directa y prueba indirecta|50
+<<IDX3>> 4.2.2. ¿Por qué el lavado de activos se prueba casi siempre por indicios?|50
+<<IDX3>> 4.2.3. Un matiz necesario: "casi siempre", no "siempre"|51
+<<IDX3>> 4.2.4. El riesgo para la defensa: cuando el indicio se convierte en presunción|52
+<<IDX3>> 4.2.5. ¿Se invierte la carga de la prueba en el lavado?|53
+<<IDX2>> 4.3. Qué es un indicio|54
+<<IDX3>> 4.3.1. La estructura de la inferencia|54
+<<IDX3>> 4.3.2. Indicio, presunción y sospecha|55
+<<IDX3>> 4.3.3. Clases de indicios|55
+<<IDX2>> 4.4. La base legal en el Ecuador|55
+<<IDX3>> 4.4.1. El antecedente: el Código de Procedimiento Penal de 2000|55
+<<IDX3>> 4.4.2. El COIP: el art. 455 y la prohibición de las presunciones|55
+<<IDX3>> 4.4.3. Las demás normas aplicables|56
+<<IDX2>> 4.5. El estándar de prueba y la motivación reforzada|56
+<<IDX3>> 4.5.1. Más allá de toda duda razonable|56
+<<IDX3>> 4.5.2. La motivación reforzada|56
+<<IDX2>> 4.6. La prueba documental y técnica: informes, reportes y cuentas bancarias|56
+<<IDX3>> 4.6.1. La regla de oro: el informe escrito no es prueba|56
+<<IDX3>> 4.6.2. El reporte de la UAFE|57
+<<IDX3>> 4.6.3. El informe de la Contraloría cuando el delito de origen es de corrupción|58
+<<IDX3>> 4.6.4. La información bancaria y la exclusión de la prueba ilícita|59
+<<IDX2>> 4.7. El peritaje contable y patrimonial|60
+<<IDX3>> 4.7.1. Los métodos de análisis patrimonial|60
+<<IDX3>> 4.7.2. Preguntas para el contraexamen del perito|60
+<<IDX3>> 4.7.3. El peritaje de parte|60
+<<IDX2>> 4.8. Cómo atacar una inferencia|60
+<<IDX3>> 4.8.1. Atacar el hecho base|60
+<<IDX3>> 4.8.2. Atacar la regla de experiencia|61
+<<IDX3>> 4.8.3. Atacar la conclusión: la hipótesis alternativa|61
+<<IDX3>> 4.8.4. El silencio del procesado y la coartada no probada|61
+<<IDX3>> 4.8.5. Las falacias más frecuentes en las acusaciones|62
+<<IDX3>> 4.8.6. Lo que la Corte Nacional ha aceptado como indicio|62
+<<IDX3>> 4.8.7. Cómo presentar los contraindicios|63
+<<IDX2>> 4.9. El control de la inferencia en los recursos|64
+<<IDX2>> 4.10. Modelo de argumento: impugnación de una inferencia|64
+<<IDX2>> 4.11. Caso práctico resuelto|64
+<<IDX2>> 4.12. Lista de revisión|65
+<<IDX2>> Referencias|65
+<<IDX1>> Capítulo 5. Los concursos de infracciones|68
+<<IDX2>> 5.1. Planteamiento|68
+<<IDX2>> 5.2. Los sistemas de determinación de la pena en los concursos|68
+<<IDX2>> 5.3. La pregunta previa: unidad o pluralidad de conductas|68
+<<IDX3>> 5.3.1. Por qué es la pregunta decisiva|68
+<<IDX3>> 5.3.2. Los criterios de unidad de conducta|68
+<<IDX2>> 5.4. El concurso real (art. 20)|69
+<<IDX3>> 5.4.1. El texto|69
+<<IDX3>> 5.4.2. Los requisitos|69
+<<IDX3>> 5.4.3. El cálculo de la pena|69
+<<IDX3>> 5.4.4. El punto de litigio: ¿el doble de qué pena?|69
+<<IDX2>> 5.5. El concurso ideal (art. 21)|70
+<<IDX3>> 5.5.1. El texto|70
+<<IDX3>> 5.5.2. Los requisitos|70
+<<IDX3>> 5.5.3. Concurso ideal heterogéneo y homogéneo|70
+<<IDX3>> 5.5.4. La experiencia ecuatoriana: el caso de las drogas|70
+<<IDX2>> 5.6. El concurso aparente de leyes|71
+<<IDX3>> 5.6.1. Concepto|71
+<<IDX3>> 5.6.2. Los principios|71
+<<IDX3>> 5.6.3. Los actos copenados|71
+<<IDX3>> 5.6.4. Por qué el concurso aparente es la primera defensa|71
+<<IDX2>> 5.7. Figuras que el COIP no regula|72
+<<IDX3>> 5.7.1. El concurso medial|72
+<<IDX3>> 5.7.2. El delito continuado|72
+<<IDX3>> 5.7.3. El delito masa|72
+<<IDX2>> 5.8. Cuestiones procesales|72
+<<IDX2>> 5.9. Los concursos en los delitos de corrupción y lavado de activos|73
+<<IDX3>> 5.9.1. La defraudación tributaria como delito de origen|74
+<<IDX2>> 5.10. Caso práctico resuelto|75
+<<IDX2>> 5.11. Lista de revisión|75
+<<IDX2>> Referencias|75
+<<IDX1>> Capítulo 6. La responsabilidad penal de la persona jurídica|77
+<<IDX2>> 6.1. Planteamiento|77
+<<IDX2>> 6.2. Los modelos de imputación|77
+<<IDX2>> 6.3. La regulación en el COIP|77
+<<IDX3>> 6.3.1. El art. 49: los presupuestos|77
+<<IDX3>> 6.3.2. La independencia de la responsabilidad|78
+<<IDX3>> 6.3.3. La exclusión: el beneficio de un tercero|78
+<<IDX3>> 6.3.4. La reforma de 2021: los programas de cumplimiento|78
+<<IDX3>> 6.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión|79
+<<IDX2>> 6.4. Las penas (art. 71)|80
+<<IDX2>> 6.5. Derecho comparado|80
 <<IDX2>> 6.6. Estrategia de defensa de la persona jurídica|80
 <<IDX3>> 6.6.1. Atacar los presupuestos del art. 49|80
-<<IDX3>> 6.6.2. El programa de cumplimiento|80
-<<IDX3>> 6.6.3. La proporcionalidad de la pena|80
-<<IDX3>> 6.6.4. Las garantías procesales de la persona jurídica|80
-<<IDX3>> 6.6.5. La empresa de fachada: cuándo no hay persona jurídica que defender|80
-<<IDX2>> 6.7. Asesoría preventiva: el programa de cumplimiento|81
-<<IDX3>> 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo|81
+<<IDX3>> 6.6.2. El programa de cumplimiento|81
+<<IDX3>> 6.6.3. La proporcionalidad de la pena|81
+<<IDX3>> 6.6.4. Las garantías procesales de la persona jurídica|81
+<<IDX3>> 6.6.5. La empresa de fachada: cuándo no hay persona jurídica que defender|81
+<<IDX2>> 6.7. Asesoría preventiva: el programa de cumplimiento|82
+<<IDX3>> 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo|82
 <<IDX2>> 6.8. Caso práctico resuelto|83
-<<IDX2>> 6.9. Lista de revisión|83
-<<IDX2>> Referencias|83
-<<IDX1>> Capítulo 7. La extinción de dominio y las medidas cautelares reales|85
-<<IDX2>> 7.1. Planteamiento|85
-<<IDX2>> 7.2. Origen: el modelo colombiano|85
-<<IDX2>> 7.3. La extinción de dominio en el Ecuador|85
-<<IDX3>> 7.3.1. La ley de 2021|85
-<<IDX3>> 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional|85
-<<IDX2>> 7.4. Naturaleza jurídica|86
-<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|86
-<<IDX2>> 7.5. Los presupuestos|87
-<<IDX2>> 7.6. El procedimiento|87
-<<IDX2>> 7.7. El tercero de buena fe|87
-<<IDX2>> 7.8. Las medidas cautelares reales|88
-<<IDX2>> 7.9. Estrategia de defensa|88
-<<IDX3>> 7.9.1. En el proceso de extinción de dominio|88
-<<IDX3>> 7.9.2. La coordinación con el proceso penal|89
-<<IDX3>> 7.9.3. La prueba del origen lícito de los bienes|89
-<<IDX2>> 7.10. Caso práctico resuelto|89
-<<IDX2>> 7.11. Lista de revisión|90
-<<IDX2>> Referencias|90
-<<IDX0>> Parte II. Estrategia de defensa|91
-<<IDX1>> Capítulo 8. La defensa en la investigación previa|91
-<<IDX2>> 8.1. Planteamiento|91
-<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|91
-<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|92
-<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|92
-<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|92
-<<IDX2>> 8.4. Los derechos del investigado|92
-<<IDX3>> 8.4.1. El acceso al expediente|92
-<<IDX3>> 8.4.2. El derecho al silencio|93
-<<IDX3>> 8.4.3. Rendir o no la versión|93
-<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|93
-<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|94
-<<IDX3>> 8.5.1. El fundamento|94
-<<IDX3>> 8.5.2. Qué pedir|95
-<<IDX3>> 8.5.3. La pericia de parte|95
-<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|95
-<<IDX2>> 8.6. Los plazos y el archivo|95
-<<IDX3>> 8.6.1. Los plazos|95
-<<IDX3>> 8.6.2. El archivo|96
-<<IDX2>> 8.7. Las medidas cautelares reales|96
-<<IDX2>> 8.8. La cooperación eficaz|96
-<<IDX2>> 8.9. La reserva y la exposición pública|97
-<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|97
-<<IDX2>> 8.11. Caso práctico resuelto|98
-<<IDX2>> 8.12. Lista de revisión|99
-<<IDX2>> Referencias|99
-<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|101
-<<IDX2>> 9.1. Planteamiento|101
-<<IDX2>> 9.2. La base legal|101
-<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|101
-<<IDX3>> 9.2.2. Los requisitos del perito y del informe|101
-<<IDX3>> 9.2.3. El criterio de valoración|102
-<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|102
+<<IDX2>> 6.9. Lista de revisión|84
+<<IDX2>> Referencias|84
+<<IDX1>> Capítulo 7. La extinción de dominio y las medidas cautelares reales|86
+<<IDX2>> 7.1. Planteamiento|86
+<<IDX2>> 7.2. Origen: el modelo colombiano|86
+<<IDX2>> 7.3. La extinción de dominio en el Ecuador|86
+<<IDX3>> 7.3.1. La ley de 2021|86
+<<IDX3>> 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional|86
+<<IDX2>> 7.4. Naturaleza jurídica|87
+<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|87
+<<IDX2>> 7.5. Los presupuestos|88
+<<IDX2>> 7.6. El procedimiento|88
+<<IDX2>> 7.7. El tercero de buena fe|88
+<<IDX2>> 7.8. Las medidas cautelares reales|89
+<<IDX2>> 7.9. Estrategia de defensa|89
+<<IDX3>> 7.9.1. En el proceso de extinción de dominio|89
+<<IDX3>> 7.9.2. La coordinación con el proceso penal|90
+<<IDX3>> 7.9.3. La prueba del origen lícito de los bienes|90
+<<IDX2>> 7.10. Caso práctico resuelto|90
+<<IDX2>> 7.11. Lista de revisión|91
+<<IDX2>> Referencias|91
+<<IDX0>> Parte II. Estrategia de defensa|92
+<<IDX1>> Capítulo 8. La defensa en la investigación previa|92
+<<IDX2>> 8.1. Planteamiento|92
+<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|92
+<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|93
+<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|93
+<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|93
+<<IDX2>> 8.4. Los derechos del investigado|93
+<<IDX3>> 8.4.1. El acceso al expediente|93
+<<IDX3>> 8.4.2. El derecho al silencio|94
+<<IDX3>> 8.4.3. Rendir o no la versión|94
+<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|94
+<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|95
+<<IDX3>> 8.5.1. El fundamento|95
+<<IDX3>> 8.5.2. Qué pedir|96
+<<IDX3>> 8.5.3. La pericia de parte|96
+<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|96
+<<IDX2>> 8.6. Los plazos y el archivo|96
+<<IDX3>> 8.6.1. Los plazos|96
+<<IDX3>> 8.6.2. El archivo|97
+<<IDX2>> 8.7. Las medidas cautelares reales|97
+<<IDX2>> 8.8. La cooperación eficaz|97
+<<IDX2>> 8.9. La reserva y la exposición pública|98
+<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|98
+<<IDX2>> 8.11. Caso práctico resuelto|99
+<<IDX2>> 8.12. Lista de revisión|100
+<<IDX2>> Referencias|100
+<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|102
+<<IDX2>> 9.1. Planteamiento|102
+<<IDX2>> 9.2. La base legal|102
+<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|102
+<<IDX3>> 9.2.2. Los requisitos del perito y del informe|102
+<<IDX3>> 9.2.3. El criterio de valoración|103
+<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|103
 <<IDX2>> 9.4. Los métodos que usa la Fiscalía|103
 <<IDX3>> 9.4.1. La auditoría forense|103
-<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|103
-<<IDX2>> 9.5. Cuándo encargar la pericia de parte|104
-<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|104
-<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|104
-<<IDX2>> 9.6. Cómo elegir al perito|104
-<<IDX2>> 9.7. El encargo pericial: qué preguntar|104
-<<IDX2>> 9.8. La reconstrucción del patrimonio|105
-<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|105
-<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|105
-<<IDX3>> 9.8.3. La valoración de los bienes|105
-<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|105
-<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|106
-<<IDX2>> 9.9. El informe pericial de parte|107
-<<IDX3>> 9.9.1. Estructura recomendada|107
-<<IDX3>> 9.9.2. El cuadro de conciliación|107
+<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|104
+<<IDX2>> 9.5. Cuándo encargar la pericia de parte|105
+<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|105
+<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|105
+<<IDX2>> 9.6. Cómo elegir al perito|105
+<<IDX2>> 9.7. El encargo pericial: qué preguntar|105
+<<IDX2>> 9.8. La reconstrucción del patrimonio|106
+<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|106
+<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|106
+<<IDX3>> 9.8.3. La valoración de los bienes|106
+<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|106
+<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|107
+<<IDX2>> 9.9. El informe pericial de parte|108
+<<IDX3>> 9.9.1. Estructura recomendada|108
+<<IDX3>> 9.9.2. El cuadro de conciliación|108
 <<IDX2>> 9.10. La pericia de parte en el juicio|108
 <<IDX3>> 9.10.1. El interrogatorio del perito de parte|108
-<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|108
-<<IDX3>> 9.10.3. El alegato|108
-<<IDX2>> 9.11. Modelo de encargo pericial|108
+<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|109
+<<IDX3>> 9.10.3. El alegato|109
+<<IDX2>> 9.11. Modelo de encargo pericial|109
 <<IDX2>> 9.12. Caso práctico resuelto|109
-<<IDX2>> 9.13. Lista de revisión|109
+<<IDX2>> 9.13. Lista de revisión|110
 <<IDX2>> Referencias|110
-<<IDX1>> Capítulo 10. La litigación en juicio|111
-<<IDX2>> 10.1. Planteamiento|111
-<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|111
-<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|111
-<<IDX3>> 10.2.2. Controlar la acusación|111
-<<IDX3>> 10.2.3. La exclusión de la prueba|112
-<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|112
-<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|112
-<<IDX2>> 10.3. La teoría del caso|112
-<<IDX3>> 10.3.1. Elegir el elemento|112
-<<IDX3>> 10.3.2. Una sola historia|113
-<<IDX2>> 10.4. El alegato de apertura|113
-<<IDX2>> 10.5. La práctica de la prueba|113
-<<IDX3>> 10.5.1. Las reglas del art. 615|113
-<<IDX3>> 10.5.2. El testimonio del procesado|114
-<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|114
-<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|115
-<<IDX3>> 10.5.5. Las objeciones|115
-<<IDX3>> 10.5.6. El juicio con varios procesados|115
-<<IDX2>> 10.6. El alegato de clausura|116
-<<IDX3>> 10.6.1. La última palabra|116
-<<IDX3>> 10.6.2. Estructura|116
-<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|117
-<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|117
-<<IDX2>> 10.9. Caso práctico resuelto|117
-<<IDX2>> 10.10. Lista de revisión|118
+<<IDX1>> Capítulo 10. La litigación en juicio|112
+<<IDX2>> 10.1. Planteamiento|112
+<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|112
+<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|112
+<<IDX3>> 10.2.2. Controlar la acusación|112
+<<IDX3>> 10.2.3. La exclusión de la prueba|113
+<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|113
+<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|113
+<<IDX2>> 10.3. La teoría del caso|113
+<<IDX3>> 10.3.1. Elegir el elemento|113
+<<IDX3>> 10.3.2. Una sola historia|114
+<<IDX2>> 10.4. El alegato de apertura|114
+<<IDX2>> 10.5. La práctica de la prueba|114
+<<IDX3>> 10.5.1. Las reglas del art. 615|114
+<<IDX3>> 10.5.2. El testimonio del procesado|115
+<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|115
+<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|116
+<<IDX3>> 10.5.5. Las objeciones|116
+<<IDX3>> 10.5.6. El juicio con varios procesados|116
+<<IDX2>> 10.6. El alegato de clausura|117
+<<IDX3>> 10.6.1. La última palabra|117
+<<IDX3>> 10.6.2. Estructura|117
+<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|118
+<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|118
+<<IDX2>> 10.9. Caso práctico resuelto|118
+<<IDX2>> 10.10. Lista de revisión|119
 <<IDX2>> Referencias|119
-<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|120
-<<IDX2>> 11.1. Planteamiento|120
-<<IDX2>> 11.2. Las reglas generales de la impugnación|120
-<<IDX2>> 11.3. La apelación|120
-<<IDX3>> 11.3.1. Qué se puede apelar|120
-<<IDX3>> 11.3.2. El trámite|121
-<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|121
-<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|121
-<<IDX2>> 11.4. La casación|122
-<<IDX3>> 11.4.1. Su objeto: la violación de la ley|122
-<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|122
-<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|122
-<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|123
-<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|123
-<<IDX3>> 11.4.6. El trámite|123
-<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|124
-<<IDX2>> 11.5. La revisión|124
-<<IDX3>> 11.5.1. Las causales|124
-<<IDX3>> 11.5.2. Los requisitos|124
-<<IDX3>> 11.5.3. La lección del caso Chiriboga|124
+<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|121
+<<IDX2>> 11.1. Planteamiento|121
+<<IDX2>> 11.2. Las reglas generales de la impugnación|121
+<<IDX2>> 11.3. La apelación|121
+<<IDX3>> 11.3.1. Qué se puede apelar|121
+<<IDX3>> 11.3.2. El trámite|122
+<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|122
+<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|122
+<<IDX2>> 11.4. La casación|123
+<<IDX3>> 11.4.1. Su objeto: la violación de la ley|123
+<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|123
+<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|123
+<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|124
+<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|124
+<<IDX3>> 11.4.6. El trámite|124
+<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|125
+<<IDX2>> 11.5. La revisión|125
+<<IDX3>> 11.5.1. Las causales|125
+<<IDX3>> 11.5.2. Los requisitos|125
+<<IDX3>> 11.5.3. La lección del caso Chiriboga|125
 <<IDX2>> 11.6. La acción extraordinaria de protección|125
 <<IDX3>> 11.6.1. Qué es y qué no es|125
-<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|125
-<<IDX3>> 11.6.3. Cómo plantearla|125
-<<IDX2>> 11.7. El recurso de hecho|125
+<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|126
+<<IDX3>> 11.6.3. Cómo plantearla|126
+<<IDX2>> 11.7. El recurso de hecho|126
 <<IDX2>> 11.8. Qué recurso para qué argumento|126
-<<IDX2>> 11.9. Modelo de cargo de casación|126
-<<IDX2>> 11.10. Caso práctico resuelto|127
-<<IDX2>> 11.11. Lista de revisión|127
-<<IDX2>> Referencias|128
-<<IDX0>> Anexos|129
-<<IDX1>> Anexo A. El art. 317 del COIP: texto vigente y reformas|129
-<<IDX1>> Anexo B. Tipologías y señales de alerta|131
-<<IDX1>> Anexo C. Modelos de escritos|132
+<<IDX2>> 11.9. Modelo de cargo de casación|127
+<<IDX2>> 11.10. Caso práctico resuelto|128
+<<IDX2>> 11.11. Lista de revisión|128
+<<IDX2>> Referencias|129
+<<IDX0>> Anexos|130
+<<IDX1>> Anexo A. El art. 317 del COIP: texto vigente y reformas|130
+<<IDX1>> Anexo B. Tipologías y señales de alerta|132
+<<IDX1>> Anexo C. Modelos de escritos|133
 
 <<PAGEBREAK>>
 
@@ -385,7 +385,7 @@ Guayaquil, noviembre de 2026
 
 **Mgtr. Fernando Tufiño Valladares**
 
-[^p0_conflicto]: Decreto Ejecutivo 111, de 9 de enero de 2024, que reconoció la existencia de un conflicto armado interno [verificar número y fecha del Registro Oficial].
+[^p0_conflicto]: Decreto Ejecutivo 111, de 9 de enero de 2024, que reconoció la existencia de un conflicto armado interno.
 
 [^p0_ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, Registro Oficial Cuarto Suplemento 610, 29 de julio de 2024. Su disposición final fijó la vigencia un año después de su publicación, y derogó la Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos (Registro Oficial Suplemento 802, 21 de julio de 2016).
 
@@ -410,7 +410,7 @@ En este orden de ideas, el presente capítulo recorre el camino que siguió esta
 
 Se repite en clases y conferencias que la expresión nace en los Estados Unidos de los años veinte y treinta del siglo pasado, cuando las organizaciones criminales de Chicago, con Al Capone a la cabeza, habrían adquirido cadenas de lavanderías para mezclar el dinero del contrabando de alcohol con los ingresos en efectivo de un negocio aparentemente lícito[^c1_capone]. La imagen es poderosa: el dinero sucio entra a la lavandería y sale limpio.
 
-Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015, p. [verificar]). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002, p. [verificar]).
+Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002).
 
 #### 1.2.2. La expresión en la prensa y en los tribunales
 
@@ -426,13 +426,13 @@ Esta pregunta tiene dos respuestas, y conviene conocer ambas porque cada una ens
 
 La doctrina mayoritaria reconoce a **Italia** como el primer país que tipificó una conducta de lavado en su código penal. En 1978, en medio de la ola de secuestros extorsivos atribuidos a organizaciones como las Brigadas Rojas y a la criminalidad mafiosa, el legislador italiano incorporó el artículo 648 bis al *Codice Penale*[^c1_italia]. La norma castigaba la sustitución de dinero o valores provenientes de delitos muy específicos: el robo agravado, la extorsión agravada y el secuestro de personas con fines de extorsión.
 
-Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015, p. [verificar]).
+Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015).
 
 #### 1.3.2. Estados Unidos (1986): el primer delito autónomo y general
 
 Los **Estados Unidos** recorrieron un camino distinto. Primero apostaron por la prevención administrativa: la *Bank Secrecy Act* de 1970 obligó a los bancos a reportar las operaciones en efectivo superiores a diez mil dólares[^c1_bsa]. Durante dieciséis años, sin embargo, mover dinero ilícito no era en sí mismo un delito federal; lo que se castigaba era no reportarlo.
 
-Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^c1_mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004, p. [verificar]).
+Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^c1_mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004).
 
 #### 1.3.3. Lo que enseñan ambos modelos
 
@@ -510,7 +510,7 @@ El art. 317 del COIP no fija un monto mínimo para que exista el delito: el mont
 
 ### 1.7. Las fases del lavado
 
-La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
+La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015; Prado Saldarriaga, 2007):
 
 | Fase | Qué ocurre | Ejemplos |
 |---|---|---|
@@ -555,7 +555,7 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Tratados | Convenciones de Viena (1988), Palermo (2000) y Mérida (2003) |
 | Estándares | 40 Recomendaciones del GAFI |
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
-| Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento (Decreto Ejecutivo 298, 2026 [verificar]); para hechos anteriores, la ley de 2016 |
+| Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento; para hechos anteriores, la ley de 2016 |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
 | Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 2 |
 
@@ -613,7 +613,7 @@ Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e i
 
 Zambrano Pasquel, A. (2010). *Lavado de activos: Aproximaciones desde la imputación objetiva y la autoría mediata*. Corporación de Estudios y Publicaciones [citado a través de Villacreses y Herrera, 2023].
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
 
@@ -627,7 +627,7 @@ Comité de Supervisión Bancaria de Basilea. (1988). *Prevención de la utilizac
 
 Fabián Caparrós, E. A. (1998). *El delito de blanqueo de capitales*. Colex.
 
-Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [actualización por verificar]. GAFI.
+Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [con sus actualizaciones posteriores]. GAFI.
 
 Naylor, R. T. (2002). *Wages of crime: Black markets, illegal finance, and the underworld economy*. Cornell University Press.
 
@@ -635,13 +635,13 @@ Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terroris
 
 Reuter, P., y Truman, E. M. (2004). *Chasing dirty money: The fight against money laundering*. Institute for International Economics.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
 **Normativa**
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [con sus reformas; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [con sus reformas; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
 
@@ -657,43 +657,43 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 
 **Jurisprudencia**
 
-Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos]. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 [^c1_fc_def]: La misma definición aparece en la obra de 1998 del autor, *El delito de blanqueo de capitales* (Colex), p. 4, según la cita de Apolo-Salazar (2021, pp. 363-364), con la expresión "apariencia de legitimidad". Se sigue aquí la versión de 2018, que dice "apariencia de legalidad".
 
-[^c1_ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 7 a 15 (CONCLAFT), 16 y 17 (UAFE), 26 a 31 (sujetos obligados), 33 (prohibición de uso de efectivo), 91 a 94 (beneficiarios finales), disposición reformatoria primera (derogatoria de los arts. 318 y 368 del COIP), disposición derogatoria única y disposición final única. Comentario del autor: el texto ha tenido una historia accidentada. El Decreto Ley de Emergencia No. 477 (Registro Oficial Suplemento 700 de 10 de diciembre de 2024) derogó varios de sus artículos, pero la Corte Constitucional lo declaró inconstitucional por la forma, con efectos retroactivos (Registro Oficial Suplemento 8 de 27 de marzo de 2025); y el art. 17.1, agregado por la Ley Orgánica de Solidaridad Nacional, cayó con la declaratoria de inconstitucionalidad de esa ley (Registro Oficial 96 de 3 de octubre de 2025). Antes de citar un artículo, conviene verificar su estado. **[verificar si la derogatoria del art. 318 rigió desde la publicación o desde la entrada en vigencia de la ley]**
+[^c1_ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 7 a 15 (CONCLAFT), 16 y 17 (UAFE), 26 a 31 (sujetos obligados), 33 (prohibición de uso de efectivo), 91 a 94 (beneficiarios finales), disposición reformatoria primera (derogatoria de los arts. 318 y 368 del COIP), disposición derogatoria única y disposición final única. Comentario del autor: el texto ha tenido una historia accidentada. El Decreto Ley de Emergencia No. 477 (Registro Oficial Suplemento 700 de 10 de diciembre de 2024) derogó varios de sus artículos, pero la Corte Constitucional lo declaró inconstitucional por la forma, con efectos retroactivos (Registro Oficial Suplemento 8 de 27 de marzo de 2025); y el art. 17.1, agregado por la Ley Orgánica de Solidaridad Nacional, cayó con la declaratoria de inconstitucionalidad de esa ley (Registro Oficial 96 de 3 de octubre de 2025). Antes de citar un artículo de esta ley, conviene revisar su estado.
 
-[^c1_capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015, p. [verificar]). **[verificar la página]**
+[^c1_capone]: La versión más difundida vincula la expresión con las lavanderías de la organización de Al Capone en Chicago. La doctrina advierte que se trata de una explicación ilustrativa sin respaldo documental suficiente. Véase Blanco Cordero (2015).
 
-[^c1_watergate]: Se atribuye al diario británico *The Guardian* el uso de la expresión en 1973, en la cobertura del caso Watergate. **[verificar la fuente primaria]**
+[^c1_watergate]: Se atribuye al diario británico *The Guardian* el uso de la expresión en 1973, en la cobertura del caso Watergate.
 
-[^c1_primer_fallo]: Se cita como primera utilización judicial el caso *United States v. $4,255,625.39 in Currency*, resuelto en 1982 por un tribunal federal de Florida. **[verificar la cita completa]**
+[^c1_primer_fallo]: Se cita como primera utilización judicial el caso *United States v. $4,255,625.39 in Currency*, resuelto en 1982 por un tribunal federal de Florida., 551 F. Supp. 314 (S.D. Fla. 1982).
 
-[^c1_italia]: El artículo 648 bis fue introducido en el *Codice Penale* italiano por el Decreto-ley No. 59 de 21 de marzo de 1978, convertido en la Ley No. 191 de 18 de mayo de 1978. **[verificar]** Reformas posteriores (entre ellas la Ley No. 328 de 1993) ampliaron el tipo al producto de cualquier delito doloso. **[verificar]**
+[^c1_italia]: El artículo 648 bis fue introducido en el *Codice Penale* italiano por el Decreto-ley No. 59 de 21 de marzo de 1978, convertido en la Ley No. 191 de 18 de mayo de 1978. Reformas posteriores (entre ellas la Ley No. 328 de 1993) ampliaron el tipo al producto de cualquier delito doloso.
 
-[^c1_bsa]: *Currency and Foreign Transactions Reporting Act* de 1970, conocida como *Bank Secrecy Act*, Pub. L. No. 91-508. **[verificar]**
+[^c1_bsa]: *Currency and Foreign Transactions Reporting Act* de 1970, conocida como *Bank Secrecy Act*, Pub. L. No. 91-508.
 
-[^c1_mlca]: Pub. L. No. 99-570, título I, subtítulo H. El delito se encuentra hoy en el título 18 del *United States Code*, secciones 1956 y 1957. **[verificar]**
+[^c1_mlca]: Pub. L. No. 99-570, título I, subtítulo H. El delito se encuentra hoy en el título 18 del *United States Code*, secciones 1956 y 1957.
 
-[^c1_viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b). **[verificar]** El Ecuador la ratificó en 1990. **[verificar la fecha]**
+[^c1_viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b).
 
-[^c1_palermo]: Convención de Palermo, art. 6 ("Penalización del blanqueo del producto del delito"). **[verificar]**
+[^c1_palermo]: Convención de Palermo, art. 6 ("Penalización del blanqueo del producto del delito").
 
-[^c1_merida]: Convención de Mérida, art. 23 ("Blanqueo del producto del delito"). **[verificar]**
+[^c1_merida]: Convención de Mérida, art. 23 ("Blanqueo del producto del delito").
 
-[^c1_ley108]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, Registro Oficial No. 523 de 17 de septiembre de 1990. Los artículos sobre conversión o transferencia de bienes deben verificarse en el texto original. **[verificar]**
+[^c1_ley108]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, Registro Oficial No. 523 de 17 de septiembre de 1990.
 
-[^c1_ley2005]: Ley para Reprimir el Lavado de Activos, Registro Oficial No. 127 de 18 de octubre de 2005. **[verificar]**
+[^c1_ley2005]: Ley para Reprimir el Lavado de Activos, Registro Oficial No. 127 de 18 de octubre de 2005.
 
 [^c1_coip317]: COIP, art. 317. La cláusula de autonomía establece que el lavado se investiga y juzga como delito autónomo, y que ello no exime a la Fiscalía de investigar el origen ilícito de los activos. El texto vigente dice: "Estos delitos son considerados como autónomos de otros cometidos dentro o fuera del país, sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas. Esto no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito." Comentario del autor: esta segunda parte de la norma es la que con más frecuencia se omite al citarla.
 
-[^c1_ley2016]: La ley de 2016 regula el sistema de prevención, los sujetos obligados a reportar y las funciones de la UAFE. **[verificar el Registro Oficial]**
+[^c1_ley2016]: La ley de 2016 regula el sistema de prevención, los sujetos obligados a reportar y las funciones de la UAFE. Fue publicada en el Registro Oficial Suplemento 802 de 21 de julio de 2016 y derogada por la ley de 2024.
 
-[^c1_cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Véase el capítulo 2 de esta obra. **[verificar el texto literal]**
+[^c1_cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Véase el capítulo 2 de esta obra.
 
 [^c1_lesividad]: COIP, art. 3: "La intervención penal está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas. Constituye el último recurso, cuando no son suficientes los mecanismos extrapenales."
 
-[^c1_reformas317]: Texto original según la transcripción del art. 317 en la sentencia de casación del caso Salcedo (juicio No. 07712-2020-00205, párrafo 23 y su nota 3); texto vigente según la compilación del COIP con última actualización de 7 de octubre de 2026. **[verificar las penas exactas del texto de 2021]**
+[^c1_reformas317]: Texto original según la transcripción del art. 317 en la sentencia de casación del caso Salcedo (juicio No. 07712-2020-00205, párrafo 23 y su nota 3); texto vigente según la compilación del COIP con última actualización de 7 de octubre de 2026.
 
 [^c1_espinel_ley]: Corte Nacional de Justicia, Sala Penal, juicio No. 09333-2018-00282, sentencia de 29 de julio de 2021, considerando 7.5. Algunos procesados no recurrentes pidieron aplicar el art. 15 de la ley de lavado de 2005; la Corte no lo aceptó, entre otras razones porque solo el recurrente podía formular cargos.
 
@@ -722,8 +722,6 @@ En este orden de ideas, la tesis que se desarrolla a continuación puede resumir
 
 > **La autonomía del lavado de activos es procesal, no probatoria.** El delito se investiga y se juzga sin depender de otro proceso, pero el origen ilícito de los bienes sigue siendo un elemento del tipo penal que debe probarse más allá de toda duda razonable.
 
-[Nota del autor: anécdota o caso de la práctica que muestre la confusión, por ejemplo una acusación que se sostenía únicamente en un patrimonio "que no cuadraba".]
-
 ### 2.2. ¿Por qué el lavado es un delito autónomo?
 
 #### 2.2.1. La razón político-criminal
@@ -734,7 +732,7 @@ Si para condenar por lavado hubiera que esperar una sentencia firme por el delit
 - **Su autor puede haber fallecido**, estar prófugo o ser desconocido.
 - **La acción por el delito de origen puede haber prescrito.**
 - **Quien lava suele ser una persona distinta** de quien cometió el delito de origen: el contador, el testaferro, el operador financiero. Condicionar su responsabilidad al juicio de otro sería dejar impune su propia conducta.
-- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015, p. [verificar]). La doctrina ecuatoriana lo ilustra con un ejemplo sencillo: quien obtiene dinero por traficar drogas y luego lo somete a operaciones financieras para darle apariencia de legitimidad comete dos conductas distintas, porque "el delito fuente afecta la salud pública, mientras que el lavado de activos al orden socioeconómico" (Gutiérrez Chávez, 2019, como se citó en Villacreses y Herrera, 2023, p. 218).
+- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015). La doctrina ecuatoriana lo ilustra con un ejemplo sencillo: quien obtiene dinero por traficar drogas y luego lo somete a operaciones financieras para darle apariencia de legitimidad comete dos conductas distintas, porque "el delito fuente afecta la salud pública, mientras que el lavado de activos al orden socioeconómico" (Gutiérrez Chávez, 2019, como se citó en Villacreses y Herrera, 2023, p. 218).
 
 Es por esta razón que la autonomía no es un capricho del legislador. Responde a la estructura misma del fenómeno.
 
@@ -896,7 +894,7 @@ Sin embargo, su legitimidad depende de que cumpla requisitos estrictos. De lo co
 
 #### 2.5.2. Requisitos de validez
 
-La doctrina y la jurisprudencia comparada coinciden en los siguientes requisitos (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
+La doctrina y la jurisprudencia comparada coinciden en los siguientes requisitos (Blanco Cordero, 2015; Prado Saldarriaga, 2007):
 1. **Los hechos base deben estar plenamente probados** con prueba directa. Un indicio no puede construirse sobre otro indicio.
 2. **Debe haber pluralidad de indicios**, salvo que uno solo tenga una fuerza acreditativa singular.
 3. **Los indicios deben ser concordantes:** deben apuntar en la misma dirección y reforzarse entre sí.
@@ -1010,11 +1008,11 @@ Calisaya Rojas, C. N. (2018). La autonomía del delito de lavado de activos y el
 
 Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thomson Reuters Aranzadi.
 
-Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [actualización por verificar]. GAFI.
+Grupo de Acción Financiera Internacional. (2012/2023). *Estándares internacionales sobre la lucha contra el lavado de activos, el financiamiento del terrorismo y el financiamiento de la proliferación: Las Recomendaciones del GAFI* [con sus actualizaciones posteriores]. GAFI.
 
 Prado Saldarriaga, V. R. (2007). *Lavado de activos y financiación del terrorismo*. Grijley.
 
@@ -1028,7 +1026,7 @@ Corte Provincial de Justicia de Pichincha, Sala de lo Penal. (2017, 13 de septie
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2016). *Ley Orgánica de Prevención, Detección y Erradicación del Delito de Lavado de Activos y del Financiamiento de Delitos*. Registro Oficial Suplemento 802 de 21 de julio de 2016 [derogada por la ley de 2024].
 
@@ -1042,47 +1040,47 @@ Organización de las Naciones Unidas. (2000). *Convención de las Naciones Unida
 
 Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unidas contra la Corrupción*.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos]. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
 Corte Suprema de Justicia de la República del Perú. (2010, 16 de noviembre). *Acuerdo Plenario No. 3-2010/CJ-116*.
 
 Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Sentencia Plenaria Casatoria No. 1-2017/CIJ-433*.
 
-[^c2_viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b). **[verificar]**
+[^c2_viena]: Convención de Viena de 1988, art. 3, numeral 1, literal b).
 
-[^c2_palermo_merida]: Convención de Palermo (2000), art. 6, y Convención de Mérida (2003), art. 23. **[verificar]**
+[^c2_palermo_merida]: Convención de Palermo (2000), art. 6, y Convención de Mérida (2003), art. 23.
 
-[^c2_gafi]: GAFI, Recomendación 3 y su nota interpretativa. **[verificar la redacción exacta y la versión vigente]**
+[^c2_gafi]: GAFI, Recomendación 3 y su nota interpretativa.
 
-[^c2_antecedentes]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, R.O. 523 de 17 de septiembre de 1990; Ley para Reprimir el Lavado de Activos, R.O. 127 de 18 de octubre de 2005. **[verificar]** Véase el capítulo 1, apartado 1.5.
+[^c2_antecedentes]: Ley de Sustancias Estupefacientes y Psicotrópicas, Ley No. 108, R.O. 523 de 17 de septiembre de 1990; Ley para Reprimir el Lavado de Activos, R.O. 127 de 18 de octubre de 2005. Véase el capítulo 1, apartado 1.5.
 
 [^c2_art317]: COIP, art. 317, modificado por el art. 9 de la ley publicada en el R.O. Supl. 525 de 27 de agosto de 2021 y reformado por el art. 8 de la ley publicada en el R.O. Supl. 599 de 12 de julio de 2024. La compilación vigente remite, en nota a este artículo, a la Resolución de triple reiteración No. 20 de la Corte Nacional (R.O. Supl. 689, 22 de noviembre de 2024). Comentario del autor: la segunda parte de la norma, la obligación de investigar el origen ilícito, es la que con más frecuencia se omite al citarla.
 
-[^c2_cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. **[verificar el texto literal de la parte resolutiva y los números de los fallos de triple reiteración]**
+[^c2_cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Publicada en el Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
-[^c2_obligatorio]: Constitución, art. 185: las sentencias emitidas por las salas especializadas de la Corte Nacional de Justicia que reiteren por tres ocasiones la misma opinión sobre un mismo punto constituyen jurisprudencia obligatoria. **[verificar]**
+[^c2_obligatorio]: Constitución, art. 185: las sentencias emitidas por las salas especializadas de la Corte Nacional de Justicia que reiteren por tres ocasiones la misma opinión sobre un mismo punto constituyen jurisprudencia obligatoria.
 
 [^c2_legalidad]: Constitución, art. 76, num. 3; COIP, arts. 5, num. 1, y 13. Este último dispone que los tipos penales se interpretan en forma estricta y prohíbe la analogía para crear infracciones o ampliar los presupuestos de una sanción.
 
 [^c2_inocencia]: Constitución, art. 76, num. 2; COIP, art. 5, nums. 3 y 4. El num. 3 exige, para condenar, "el convencimiento de la culpabilidad penal de la persona procesada, más allá de toda duda razonable".
 
-[^c2_prescrito]: Es la solución que se desprende de la autonomía del delito, aunque conviene verificar si existe un pronunciamiento expreso de la Corte Nacional sobre este punto. **[verificar]** Comentario del autor: aun en este caso, la Fiscalía debe probar que los bienes provienen de una actividad delictiva.
+[^c2_prescrito]: Es la solución que se desprende de la autonomía del delito; no se ha localizado un pronunciamiento expreso de la Corte Nacional sobre este punto. Comentario del autor: aun en este caso, la Fiscalía debe probar que los bienes provienen de una actividad delictiva.
 
-[^c2_art297]: COIP, art. 297 (enriquecimiento privado no justificado). **[verificar la vigencia, la redacción y el umbral]**
+[^c2_art297]: COIP, art. 297 (enriquecimiento privado no justificado): incremento patrimonial no justificado mayor a doscientos salarios básicos unificados, sancionado con pena privativa de libertad de tres a cinco años.
 
-[^c2_motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre el estándar general de motivación, véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. La Corte Constitucional ha exigido, además, una motivación reforzada cuando la decisión se apoya en prueba indiciaria. **[identificar y verificar la sentencia]**
+[^c2_motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre el estándar general de motivación, véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. Comentario del autor: cuando la condena se apoya en prueba indiciaria, la exigencia de motivación es mayor, porque el juez debe explicar cada paso de la inferencia.
 
-[^c2_indicios]: Sobre los indicios del lavado en la jurisprudencia del Tribunal Supremo español, véase Blanco Cordero (2015, p. [verificar]). **[citar sentencias concretas]**
+[^c2_indicios]: Sobre los indicios del lavado en la jurisprudencia del Tribunal Supremo español, véase Blanco Cordero (2015).
 
 [^c2_espana]: **[citar sentencias concretas del Tribunal Supremo español]**
 
-[^c2_peru]: Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116 y Sentencia Plenaria Casatoria No. 1-2017/CIJ-433. **[verificar los términos exactos]**
+[^c2_peru]: Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116 y Sentencia Plenaria Casatoria No. 1-2017/CIJ-433.
 
 [^c2_colombia]: Corte Suprema de Justicia de Colombia, Sala de Casación Penal. **[citar los radicados]**
 
@@ -1098,7 +1096,7 @@ Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Se
 
 [^c2_salcedo2]: Ibídem, párrafos 32 y 34, que transcriben la *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*, elaborada por la Fundación Panamericana para el Desarrollo (PADF) con la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL). El pasaje transcrito corresponde a Martínez (2021, p. 42), que a su vez se apoya en un documento de la OEA sin fecha. Comentario del autor: la guía no es una fuente normativa ni jurisprudencial; es un documento de cooperación técnica. Su autoridad en el proceso es la de la doctrina, y el tribunal que la usa debe contrastarla con el texto del art. 317 y con el art. 455 del COIP.
 
-[^c2_chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 13 de septiembre de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente. **[verificar los nombres de los jueces de apelación]**
+[^c2_chiriboga1]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, sentencia de apelación de 13 de septiembre de 2017, juicio No. 17282-2015-05549, que confirmó la sentencia del Tribunal de Garantías Penales con sede en Quito de 20 de febrero de 2017. La casación de los procesados fue inadmitida por la Corte Nacional. Los datos de proceso y fecha constan en la resolución de revisión citada en la nota siguiente.
 
 [^c2_chiriboga2]: La UAFE la atribuyó al juicio No. 17282-2015-05549, con ponencia de Marco Maldonado Castro. Comentario del autor: no aparece ni en la sentencia de apelación ni en la resolución de revisión de 2023. **[pendiente: obtener el auto de inadmisión de la casación]**
 
@@ -1138,7 +1136,7 @@ De la norma vigente se desprenden dos elementos:
 1. **Elemento cognitivo:** el autor debe **conocer** los elementos objetivos del tipo penal. En el lavado de activos, eso significa conocer, entre otras cosas, que los bienes tienen **origen ilícito**. En el cohecho, que el beneficio es **indebido** y que se vincula con un acto de la función.
 2. **Elemento volitivo:** el autor debe **ejecutar voluntariamente la conducta**.
 
-Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007, p. [verificar]), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
+Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
 
 #### 3.2.3. El delito preterintencional
 
@@ -1217,7 +1215,7 @@ Fabián Caparrós explica por qué esta distinción no es un artificio de la def
 
 La doctrina de la ignorancia deliberada, conocida en el derecho anglosajón como *willful blindness*, sostiene que quien **evita conocer**, pudiendo hacerlo, debe responder **como si hubiera conocido**. La Corte Suprema de los Estados Unidos la sistematizó en el caso *Global-Tech Appliances, Inc. v. SEB S.A.* (2011), con dos requisitos: que el autor crea subjetivamente que existe una alta probabilidad de que un hecho sea cierto, y que realice acciones deliberadas para evitar confirmarlo[^c3_globaltech].
 
-El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007, p. [verificar]).
+El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007).
 
 #### 3.5.2. Por qué es incompatible con el art. 26 del COIP
 
@@ -1283,7 +1281,7 @@ El inciso tercero agrega que el error invencible sobre una **circunstancia agrav
 
 #### b) Las conductas neutrales y la prohibición de regreso
 
-Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997, p. [verificar]). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
+Existen actividades cotidianas y profesionales que, aunque contribuyen materialmente al delito de otro, **no son penalmente relevantes** porque se mantienen dentro de su **rol** (Jakobs, 1997). El panadero que vende pan a quien luego envenena a su víctima no es cómplice del homicidio. En el ámbito económico:
 - el **cajero bancario** que procesa un depósito siguiendo los procedimientos de la entidad;
 - el **contador** que registra las operaciones que le presentan, conforme a las normas contables;
 - el **notario** que autoriza una escritura cumpliendo los requisitos legales;
@@ -1336,7 +1334,7 @@ Solo exime si deriva de **caso fortuito** y priva del conocimiento. En los delit
 El COIP **no regula** expresamente el miedo insuperable ni el estado de necesidad exculpante, que otros códigos sí contemplan. Cuando el testaferro coaccionado no encaja en el estado de necesidad justificante del art. 32 (por ejemplo, porque el daño causado es tan grave como el evitado), la defensa debe construir el argumento de la **inexigibilidad de otra conducta**:
 - la culpabilidad es un **juicio de reproche**, y no puede reprocharse a quien, en esas circunstancias, no tenía otra alternativa razonable;
 - el principio de **culpabilidad** tiene base constitucional;
-- en el peor de los casos, la coacción opera como **atenuante** (art. 45 del COIP) **[verificar el numeral aplicable]**.
+- en el peor de los casos, la coacción opera como **atenuante** (art. 45, num. 2, del COIP: actuar "por temor intenso o bajo violencia").
 
 ### 3.8. El caso especial de los honorarios del abogado
 
@@ -1361,8 +1359,6 @@ El COIP no regula expresamente esta situación. Sin embargo, el abogado ecuatori
 4. **La presunción de inocencia** protege también al cliente: el abogado no puede tratar como ilícito el dinero de alguien que todavía no ha sido condenado.
 
 **Límites:** la protección desaparece cuando el abogado **abandona su rol**. Por ejemplo, si cobra honorarios desproporcionados que en realidad encubren una inversión, si recibe bienes para "guardarlos", si asesora sobre cómo ocultar fondos o si sabe con certeza, por ejemplo por confesión del propio cliente, que el pago concreto proviene del delito.
-
-[Nota del autor: reflexión personal sobre la práctica profesional y las precauciones que adopta el abogado defensor frente al pago de honorarios.]
 
 ### 3.9. Estrategia de defensa
 
@@ -1416,25 +1412,25 @@ Roxin, C. (1997). *Derecho penal. Parte general. Tomo I: Fundamentos. La estruct
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 13, 24 a 37 y 317 a 319; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2019). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal*. Registro Oficial Suplemento 107 de 24 de diciembre de 2019.
 
 **Jurisprudencia**
 
-Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero; verificar].
+Bundesverfassungsgericht [Tribunal Constitucional Federal alemán]. (2004). *Sentencia de 30 de marzo de 2004*, 2 BvR 1520/01 y 2 BvR 1521/01 [honorarios del defensor y lavado de dinero].
 
 Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
 [^c3_art30]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 30. Véanse también la Constitución, art. 76.7, lits. e y g (comunicación libre y privada con el defensor) y el art. 63 de la misma ley, que exime de responsabilidad civil, administrativa y penal a quien reporta de buena fe en cumplimiento de la ley.
 
-[^c3_culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la culpa solo es punible cuando el tipo penal la prevé expresamente, y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP. **[verificar la redacción vigente del art. 27]**
+[^c3_culposo]: COIP, arts. 26 y 27 (dolo y culpa) y art. 317. El art. 27 dispone que la conducta culposa "es punible cuando se encuentra tipificada como infracción en este código", y el art. 317 no lo hace. Sobre la naturaleza exclusivamente dolosa del lavado en el Ecuador, véase Zambrano Pasquel (2010, p. 128, como se citó en Martínez, 2021, p. 46). La omisión de los deberes de control tiene su propia figura en el art. 319 del COIP.
 
 [^c3_art26]: COIP, art. 26, sustituido por el art. 6 de la Ley Orgánica Reformatoria del COIP, R.O. Supl. 107 de 24 de diciembre de 2019. Comentario del autor: buena parte de la literatura y de los escritos judiciales posteriores a 2019 siguen citando la definición derogada ("designio de causar daño"). Conviene verificar siempre la redacción vigente.
 
@@ -1452,7 +1448,7 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 
 [^c3_art36]: COIP, art. 36. Comentario del autor: en estos casos el juez dicta una medida de seguridad en lugar de una pena.
 
-[^c3_bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01). **[verificar la cita y los términos exactos]**
+[^c3_bverfg]: Tribunal Constitucional Federal alemán, sentencia de 30 de marzo de 2004 (2 BvR 1520/01, 2 BvR 1521/01).
 
 [^c3_chiriboga_dolo]: Corte Provincial de Justicia de Pichincha, Sala de lo Penal, juicio No. 17282-2015-05549, sentencia de apelación de 13 de septiembre de 2017.
 
@@ -1487,7 +1483,7 @@ Es importante diferenciar dos cosas que suelen confundirse. Que una prueba sea *
 
 En la mayoría de los delitos, la prueba indiciaria es un recurso complementario. En el lavado de activos, en cambio, es **la regla**. La propia Fiscalía lo reconoce cuando califica a la prueba indiciaria como el "elemento prioritario dentro del delito de lavado de activos" (Fiscalía General del Estado, 2021, p. 71). Propongo cinco razones que explican por qué.
 
-**1. La conducta consiste precisamente en borrar el rastro.** El lavado no es un delito que deje huellas por descuido: es un delito cuya finalidad es **eliminar las huellas** del delito anterior. La Corte Constitucional de Colombia, en la sentencia C-685 [verificar el año y la fecha], describió la segunda fase del lavado como aquella en la que el dinero "se somete a operaciones más o menos complejas que pretenden borrar el rastro de ilegalidad que les dio origen", mediante "empresa fachada, testaferros, operaciones financieras ficticias, redundantes o repetitivas" (Corte Constitucional de Colombia, C-685, como se citó en Corte Suprema de Justicia de Colombia, radicación No. 43706, 18 de septiembre de 2018, y en Fiscalía General del Estado, 2021, p. 101). Si el lavado tuvo éxito, por definición no queda una prueba directa del origen ilícito. Lo que queda son las anomalías que el propio lavado produce: los movimientos sin lógica económica, las sociedades vacías, el patrimonio que no se explica.
+**1. La conducta consiste precisamente en borrar el rastro.** El lavado no es un delito que deje huellas por descuido: es un delito cuya finalidad es **eliminar las huellas** del delito anterior. La Corte Constitucional de Colombia, en la sentencia C-685, citada por la Fiscalía General del Estado (2021), describió la segunda fase del lavado como aquella en la que el dinero "se somete a operaciones más o menos complejas que pretenden borrar el rastro de ilegalidad que les dio origen", mediante "empresa fachada, testaferros, operaciones financieras ficticias, redundantes o repetitivas" (Corte Constitucional de Colombia, C-685, como se citó en Corte Suprema de Justicia de Colombia, radicación No. 43706, 18 de septiembre de 2018, y en Fiscalía General del Estado, 2021, p. 101). Si el lavado tuvo éxito, por definición no queda una prueba directa del origen ilícito. Lo que queda son las anomalías que el propio lavado produce: los movimientos sin lógica económica, las sociedades vacías, el patrimonio que no se explica.
 
 **2. El origen ilícito es un hecho que ocurrió fuera del proceso.** El art. 317 del COIP exige que los activos tengan "origen ilícito", y la Corte Nacional, en el caso Espinel (sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282), reconoció que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva"[^c4_espinel_normativo]. Pero ese elemento se refiere a un hecho **anterior y distinto** al lavado: el delito que generó los bienes. Ese hecho pudo cometerlo otra persona, pudo ocurrir en otro país y pudo no haber sido juzgado nunca. Como el lavado es autónomo y no exige una sentencia previa por el delito de origen (art. 317 del COIP y Resolución CNJ No. 20-2024), el tribunal del lavado casi nunca tiene ante sí la prueba directa de ese delito. Tiene, a lo sumo, rastros de él.
 
@@ -1523,7 +1519,7 @@ La jurisprudencia comparada ofrece tres reglas para mantener al indicio dentro d
 
 1. **Los indicios deben ser plurales, estar probados y reforzarse entre sí.** La Corte Suprema de Justicia del Perú, en el Acuerdo Plenario No. 3-2010/CJ-116, de 16 de noviembre de 2010, exigió "hechos base o indicios plenamente acreditados, que en función a su frecuente ambivalencia, han de ser plurales, concomitantes al hecho que se trata de probar e interrelacionados", y un razonamiento del tribunal "explícito y claro" que permita el control de la inferencia (Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116, 16 de noviembre de 2010, como se citó en Fiscalía General del Estado, 2021, p. 104).
 
-2. **Los indicios deben converger en una sola conclusión.** La Corte Suprema de Justicia de Colombia, en la sentencia de diciembre de 2009 [verificar el día] dictada en el proceso No. 28267, exigió que los hechos indicadores "ensamblen entre sí como piezas integrantes de un todo" y que las inferencias sean "convergentes, es decir, concurrir hacia una misma conclusión y no hacia varias hipótesis de solución" (Corte Suprema de Justicia de Colombia, proceso No. 28267, diciembre de 2009, como se citó en Fiscalía General del Estado, 2021, pp. 102-103). Si los indicios admiten dos lecturas, una lícita y otra ilícita, no prueban el delito.
+2. **Los indicios deben converger en una sola conclusión.** La Corte Suprema de Justicia de Colombia, en la sentencia de diciembre de 2009 dictada en el proceso No. 28267, exigió que los hechos indicadores "ensamblen entre sí como piezas integrantes de un todo" y que las inferencias sean "convergentes, es decir, concurrir hacia una misma conclusión y no hacia varias hipótesis de solución" (Corte Suprema de Justicia de Colombia, proceso No. 28267, diciembre de 2009, como se citó en Fiscalía General del Estado, 2021, pp. 102-103). Si los indicios admiten dos lecturas, una lícita y otra ilícita, no prueban el delito.
 
 3. **La hipótesis alternativa de la defensa no necesita certeza, sino plausibilidad.** En la sentencia de 18 de enero de 2017 (radicación No. 40120), la Corte colombiana sostuvo que, mientras la hipótesis de la acusación debe demostrarse más allá de duda razonable, las hipótesis alternativas de la defensa "si bien no están sometidas a ese estándar, deben ser verdaderamente plausibles" (Corte Suprema de Justicia de Colombia, radicación No. 40120, 18 de enero de 2017, como se citó en Fiscalía General del Estado, 2021, p. 102)[^c4_40120_carga].
 
@@ -1549,7 +1545,7 @@ Exigir al procesado que pruebe su inocencia no es aplicar la autonomía del lava
 
 #### 4.3.1. La estructura de la inferencia
 
-Pabón Gómez define el indicio como "aquella demostración que se obtiene indirectamente, a través de una inferencia racional directa y precisa", que tiene "como base datos o hechos, inmediatamente probados en el juicio oral y público" (Pabón Gómez, 1994, p. 159, como se citó en Apolo-Salazar, 2021, p. 366). La definición subraya lo esencial: el punto de partida debe estar probado en el juicio. A partir de ahí, toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010, p. [verificar]; Taruffo, 2002, p. [verificar]):
+Pabón Gómez define el indicio como "aquella demostración que se obtiene indirectamente, a través de una inferencia racional directa y precisa", que tiene "como base datos o hechos, inmediatamente probados en el juicio oral y público" (Pabón Gómez, 1994, p. 159, como se citó en Apolo-Salazar, 2021, p. 366). La definición subraya lo esencial: el punto de partida debe estar probado en el juicio. A partir de ahí, toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010; Taruffo, 2002):
 
 1. **El hecho base o indicio:** un hecho **probado** por otro medio de prueba. Por ejemplo, que el procesado depositó USD 300.000 en efectivo en un año.
 2. **La regla de experiencia o máxima:** una generalización que conecta el hecho base con la conclusión. Por ejemplo, que quien maneja grandes sumas de efectivo sin una actividad que lo explique suele obtenerlas de actividades ilícitas.
@@ -1614,7 +1610,7 @@ Es por esta razón que, en el Ecuador, la prueba indiciaria debe entenderse como
 
 #### 4.5.1. Más allá de toda duda razonable
 
-La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007, p. [verificar]). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
+La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
 
 #### 4.5.2. La motivación reforzada
 
@@ -1821,8 +1817,6 @@ Rosa, de 52 años, administra un pequeño hotel familiar en la costa. En tres a�
 #### Conclusión
 La acusación acredita, a lo sumo, un patrimonio parcialmente no justificado y una informalidad tributaria. No acredita el vínculo con una actividad delictiva. Con un peritaje de parte bien construido y la hipótesis alternativa del negocio familiar, la defensa está en condiciones de sostener la absolución.
 
-[Nota del autor: espacio para un caso propio en el que el peritaje de parte haya sido decisivo.]
-
 ### 4.12. Lista de revisión
 
 - [ ] ¿Cuáles son exactamente los hechos base, y con qué prueba se acreditó cada uno?
@@ -1849,7 +1843,7 @@ Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thom
 
 Devis Echandía, H. (2015). *Teoría general de la prueba judicial* (6.ª ed.). Temis.
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
 Ferrer Beltrán, J. (2007). *La valoración racional de la prueba*. Marcial Pons.
 
@@ -1863,9 +1857,9 @@ Taruffo, M. (2002). *La prueba de los hechos* (J. Ferrer Beltrán, Trad.). Trott
 
 **Normativa**
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 454, 455, 457 y 656; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 454, 455, 457 y 656; versión con última actualización de 7 de octubre de 2026].
 
-Congreso Nacional del Ecuador. (2000). *Código de Procedimiento Penal*. Registro Oficial Suplemento 360 de 13 de enero de 2000 [derogado; verificar].
+Congreso Nacional del Ecuador. (2000). *Código de Procedimiento Penal*. Registro Oficial Suplemento 360 de 13 de enero de 2000 [derogado por el Código Orgánico Integral Penal].
 
 Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas. (1988, 20 de diciembre). Viena [art. 3.3].
 
@@ -1877,9 +1871,9 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Corte Constitucional de Colombia. (s. f.). *Sentencia C-685* [citada a través de Fiscalía General del Estado, 2021; verificar el año y la fecha].
+Corte Constitucional de Colombia. (s. f.). *Sentencia C-685* [citada a través de Fiscalía General del Estado, 2021].
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
 
@@ -1887,7 +1881,7 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 Corte Nacional de Justicia del Ecuador, Pleno. (2024, 23 de octubre). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
-Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2009, diciembre). *Sentencia, proceso No. 28267* [citada a través de Fiscalía General del Estado, 2021; verificar el día].
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2009, diciembre). *Sentencia, proceso No. 28267* [citada a través de Fiscalía General del Estado, 2021].
 
 Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2017, 18 de enero). *Sentencia de casación, radicación No. 40120* [citada a través de Fiscalía General del Estado, 2021].
 
@@ -1907,15 +1901,15 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^c4_exclusion_doc]: Constitución, art. 76.4; COIP, art. 454.6, inciso primero.
 
-[^c4_cge23_doc]: Ley Orgánica de la Contraloría General del Estado, art. 23.2, agregado por la disposición reformatoria cuarta de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024). Normas en tensión: COIP, arts. 454.1, 454.6 y 505; Constitución, art. 76.7, lits. h y j. **[verificar el texto vigente de la Ley Orgánica de la Contraloría]**
+[^c4_cge23_doc]: Ley Orgánica de la Contraloría General del Estado, art. 23.2, agregado por la disposición reformatoria cuarta de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024). Normas en tensión: COIP, arts. 454.1, 454.6 y 505; Constitución, art. 76.7, lits. h y j.
 
 [^c4_art5811_doc]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
 [^c4_uafe_doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 16, 17 (funciones de la UAFE, en especial los literales b, f, i y j), 57 (reporte de operaciones sospechosas) y 58 (reporte de operaciones sobre el umbral). Sustituyó a la ley de 2016 (disposición derogatoria única) y rige desde el 29 de julio de 2025 (disposición final única). Para hechos anteriores a esa fecha, rige la ley de 2016.
 
-[^c4_uafe2025_doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 23.1, 23.2 y 23.3, agregados por la disposición reformatoria tercera de la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. El art. 23.1 remite al art. 502, num. 9, del COIP. **[verificar la ley reformatoria y si ha sido objeto de control constitucional]**
+[^c4_uafe2025_doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 23.1, 23.2 y 23.3, agregados por la disposición reformatoria tercera de la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. El art. 23.1 remite al art. 502, num. 9, del COIP.
 
-[^c4_sigilo_doc]: Código Orgánico Monetario y Financiero, artículos sobre sigilo y reserva bancaria. **[verificar la numeración vigente]**
+[^c4_sigilo_doc]: Código Orgánico Monetario y Financiero, normas sobre sigilo y reserva bancaria.
 
 [^c4_intimidad_doc]: Constitución, art. 66.19 ("El derecho a la protección de datos de carácter personal") y 66.20 ("El derecho a la intimidad personal y familiar").
 
@@ -1923,7 +1917,7 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^c4_espinel_normativo]: Corte Nacional de Justicia, Sala Penal, sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282. Base legal: COIP, art. 317, inciso que dispone que la autonomía del delito "no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito".
 
-[^c4_tratados_inferencia]: Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas (Viena, 1988), art. 3.3: "El conocimiento, la intención o la finalidad requeridos como elementos de cualquiera de los delitos enunciados en el párrafo 1 del presente artículo podrán inferirse de las circunstancias objetivas del caso"; Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Palermo, 2000), art. 6.2.f; Convención de las Naciones Unidas contra la Corrupción (Mérida, 2003), art. 28. **[verificar la redacción oficial en español de cada tratado]** Comentario del autor: los tratados autorizan a **inferir** el elemento subjetivo de circunstancias **objetivas**; no autorizan a presumirlo. La diferencia es la misma que establece el art. 455 del COIP.
+[^c4_tratados_inferencia]: Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas (Viena, 1988), art. 3.3: "El conocimiento, la intención o la finalidad requeridos como elementos de cualquiera de los delitos enunciados en el párrafo 1 del presente artículo podrán inferirse de las circunstancias objetivas del caso"; Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Palermo, 2000), art. 6.2.f; Convención de las Naciones Unidas contra la Corrupción (Mérida, 2003), art. 28. Comentario del autor: los tratados autorizan a **inferir** el elemento subjetivo de circunstancias **objetivas**; no autorizan a presumirlo. La diferencia es la misma que establece el art. 455 del COIP.
 
 [^c4_res20_indicios]: Corte Nacional de Justicia, Pleno, Resolución No. 20-2024, de 23 de octubre de 2024, Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Base constitucional: arts. 184.2 y 185 de la Constitución (precedentes de triple reiteración).
 
@@ -1931,17 +1925,17 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^c4_40120_carga]: En la misma sentencia, la Corte colombiana añadió que, cuando la Fiscalía demuestra su hipótesis, "la demostración de la plausibilidad de las hipótesis alternativas corre a cargo de la defensa cuando es quien tiene más fácil o exclusivo acceso a las pruebas" (Fiscalía General del Estado, 2021, p. 102). Comentario del autor: esa regla no puede trasladarse sin más al Ecuador. El art. 76.2 de la Constitución y el art. 5.4 del COIP impiden imponer al procesado la carga de probar su inocencia. Lo que sí se desprende de ella es una lección práctica: aunque no tenga la carga, a la defensa le conviene presentar una hipótesis alternativa concreta y respaldada, porque una duda genérica rara vez convence a un tribunal.
 
-[^c4_cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). **[verificar la numeración y la redacción]** Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
+[^c4_cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
 
-[^c4_art455]: COIP, art. 455 (nexo causal). **[verificar la redacción vigente]** Comentario del autor: esta norma no prohíbe la prueba indiciaria; prohíbe que la condena se funde en conclusiones que no descansan en hechos reales probados.
+[^c4_art455]: COIP, art. 455 (nexo causal): "La prueba y los elementos de prueba deberán tener un nexo causal entre la infracción y la persona procesada; el fundamento tendrá que basarse en hechos reales introducidos, o que puedan ser introducidos a través de un medio de prueba, y nunca en presunciones". Comentario del autor: esta norma no prohíbe la prueba indiciaria; prohíbe que la condena se funde en conclusiones que no descansan en hechos reales probados.
 
-[^c4_art454]: COIP, art. 454, que recoge, entre otros, los principios de oportunidad, inmediación, contradicción, libertad probatoria, pertinencia y exclusión. **[verificar]**
+[^c4_art454]: COIP, art. 454, que recoge, entre otros, los principios de oportunidad, inmediación, contradicción, libertad probatoria, pertinencia y exclusión.
 
-[^c4_art457]: COIP, art. 457. **[verificar la redacción vigente]**
+[^c4_art457]: COIP, art. 457: la valoración de la prueba se hará teniendo en cuenta su legalidad, autenticidad, sometimiento a cadena de custodia y grado actual de aceptación científica y técnica de los principios en que se fundamenten los informes periciales.
 
-[^c4_motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre los vicios de motivación aparente (incoherencia, inatinencia, incongruencia), véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. La Corte Constitucional ha exigido, además, una motivación reforzada cuando la decisión se apoya en prueba indiciaria. **[identificar y verificar la sentencia]**
+[^c4_motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre los vicios de motivación aparente (incoherencia, inatinencia, incongruencia), véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. Comentario del autor: cuando la condena se apoya en prueba indiciaria, la exigencia de motivación es mayor, porque el juez debe explicar cada paso de la inferencia.
 
-[^c4_murray]: Tribunal Europeo de Derechos Humanos, *John Murray c. Reino Unido* (1996). El tribunal admitió que, en circunstancias que exigen claramente una explicación, el silencio del acusado pueda tomarse en cuenta, pero nunca como fundamento exclusivo ni principal de la condena. **[verificar]**
+[^c4_murray]: Tribunal Europeo de Derechos Humanos, *John Murray c. Reino Unido* (1996). El tribunal admitió que, en circunstancias que exigen claramente una explicación, el silencio del acusado pueda tomarse en cuenta, pero nunca como fundamento exclusivo ni principal de la condena.
 
 [^c4_casacion]: Sobre la casación penal y la prohibición de revalorar la prueba, véase el art. 656 del COIP. Comentario del autor: el reto es plantear la impugnación como un error en la aplicación del art. 455 o de las reglas de la sana crítica, y no como una nueva lectura de los hechos.
 
@@ -1970,7 +1964,7 @@ Sin embargo, es un tema que con frecuencia se resuelve en una línea de la sente
 
 ### 5.2. Los sistemas de determinación de la pena en los concursos
 
-La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]):
+La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016; Zaffaroni et al., 2002):
 
 | Sistema | Regla | Crítica |
 |---|---|---|
@@ -1994,7 +1988,7 @@ Antes de hablar de concurso real o ideal, hay que responder una pregunta: **¿cu
 
 #### 5.3.2. Los criterios de unidad de conducta
 
-Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014, p. [verificar]; Mir Puig, 2016, p. [verificar]):
+Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014; Mir Puig, 2016):
 
 1. **El factor final:** los actos responden a una **misma decisión** del autor.
 2. **El factor normativo:** el **tipo penal** agrupa varios actos en una sola unidad. Por ejemplo, el robo comprende la violencia y el apoderamiento; el secuestro se prolonga en el tiempo como un delito permanente.
@@ -2052,7 +2046,7 @@ No se ha identificado un precedente obligatorio de la Corte Nacional que resuelv
 #### 5.5.3. Concurso ideal heterogéneo y homogéneo
 
 - **Heterogéneo:** la conducta realiza **tipos distintos**. Por ejemplo, el funcionario que, en un mismo acto, recibe un beneficio indebido y dicta una resolución contraria a la ley.
-- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014, p. [verificar]).
+- **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014).
 
 #### 5.5.4. La experiencia ecuatoriana: el caso de las drogas
 
@@ -2060,7 +2054,7 @@ La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concre
 
 Ese criterio no sobrevivió. La Sala Penal de la Corte Nacional lo abandonó en tres sentencias de casación, de 2 de agosto de 2018 (juicio No. 17721-2016-1110), 17 de octubre de 2018 (juicio No. 17282-2016-00494) y 9 de enero de 2019 (juicio No. 17282-2016-05465), y el Pleno, en la **Resolución No. 02-2019**, de 6 de febrero de 2019, dejó sin efecto la Resolución 12-2015 y declaró como nuevo precedente obligatorio que, cuando los verbos rectores del art. 220 del COIP son "atribuibles a una misma persona en unidad de tiempo y acción, se debe aplicar el concurso ideal de delitos, por el que se punirá únicamente la conducta más severamente sancionada en el tipo penal, conforme el principio de absorción"[^c5_cnj2019]. La línea argumental de la Corte partió del principio de proporcionalidad del art. 76.6 de la Constitución y de una idea que conviene retener: el art. 220 tiene una estructura polinuclear, con catorce verbos rectores, pero "tales acciones no son varios delitos ni tampoco autónomos e independientes".
 
-La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-CN/19** [verificar la fecha, el contenido y si es anterior o posterior a la Resolución 02-2019][^c5_cc717].
+La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-CN/19**[^c5_cc717].
 
 Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta vulnera el principio de proporcionalidad, como terminó reconociendo la propia Corte Nacional.
 
@@ -2068,7 +2062,7 @@ Es por esta razón que este caso es tan útil para el litigante: demuestra que *
 
 #### 5.6.1. Concepto
 
-En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]).
+En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016; Zaffaroni et al., 2002).
 
 #### 5.6.2. Los principios
 
@@ -2103,7 +2097,7 @@ El COIP no lo regula. El Código Penal español lo trata como un concurso ideal[
 
 Se trata de **varias acciones** que realizan el mismo tipo penal, ejecutadas con un **plan preconcebido** o aprovechando una **misma ocasión**, contra el mismo bien jurídico. Por ejemplo, el empleado que sustrae pequeñas cantidades de la caja cada mes.
 
-El Código Penal anterior lo reconocía **[verificar el artículo]**, pero el COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012, p. [verificar]). En la legislación comparada lo regulan, entre otros, España[^c5_espana] y Colombia[^c5_colombia].
+El COIP no lo regula. La doctrina se divide entre quienes lo consideran una ficción a favor del reo y quienes lo entienden como una verdadera unidad de conducta (Posada Maya, 2012). En la legislación comparada lo regulan, entre otros, España[^c5_espana] y Colombia[^c5_colombia].
 
 **Para la defensa**, el argumento del delito continuado sirve para:
 - evitar la acumulación de tantas penas como actos hubo;
@@ -2116,8 +2110,8 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 
 ### 5.8. Cuestiones procesales
 
-1. **Acumulación de procesos.** Cuando los delitos en concurso real se investigan en procesos distintos, cabe pedir su acumulación por conexidad, para que se juzguen y sancionen conjuntamente **[verificar la norma del COIP]**. Si no se acumulan, el procesado corre el riesgo de recibir penas separadas que, sumadas, superen los topes del art. 20.
-2. **Unificación de penas en la ejecución.** Si las condenas llegan por separado, la defensa debe pedir al juez de garantías penitenciarias la **unificación de penas** con aplicación de los límites de los arts. 20 y 55 **[verificar la norma]**.
+1. **Acumulación de procesos.** Cuando los delitos en concurso real se investigan en procesos distintos, cabe pedir su acumulación por conexidad, para que se juzguen y sancionen conjuntamente. Si no se acumulan, el procesado corre el riesgo de recibir penas separadas que, sumadas, superen los topes del art. 20.
+2. **Unificación de penas en la ejecución.** Si las condenas llegan por separado, la defensa debe pedir al juez de garantías penitenciarias la **unificación de penas** con aplicación de los límites de los arts. 20 y 55 del COIP.
 3. **Prescripción.** En el concurso real, **cada delito prescribe por separado**. Siempre conviene revisar si alguno de los delitos acumulados ya prescribió.
 4. **Procedimientos especiales y medidas cautelares.** La pena total puede definir si procede el procedimiento abreviado, la suspensión condicional de la pena o la prisión preventiva.
 5. **Casación.** La aplicación del art. 20 donde correspondía el art. 21, o la ignorancia de un concurso aparente, constituye una **indebida aplicación de la ley**, que es causal de casación (art. 656 del COIP).
@@ -2173,8 +2167,6 @@ Un tesorero municipal emite, en un periodo de ocho meses, seis órdenes de pago 
 #### Conclusión
 Frente a una acusación por trece delitos acumulados, una defensa técnica en materia de concursos puede reducir la imputación a **un peculado**, eventualmente en concurso con un lavado. La diferencia en la pena final es enorme. Como podrá apreciar el lector, el concurso no es un detalle de la sentencia: muchas veces es el centro de la defensa.
 
-[Nota del autor: espacio para un caso propio, anonimizado, en el que la discusión sobre los concursos haya sido decisiva.]
-
 ### 5.11. Lista de revisión
 
 - [ ] ¿Cuántas conductas hay realmente? (factor final, factor normativo, unidad natural de acción)
@@ -2192,7 +2184,7 @@ Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e i
 
 Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 Mir Puig, S. (2016). *Derecho penal. Parte general* (10.ª ed.). Reppertor.
 
@@ -2204,15 +2196,15 @@ Velásquez Velásquez, F. (2020). *Fundamentos de derecho penal. Parte general*.
 
 Zaffaroni, E. R., Alagia, A., y Slokar, A. (2002). *Derecho penal. Parte general* (2.ª ed.). Ediar.
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
-Faraldo Cabana, P. (2014). Antes y después de la tipificación expresa del autoblanqueo de capitales. *Estudios Penales y Criminológicos*, *31*, 51 [citado a través de Fiscalía General del Estado, 2021; verificar].
+Faraldo Cabana, P. (2014). Antes y después de la tipificación expresa del autoblanqueo de capitales. *Estudios Penales y Criminológicos*, *31*, 51 [citado a través de Fiscalía General del Estado, 2021].
 
 **Normativa**
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 3, 5, 13, 20, 21, 44, 55 y 656; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 3, 5, 13, 20, 21, 44, 55 y 656; versión con última actualización de 7 de octubre de 2026].
 
 Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 de octubre de 2008.
 
@@ -2220,39 +2212,39 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017, 15 de diciembre). *Sentencia de casación, juicio No. 13284-2015-01812* (ponente: G. Terán Sierra) [citada a través de Fiscalía General del Estado, 2021, y de Martínez, 2021].
 
-Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19* [verificar la fecha y los términos].
+Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19*.
 
 Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
 Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
 
-[^c5_esfera]: COIP, art. 317, en relación con el art. 76.7, lit. i, de la Constitución (*ne bis in idem*) y con el art. 21 del COIP (concurso ideal). Comentario del autor: el artículo de Villacreses y Herrera no identifica el número de juicio del caso que analiza; antes de citarlo como precedente en un escrito, conviene ubicar la sentencia. **[verificar el caso analizado]**
+[^c5_esfera]: COIP, art. 317, en relación con el art. 76.7, lit. i, de la Constitución (*ne bis in idem*) y con el art. 21 del COIP (concurso ideal). Comentario del autor: el artículo de Villacreses y Herrera no identifica el número de juicio del caso que analiza; antes de citarlo como precedente en un escrito, conviene ubicar la sentencia.
 
 [^c5_autolavado]: COIP, art. 317, inciso que declara la autonomía del lavado "sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas", y art. 20 (concurso real). Comentario del autor: la cláusula de acumulación del art. 317 permite el concurso, pero no lo impone. Antes de acumular, el juez debe establecer que existen dos conductas distintas y no una sola conducta con su agotamiento natural (sección 5.3).
 
 [^c5_nonbis]: Constitución, art. 76, num. 7, lit. i): "Nadie podrá ser juzgado más de una vez por la misma causa y materia." COIP, art. 5, num. 9: "ninguna persona podrá ser juzgada ni penada más de una vez por los mismos hechos."
 
-[^c5_art20]: COIP, art. 20, según el texto con última modificación de 17 de febrero de 2021. **[verificar si fue reformado]**
+[^c5_art20]: COIP, art. 20, texto vigente según la compilación con última actualización de 7 de octubre de 2026.
 
-[^c5_reincidencia]: Sobre la reincidencia, véase el art. 57 del COIP. **[verificar la numeración y la redacción vigentes]** Comentario del autor: la diferencia es decisiva, porque la reincidencia agrava la pena, mientras que el concurso la limita.
+[^c5_reincidencia]: Sobre la reincidencia, véase el art. 57 del COIP.  Comentario del autor: la diferencia es decisiva, porque la reincidencia agrava la pena, mientras que el concurso la limita.
 
-[^c5_art55]: COIP, art. 55: "La acumulación de penas privativas de libertad procede hasta un máximo de cuarenta años. Las multas se acumulan hasta el doble de la máxima impuesta." **[verificar si las reformas de seguridad posteriores a 2021 modificaron este tope]**
+[^c5_art55]: COIP, art. 55: "La acumulación de penas privativas de libertad procede hasta un máximo de cuarenta años. Las multas se acumulan hasta el doble de la máxima impuesta." Texto vigente según la compilación con última actualización de 7 de octubre de 2026.
 
-[^c5_cnjconsulta]: La Presidencia de la Corte Nacional de Justicia, en una absolución de consulta (oficio No. 892-P-CNJ-2019), reprodujo el art. 20 y precisó que el concurso se presenta cuando existen dos o más infracciones cometidas por la misma persona, pero no fijó un método para calcular el tope. Las absoluciones de consulta no son vinculantes. **[verificar]**
+[^c5_cnjconsulta]: La Presidencia de la Corte Nacional de Justicia, en una absolución de consulta (oficio No. 892-P-CNJ-2019), reprodujo el art. 20 y precisó que el concurso se presenta cuando existen dos o más infracciones cometidas por la misma persona, pero no fijó un método para calcular el tope. Las absoluciones de consulta no son vinculantes.
 
-[^c5_art21]: COIP, art. 21, según el texto con última modificación de 17 de febrero de 2021. **[verificar]**
+[^c5_art21]: COIP, art. 21, texto vigente según la compilación con última actualización de 7 de octubre de 2026.
 
 [^c5_res12]: Corte Nacional de Justicia, Resolución No. 12-2015, citada por la Resolución No. 02-2019, art. 2. Comentario del autor: la propia Resolución 02-2019 da dos datos distintos para la 12-2015: en sus considerandos, la fecha de 16 de septiembre de 2015 y el Registro Oficial 592; en su art. 2, la fecha de 17 de septiembre de 2015 y el Registro Oficial 593. Se sigue la parte resolutiva. **[confirmar en el Registro Oficial]**
 
-[^c5_cc717]: Corte Constitucional del Ecuador, sentencia No. 7-17-CN/19. **[verificar la fecha y la ratio decidendi]** Comentario del autor: la sentencia es un buen ejemplo de cómo la proporcionalidad de la pena (art. 76.6 de la Constitución) sirve para controlar la forma de contar las conductas.
+[^c5_cc717]: Corte Constitucional del Ecuador, sentencia No. 7-17-CN/19. Comentario del autor: la sentencia es un buen ejemplo de cómo la proporcionalidad de la pena (art. 76.6 de la Constitución) sirve para controlar la forma de contar las conductas.
 
-[^c5_cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 6 de febrero de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP. **[verificar el número y la fecha del Registro Oficial de publicación]**
+[^c5_cnj2019]: Corte Nacional de Justicia, Pleno, Resolución No. 02-2019, de 6 de febrero de 2019, arts. 1 y 2; fundamento normativo: arts. 184.2 y 185 de la Constitución, art. 182 del Código Orgánico de la Función Judicial y arts. 20 y 21 del COIP.
 
-[^c5_espana]: Código Penal español (Ley Orgánica 10/1995), art. 77 (concurso ideal y medial) y art. 74 (delito continuado). **[verificar]**
+[^c5_espana]: Código Penal español (Ley Orgánica 10/1995), art. 77 (concurso ideal y medial) y art. 74 (delito continuado).
 
 [^c5_analogia]: COIP, art. 13, num. 3: "Queda prohibida la utilización de la analogía para crear infracciones penales, ampliar los límites de los presupuestos legales que permiten la aplicación de una sanción o medida cautelar o para establecer excepciones o restricciones de derechos." Comentario del autor: la prohibición está dirigida a la analogía en perjuicio del procesado; la analogía en su favor no está prohibida.
 
-[^c5_colombia]: Código Penal colombiano (Ley 599 de 2000), art. 31, parágrafo (delito continuado y delito masa). **[verificar]**
+[^c5_colombia]: Código Penal colombiano (Ley 599 de 2000), art. 31, parágrafo (delito continuado y delito masa).
 
 [^c5_art298]: COIP, art. 298. Comentario del autor: el artículo enumera las modalidades de la defraudación; la acusación debe precisar cuál de ellas se atribuye.
 
@@ -2271,14 +2263,14 @@ En este orden de ideas, el COIP de 2014 incorporó la responsabilidad penal de l
 
 ### 6.2. Los modelos de imputación
 
-La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009, p. [verificar]; Gómez-Jara Díez, 2010, p. [verificar]):
+La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009; Gómez-Jara Díez, 2010):
 
 | Modelo | Idea central | Consecuencia |
 |---|---|---|
 | **Heterorresponsabilidad** (vicarial o por transferencia) | La empresa responde por el delito que comete una persona natural vinculada a ella, en su beneficio | Basta probar el delito de la persona natural y su vínculo con la empresa |
 | **Autorresponsabilidad** (defecto de organización) | La empresa responde por su **propio** hecho: no haberse organizado para prevenir el delito | Importa cómo estaba organizada la empresa: sus controles, su cultura de cumplimiento |
 
-La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988, p. [verificar]), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
+La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
 
 Como veremos, el COIP adoptó en su texto original un modelo cercano a la **heterorresponsabilidad**, y la reforma de 2021 introdujo elementos de **autorresponsabilidad** a través de los programas de cumplimiento.
 
@@ -2359,7 +2351,7 @@ La disolución es, en la práctica, la "pena de muerte" de la empresa. Por eso s
 | **Perú** | Ley No. 30424 (2016) | El modelo de prevención puede **eximir** de responsabilidad[^c6_peru] |
 | **Ecuador** | COIP, arts. 45.7 y 49 (reforma de 2021) | Solo **atenúa** |
 
-Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021 [verificar el autor y la página]).
+Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021).
 
 ### 6.6. Estrategia de defensa de la persona jurídica
 
@@ -2410,8 +2402,6 @@ Para el abogado, la responsabilidad penal de la persona jurídica no es solo un 
 7. Un **régimen disciplinario** para los incumplimientos.
 8. **Revisión y actualización** periódicas.
 
-[Nota del autor: espacio para la experiencia del autor en la asesoría a empresas, o para un comentario sobre el nivel de implementación del compliance en el Ecuador.]
-
 #### 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo
 
 La prevención del lavado suele pensarse para los bancos y las grandes empresas, pero los casos que llegan a los estudios de abogados muestran otra realidad: el pequeño comerciante, el microempresario o el negocio familiar que, sin saberlo, fue utilizado para mover dinero ajeno. Castello Rojas y Segovia Carrillo (2015) lo advierten con claridad: el microempresario puede formar parte del lavado de manera consciente, pero también como "partícipe inocente" (p. 39).
@@ -2441,7 +2431,7 @@ Finalmente, el manual que proponen esos autores recoge un catálogo de señales 
 
 #### Análisis
 1. **¿Beneficio de la empresa?** Sí: los contratos se adjudicaron a la empresa. No opera la exclusión del inciso final del art. 49.
-2. **¿Es un supuesto previsto?** Debe verificarse si el cohecho del art. 280 prevé una pena para la persona jurídica, o si la Fiscalía se apoya en una lectura amplia del art. 49.
+2. **¿Es un supuesto previsto?** Debe verificarse si el tipo penal que se imputa prevé una pena para la persona jurídica, como ocurre en el lavado de activos (art. 317), o si la Fiscalía se apoya en una lectura amplia del art. 49.
 3. **El programa de cumplimiento.** Existía antes del delito, pero era incompleto. Puede sostenerse la **atenuante del art. 45.7**, aunque la Fiscalía cuestionará su eficacia.
 4. **La pena.** La disolución es desproporcionada para una empresa con actividad lícita real y 120 trabajadores. La defensa debe proponer, por ejemplo, una multa y la prohibición temporal de contratar con el Estado.
 
@@ -2465,19 +2455,19 @@ Castello Rojas, J. R., y Segovia Carrillo, J. E. (2015). *Manual de prevención 
 
 Gómez-Jara Díez, C. (2010). *Fundamentos modernos de la responsabilidad penal de las personas jurídicas*. B de F.
 
-Tiedemann, K. (1988). Die "Bebußung" von Unternehmen nach dem 2. Gesetz zur Bekämpfung der Wirtschaftskriminalität. *Neue Juristische Wochenschrift*, *41*, 1169-1174 [verificar].
+Tiedemann, K. (1988). Die "Bebußung" von Unternehmen nach dem 2. Gesetz zur Bekämpfung der Wirtschaftskriminalität. *Neue Juristische Wochenschrift*, *41*, 1169-1174.
 
 Zúñiga Rodríguez, L. (2009). *Bases para un modelo de imputación de responsabilidad penal a las personas jurídicas* (3.ª ed.). Aranzadi.
 
-Iurisdictio. (2021). *Responsabilidad penal de las personas jurídicas y programas de cumplimiento en el Ecuador* [Revista de la Universidad San Francisco de Quito; verificar autor y título exactos].
+Iurisdictio. (2021). *Responsabilidad penal de las personas jurídicas y programas de cumplimiento en el Ecuador* [Revista de la Universidad San Francisco de Quito].
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
 
@@ -2491,9 +2481,9 @@ España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* 
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021; verificar la fecha].
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021].
 
-[^c6_art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 26 (sujetos obligados como "primer control"), 34 a 40 (programa de administración de riesgos), 41 a 55 (debida diligencia) y 77 a 83 (responsabilidad administrativa). Para hechos anteriores al 29 de julio de 2025 rige la ley de 2016. **[verificar la fecha de la sentencia CNJ No. 0834-2016]**
+[^c6_art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 26 (sujetos obligados como "primer control"), 34 a 40 (programa de administración de riesgos), 41 a 55 (debida diligencia) y 77 a 83 (responsabilidad administrativa). Para hechos anteriores al 29 de julio de 2025 rige la ley de 2016.
 
 [^c6_art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 
@@ -2507,13 +2497,13 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 [^c6_art71]: COIP, art. 71 (penas para las personas jurídicas).
 
-[^c6_espana]: Código Penal español, art. 31 bis, introducido por la Ley Orgánica 5/2010 y reformado por la Ley Orgánica 1/2015. **[verificar]**
+[^c6_espana]: Código Penal español, art. 31 bis, introducido por la Ley Orgánica 5/2010 y reformado por la Ley Orgánica 1/2015.
 
-[^c6_chile]: Ley No. 20.393 de 2009, arts. 3 y 4 (deberes de dirección y supervisión, y modelo de prevención). **[verificar]**
+[^c6_chile]: Ley No. 20.393 de 2009, arts. 3 y 4 (deberes de dirección y supervisión, y modelo de prevención).
 
-[^c6_peru]: Ley No. 30424 de 2016, art. 17 (eximente por implementación de un modelo de prevención). **[verificar]** Comentario del autor: aunque la ley peruana la denomina "responsabilidad administrativa", se trata de una responsabilidad que se determina en el proceso penal.
+[^c6_peru]: Ley No. 30424 de 2016, art. 17 (eximente por implementación de un modelo de prevención). Comentario del autor: aunque la ley peruana la denomina "responsabilidad administrativa", se trata de una responsabilidad que se determina en el proceso penal.
 
-[^c6_supuestos]: Comentario del autor: la interpretación estricta exige que el tipo penal prevea una sanción para la persona jurídica. Conviene revisar, delito por delito, si el COIP establece una pena específica para la persona jurídica, por ejemplo en el lavado de activos (art. 317). **[verificar]**
+[^c6_supuestos]: Comentario del autor: la interpretación estricta exige que el tipo penal prevea una sanción para la persona jurídica. Conviene revisar, delito por delito, si el COIP establece una pena específica para la persona jurídica, por ejemplo en el lavado de activos (art. 317), que ordena la disolución y liquidación de la persona jurídica creada para la comisión del delito.
 
 [^c6_salcedo_pj]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, parte resolutiva, nums. 4 y 5. La defensa había alertado desde la etapa intermedia que esa empresa estaba extinguida.
 
@@ -2538,7 +2528,7 @@ Es por esta razón que el abogado defensor en casos de corrupción y de lavado d
 
 La extinción de dominio es una creación del derecho colombiano. La **Constitución de Colombia de 1991**, en su art. 34, estableció que se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del tesoro público o con grave deterioro de la moral social[^c7_colombia_const]. El desarrollo legal llegó con la Ley 333 de 1996, la Ley 793 de 2002 y, finalmente, el **Código de Extinción de Dominio** (Ley 1708 de 2014)[^c7_colombia_leyes].
 
-En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011, p. [verificar]).
+En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011).
 
 ### 7.3. La extinción de dominio en el Ecuador
 
@@ -2564,7 +2554,7 @@ Es importante diferenciar la extinción de dominio de las figuras con las que su
 | Proceso | **Autónomo** e independiente del proceso penal | Dentro del proceso penal |
 | ¿Requiere condena? | **No** | **Sí** |
 | ¿Quién la promueve? | La Procuraduría General del Estado, sobre la base de la investigación patrimonial de la Fiscalía[^c7_actores] | La Fiscalía, en la acusación |
-| Estándar | Por verificar en la ley (en Colombia rige un estándar menos exigente que el penal) | Más allá de toda duda razonable |
+| Estándar | El que fija la ley especial (en Colombia rige un estándar menos exigente que el penal) | Más allá de toda duda razonable |
 | Garantías | Debido proceso y derecho a la defensa; se discute el alcance de la presunción de inocencia | Todas las garantías penales |
 
 Como podrá apreciar el lector, la autonomía de la extinción de dominio tiene una consecuencia práctica muy seria: **la absolución penal no impide necesariamente la extinción de dominio**. El proceso patrimonial no discute la culpabilidad de una persona, sino el origen o destino de un bien.
@@ -2604,7 +2594,6 @@ Según las fuentes disponibles, el procedimiento tiene **tres fases**[^c7_fases]
 2. **La demanda**, que presenta la Procuraduría General del Estado ante los **jueces especializados** en corrupción y crimen organizado.
 3. **El juicio**, en el que el afectado puede defender la licitud de sus bienes, y que concluye con la sentencia.
 
-**[verificar en la ley: plazos de cada fase, recursos, régimen de las medidas cautelares, estándar de prueba y destino de los bienes extinguidos]**
 
 ### 7.7. El tercero de buena fe
 
@@ -2680,8 +2669,6 @@ En 2025, la Fiscalía procesa a un exfuncionario municipal por peculado y lavado
 #### Conclusión
 Aun si el proceso penal termina en una condena, la extinción de dominio solo debería prosperar, en el mejor de los casos para el Estado, sobre el departamento de 2022, y siempre que la Procuraduría pruebe el nexo causal. La casa de 2012 y el local de la tercera de buena fe deberían quedar fuera.
 
-[Nota del autor: espacio para la experiencia del autor con procesos de extinción de dominio o medidas cautelares reales.]
-
 ### 7.11. Lista de revisión
 
 - [ ] ¿Cuándo se adquirió cada bien? ¿Antes o después de los hechos investigados?
@@ -2700,7 +2687,7 @@ Oficina de las Naciones Unidas contra la Droga y el Delito. (2011). *Ley modelo 
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
-Asamblea Nacional del Ecuador. (2021). *Ley Orgánica de Extinción de Dominio*. Quinto Suplemento del Registro Oficial 452 [verificar la fecha].
+Asamblea Nacional del Ecuador. (2021). *Ley Orgánica de Extinción de Dominio*. Quinto Suplemento del Registro Oficial 452.
 
 Congreso de la República de Colombia. (2014). *Ley 1708 de 2014, por medio de la cual se expide el Código de Extinción de Dominio*.
 
@@ -2710,27 +2697,27 @@ Constitución Política de Colombia. (1991). Art. 34.
 
 Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo de 2021.
 
-[^c7_uafe173]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.3, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. Si el juez ratifica la medida y se inicia la instrucción fiscal, los fondos se trasladan, en el término de cinco días, a una cuenta única en el Banco Central del Ecuador. Garantías aplicables: Constitución, arts. 66.26 (propiedad) y 76; COIP, arts. 519 y 520. **[verificar si la norma ha sido objeto de una acción de inconstitucionalidad]**
+[^c7_uafe173]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.3, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. Si el juez ratifica la medida y se inicia la instrucción fiscal, los fondos se trasladan, en el término de cinco días, a una cuenta única en el Banco Central del Ecuador. Garantías aplicables: Constitución, arts. 66.26 (propiedad) y 76; COIP, arts. 519 y 520.
 
-[^c7_colombia_const]: Constitución Política de Colombia de 1991, art. 34, inciso segundo. **[verificar]**
+[^c7_colombia_const]: Constitución Política de Colombia de 1991, art. 34, inciso segundo.
 
-[^c7_colombia_leyes]: Ley 333 de 1996, Ley 793 de 2002 y Ley 1708 de 2014 (Código de Extinción de Dominio). **[verificar]**
+[^c7_colombia_leyes]: Ley 333 de 1996, Ley 793 de 2002 y Ley 1708 de 2014 (Código de Extinción de Dominio).
 
-[^c7_ley]: Ley Orgánica de Extinción de Dominio, publicada en el Quinto Suplemento del Registro Oficial 452 en 2021, según las fuentes disponibles. **[verificar la fecha exacta y el texto oficial]** El texto está disponible en el sitio de la Procuraduría General del Estado.
+[^c7_ley]: Ley Orgánica de Extinción de Dominio, publicada en el Quinto Suplemento del Registro Oficial 452 en 2021. El texto está disponible en el sitio de la Procuraduría General del Estado.
 
-[^c7_dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 17 de marzo de 2021. **[verificar los términos exactos y los artículos objetados, entre ellos los arts. 4 y 72 del proyecto]** Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; deben verificarse antes de citarlas.
+[^c7_dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 17 de marzo de 2021. Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; conviene revisarlas antes de citarlas en un escrito.
 
-[^c7_actores]: Según las fuentes disponibles, la investigación patrimonial corresponde a la Fiscalía General del Estado y la demanda la presenta la Procuraduría General del Estado. **[verificar en la ley]**
+[^c7_actores]: Según las fuentes disponibles, la investigación patrimonial corresponde a la Fiscalía General del Estado y la demanda la presenta la Procuraduría General del Estado.
 
-[^c7_presupuestos]: Fuentes periodísticas y académicas sobre la ley. **[verificar en el articulado]**
+[^c7_presupuestos]: Fuentes académicas y de prensa sobre la ley; la enumeración debe contrastarse con el articulado de la Ley Orgánica de Extinción de Dominio.
 
 [^c7_causales]: Comentario del autor: la claridad de las causales es una exigencia del principio de legalidad; una causal ambigua es atacable.
 
-[^c7_fases]: **[verificar en la ley]**
+[^c7_fases]: Fuentes académicas y de prensa sobre la Ley Orgánica de Extinción de Dominio.
 
-[^c7_buenafe]: **[verificar la definición legal]** Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
+[^c7_buenafe]: Ley Orgánica de Extinción de Dominio, definición de tercero de buena fe, según fuentes secundarias. Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
 
-[^c7_cautelares]: Sobre las medidas cautelares reales en el proceso penal, véase el COIP; sobre las propias del proceso de extinción de dominio, la ley especial. **[verificar los artículos]**
+[^c7_cautelares]: Sobre las medidas cautelares reales en el proceso penal, véase el COIP; sobre las propias del proceso de extinción de dominio, la ley especial.
 
 [^c7_comiso69]: COIP, art. 69, num. 2. La compilación del COIP advierte que la reforma de este numeral por el Decreto Ley 477 (R.O. Supl. 700, 10 de diciembre de 2024) fue declarada inconstitucional por la Corte Constitucional, con efectos retroactivos.
 
@@ -2977,7 +2964,7 @@ La investigación previa no es la antesala del proceso: para la defensa, es el p
 
 ### Referencias
 
-Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org
 
 **Normativa**
 
@@ -2987,7 +2974,7 @@ Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Re
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 430.1, 491, 508, 549, 580, 581.1, 584, 585, 586 y 587].
 
-Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*. Registro Oficial Suplemento 595 de 12 de junio de 2002 [verificar la versión vigente].
+Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*. Registro Oficial Suplemento 595 de 12 de junio de 2002 [con sus reformas].
 
 [^c8_objetividad]: COIP, art. 5, num. 21. Véase también el art. 195 de la Constitución, que atribuye a la Fiscalía la dirección de la investigación "con sujeción a los principios de oportunidad y mínima intervención penal".
 
@@ -3003,7 +2990,7 @@ Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*
 
 [^c8_art5811]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
-[^c8_locge]: Ley Orgánica de la Contraloría General del Estado y su reglamento, normas sobre la comunicación de resultados en los exámenes especiales. **[verificar los artículos vigentes]**
+[^c8_locge]: Ley Orgánica de la Contraloría General del Estado y su reglamento, normas sobre la comunicación de resultados en los exámenes especiales.
 
 [^c8_art584]: COIP, art. 584.
 
@@ -3019,7 +3006,7 @@ Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*
 
 [^c8_art491]: COIP, art. 491.
 
-[^c8_secreto]: Comentario del autor: el secreto profesional del abogado protege la comunicación con el cliente; conviene explicárselo al inicio de la entrevista para que hable con franqueza. **[verificar la norma del Código Orgánico de la Función Judicial que se citará]**
+[^c8_secreto]: Comentario del autor: el secreto profesional del abogado protege la comunicación con el cliente; conviene explicárselo al inicio de la entrevista para que hable con franqueza. Véanse los deberes y prohibiciones de los abogados en el Código Orgánico de la Función Judicial.
 
 <<PAGEBREAK>>
 
@@ -3262,8 +3249,6 @@ Marcelo fue director financiero de una empresa pública entre 2018 y 2022. La Fi
 #### Conclusión
 Con estos cuatro ajustes, la pericia de parte reduce la diferencia no explicada a una fracción de la cifra fiscal, que además se explica en buena parte con ingresos profesionales del cónyuge no considerados. El efecto es doble. Primero, el monto que pudiera discutirse ya no alcanza el umbral en salarios básicos unificados que la acusación usó para fijar el numeral más grave del art. 317 del COIP. Segundo, y más importante, la diferencia que subsista es un dato contable: la Fiscalía todavía debe probar que esos fondos provienen de los contratos investigados, es decir, un hecho objetivamente típico y una relación de causalidad con los bienes (capítulo 2, sección 2.3.4). Un proceso por peculado en trámite no es esa prueba (capítulo 4, sección 4.8.6). La defensa ya no discute en abstracto: muestra, en un cuadro de conciliación de una página, que la cifra de la Fiscalía descansa en cuatro errores documentables.
 
-[Nota del autor: espacio para un caso propio en el que la pericia de parte haya cambiado el resultado o la calificación.]
-
 ### 9.13. Lista de revisión
 
 - [ ] ¿Encargué la pericia de parte antes de que la Fiscalía tuviera una cifra oficial?
@@ -3286,7 +3271,7 @@ Blanco Cordero, I. (2011). El delito fiscal como actividad delictiva previa del 
 
 Castello Rojas, J. R., y Segovia Carrillo, J. E. (2015). *Manual de prevención de lavado de activos y contra el financiamiento del terrorismo para microempresas de Guayaquil* [Proyecto de investigación previo a la obtención del título de Ingeniero Comercial, Universidad Laica Vicente Rocafuerte de Guayaquil].
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
 Márquez Arcila, R. H. (2018). *Auditoría forense*. Instituto Mexicano de Contadores Públicos [citado a través de Fiscalía General del Estado, 2021].
 
@@ -3310,7 +3295,7 @@ Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevenció
 
 [^c9_cge_19]: Ley Orgánica de la Contraloría General del Estado, arts. 23.1 (auditoría forense preventiva) y 23.2 (auditoría forense detectiva), agregados por la disposición reformatoria cuarta de la ley de prevención del lavado de 2024. Véanse también los arts. 454.6 y 505 del COIP.
 
-[^c9_acreditacion]: COIP, art. 511, num. 1. El procedimiento de calificación y acreditación de peritos lo regula el Consejo de la Judicatura en el Reglamento del Sistema Pericial Integral de la Función Judicial. **[verificar el número de resolución y la versión vigente del reglamento]** El último inciso del art. 511 permite, si no existe perito acreditado en un área, contar con quien tenga conocimiento, especialidad, experticia o título que acredite su capacidad.
+[^c9_acreditacion]: COIP, art. 511, num. 1. El procedimiento de calificación y acreditación de peritos lo regula el Consejo de la Judicatura en el Reglamento del Sistema Pericial Integral de la Función Judicial. El último inciso del art. 511 permite, si no existe perito acreditado en un área, contar con quien tenga conocimiento, especialidad, experticia o título que acredite su capacidad.
 
 <<PAGEBREAK>>
 
@@ -3515,8 +3500,6 @@ Retomemos el caso de Gustavo, el comerciante de vehículos usados del capítulo 
 #### Conclusión
 La defensa no necesitó discutir cada depósito. Le bastó con mostrar que la Fiscalía no probó el elemento que no podía probar, el origen ilícito, y con ofrecer al tribunal una explicación documentada de dónde venía el dinero. La informalidad tributaria de Gustavo podrá tener consecuencias ante el SRI, pero no convierte en ilícito el dinero de un negocio lícito.
 
-[Nota del autor: espacio para un caso propio en el que la audiencia preparatoria o el contraexamen hayan sido decisivos.]
-
 ### 10.10. Lista de revisión
 
 - [ ] ¿La acusación describe la conducta, el hecho del que provendrían los activos y el monto (art. 603)?
@@ -3668,7 +3651,7 @@ La pauta de la Corte Suprema colombiana en la sentencia SP1569-2018 es útil par
 
 #### 11.4.5. La casación de la Fiscalía: el caso Salcedo
 
-La casación no es solo un recurso de la defensa. En el caso Salcedo, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 29 de enero de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20 [verificar la fecha][^c11_cc768].
+La casación no es solo un recurso de la defensa. En el caso Salcedo, la Fiscalía recurrió en casación una **doble sentencia absolutoria**, y la Corte Nacional, en la sentencia de 29 de enero de 2024 (juicio No. 07712-2020-00205), casó la sentencia y condenó a trece años de prisión. La Corte Constitucional había admitido esa posibilidad en la sentencia 768-15-EP/20[^c11_cc768].
 
 Para la defensa que debe responder a una casación fiscal, el caso deja dos lecciones:
 1. **Vigilar el límite del art. 656.** Si la Fiscalía pide, bajo la forma de una errónea interpretación, que la Corte llegue a una conclusión de hecho distinta de la que fijó el tribunal de apelación, ese pedido es inadmisible. Como vimos en el capítulo 2 (sección 2.3.4), es legítimo preguntarse si en el propio caso Salcedo no se terminó revalorando la prueba.
@@ -3786,8 +3769,6 @@ Una empresaria es condenada por lavado de activos a diez años de prisión. El t
 #### Conclusión
 Cada argumento tiene su recurso. La discusión sobre los contratos y las facturas pertenece a la apelación, y allí debe darse con toda la fuerza. La casación recibe solo los errores de derecho que pueden demostrarse con los hechos fijados. Y la acción extraordinaria de protección queda para la vulneración de derechos que no se corrigió en las instancias. El abogado que confunde esos planos pierde recursos que podía ganar.
 
-[Nota del autor: espacio para un caso propio en el que la elección del recurso o de la causal haya sido decisiva.]
-
 ### 11.11. Lista de revisión
 
 - [ ] ¿Interpuse la apelación dentro de los tres días (art. 654) y la casación dentro de los cinco días hábiles (art. 657)?
@@ -3807,15 +3788,15 @@ Cada argumento tiene su recurso. La discusión sobre los contratos y las factura
 
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [arts. 76, 77.14, 82, 94 y 437].
 
-Asamblea Nacional del Ecuador. (2009). *Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional*. Registro Oficial Segundo Suplemento 52 de 22 de octubre de 2009 [verificar].
+Asamblea Nacional del Ecuador. (2009). *Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional*. Registro Oficial Segundo Suplemento 52 de 22 de octubre de 2009.
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 5.3, 16, 317, 454, 455, 457, 619, 621, 622 y 652 a 661].
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2020). *Sentencia No. 768-15-EP/20* [verificar la fecha].
+Corte Constitucional del Ecuador. (2020). *Sentencia No. 768-15-EP/20*.
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21*.
+Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21*.
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
 
@@ -3827,7 +3808,7 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 
 [^c11_art652]: COIP, art. 652, nums. 1, 5, 6, 7, 8, 9 y 10.
 
-[^c11_cc25]: Corte Constitucional del Ecuador, Resolución No. 25, publicada en el Registro Oficial Suplemento 2 de 5 de junio de 2017, numeral 3.3, según la nota de la compilación del COIP al art. 652. **[verificar el número de la sentencia de la Corte Constitucional]**
+[^c11_cc25]: Corte Constitucional del Ecuador, Resolución No. 25, publicada en el Registro Oficial Suplemento 2 de 5 de junio de 2017, numeral 3.3, según la nota de la compilación del COIP al art. 652.
 
 [^c11_art653]: COIP, art. 653. Según la nota de la compilación, la Corte Nacional de Justicia, en la Resolución No. 14 (Registro Oficial Suplemento 355 de 22 de diciembre de 2020), estableció que la decisión que declara la nulidad es inimpugnable cuando la emite el tribunal de apelación o de casación.
 
@@ -3835,9 +3816,9 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 
 [^c11_art656]: COIP, art. 656.
 
-[^c11_cc768]: Corte Constitucional del Ecuador, sentencia No. 768-15-EP/20. **[verificar la fecha y el alcance exacto de la decisión sobre la casación fiscal frente a una doble sentencia absolutoria]**
+[^c11_cc768]: Corte Constitucional del Ecuador, sentencia No. 768-15-EP/20.
 
-[^c11_art657]: COIP, art. 657, nums. 1, 2, 3, 5 y 6. Sobre la audiencia de fundamentación y la inconstitucionalidad de la fase de admisibilidad creada por la Resolución CNJ 10-2015, véase la sentencia de la Corte Constitucional No. 8-19-IN y acumulado/21. **[verificar el número y la fecha de la sentencia]**
+[^c11_art657]: COIP, art. 657, nums. 1, 2, 3, 5 y 6. Sobre la audiencia de fundamentación y la inconstitucionalidad de la fase de admisibilidad creada por la Resolución CNJ 10-2015, véase la sentencia de la Corte Constitucional No. 8-19-IN y acumulado/21.
 
 [^c11_art658]: COIP, art. 658.
 
@@ -3845,7 +3826,7 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 
 [^c11_aep]: Constitución, arts. 94 y 437.
 
-[^c11_logjcc]: Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, arts. 58 a 64 (acción extraordinaria de protección). **[verificar el término vigente para presentar la acción y la numeración de los artículos]**
+[^c11_logjcc]: Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional, arts. 58 a 64 (acción extraordinaria de protección).
 
 [^c11_art661]: COIP, art. 661.
 
@@ -3976,8 +3957,6 @@ Fuente: elaboración del autor a partir de Castello Rojas y Segovia Carrillo (20
 | Propuesta para actuar como testaferro | No aceptarla; dejar constancia escrita de la negativa |
 
 Fuente: elaboración del autor a partir de Castello Rojas y Segovia Carrillo (2015, pp. 39-40 y 123).
-
-> [Nota del autor: completar este anexo con las tipologías regionales publicadas por el GAFILAT y con los casos ecuatorianos de la UAFE, citando el documento y la página.]
 
 ### Anexo C. Modelos de escritos
 

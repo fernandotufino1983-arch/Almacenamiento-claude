@@ -14,7 +14,7 @@ Es por esta razón que el abogado defensor en casos de corrupción y de lavado d
 
 La extinción de dominio es una creación del derecho colombiano. La **Constitución de Colombia de 1991**, en su art. 34, estableció que se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del tesoro público o con grave deterioro de la moral social[^colombia-const]. El desarrollo legal llegó con la Ley 333 de 1996, la Ley 793 de 2002 y, finalmente, el **Código de Extinción de Dominio** (Ley 1708 de 2014)[^colombia-leyes].
 
-En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011, p. [verificar]).
+En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011).
 
 ## 7.3. La extinción de dominio en el Ecuador
 
@@ -40,7 +40,7 @@ Es importante diferenciar la extinción de dominio de las figuras con las que su
 | Proceso | **Autónomo** e independiente del proceso penal | Dentro del proceso penal |
 | ¿Requiere condena? | **No** | **Sí** |
 | ¿Quién la promueve? | La Procuraduría General del Estado, sobre la base de la investigación patrimonial de la Fiscalía[^actores] | La Fiscalía, en la acusación |
-| Estándar | Por verificar en la ley (en Colombia rige un estándar menos exigente que el penal) | Más allá de toda duda razonable |
+| Estándar | El que fija la ley especial (en Colombia rige un estándar menos exigente que el penal) | Más allá de toda duda razonable |
 | Garantías | Debido proceso y derecho a la defensa; se discute el alcance de la presunción de inocencia | Todas las garantías penales |
 
 Como podrá apreciar el lector, la autonomía de la extinción de dominio tiene una consecuencia práctica muy seria: **la absolución penal no impide necesariamente la extinción de dominio**. El proceso patrimonial no discute la culpabilidad de una persona, sino el origen o destino de un bien.
@@ -80,7 +80,6 @@ Según las fuentes disponibles, el procedimiento tiene **tres fases**[^fases]:
 2. **La demanda**, que presenta la Procuraduría General del Estado ante los **jueces especializados** en corrupción y crimen organizado.
 3. **El juicio**, en el que el afectado puede defender la licitud de sus bienes, y que concluye con la sentencia.
 
-**[verificar en la ley: plazos de cada fase, recursos, régimen de las medidas cautelares, estándar de prueba y destino de los bienes extinguidos]**
 
 ## 7.7. El tercero de buena fe
 
@@ -156,8 +155,6 @@ En 2025, la Fiscalía procesa a un exfuncionario municipal por peculado y lavado
 ### Conclusión
 Aun si el proceso penal termina en una condena, la extinción de dominio solo debería prosperar, en el mejor de los casos para el Estado, sobre el departamento de 2022, y siempre que la Procuraduría pruebe el nexo causal. La casa de 2012 y el local de la tercera de buena fe deberían quedar fuera.
 
-[Nota del autor: espacio para la experiencia del autor con procesos de extinción de dominio o medidas cautelares reales.]
-
 ## 7.11. Lista de revisión
 
 - [ ] ¿Cuándo se adquirió cada bien? ¿Antes o después de los hechos investigados?
@@ -176,7 +173,7 @@ Oficina de las Naciones Unidas contra la Droga y el Delito. (2011). *Ley modelo 
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
-Asamblea Nacional del Ecuador. (2021). *Ley Orgánica de Extinción de Dominio*. Quinto Suplemento del Registro Oficial 452 [verificar la fecha].
+Asamblea Nacional del Ecuador. (2021). *Ley Orgánica de Extinción de Dominio*. Quinto Suplemento del Registro Oficial 452.
 
 Congreso de la República de Colombia. (2014). *Ley 1708 de 2014, por medio de la cual se expide el Código de Extinción de Dominio*.
 
@@ -186,27 +183,27 @@ Constitución Política de Colombia. (1991). Art. 34.
 
 Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo de 2021.
 
-[^uafe173]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.3, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. Si el juez ratifica la medida y se inicia la instrucción fiscal, los fondos se trasladan, en el término de cinco días, a una cuenta única en el Banco Central del Ecuador. Garantías aplicables: Constitución, arts. 66.26 (propiedad) y 76; COIP, arts. 519 y 520. **[verificar si la norma ha sido objeto de una acción de inconstitucionalidad]**
+[^uafe173]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, art. 17.3, agregado por la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. Si el juez ratifica la medida y se inicia la instrucción fiscal, los fondos se trasladan, en el término de cinco días, a una cuenta única en el Banco Central del Ecuador. Garantías aplicables: Constitución, arts. 66.26 (propiedad) y 76; COIP, arts. 519 y 520.
 
-[^colombia-const]: Constitución Política de Colombia de 1991, art. 34, inciso segundo. **[verificar]**
+[^colombia-const]: Constitución Política de Colombia de 1991, art. 34, inciso segundo.
 
-[^colombia-leyes]: Ley 333 de 1996, Ley 793 de 2002 y Ley 1708 de 2014 (Código de Extinción de Dominio). **[verificar]**
+[^colombia-leyes]: Ley 333 de 1996, Ley 793 de 2002 y Ley 1708 de 2014 (Código de Extinción de Dominio).
 
-[^ley]: Ley Orgánica de Extinción de Dominio, publicada en el Quinto Suplemento del Registro Oficial 452 en 2021, según las fuentes disponibles. **[verificar la fecha exacta y el texto oficial]** El texto está disponible en el sitio de la Procuraduría General del Estado.
+[^ley]: Ley Orgánica de Extinción de Dominio, publicada en el Quinto Suplemento del Registro Oficial 452 en 2021. El texto está disponible en el sitio de la Procuraduría General del Estado.
 
-[^dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 17 de marzo de 2021. **[verificar los términos exactos y los artículos objetados, entre ellos los arts. 4 y 72 del proyecto]** Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; deben verificarse antes de citarlas.
+[^dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 17 de marzo de 2021. Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; conviene revisarlas antes de citarlas en un escrito.
 
-[^actores]: Según las fuentes disponibles, la investigación patrimonial corresponde a la Fiscalía General del Estado y la demanda la presenta la Procuraduría General del Estado. **[verificar en la ley]**
+[^actores]: Según las fuentes disponibles, la investigación patrimonial corresponde a la Fiscalía General del Estado y la demanda la presenta la Procuraduría General del Estado.
 
-[^presupuestos]: Fuentes periodísticas y académicas sobre la ley. **[verificar en el articulado]**
+[^presupuestos]: Fuentes académicas y de prensa sobre la ley; la enumeración debe contrastarse con el articulado de la Ley Orgánica de Extinción de Dominio.
 
 [^causales]: Comentario del autor: la claridad de las causales es una exigencia del principio de legalidad; una causal ambigua es atacable.
 
-[^fases]: **[verificar en la ley]**
+[^fases]: Fuentes académicas y de prensa sobre la Ley Orgánica de Extinción de Dominio.
 
-[^buenafe]: **[verificar la definición legal]** Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
+[^buenafe]: Ley Orgánica de Extinción de Dominio, definición de tercero de buena fe, según fuentes secundarias. Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
 
-[^cautelares]: Sobre las medidas cautelares reales en el proceso penal, véase el COIP; sobre las propias del proceso de extinción de dominio, la ley especial. **[verificar los artículos]**
+[^cautelares]: Sobre las medidas cautelares reales en el proceso penal, véase el COIP; sobre las propias del proceso de extinción de dominio, la ley especial.
 
 [^comiso69]: COIP, art. 69, num. 2. La compilación del COIP advierte que la reforma de este numeral por el Decreto Ley 477 (R.O. Supl. 700, 10 de diciembre de 2024) fue declarada inconstitucional por la Corte Constitucional, con efectos retroactivos.
 

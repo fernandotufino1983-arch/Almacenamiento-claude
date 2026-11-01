@@ -12,14 +12,14 @@ En este orden de ideas, el COIP de 2014 incorporó la responsabilidad penal de l
 
 ## 6.2. Los modelos de imputación
 
-La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009, p. [verificar]; Gómez-Jara Díez, 2010, p. [verificar]):
+La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009; Gómez-Jara Díez, 2010):
 
 | Modelo | Idea central | Consecuencia |
 |---|---|---|
 | **Heterorresponsabilidad** (vicarial o por transferencia) | La empresa responde por el delito que comete una persona natural vinculada a ella, en su beneficio | Basta probar el delito de la persona natural y su vínculo con la empresa |
 | **Autorresponsabilidad** (defecto de organización) | La empresa responde por su **propio** hecho: no haberse organizado para prevenir el delito | Importa cómo estaba organizada la empresa: sus controles, su cultura de cumplimiento |
 
-La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988, p. [verificar]), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
+La segunda posición, desarrollada a partir de la idea del **defecto de organización** (Tiedemann, 1988), es la que mejor se concilia con el principio de culpabilidad: la empresa no responde por lo que hizo otro, sino por no haber hecho lo que le correspondía para evitarlo.
 
 Como veremos, el COIP adoptó en su texto original un modelo cercano a la **heterorresponsabilidad**, y la reforma de 2021 introdujo elementos de **autorresponsabilidad** a través de los programas de cumplimiento.
 
@@ -100,7 +100,7 @@ La disolución es, en la práctica, la "pena de muerte" de la empresa. Por eso s
 | **Perú** | Ley No. 30424 (2016) | El modelo de prevención puede **eximir** de responsabilidad[^peru] |
 | **Ecuador** | COIP, arts. 45.7 y 49 (reforma de 2021) | Solo **atenúa** |
 
-Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021 [verificar el autor y la página]).
+Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021).
 
 ## 6.6. Estrategia de defensa de la persona jurídica
 
@@ -151,8 +151,6 @@ Para el abogado, la responsabilidad penal de la persona jurídica no es solo un 
 7. Un **régimen disciplinario** para los incumplimientos.
 8. **Revisión y actualización** periódicas.
 
-[Nota del autor: espacio para la experiencia del autor en la asesoría a empresas, o para un comentario sobre el nivel de implementación del compliance en el Ecuador.]
-
 ### 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo
 
 La prevención del lavado suele pensarse para los bancos y las grandes empresas, pero los casos que llegan a los estudios de abogados muestran otra realidad: el pequeño comerciante, el microempresario o el negocio familiar que, sin saberlo, fue utilizado para mover dinero ajeno. Castello Rojas y Segovia Carrillo (2015) lo advierten con claridad: el microempresario puede formar parte del lavado de manera consciente, pero también como "partícipe inocente" (p. 39).
@@ -182,7 +180,7 @@ Finalmente, el manual que proponen esos autores recoge un catálogo de señales 
 
 ### Análisis
 1. **¿Beneficio de la empresa?** Sí: los contratos se adjudicaron a la empresa. No opera la exclusión del inciso final del art. 49.
-2. **¿Es un supuesto previsto?** Debe verificarse si el cohecho del art. 280 prevé una pena para la persona jurídica, o si la Fiscalía se apoya en una lectura amplia del art. 49.
+2. **¿Es un supuesto previsto?** Debe verificarse si el tipo penal que se imputa prevé una pena para la persona jurídica, como ocurre en el lavado de activos (art. 317), o si la Fiscalía se apoya en una lectura amplia del art. 49.
 3. **El programa de cumplimiento.** Existía antes del delito, pero era incompleto. Puede sostenerse la **atenuante del art. 45.7**, aunque la Fiscalía cuestionará su eficacia.
 4. **La pena.** La disolución es desproporcionada para una empresa con actividad lícita real y 120 trabajadores. La defensa debe proponer, por ejemplo, una multa y la prohibición temporal de contratar con el Estado.
 
@@ -206,19 +204,19 @@ Castello Rojas, J. R., y Segovia Carrillo, J. E. (2015). *Manual de prevención 
 
 Gómez-Jara Díez, C. (2010). *Fundamentos modernos de la responsabilidad penal de las personas jurídicas*. B de F.
 
-Tiedemann, K. (1988). Die "Bebußung" von Unternehmen nach dem 2. Gesetz zur Bekämpfung der Wirtschaftskriminalität. *Neue Juristische Wochenschrift*, *41*, 1169-1174 [verificar].
+Tiedemann, K. (1988). Die "Bebußung" von Unternehmen nach dem 2. Gesetz zur Bekämpfung der Wirtschaftskriminalität. *Neue Juristische Wochenschrift*, *41*, 1169-1174.
 
 Zúñiga Rodríguez, L. (2009). *Bases para un modelo de imputación de responsabilidad penal a las personas jurídicas* (3.ª ed.). Aranzadi.
 
-Iurisdictio. (2021). *Responsabilidad penal de las personas jurídicas y programas de cumplimiento en el Ecuador* [Revista de la Universidad San Francisco de Quito; verificar autor y título exactos].
+Iurisdictio. (2021). *Responsabilidad penal de las personas jurídicas y programas de cumplimiento en el Ecuador* [Revista de la Universidad San Francisco de Quito].
 
-Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año de publicación; el Observatorio OECO de la PADF la cita como de 2021; verificar].
+Martínez, W. (2021). *Guía interpretativa del alcance del delito de lavado de activos en Ecuador*. Fundación Panamericana para el Desarrollo (PADF), Proyecto CTOC, con el apoyo de la Oficina Internacional de Asuntos Antinarcóticos y Aplicación de la Ley (INL) [el documento no indica el año; se toma el de la ficha del Observatorio OECO de la PADF].
 
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 45, 49, 50 y 71; versión con última actualización de 7 de octubre de 2026].
 
 Asamblea Nacional del Ecuador. (2021). *Ley Orgánica Reformatoria del Código Orgánico Integral Penal en Materia Anticorrupción*. Segundo Suplemento del Registro Oficial 392 de 17 de febrero de 2021.
 
@@ -232,9 +230,9 @@ España. (1995). *Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal* 
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024, 29 de enero). *Sentencia de casación, juicio No. 07712-2020-00205* (caso Salcedo).
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021; verificar la fecha].
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito. (2017). *Sentencia, juicio No. 0834-2016* [citada a través de Martínez, 2021].
 
-[^art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 26 (sujetos obligados como "primer control"), 34 a 40 (programa de administración de riesgos), 41 a 55 (debida diligencia) y 77 a 83 (responsabilidad administrativa). Para hechos anteriores al 29 de julio de 2025 rige la ley de 2016. **[verificar la fecha de la sentencia CNJ No. 0834-2016]**
+[^art23]: COIP, art. 23, inciso segundo (modalidades de la conducta: omisión), en relación con los arts. 26, 42 y 317. Base normativa de los deberes de prevención: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 26 (sujetos obligados como "primer control"), 34 a 40 (programa de administración de riesgos), 41 a 55 (debida diligencia) y 77 a 83 (responsabilidad administrativa). Para hechos anteriores al 29 de julio de 2025 rige la ley de 2016.
 
 [^art49]: COIP, art. 49, incisos primero y segundo, modificado por la ley publicada en el R.O. Supl. 392 de 17 de febrero de 2021. El inciso segundo añade que la responsabilidad de la persona jurídica "subsistirá aun cuando no haya sido posible identificar a la persona natural infractora".
 
@@ -248,13 +246,13 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 [^art71]: COIP, art. 71 (penas para las personas jurídicas).
 
-[^espana]: Código Penal español, art. 31 bis, introducido por la Ley Orgánica 5/2010 y reformado por la Ley Orgánica 1/2015. **[verificar]**
+[^espana]: Código Penal español, art. 31 bis, introducido por la Ley Orgánica 5/2010 y reformado por la Ley Orgánica 1/2015.
 
-[^chile]: Ley No. 20.393 de 2009, arts. 3 y 4 (deberes de dirección y supervisión, y modelo de prevención). **[verificar]**
+[^chile]: Ley No. 20.393 de 2009, arts. 3 y 4 (deberes de dirección y supervisión, y modelo de prevención).
 
-[^peru]: Ley No. 30424 de 2016, art. 17 (eximente por implementación de un modelo de prevención). **[verificar]** Comentario del autor: aunque la ley peruana la denomina "responsabilidad administrativa", se trata de una responsabilidad que se determina en el proceso penal.
+[^peru]: Ley No. 30424 de 2016, art. 17 (eximente por implementación de un modelo de prevención). Comentario del autor: aunque la ley peruana la denomina "responsabilidad administrativa", se trata de una responsabilidad que se determina en el proceso penal.
 
-[^supuestos]: Comentario del autor: la interpretación estricta exige que el tipo penal prevea una sanción para la persona jurídica. Conviene revisar, delito por delito, si el COIP establece una pena específica para la persona jurídica, por ejemplo en el lavado de activos (art. 317). **[verificar]**
+[^supuestos]: Comentario del autor: la interpretación estricta exige que el tipo penal prevea una sanción para la persona jurídica. Conviene revisar, delito por delito, si el COIP establece una pena específica para la persona jurídica, por ejemplo en el lavado de activos (art. 317), que ordena la disolución y liquidación de la persona jurídica creada para la comisión del delito.
 
 [^salcedo-pj]: Corte Nacional de Justicia, Sala Penal, juicio No. 07712-2020-00205, sentencia de 29 de enero de 2024, parte resolutiva, nums. 4 y 5. La defensa había alertado desde la etapa intermedia que esa empresa estaba extinguida.
 

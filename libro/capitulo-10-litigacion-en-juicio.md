@@ -200,8 +200,6 @@ Retomemos el caso de Gustavo, el comerciante de vehículos usados del capítulo 
 ### Conclusión
 La defensa no necesitó discutir cada depósito. Le bastó con mostrar que la Fiscalía no probó el elemento que no podía probar, el origen ilícito, y con ofrecer al tribunal una explicación documentada de dónde venía el dinero. La informalidad tributaria de Gustavo podrá tener consecuencias ante el SRI, pero no convierte en ilícito el dinero de un negocio lícito.
 
-[Nota del autor: espacio para un caso propio en el que la audiencia preparatoria o el contraexamen hayan sido decisivos.]
-
 ## 10.10. Lista de revisión
 
 - [ ] ¿La acusación describe la conducta, el hecho del que provendrían los activos y el monto (art. 603)?

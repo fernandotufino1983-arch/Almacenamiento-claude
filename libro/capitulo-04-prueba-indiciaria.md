@@ -24,7 +24,7 @@ Es importante diferenciar dos cosas que suelen confundirse. Que una prueba sea *
 
 En la mayoría de los delitos, la prueba indiciaria es un recurso complementario. En el lavado de activos, en cambio, es **la regla**. La propia Fiscalía lo reconoce cuando califica a la prueba indiciaria como el "elemento prioritario dentro del delito de lavado de activos" (Fiscalía General del Estado, 2021, p. 71). Propongo cinco razones que explican por qué.
 
-**1. La conducta consiste precisamente en borrar el rastro.** El lavado no es un delito que deje huellas por descuido: es un delito cuya finalidad es **eliminar las huellas** del delito anterior. La Corte Constitucional de Colombia, en la sentencia C-685 [verificar el año y la fecha], describió la segunda fase del lavado como aquella en la que el dinero "se somete a operaciones más o menos complejas que pretenden borrar el rastro de ilegalidad que les dio origen", mediante "empresa fachada, testaferros, operaciones financieras ficticias, redundantes o repetitivas" (Corte Constitucional de Colombia, C-685, como se citó en Corte Suprema de Justicia de Colombia, radicación No. 43706, 18 de septiembre de 2018, y en Fiscalía General del Estado, 2021, p. 101). Si el lavado tuvo éxito, por definición no queda una prueba directa del origen ilícito. Lo que queda son las anomalías que el propio lavado produce: los movimientos sin lógica económica, las sociedades vacías, el patrimonio que no se explica.
+**1. La conducta consiste precisamente en borrar el rastro.** El lavado no es un delito que deje huellas por descuido: es un delito cuya finalidad es **eliminar las huellas** del delito anterior. La Corte Constitucional de Colombia, en la sentencia C-685, citada por la Fiscalía General del Estado (2021), describió la segunda fase del lavado como aquella en la que el dinero "se somete a operaciones más o menos complejas que pretenden borrar el rastro de ilegalidad que les dio origen", mediante "empresa fachada, testaferros, operaciones financieras ficticias, redundantes o repetitivas" (Corte Constitucional de Colombia, C-685, como se citó en Corte Suprema de Justicia de Colombia, radicación No. 43706, 18 de septiembre de 2018, y en Fiscalía General del Estado, 2021, p. 101). Si el lavado tuvo éxito, por definición no queda una prueba directa del origen ilícito. Lo que queda son las anomalías que el propio lavado produce: los movimientos sin lógica económica, las sociedades vacías, el patrimonio que no se explica.
 
 **2. El origen ilícito es un hecho que ocurrió fuera del proceso.** El art. 317 del COIP exige que los activos tengan "origen ilícito", y la Corte Nacional, en el caso Espinel (sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282), reconoció que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva"[^espinel-normativo]. Pero ese elemento se refiere a un hecho **anterior y distinto** al lavado: el delito que generó los bienes. Ese hecho pudo cometerlo otra persona, pudo ocurrir en otro país y pudo no haber sido juzgado nunca. Como el lavado es autónomo y no exige una sentencia previa por el delito de origen (art. 317 del COIP y Resolución CNJ No. 20-2024), el tribunal del lavado casi nunca tiene ante sí la prueba directa de ese delito. Tiene, a lo sumo, rastros de él.
 
@@ -60,7 +60,7 @@ La jurisprudencia comparada ofrece tres reglas para mantener al indicio dentro d
 
 1. **Los indicios deben ser plurales, estar probados y reforzarse entre sí.** La Corte Suprema de Justicia del Perú, en el Acuerdo Plenario No. 3-2010/CJ-116, de 16 de noviembre de 2010, exigió "hechos base o indicios plenamente acreditados, que en función a su frecuente ambivalencia, han de ser plurales, concomitantes al hecho que se trata de probar e interrelacionados", y un razonamiento del tribunal "explícito y claro" que permita el control de la inferencia (Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116, 16 de noviembre de 2010, como se citó en Fiscalía General del Estado, 2021, p. 104).
 
-2. **Los indicios deben converger en una sola conclusión.** La Corte Suprema de Justicia de Colombia, en la sentencia de diciembre de 2009 [verificar el día] dictada en el proceso No. 28267, exigió que los hechos indicadores "ensamblen entre sí como piezas integrantes de un todo" y que las inferencias sean "convergentes, es decir, concurrir hacia una misma conclusión y no hacia varias hipótesis de solución" (Corte Suprema de Justicia de Colombia, proceso No. 28267, diciembre de 2009, como se citó en Fiscalía General del Estado, 2021, pp. 102-103). Si los indicios admiten dos lecturas, una lícita y otra ilícita, no prueban el delito.
+2. **Los indicios deben converger en una sola conclusión.** La Corte Suprema de Justicia de Colombia, en la sentencia de diciembre de 2009 dictada en el proceso No. 28267, exigió que los hechos indicadores "ensamblen entre sí como piezas integrantes de un todo" y que las inferencias sean "convergentes, es decir, concurrir hacia una misma conclusión y no hacia varias hipótesis de solución" (Corte Suprema de Justicia de Colombia, proceso No. 28267, diciembre de 2009, como se citó en Fiscalía General del Estado, 2021, pp. 102-103). Si los indicios admiten dos lecturas, una lícita y otra ilícita, no prueban el delito.
 
 3. **La hipótesis alternativa de la defensa no necesita certeza, sino plausibilidad.** En la sentencia de 18 de enero de 2017 (radicación No. 40120), la Corte colombiana sostuvo que, mientras la hipótesis de la acusación debe demostrarse más allá de duda razonable, las hipótesis alternativas de la defensa "si bien no están sometidas a ese estándar, deben ser verdaderamente plausibles" (Corte Suprema de Justicia de Colombia, radicación No. 40120, 18 de enero de 2017, como se citó en Fiscalía General del Estado, 2021, p. 102)[^40120-carga].
 
@@ -86,7 +86,7 @@ Exigir al procesado que pruebe su inocencia no es aplicar la autonomía del lava
 
 ### 4.3.1. La estructura de la inferencia
 
-Pabón Gómez define el indicio como "aquella demostración que se obtiene indirectamente, a través de una inferencia racional directa y precisa", que tiene "como base datos o hechos, inmediatamente probados en el juicio oral y público" (Pabón Gómez, 1994, p. 159, como se citó en Apolo-Salazar, 2021, p. 366). La definición subraya lo esencial: el punto de partida debe estar probado en el juicio. A partir de ahí, toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010, p. [verificar]; Taruffo, 2002, p. [verificar]):
+Pabón Gómez define el indicio como "aquella demostración que se obtiene indirectamente, a través de una inferencia racional directa y precisa", que tiene "como base datos o hechos, inmediatamente probados en el juicio oral y público" (Pabón Gómez, 1994, p. 159, como se citó en Apolo-Salazar, 2021, p. 366). La definición subraya lo esencial: el punto de partida debe estar probado en el juicio. A partir de ahí, toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010; Taruffo, 2002):
 
 1. **El hecho base o indicio:** un hecho **probado** por otro medio de prueba. Por ejemplo, que el procesado depositó USD 300.000 en efectivo en un año.
 2. **La regla de experiencia o máxima:** una generalización que conecta el hecho base con la conclusión. Por ejemplo, que quien maneja grandes sumas de efectivo sin una actividad que lo explique suele obtenerlas de actividades ilícitas.
@@ -151,7 +151,7 @@ Es por esta razón que, en el Ecuador, la prueba indiciaria debe entenderse como
 
 ### 4.5.1. Más allá de toda duda razonable
 
-La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007, p. [verificar]). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
+La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
 
 ### 4.5.2. La motivación reforzada
 
@@ -358,8 +358,6 @@ Rosa, de 52 años, administra un pequeño hotel familiar en la costa. En tres a�
 ### Conclusión
 La acusación acredita, a lo sumo, un patrimonio parcialmente no justificado y una informalidad tributaria. No acredita el vínculo con una actividad delictiva. Con un peritaje de parte bien construido y la hipótesis alternativa del negocio familiar, la defensa está en condiciones de sostener la absolución.
 
-[Nota del autor: espacio para un caso propio en el que el peritaje de parte haya sido decisivo.]
-
 ## 4.12. Lista de revisión
 
 - [ ] ¿Cuáles son exactamente los hechos base, y con qué prueba se acreditó cada uno?
@@ -386,7 +384,7 @@ Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thom
 
 Devis Echandía, H. (2015). *Teoría general de la prueba judicial* (6.ª ed.). Temis.
 
-Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
+Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión].
 
 Ferrer Beltrán, J. (2007). *La valoración racional de la prueba*. Marcial Pons.
 
@@ -400,9 +398,9 @@ Taruffo, M. (2002). *La prueba de los hechos* (J. Ferrer Beltrán, Trad.). Trott
 
 **Normativa**
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 454, 455, 457 y 656; verificar la versión vigente].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 454, 455, 457 y 656; versión con última actualización de 7 de octubre de 2026].
 
-Congreso Nacional del Ecuador. (2000). *Código de Procedimiento Penal*. Registro Oficial Suplemento 360 de 13 de enero de 2000 [derogado; verificar].
+Congreso Nacional del Ecuador. (2000). *Código de Procedimiento Penal*. Registro Oficial Suplemento 360 de 13 de enero de 2000 [derogado por el Código Orgánico Integral Penal].
 
 Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas. (1988, 20 de diciembre). Viena [art. 3.3].
 
@@ -414,9 +412,9 @@ Constitución de la República del Ecuador. (2008). Registro Oficial 449 de 20 d
 
 **Jurisprudencia**
 
-Corte Constitucional del Ecuador. (2021, 20 de octubre [verificar]). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
+Corte Constitucional del Ecuador. (2021, 20 de octubre). *Sentencia No. 1158-17-EP/21* [estándar de motivación].
 
-Corte Constitucional de Colombia. (s. f.). *Sentencia C-685* [citada a través de Fiscalía General del Estado, 2021; verificar el año y la fecha].
+Corte Constitucional de Colombia. (s. f.). *Sentencia C-685* [citada a través de Fiscalía General del Estado, 2021].
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021, 29 de julio). *Sentencia de casación, juicio No. 09333-2018-00282* (caso Espinel).
 
@@ -424,7 +422,7 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 Corte Nacional de Justicia del Ecuador, Pleno. (2024, 23 de octubre). *Resolución No. 20-2024*. Registro Oficial Suplemento 689 de 22 de noviembre de 2024.
 
-Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2009, diciembre). *Sentencia, proceso No. 28267* [citada a través de Fiscalía General del Estado, 2021; verificar el día].
+Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2009, diciembre). *Sentencia, proceso No. 28267* [citada a través de Fiscalía General del Estado, 2021].
 
 Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2017, 18 de enero). *Sentencia de casación, radicación No. 40120* [citada a través de Fiscalía General del Estado, 2021].
 
@@ -444,15 +442,15 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^exclusion-doc]: Constitución, art. 76.4; COIP, art. 454.6, inciso primero.
 
-[^cge23-doc]: Ley Orgánica de la Contraloría General del Estado, art. 23.2, agregado por la disposición reformatoria cuarta de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024). Normas en tensión: COIP, arts. 454.1, 454.6 y 505; Constitución, art. 76.7, lits. h y j. **[verificar el texto vigente de la Ley Orgánica de la Contraloría]**
+[^cge23-doc]: Ley Orgánica de la Contraloría General del Estado, art. 23.2, agregado por la disposición reformatoria cuarta de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024). Normas en tensión: COIP, arts. 454.1, 454.6 y 505; Constitución, art. 76.7, lits. h y j.
 
 [^art5811-doc]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
 
 [^uafe-doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 16, 17 (funciones de la UAFE, en especial los literales b, f, i y j), 57 (reporte de operaciones sospechosas) y 58 (reporte de operaciones sobre el umbral). Sustituyó a la ley de 2016 (disposición derogatoria única) y rige desde el 29 de julio de 2025 (disposición final única). Para hechos anteriores a esa fecha, rige la ley de 2016.
 
-[^uafe2025-doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 23.1, 23.2 y 23.3, agregados por la disposición reformatoria tercera de la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. El art. 23.1 remite al art. 502, num. 9, del COIP. **[verificar la ley reformatoria y si ha sido objeto de control constitucional]**
+[^uafe2025-doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 23.1, 23.2 y 23.3, agregados por la disposición reformatoria tercera de la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. El art. 23.1 remite al art. 502, num. 9, del COIP.
 
-[^sigilo-doc]: Código Orgánico Monetario y Financiero, artículos sobre sigilo y reserva bancaria. **[verificar la numeración vigente]**
+[^sigilo-doc]: Código Orgánico Monetario y Financiero, normas sobre sigilo y reserva bancaria.
 
 [^intimidad-doc]: Constitución, art. 66.19 ("El derecho a la protección de datos de carácter personal") y 66.20 ("El derecho a la intimidad personal y familiar").
 
@@ -460,7 +458,7 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^espinel-normativo]: Corte Nacional de Justicia, Sala Penal, sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282. Base legal: COIP, art. 317, inciso que dispone que la autonomía del delito "no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos objeto del delito".
 
-[^tratados-inferencia]: Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas (Viena, 1988), art. 3.3: "El conocimiento, la intención o la finalidad requeridos como elementos de cualquiera de los delitos enunciados en el párrafo 1 del presente artículo podrán inferirse de las circunstancias objetivas del caso"; Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Palermo, 2000), art. 6.2.f; Convención de las Naciones Unidas contra la Corrupción (Mérida, 2003), art. 28. **[verificar la redacción oficial en español de cada tratado]** Comentario del autor: los tratados autorizan a **inferir** el elemento subjetivo de circunstancias **objetivas**; no autorizan a presumirlo. La diferencia es la misma que establece el art. 455 del COIP.
+[^tratados-inferencia]: Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas (Viena, 1988), art. 3.3: "El conocimiento, la intención o la finalidad requeridos como elementos de cualquiera de los delitos enunciados en el párrafo 1 del presente artículo podrán inferirse de las circunstancias objetivas del caso"; Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional (Palermo, 2000), art. 6.2.f; Convención de las Naciones Unidas contra la Corrupción (Mérida, 2003), art. 28. Comentario del autor: los tratados autorizan a **inferir** el elemento subjetivo de circunstancias **objetivas**; no autorizan a presumirlo. La diferencia es la misma que establece el art. 455 del COIP.
 
 [^res20-indicios]: Corte Nacional de Justicia, Pleno, Resolución No. 20-2024, de 23 de octubre de 2024, Registro Oficial Suplemento 689 de 22 de noviembre de 2024. Base constitucional: arts. 184.2 y 185 de la Constitución (precedentes de triple reiteración).
 
@@ -468,17 +466,17 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 [^40120-carga]: En la misma sentencia, la Corte colombiana añadió que, cuando la Fiscalía demuestra su hipótesis, "la demostración de la plausibilidad de las hipótesis alternativas corre a cargo de la defensa cuando es quien tiene más fácil o exclusivo acceso a las pruebas" (Fiscalía General del Estado, 2021, p. 102). Comentario del autor: esa regla no puede trasladarse sin más al Ecuador. El art. 76.2 de la Constitución y el art. 5.4 del COIP impiden imponer al procesado la carga de probar su inocencia. Lo que sí se desprende de ella es una lección práctica: aunque no tenga la carga, a la defensa le conviene presentar una hipótesis alternativa concreta y respaldada, porque una duda genérica rara vez convence a un tribunal.
 
-[^cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). **[verificar la numeración y la redacción]** Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
+[^cpp2000]: Código de Procedimiento Penal de 2000, arts. 87 y 88 (presunciones). Comentario del autor: la exigencia de presunciones "unívocas" equivale a lo que hoy la doctrina llama una conclusión que debe ser la única razonable.
 
-[^art455]: COIP, art. 455 (nexo causal). **[verificar la redacción vigente]** Comentario del autor: esta norma no prohíbe la prueba indiciaria; prohíbe que la condena se funde en conclusiones que no descansan en hechos reales probados.
+[^art455]: COIP, art. 455 (nexo causal): "La prueba y los elementos de prueba deberán tener un nexo causal entre la infracción y la persona procesada; el fundamento tendrá que basarse en hechos reales introducidos, o que puedan ser introducidos a través de un medio de prueba, y nunca en presunciones". Comentario del autor: esta norma no prohíbe la prueba indiciaria; prohíbe que la condena se funde en conclusiones que no descansan en hechos reales probados.
 
-[^art454]: COIP, art. 454, que recoge, entre otros, los principios de oportunidad, inmediación, contradicción, libertad probatoria, pertinencia y exclusión. **[verificar]**
+[^art454]: COIP, art. 454, que recoge, entre otros, los principios de oportunidad, inmediación, contradicción, libertad probatoria, pertinencia y exclusión.
 
-[^art457]: COIP, art. 457. **[verificar la redacción vigente]**
+[^art457]: COIP, art. 457: la valoración de la prueba se hará teniendo en cuenta su legalidad, autenticidad, sometimiento a cadena de custodia y grado actual de aceptación científica y técnica de los principios en que se fundamenten los informes periciales.
 
-[^motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre los vicios de motivación aparente (incoherencia, inatinencia, incongruencia), véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. La Corte Constitucional ha exigido, además, una motivación reforzada cuando la decisión se apoya en prueba indiciaria. **[identificar y verificar la sentencia]**
+[^motivacion]: Constitución, art. 76, num. 7, lit. l). Sobre los vicios de motivación aparente (incoherencia, inatinencia, incongruencia), véase la sentencia de la Corte Constitucional No. 1158-17-EP/21. Comentario del autor: cuando la condena se apoya en prueba indiciaria, la exigencia de motivación es mayor, porque el juez debe explicar cada paso de la inferencia.
 
-[^murray]: Tribunal Europeo de Derechos Humanos, *John Murray c. Reino Unido* (1996). El tribunal admitió que, en circunstancias que exigen claramente una explicación, el silencio del acusado pueda tomarse en cuenta, pero nunca como fundamento exclusivo ni principal de la condena. **[verificar]**
+[^murray]: Tribunal Europeo de Derechos Humanos, *John Murray c. Reino Unido* (1996). El tribunal admitió que, en circunstancias que exigen claramente una explicación, el silencio del acusado pueda tomarse en cuenta, pero nunca como fundamento exclusivo ni principal de la condena.
 
 [^casacion]: Sobre la casación penal y la prohibición de revalorar la prueba, véase el art. 656 del COIP. Comentario del autor: el reto es plantear la impugnación como un error en la aplicación del art. 455 o de las reglas de la sana crítica, y no como una nueva lectura de los hechos.
 
