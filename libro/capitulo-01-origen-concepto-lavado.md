@@ -82,7 +82,11 @@ Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse a
 
 ## 1.6. Concepto
 
-Con estos antecedentes podemos ofrecer una definición. El lavado de activos es **el conjunto de conductas mediante las cuales se busca dar apariencia de legalidad a bienes provenientes de una actividad delictiva, para incorporarlos a la economía formal y ocultar su verdadero origen**.
+La doctrina ofrece definiciones que conviene conocer, porque cada una pone el acento en un aspecto distinto. Para Fabián Caparrós, el lavado es "el proceso tendiente a obtener la aplicación en actividades económicas lícitas de una masa patrimonial derivada de cualquier género de conductas ilícitas, con independencia de cuál sea la forma que esa masa adopte, mediante la progresiva concesión a la misma de una apariencia de legitimidad" (Fabián Caparrós, 1998, p. 4, como se citó en Apolo-Salazar, 2021, pp. 363-364). Durrieu, desde la doctrina argentina, lo describe como el "proceso por el cual los activos derivados de actividades criminales eran manipulados de tal manera que aparecían como si fueran provenientes de actividades y negocios legítimos" (Durrieu, 2006, p. 2, como se citó en Apolo-Salazar, 2021, p. 363).
+
+Es importante diferenciar lo que ambas definiciones tienen en común, porque es ahí donde está el núcleo del delito. Las dos hablan de un **proceso** y de una **apariencia**: no basta con tener bienes de origen ilícito, sino que el lavado consiste en hacerlos parecer lícitos. Y las dos presuponen que el origen ilícito existe, que hay una "masa patrimonial derivada" de conductas ilícitas. El lavado no crea la ilicitud del dinero: la encuentra y la disfraza.
+
+Con estos antecedentes podemos ofrecer una definición propia. El lavado de activos es **el conjunto de conductas mediante las cuales se busca dar apariencia de legalidad a bienes provenientes de una actividad delictiva, para incorporarlos a la economía formal y ocultar su verdadero origen**.
 
 De esta definición se desprenden tres elementos que el abogado debe tener siempre presentes:
 
@@ -108,9 +112,9 @@ La importancia práctica de las fases es enorme. La Fiscalía suele tener abunda
 
 La discusión sobre el bien jurídico no es académica. Determina el alcance del tipo penal y ofrece argumentos de lesividad (artículo 3 del COIP). Las posturas principales son tres:
 
-1. **El orden socioeconómico**, entendido como la libre competencia y la integridad del sistema financiero. Es la postura dominante (Fabián Caparrós, 1998, p. [verificar]).
+1. **El orden socioeconómico**, entendido como la libre competencia y la integridad del sistema financiero. Es la postura dominante (Fabián Caparrós, 1998, p. 165, como se citó en Martínez, 2021, p. 32).
 2. **La administración de justicia**, porque el lavado obstaculiza la persecución del delito de origen y el decomiso de sus ganancias.
-3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos.
+3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos. En la doctrina ecuatoriana, Zambrano Pasquel lo califica como un delito "complejo", porque ataca varios bienes jurídicos a la vez (Zambrano Pasquel, 2020, p. 86, como se citó en Apolo-Salazar, 2021, p. 365).
 
 En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^lesividad].
 
@@ -157,6 +161,12 @@ Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 Las dos sentencias de casación que analizo en el capítulo 2, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ## Referencias
+
+Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
+
+Durrieu, R. (2006). *El lavado de dinero en la Argentina: Análisis dogmático y político-criminal de los delitos de lavado de activos de origen delictivo (ley 25.246) y financiamiento del terrorismo*. LexisNexis Argentina [citado a través de Apolo-Salazar, 2021].
+
+Apolo-Salazar, A. (2021). Apuntes del delito de lavado de activos en el Ecuador y su relación con la prueba indiciaria. *593 Digital Publisher CEIT*, *6*(5-1), 362-369. https://doi.org/10.33386/593dp.2021.5-1.822
 
 Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thomson Reuters Aranzadi.
 

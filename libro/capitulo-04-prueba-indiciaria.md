@@ -66,11 +66,25 @@ La jurisprudencia comparada ofrece tres reglas para mantener al indicio dentro d
 
 Es por esta razón que la estrategia de la defensa en un caso de lavado no consiste en negar que existen indicios, porque casi siempre existen. Consiste en demostrar que **no alcanzan**: que alguno no está probado, que la regla de experiencia que los une es falsa o demasiado general, o que dejan abierta una explicación lícita razonable. Las secciones siguientes desarrollan cada uno de esos caminos.
 
+### 4.2.5. ¿Se invierte la carga de la prueba en el lavado?
+
+Hay una idea que circula con frecuencia en los tribunales y que conviene enfrentar de forma directa: que en el lavado de activos **la carga de la prueba se invierte**, y que es el procesado quien debe demostrar el origen lícito de su dinero. Tiene respaldo en la doctrina nacional. Según la lectura que hace Apolo-Salazar de la obra de Zambrano Pasquel, este autor afirma que existe "efectivamente, una inversión de la carga de la prueba, pues el onus probandi recae sobre el procesado, quien deberá probar el origen lícito de los fondos o recursos" (Zambrano Pasquel, 2020, pp. 115-116, como se citó en Apolo-Salazar, 2021, p. 366). Y la propia Apolo-Salazar sostiene que, desde un punto de vista pragmático, "se vuelve inverosímil que el procesado pueda o deba mantener una actitud pasiva en juicio y esperar a que Fiscalía o la acusación particular demuestren la ilicitud de los activos" (Apolo-Salazar, 2021, p. 366).
+
+Con todo respeto, no puedo compartir la primera afirmación, y creo que la segunda debe entenderse en un sentido muy distinto del que sugiere. Es importante diferenciar dos cosas que esa tesis confunde: la **carga de la prueba** y la **conveniencia de probar**.
+
+1. **La carga de la prueba no se invierte, porque ninguna norma la invierte.** El art. 76.2 de la Constitución presume la inocencia de toda persona "mientras no se declare su responsabilidad mediante resolución firme o sentencia ejecutoriada", y el art. 5.4 del COIP dispone que "toda persona mantiene su estatus jurídico de inocencia y debe ser tratada como tal, mientras no se ejecutoríe una sentencia que determine lo contrario"[^carga-425]. El art. 317 no contiene ninguna excepción: al contrario, su cláusula de autonomía dice expresamente que la autonomía "no exime a la Fiscalía de su obligación de investigar el origen ilícito de los activos". Y el art. 455 exige que la condena se funde en hechos reales "y nunca en presunciones". Si la ley hubiera querido imponer al procesado la prueba del origen lícito, lo habría dicho. No lo hizo.
+2. **El origen ilícito es un elemento del tipo, y los elementos del tipo los prueba la acusación.** La Corte Nacional, en el caso Espinel, lo calificó como "un elemento normativo dentro de la tipicidad objetiva" (capítulo 2, sección 2.3.4). Un elemento del tipo que debiera desvirtuar el procesado dejaría de ser un elemento del tipo para convertirse en una presunción en su contra.
+3. **Lo que sí existe es una carga práctica, no jurídica.** Aquí está lo que la segunda afirmación tiene de cierto. Cuando la Fiscalía prueba indicios sólidos, la defensa que guarda silencio corre el riesgo de que el tribunal considere que no existe una explicación alternativa razonable. Por eso la defensa **conviene** que pruebe el origen lícito, aunque no esté **obligada** a hacerlo. La diferencia no es un matiz: si la Fiscalía no prueba los indicios, el procesado debe ser absuelto aunque no haya explicado nada; y si la explicación de la defensa no convence del todo, pero deja una duda razonable, también.
+
+Como podrá apreciar el lector, la regla correcta es la que vimos en la sección anterior: a la hipótesis de la defensa le basta con ser **plausible**, mientras que la de la acusación debe probarse más allá de toda duda razonable. Incluso la autora que sostiene la inversión termina reconociendo que, en definitiva, "es la fiscalía quien deberá demostrar" el incremento injustificado, la vinculación con actividades delictivas y la ausencia de actividades que justifiquen los activos, y que "se debe establecer el nexo causal, para desvirtuar la presunción de inocencia" (Apolo-Salazar, 2021, p. 367).
+
+Exigir al procesado que pruebe su inocencia no es aplicar la autonomía del lavado: es invertir la presunción de inocencia.
+
 ## 4.3. Qué es un indicio
 
 ### 4.3.1. La estructura de la inferencia
 
-Toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010, p. [verificar]; Taruffo, 2002, p. [verificar]):
+Pabón Gómez define el indicio como "aquella demostración que se obtiene indirectamente, a través de una inferencia racional directa y precisa", que tiene "como base datos o hechos, inmediatamente probados en el juicio oral y público" (Pabón Gómez, 1994, p. 159, como se citó en Apolo-Salazar, 2021, p. 366). La definición subraya lo esencial: el punto de partida debe estar probado en el juicio. A partir de ahí, toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010, p. [verificar]; Taruffo, 2002, p. [verificar]):
 
 1. **El hecho base o indicio:** un hecho **probado** por otro medio de prueba. Por ejemplo, que el procesado depositó USD 300.000 en efectivo en un año.
 2. **La regla de experiencia o máxima:** una generalización que conecta el hecho base con la conclusión. Por ejemplo, que quien maneja grandes sumas de efectivo sin una actividad que lo explique suele obtenerlas de actividades ilícitas.
@@ -342,6 +356,12 @@ La acusación acredita, a lo sumo, un patrimonio parcialmente no justificado y u
 
 ## Referencias
 
+Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
+
+Pabón Gómez, G. (1994). *Lógica del indicio en materia criminal*. Ediciones Jurídicas Gustavo Ibáñez [citado a través de Apolo-Salazar, 2021].
+
+Apolo-Salazar, A. (2021). Apuntes del delito de lavado de activos en el Ecuador y su relación con la prueba indiciaria. *593 Digital Publisher CEIT*, *6*(5-1), 362-369. https://doi.org/10.33386/593dp.2021.5-1.822
+
 Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thomson Reuters Aranzadi.
 
 Devis Echandía, H. (2015). *Teoría general de la prueba judicial* (6.ª ed.). Temis.
@@ -395,6 +415,8 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 Corte Suprema de Justicia de la República del Perú. (2010, 16 de noviembre). *Acuerdo Plenario No. 3-2010/CJ-116* [citado a través de Fiscalía General del Estado, 2021].
 
 Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
+
+[^carga-425]: Constitución, art. 76, num. 2; COIP, arts. 5, num. 4, 317 (inciso sobre la autonomía) y 455.
 
 [^art4541-doc]: COIP, art. 454.1.
 
