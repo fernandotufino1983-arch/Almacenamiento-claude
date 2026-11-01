@@ -1,8 +1,8 @@
-# Capítulo 17. La extinción de dominio y las medidas cautelares reales
+# Capítulo 7. La extinción de dominio y las medidas cautelares reales
 
 > **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. No fue posible consultar el texto oficial de la Ley Orgánica de Extinción de Dominio desde el entorno de redacción; las referencias a su articulado se basan en fuentes secundarias y deben verificarse en el Registro Oficial. Formato: APA, 7.ª edición.
 
-## 17.1. Planteamiento
+## 7.1. Planteamiento
 
 Durante años, la respuesta del Estado frente a los bienes de origen ilícito dependió de una sola herramienta: el **comiso penal**, que exige una sentencia condenatoria. Y aquí aparece el problema que ya conocemos: el autor del delito puede estar prófugo, haber fallecido, o haber dejado los bienes a nombre de terceros. Sin condena no hay comiso, y sin comiso los bienes permanecen en manos de quien no debería tenerlos.
 
@@ -10,19 +10,19 @@ La **extinción de dominio** nació para resolver ese problema. Es una acción *
 
 Es por esta razón que el abogado defensor en casos de corrupción y de lavado debe vigilar siempre dos frentes al mismo tiempo: el proceso penal contra su cliente y el proceso de extinción de dominio contra sus bienes. Ganar el primero no garantiza ganar el segundo.
 
-## 17.2. Origen: el modelo colombiano
+## 7.2. Origen: el modelo colombiano
 
 La extinción de dominio es una creación del derecho colombiano. La **Constitución de Colombia de 1991**, en su art. 34, estableció que se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del tesoro público o con grave deterioro de la moral social[^colombia-const]. El desarrollo legal llegó con la Ley 333 de 1996, la Ley 793 de 2002 y, finalmente, el **Código de Extinción de Dominio** (Ley 1708 de 2014)[^colombia-leyes].
 
 En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) publicó una **Ley Modelo sobre Extinción de Dominio**, que inspiró las legislaciones de varios países de la región (UNODC, 2011, p. [verificar]).
 
-## 17.3. La extinción de dominio en el Ecuador
+## 7.3. La extinción de dominio en el Ecuador
 
-### 17.3.1. La ley de 2021
+### 7.3.1. La ley de 2021
 
 El Ecuador aprobó la **Ley Orgánica de Extinción de Dominio** en 2021[^ley]. Su tramitación tuvo un capítulo decisivo en la Corte Constitucional, que conviene conocer porque marca los límites del instituto.
 
-### 17.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional
+### 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional
 
 El Presidente de la República objetó por inconstitucionalidad varios artículos del proyecto. La Corte Constitucional, en el **Dictamen No. 1-21-OP/21 de 17 de marzo de 2021**, aceptó parcialmente esas objeciones y concluyó que el **carácter imprescriptible** y **retrospectivo** que el proyecto atribuía a la acción de extinción de dominio era **inconstitucional**, por ser incompatible con el derecho a la **seguridad jurídica** y con el principio de **legalidad**[^dictamen].
 
@@ -30,7 +30,7 @@ Las fuentes que analizan el dictamen destacan que la retroactividad prevista en 
 
 **Para el abogado defensor, este dictamen es fundamental.** Significa que la extinción de dominio en el Ecuador **tiene límites temporales** y **no puede aplicarse de forma ilimitada hacia el pasado**. Cualquier demanda que desconozca esos límites es atacable.
 
-## 17.4. Naturaleza jurídica
+## 7.4. Naturaleza jurídica
 
 Es importante diferenciar la extinción de dominio de las figuras con las que suele confundirse:
 
@@ -45,7 +45,7 @@ Es importante diferenciar la extinción de dominio de las figuras con las que su
 
 Como podrá apreciar el lector, la autonomía de la extinción de dominio tiene una consecuencia práctica muy seria: **la absolución penal no impide necesariamente la extinción de dominio**. El proceso patrimonial no discute la culpabilidad de una persona, sino el origen o destino de un bien.
 
-## 17.5. Los presupuestos
+## 7.5. Los presupuestos
 
 Según las fuentes disponibles, para que proceda la extinción de dominio deben acreditarse tres elementos[^presupuestos]:
 1. **La existencia de una actividad ilícita.**
@@ -54,7 +54,7 @@ Según las fuentes disponibles, para que proceda la extinción de dominio deben 
 
 La ley enumera, además, las **causales** que permiten iniciar la acción. La Corte Constitucional, en el dictamen 1-21-OP/21, exigió que esas causales estén **definidas con claridad** y sean **proporcionales**[^causales].
 
-## 17.6. El procedimiento
+## 7.6. El procedimiento
 
 Según las fuentes disponibles, el procedimiento tiene **tres fases**[^fases]:
 1. **La investigación patrimonial**, a cargo de la Fiscalía General del Estado.
@@ -63,7 +63,7 @@ Según las fuentes disponibles, el procedimiento tiene **tres fases**[^fases]:
 
 **[verificar en la ley: plazos de cada fase, recursos, régimen de las medidas cautelares, estándar de prueba y destino de los bienes extinguidos]**
 
-## 17.7. El tercero de buena fe
+## 7.7. El tercero de buena fe
 
 La protección del **tercero de buena fe** es la principal garantía del sistema. Según las fuentes disponibles, la ley lo define como la persona cuya conducta ha sido **diligente y prudente, exenta de culpa**, en todo acto o negocio jurídico relacionado con los bienes[^buenafe].
 
@@ -73,7 +73,7 @@ Es importante diferenciar esta noción de la buena fe simple del derecho civil:
 
 **Para la defensa del tercero**, la prueba es documental: estudio de títulos, certificados del Registro de la Propiedad, precio de mercado pagado por medios bancarios, ausencia de señales de alerta y antigüedad de la adquisición.
 
-## 17.8. Las medidas cautelares reales
+## 7.8. Las medidas cautelares reales
 
 Tanto en el proceso penal como en el de extinción de dominio, el Estado puede afectar los bienes antes de la sentencia, mediante medidas como la **prohibición de enajenar**, la **retención**, el **secuestro** y la **incautación**[^cautelares].
 
@@ -93,9 +93,9 @@ Estas medidas deben respetar los mismos límites que cualquier medida cautelar:
 
 Para la defensa, la clave es la **audiencia de ratificación**. Allí deben exigirse los tres adjetivos de la norma: que los indicios sean **objetivos** (hechos, no perfiles), **graves** (no una simple operación inusual) y **verificables** (que la defensa pueda conocerlos y discutirlos). Además, la inmovilización no puede exceder el monto de la operación sospechosa: si la UAFE inmovilizó toda la cuenta, la medida es desproporcionada por definición. Y si los ocho días transcurren sin pronunciamiento judicial, la medida debe levantarse.
 
-## 17.9. Estrategia de defensa
+## 7.9. Estrategia de defensa
 
-### 17.9.1. En el proceso de extinción de dominio
+### 7.9.1. En el proceso de extinción de dominio
 1. **Acredite el origen lícito del bien:** es la defensa principal. El peritaje contable y la documentación de la adquisición son decisivos.
 2. **Ataque el nexo causal:** la Procuraduría debe probar el vínculo entre el bien concreto y la actividad ilícita, no solo la existencia de esa actividad.
 3. **Haga valer los límites temporales:** tras el dictamen 1-21-OP/21, la acción no es imprescriptible ni puede aplicarse de forma ilimitada hacia el pasado.
@@ -103,12 +103,12 @@ Para la defensa, la clave es la **audiencia de ratificación**. Allí deben exig
 5. **Exija proporcionalidad:** que la extinción no alcance la totalidad del bien cuando solo una parte tiene origen cuestionado.
 6. **Exija que se respete el derecho a la defensa** y el debido proceso, aunque no sea un proceso penal.
 
-### 17.9.2. La coordinación con el proceso penal
+### 7.9.2. La coordinación con el proceso penal
 - **Lo que se declara en un proceso se usa en el otro.** Una explicación del patrimonio dada en la investigación penal será usada en la extinción de dominio, y viceversa.
 - **Una absolución penal es un argumento fuerte, pero no decisivo.** Si la sentencia penal declaró que no se probó el origen ilícito, ese pronunciamiento debe hacerse valer en el proceso patrimonial.
 - **El peritaje de parte sirve en ambos frentes.** Conviene encargarlo una sola vez y con un alcance que cubra los dos procesos.
 
-## 17.10. Caso práctico resuelto
+## 7.10. Caso práctico resuelto
 
 ### Los hechos
 En 2025, la Fiscalía procesa a un exfuncionario municipal por peculado y lavado. Paralelamente, la Procuraduría presenta una demanda de extinción de dominio sobre tres bienes:
@@ -126,7 +126,7 @@ Aun si el proceso penal termina en una condena, la extinción de dominio solo de
 
 [Nota del autor: espacio para la experiencia del autor con procesos de extinción de dominio o medidas cautelares reales.]
 
-## 17.11. Lista de revisión
+## 7.11. Lista de revisión
 
 - [ ] ¿Cuándo se adquirió cada bien? ¿Antes o después de los hechos investigados?
 - [ ] ¿Se respetan los límites temporales fijados por el dictamen 1-21-OP/21?
@@ -135,14 +135,6 @@ Aun si el proceso penal termina en una condena, la extinción de dominio solo de
 - [ ] ¿Hay terceros de buena fe exenta de culpa?
 - [ ] ¿Las medidas cautelares son necesarias y proporcionales? ¿Afectan a bienes no vinculados?
 - [ ] ¿Estoy coordinando la estrategia del proceso penal y la del de extinción de dominio?
-
-## 17.12. Preguntas para la reflexión
-
-1. ¿Qué diferencia hay entre el comiso penal y la extinción de dominio?
-2. ¿Por qué una absolución penal no impide necesariamente la extinción de dominio?
-3. ¿Qué declaró inconstitucional el dictamen 1-21-OP/21, y qué consecuencias tiene para la defensa?
-4. ¿Qué diferencia hay entre la buena fe simple y la buena fe exenta de culpa?
-5. ¿Qué límites deben respetar las medidas cautelares reales?
 
 ## Referencias
 

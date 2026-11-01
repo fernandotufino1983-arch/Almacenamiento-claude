@@ -1,8 +1,8 @@
-# Capítulo 13. El tipo subjetivo: dolo, dolo eventual y causas que eximen de responsabilidad
+# Capítulo 3. El tipo subjetivo: dolo, dolo eventual y causas que eximen de responsabilidad
 
 > **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. Los textos de los arts. 24 a 37 del COIP se tomaron de la versión con última modificación de 17 de febrero de 2021, que ya incorpora la reforma de diciembre de 2019; verifique si hubo reformas posteriores. Las citas marcadas con **[verificar]** deben contrastarse con su fuente. Formato: APA, 7.ª edición.
 
-## 13.1. Planteamiento
+## 3.1. Planteamiento
 
 En los delitos de corrupción y de lavado de activos, la discusión rara vez gira en torno a si el dinero se movió. Los estados de cuenta, las transferencias y los contratos suelen estar en el expediente. La verdadera discusión es otra: **¿sabía el procesado lo que estaba haciendo?**
 
@@ -10,9 +10,9 @@ El contador que registró la operación, el familiar que prestó su nombre, el g
 
 En este orden de ideas, el presente capítulo analiza qué exige el COIP para afirmar que una persona actuó con dolo, si el dolo eventual tiene cabida en nuestro ordenamiento, por qué la llamada "ignorancia deliberada" es incompatible con el texto legal, y cuáles son las causas que eximen de responsabilidad que el abogado defensor debe tener siempre a la mano.
 
-## 13.2. El dolo en el COIP: la reforma de 2019
+## 3.2. El dolo en el COIP: la reforma de 2019
 
-### 13.2.1. El cambio de texto
+### 3.2.1. El cambio de texto
 
 La redacción original del art. 26 del COIP (2014) definía el dolo de forma muy escueta: actuaba con dolo "la persona que tiene el designio de causar daño". Era una definición centrada en la intención, que recibió críticas por confundir el dolo con el móvil y por dejar fuera supuestos en los que el autor no busca el daño, pero lo acepta.
 
@@ -20,7 +20,7 @@ La Ley Orgánica Reformatoria del COIP de diciembre de 2019 sustituyó ese texto
 
 > "Actúa con dolo la persona que, **conociendo los elementos objetivos del tipo penal**, **ejecuta voluntariamente la conducta**."[^art26]
 
-### 13.2.2. Los dos elementos del dolo
+### 3.2.2. Los dos elementos del dolo
 
 De la norma vigente se desprenden dos elementos:
 
@@ -29,11 +29,11 @@ De la norma vigente se desprenden dos elementos:
 
 Es importante diferenciar un detalle de la redacción. La voluntad que exige el art. 26 se refiere a **la conducta**, no al **resultado**. El legislador no pide que el autor quiera el daño, sino que conozca lo que hace y lo haga voluntariamente. Esto acerca nuestra definición a las concepciones que ponen el acento en el **conocimiento** (Ragués i Vallès, 2007, p. [verificar]), y tiene consecuencias directas en la discusión sobre el dolo eventual, que veremos enseguida.
 
-### 13.2.3. El delito preterintencional
+### 3.2.3. El delito preterintencional
 
 El inciso segundo del art. 26 regula el **delito preterintencional**: quien realiza una acción u omisión de la cual se produce un resultado **más grave que el que quiso causar** responde con **dos tercios de la pena**. Es el caso clásico de quien quiere lesionar y termina causando la muerte. En los delitos económicos tiene poca aplicación, pero conviene recordarlo cuando la Fiscalía imputa un resultado que excede lo que el procesado se representó.
 
-## 13.3. Las clases de dolo
+## 3.3. Las clases de dolo
 
 | Clase | Qué conoce y qué quiere el autor | Ejemplo |
 |---|---|---|
@@ -41,9 +41,9 @@ El inciso segundo del art. 26 regula el **delito preterintencional**: quien real
 | **Dolo directo de segundo grado** (de consecuencias necesarias) | No persigue el resultado, pero sabe que es una consecuencia segura de su conducta | El que coloca una bomba para matar a un funcionario sabiendo que morirá también su chofer |
 | **Dolo eventual** | Se representa el resultado como **posible** y, aun así, actúa | El que recibe dinero en efectivo de un desconocido, sospecha que puede ser ilícito y lo deposita igual |
 
-## 13.4. El dolo eventual
+## 3.4. El dolo eventual
 
-### 13.4.1. La frontera con la culpa consciente
+### 3.4.1. La frontera con la culpa consciente
 
 En el dolo eventual y en la culpa consciente el autor **prevé** que el resultado puede producirse. La diferencia está en su actitud frente a esa posibilidad:
 - en el **dolo eventual**, la **acepta**: "pase lo que pase, actúo";
@@ -55,7 +55,7 @@ Las teorías para trazar esa frontera son conocidas (Roxin, 1997, p. 430; Mir Pu
 3. **Teoría de la indiferencia:** el resultado le es indiferente.
 4. **La postura de Roxin:** hay dolo eventual cuando el autor **toma en serio** el riesgo y se decide por la posible lesión del bien jurídico.
 
-### 13.4.2. ¿Cabe el dolo eventual en el COIP?
+### 3.4.2. ¿Cabe el dolo eventual en el COIP?
 
 El COIP no menciona expresamente el dolo eventual. La discusión debe hacerse, entonces, sobre el texto del art. 26.
 
@@ -68,7 +68,7 @@ El COIP no menciona expresamente el dolo eventual. La discusión debe hacerse, e
 
 Como podrá apreciar el lector, la reforma de 2019 debilitó el argumento más sencillo de la defensa, pero no lo eliminó. El debate ahora es más fino: ya no se discute si el autor quiso el daño, sino **cuánto sabía**.
 
-### 13.4.3. El dolo eventual en el lavado de activos
+### 3.4.3. El dolo eventual en el lavado de activos
 
 En el lavado, la cuestión es decisiva. El elemento que el autor debe conocer es el **origen ilícito** de los bienes. Frente a él caben tres situaciones:
 
@@ -82,7 +82,7 @@ Para la defensa, la tarea consiste en demostrar que el procesado estaba en la te
 
 La jurisprudencia ecuatoriana ha ido más lejos. En el caso Chiriboga ("FIFA Gate"), la Sala Penal de la Corte Provincial de Justicia de Pichincha, en la sentencia de apelación de 13 de septiembre de 2017 (juicio No. 17282-2015-05549), citando a Zambrano Pasquel, afirmó que en el lavado "es suficiente la presencia del dolo eventual" y que "no es necesario ni imprescindible que medie el ánimo o la intención de ocultar el origen o de legitimar los activos, bastando con que se cree la posibilidad de que ello suceda"[^chiriboga-dolo]. Esa afirmación necesita un matiz importante: puede valer para el num. 1 del art. 317, que describe la simple tenencia o utilización de activos ilícitos, pero no para el num. 5, que exige realizar operaciones "con el objetivo de dar apariencia de licitud", es decir, un elemento subjetivo especial que el dolo eventual no satisface. Si la acusación se funda en el num. 5, la defensa debe exigir la prueba de esa finalidad.
 
-### 13.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
+### 3.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
 
 El problema adquiere una forma especial cuando el procesado es un **sujeto obligado**: un banco, una cooperativa, un notario, un registrador, una inmobiliaria o un comerciante de vehículos, entre otros, a quienes la ley de prevención del lavado impone deberes de **debida diligencia** para conocer a sus clientes. Desde el 29 de julio de 2025, esos deberes están en la ley de 2024, que califica a los sujetos obligados como "el primer control en la prevención" y les exige un enfoque basado en riesgos (arts. 26, 41 y 43). Para hechos anteriores, rige la ley de 2016. Cuando esos deberes se incumplen y el cliente resulta ser un lavador, la acusación suele sostener que el incumplimiento prueba el dolo eventual.
 
@@ -98,15 +98,15 @@ Esta distinción importa porque el art. 317 del COIP **no admite la modalidad cu
 
 Para la defensa, la pregunta clave en el contraexamen del oficial de cumplimiento o del funcionario es siempre la misma: **¿qué sabía, en concreto, sobre este cliente y en qué momento?** Una alerta genérica del sistema, una tipología del GAFILAT o un incumplimiento documental no equivalen al conocimiento concreto que exige el dolo.
 
-## 13.5. La "ignorancia deliberada"
+## 3.5. La "ignorancia deliberada"
 
-### 13.5.1. Qué es
+### 3.5.1. Qué es
 
 La doctrina de la ignorancia deliberada, conocida en el derecho anglosajón como *willful blindness*, sostiene que quien **evita conocer**, pudiendo hacerlo, debe responder **como si hubiera conocido**. La Corte Suprema de los Estados Unidos la sistematizó en el caso *Global-Tech Appliances, Inc. v. SEB S.A.* (2011), con dos requisitos: que el autor crea subjetivamente que existe una alta probabilidad de que un hecho sea cierto, y que realice acciones deliberadas para evitar confirmarlo[^globaltech].
 
 El Tribunal Supremo español la recibió en materia de lavado y de narcotráfico, aunque posteriormente varias decisiones y buena parte de la doctrina la han cuestionado (Ragués i Vallès, 2007, p. [verificar]).
 
-### 13.5.2. Por qué es incompatible con el art. 26 del COIP
+### 3.5.2. Por qué es incompatible con el art. 26 del COIP
 
 Si bien es cierto que la ignorancia deliberada responde a una preocupación legítima, que es evitar que el lavador se proteja tras una ceguera fingida, es importante diferenciar entre **probar el conocimiento** y **prescindir de él**.
 
@@ -116,9 +116,9 @@ Si bien es cierto que la ignorancia deliberada responde a una preocupación leg�
 
 En consecuencia, la defensa debe insistir en que la ignorancia deliberada no es una forma de dolo en el COIP. Lo que sí puede hacer la Fiscalía, y es legítimo, es **probar el conocimiento mediante indicios**. Pero eso es otra cosa: es demostrar que el procesado sabía, no presumir que debía saber.
 
-## 13.6. La prueba del dolo
+## 3.6. La prueba del dolo
 
-El dolo no se ve; se infiere. Nadie confiesa que sabía que el dinero era ilícito. Por eso su prueba es casi siempre **indiciaria**, y debe cumplir los mismos requisitos que vimos en el capítulo 12: hechos base probados, pluralidad de indicios, concordancia, enlace lógico, una sola conclusión razonable y motivación reforzada.
+El dolo no se ve; se infiere. Nadie confiesa que sabía que el dinero era ilícito. Por eso su prueba es casi siempre **indiciaria**, y debe cumplir los mismos requisitos que vimos en el capítulo 2: hechos base probados, pluralidad de indicios, concordancia, enlace lógico, una sola conclusión razonable y motivación reforzada.
 
 | Indicadores que usa la Fiscalía | Contraindicios de la defensa |
 |---|---|
@@ -130,17 +130,17 @@ El dolo no se ve; se infiere. Nadie confiesa que sabía que el dinero era ilíci
 | Formación profesional que permitía advertir la ilicitud | Ausencia de señales de alerta concretas en el caso |
 | Ocultamiento o fraccionamiento | Razones operativas del fraccionamiento |
 
-## 13.7. Las causas que eximen de responsabilidad
+## 3.7. Las causas que eximen de responsabilidad
 
 Para ordenar el análisis, conviene seguir la estructura del delito del COIP: **conducta, tipicidad, antijuridicidad y culpabilidad**. Una causa que excluye cualquiera de estos elementos excluye el delito.
 
-### 13.7.1. Causas que excluyen la conducta (art. 24)
+### 3.7.1. Causas que excluyen la conducta (art. 24)
 
 > "No son penalmente relevantes los resultados dañosos o peligrosos resultantes de **fuerza física irresistible, movimientos reflejos o estados de plena inconciencia**, debidamente comprobados."[^art24]
 
 En los delitos económicos tiene escasa aplicación práctica, pero no debe descartarse. Por ejemplo, una firma obtenida mediante fuerza física.
 
-### 13.7.2. Causas que excluyen la tipicidad
+### 3.7.2. Causas que excluyen la tipicidad
 
 #### a) El error de tipo (art. 28.1)
 
@@ -166,7 +166,7 @@ El fundamento dogmático está en la **imputación objetiva**: quien actúa dent
 
 El caso Chiriboga ilustra bien esta frontera. El contador de la Federación fue condenado como cómplice. La defensa sostuvo que se limitó a registrar lo que le ordenaban y que sus cuentas guardaban relación con sus ingresos. El tribunal respondió que el lavado "no es el objeto [...] determinar el incremento patrimonial" del procesado, y que lo decisivo fue que registró como "donaciones" transferencias que llegaban con el concepto de "premio" o "contribución", por pedido del presidente[^chiriboga-contador]. Si bien es cierto que esa conducta puede leerse como un abandono del rol, porque el contador alteró el concepto contable de la operación, es importante diferenciar dos cosas que el fallo mezcló: la prueba de que el contador **cambió el concepto** y la prueba de que **conocía el origen ilícito** de los fondos. La primera puede acreditar una irregularidad contable; solo la segunda acredita el dolo del lavado.
 
-### 13.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)
+### 3.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)
 
 #### a) El cumplimiento de un deber legal o de una orden legítima (art. 30, inciso segundo)
 
@@ -184,7 +184,7 @@ Exige que el derecho protegido esté en **real y actual peligro**, que el result
 
 Tiene poca aplicación en los delitos económicos.
 
-### 13.7.4. Causas que excluyen la culpabilidad (arts. 34 a 37)
+### 3.7.4. Causas que excluyen la culpabilidad (arts. 34 a 37)
 
 El art. 34 exige, para la culpabilidad, que la persona sea **imputable** y actúe **con conocimiento de la antijuridicidad de su conducta**.
 
@@ -211,19 +211,19 @@ El COIP **no regula** expresamente el miedo insuperable ni el estado de necesida
 - el principio de **culpabilidad** tiene base constitucional;
 - en el peor de los casos, la coacción opera como **atenuante** (art. 45 del COIP) **[verificar el numeral aplicable]**.
 
-## 13.8. El caso especial de los honorarios del abogado
+## 3.8. El caso especial de los honorarios del abogado
 
-### 13.8.1. El problema
+### 3.8.1. El problema
 
 Un abogado defiende a un cliente procesado por narcotráfico o por peculado. El cliente le paga los honorarios. ¿Comete el abogado lavado de activos si sabe, o sospecha, que el dinero proviene del delito por el que defiende a su cliente?
 
 Si la respuesta fuera afirmativa, las personas acusadas de delitos económicos graves quedarían, en la práctica, sin un abogado de su confianza, y el derecho a la defensa técnica se vaciaría de contenido.
 
-### 13.8.2. La solución alemana
+### 3.8.2. La solución alemana
 
 El Tribunal Constitucional Federal alemán abordó este problema en una sentencia de 2004[^bverfg]. Sostuvo que el tipo de lavado era constitucional, pero que, para no vulnerar el derecho a la libre elección de defensor, debía **interpretarse restrictivamente** cuando se aplica a los honorarios del abogado: el defensor solo comete el delito si, al recibir los honorarios, **sabe con certeza** que provienen de un delito. La mera sospecha, y por tanto el dolo eventual, no basta.
 
-### 13.8.3. La solución en el Ecuador
+### 3.8.3. La solución en el Ecuador
 
 La ley de prevención de 2024 ofrece ahora un apoyo normativo expreso. Su art. 30 dispone que los abogados y contadores que actúen como profesionales independientes deben reportar las transacciones sospechosas de sus clientes cuando actúen "en calidad de mandantes", pero "siempre y cuando la información relevante no se obtuvo en circunstancias en las que éstos estén sujetos al secreto profesional". La defensa penal es, por excelencia, una de esas circunstancias. El legislador reconoce así que la información que el cliente confía a su defensor queda fuera del sistema de prevención, lo que refuerza la idea de que el ejercicio de la defensa técnica no puede convertirse en una fuente de responsabilidad por lavado[^art30].
 
@@ -237,7 +237,7 @@ El COIP no regula expresamente esta situación. Sin embargo, el abogado ecuatori
 
 [Nota del autor: reflexión personal sobre la práctica profesional y las precauciones que adopta el abogado defensor frente al pago de honorarios.]
 
-## 13.9. Estrategia de defensa
+## 3.9. Estrategia de defensa
 
 1. **Identifique qué debía conocer el procesado.** Cada tipo penal tiene sus elementos objetivos: en el lavado, el origen ilícito; en el cohecho, el carácter indebido del beneficio y su relación con la función.
 2. **Desafíe la prueba del conocimiento.** Exija que los indicios cumplan los requisitos de la prueba indiciaria y que la sentencia motive cada inferencia.
@@ -248,7 +248,7 @@ El COIP no regula expresamente esta situación. Sin embargo, el abogado ecuatori
 7. **Explore el estado de necesidad o la inexigibilidad** cuando hubo coacción.
 8. **No descarte el error de prohibición** en operaciones técnicas o normativamente complejas.
 
-## 13.10. Caso práctico resuelto
+## 3.10. Caso práctico resuelto
 
 ### Los hechos
 Andrea, de 23 años, trabaja como asistente administrativa en la empresa de su tío. Su tío le pide abrir una cuenta a su nombre "para separar los gastos personales de los de la empresa" y le entrega dinero en efectivo para depositar. En un año, por esa cuenta pasan USD 350.000. Andrea firma lo que su tío le pide sin hacer preguntas. Su tío es procesado por narcotráfico, y la Fiscalía acusa también a Andrea por lavado de activos (art. 317, num. 1 y 3).
@@ -263,7 +263,7 @@ Andrea, de 23 años, trabaja como asistente administrativa en la empresa de su t
 ### Conclusión
 Con la prueba descrita, la responsabilidad de Andrea por lavado de activos no puede afirmarse más allá de toda duda razonable. Su conducta podría reprocharse como negligente, pero el derecho penal ecuatoriano no castiga el lavado culposo.
 
-## 13.11. Lista de revisión
+## 3.11. Lista de revisión
 
 - [ ] ¿Qué elementos objetivos del tipo debía conocer el procesado?
 - [ ] ¿Qué prueba directa o indiciaria hay de ese conocimiento?
@@ -274,15 +274,6 @@ Con la prueba descrita, la responsabilidad de Andrea por lavado de activos no pu
 - [ ] ¿Hubo coacción o amenaza? ¿Estado de necesidad o inexigibilidad?
 - [ ] ¿Pudo haber un error sobre la licitud de la conducta?
 - [ ] ¿Hay indicios de un trastorno mental o de una capacidad disminuida?
-
-## 13.12. Preguntas para la reflexión
-
-1. ¿Qué cambió con la reforma del art. 26 del COIP en 2019, y cómo afecta la discusión sobre el dolo eventual?
-2. ¿Por qué "conocer" no equivale a "sospechar"?
-3. ¿Por qué la ignorancia deliberada es incompatible con el art. 26 y el art. 13 del COIP?
-4. ¿Por qué, en el lavado de activos, incluso el error de tipo vencible conduce a la atipicidad?
-5. ¿Qué diferencia hay entre el error de tipo y el error de prohibición? Dé un ejemplo de cada uno en un caso de lavado.
-6. ¿Con qué argumentos defendería a un abogado acusado de lavado por haber cobrado sus honorarios?
 
 ## Referencias
 

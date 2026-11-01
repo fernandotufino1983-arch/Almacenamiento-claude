@@ -1,44 +1,44 @@
-# Capítulo 11. El lavado de activos: origen, concepto y marco normativo
+# Capítulo 1. El lavado de activos: origen, concepto y marco normativo
 
 > **Borrador de trabajo, versión 1.1.** Redactado con el perfil de escritura del autor. Incorpora las sentencias de casación de los casos Espinel (2021) y Salcedo (2024). Las citas marcadas con **[verificar]** deben contrastarse con la fuente original antes de publicar. Formato de citas y referencias: APA, 7.ª edición.
 
-## 11.1. Planteamiento
+## 1.1. Planteamiento
 
 Antes de discutir si una persona lavó o no lavó dinero, el abogado debe tener claro qué es exactamente lo que el derecho penal castiga cuando habla de lavado de activos. La pregunta parece sencilla, sin embargo, en la práctica de nuestros tribunales se confunde con frecuencia el lavado con el simple hecho de tener dinero que no se puede explicar, y esa confusión cuesta libertades.
 
 En este orden de ideas, el presente capítulo recorre el camino que siguió esta figura desde su nacimiento hasta su tipificación en el Código Orgánico Integral Penal. No se trata de un ejercicio de erudición. Es la historia del delito la que explica por qué el legislador lo construyó de la forma en que lo hizo, y es en esa construcción donde el litigante encuentra sus mejores argumentos.
 
-## 11.2. El origen de la expresión "lavado de dinero"
+## 1.2. El origen de la expresión "lavado de dinero"
 
-### 11.2.1. La anécdota de las lavanderías
+### 1.2.1. La anécdota de las lavanderías
 
 Se repite en clases y conferencias que la expresión nace en los Estados Unidos de los años veinte y treinta del siglo pasado, cuando las organizaciones criminales de Chicago, con Al Capone a la cabeza, habrían adquirido cadenas de lavanderías para mezclar el dinero del contrabando de alcohol con los ingresos en efectivo de un negocio aparentemente lícito[^capone]. La imagen es poderosa: el dinero sucio entra a la lavandería y sale limpio.
 
 Es importante diferenciar, sin embargo, lo que es anécdota de lo que es historia documentada. La relación entre las lavanderías y el origen de la expresión no ha podido acreditarse con fuentes de la época, y buena parte de la doctrina la trata como una explicación ilustrativa antes que como un hecho comprobado (Blanco Cordero, 2015, p. [verificar]). Lo que sí está documentado es que la técnica de confundir ingresos ilícitos con los de un negocio de efectivo es tan antigua como el propio crimen organizado. Meyer Lansky, el financista de la mafia estadounidense, es señalado como uno de los primeros en utilizar cuentas en bancos suizos para alejar el dinero de los controles del fisco (Naylor, 2002, p. [verificar]).
 
-### 11.2.2. La expresión en la prensa y en los tribunales
+### 1.2.2. La expresión en la prensa y en los tribunales
 
 La expresión *money laundering* aparece en la prensa con el escándalo Watergate, a comienzos de los años setenta, para describir la forma en que se movieron los fondos de la campaña de reelección del presidente Nixon a través de México[^watergate]. Su primera utilización en una decisión judicial se atribuye a un caso de decomiso de dinero en efectivo resuelto en los Estados Unidos en 1982[^primer-fallo].
 
 Como podrá apreciar el lector, la expresión es mucho más reciente que la conducta. El crimen siempre ha buscado esconder sus ganancias. Lo nuevo fue que los Estados decidieran perseguir ese ocultamiento como un delito distinto.
 
-## 11.3. ¿Cuál fue el primer país en tipificarlo?
+## 1.3. ¿Cuál fue el primer país en tipificarlo?
 
 Esta pregunta tiene dos respuestas, y conviene conocer ambas porque cada una enseña algo distinto.
 
-### 11.3.1. Italia (1978): la primera tipificación
+### 1.3.1. Italia (1978): la primera tipificación
 
 La doctrina mayoritaria reconoce a **Italia** como el primer país que tipificó una conducta de lavado en su código penal. En 1978, en medio de la ola de secuestros extorsivos atribuidos a organizaciones como las Brigadas Rojas y a la criminalidad mafiosa, el legislador italiano incorporó el artículo 648 bis al *Codice Penale*[^italia]. La norma castigaba la sustitución de dinero o valores provenientes de delitos muy específicos: el robo agravado, la extorsión agravada y el secuestro de personas con fines de extorsión.
 
 Es decir, el primer tipo penal de lavado no nació para combatir el narcotráfico, sino para impedir que los secuestradores pudieran disfrutar del dinero de los rescates. Y nació con un catálogo cerrado de delitos de origen. Solo con reformas posteriores Italia amplió el tipo hasta abarcar el producto de cualquier delito doloso (Blanco Cordero, 2015, p. [verificar]).
 
-### 11.3.2. Estados Unidos (1986): el primer delito autónomo y general
+### 1.3.2. Estados Unidos (1986): el primer delito autónomo y general
 
 Los **Estados Unidos** recorrieron un camino distinto. Primero apostaron por la prevención administrativa: la *Bank Secrecy Act* de 1970 obligó a los bancos a reportar las operaciones en efectivo superiores a diez mil dólares[^bsa]. Durante dieciséis años, sin embargo, mover dinero ilícito no era en sí mismo un delito federal; lo que se castigaba era no reportarlo.
 
 Fue la **Money Laundering Control Act de 1986** la que tipificó el lavado de dinero como un **delito federal autónomo**, con un catálogo amplio de actividades ilícitas especificadas como delitos de origen[^mlca]. Por eso una parte de la doctrina, especialmente la anglosajona, la considera la primera legislación moderna del lavado (Reuter y Truman, 2004, p. [verificar]).
 
-### 11.3.3. Lo que enseñan ambos modelos
+### 1.3.3. Lo que enseñan ambos modelos
 
 Si bien es cierto que Italia fue la primera en el tiempo, es importante diferenciar el alcance de cada modelo:
 
@@ -49,25 +49,25 @@ Si bien es cierto que Italia fue la primera en el tiempo, es importante diferenc
 | Antecedente | Ninguno específico | Sistema preventivo de reportes desde 1970 |
 | Aporte | La primera tipificación penal | El primer delito autónomo de alcance general |
 
-Esta distinción no es menor para el litigante ecuatoriano. Desde su origen, el lavado de activos se construyó **sobre un delito previo**. Lo que cambió con el tiempo fue la amplitud del catálogo de delitos de origen y la forma de probarlos, pero nunca la exigencia de que el dinero provenga de un delito. Sobre esta idea volveremos en el capítulo 12.
+Esta distinción no es menor para el litigante ecuatoriano. Desde su origen, el lavado de activos se construyó **sobre un delito previo**. Lo que cambió con el tiempo fue la amplitud del catálogo de delitos de origen y la forma de probarlos, pero nunca la exigencia de que el dinero provenga de un delito. Sobre esta idea volveremos en el capítulo 2.
 
-## 11.4. La internacionalización: de Viena al GAFI
+## 1.4. La internacionalización: de Viena al GAFI
 
-### 11.4.1. La Convención de Viena (1988)
+### 1.4.1. La Convención de Viena (1988)
 
 El paso decisivo fue la **Convención de las Naciones Unidas contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas**, suscrita en Viena en 1988. Por primera vez, un tratado internacional obligó a los Estados a tipificar como delito la conversión, la transferencia y el ocultamiento de bienes, a sabiendas de que provienen del narcotráfico[^viena].
 
 En ese mismo año, el Comité de Basilea sobre Supervisión Bancaria emitió su Declaración de Principios para prevenir la utilización del sistema bancario con fines de lavado (Comité de Supervisión Bancaria de Basilea, 1988).
 
-### 11.4.2. El GAFI (1989) y las Recomendaciones
+### 1.4.2. El GAFI (1989) y las Recomendaciones
 
 En julio de 1989, la cumbre del G7 celebrada en París creó el **Grupo de Acción Financiera Internacional (GAFI)**. Un año después, el GAFI publicó sus **40 Recomendaciones**, que hoy constituyen el estándar internacional en materia de prevención y represión del lavado de activos y del financiamiento del terrorismo (GAFI, 2012/2023). El Ecuador forma parte del **GAFILAT**, el organismo regional que evalúa periódicamente el cumplimiento de esos estándares.
 
-### 11.4.3. Palermo (2000) y Mérida (2003)
+### 1.4.3. Palermo (2000) y Mérida (2003)
 
 La **Convención de Palermo** contra la delincuencia organizada transnacional extendió la obligación de tipificar el lavado al producto de los delitos graves en general[^palermo]. La **Convención de Mérida** contra la corrupción hizo lo propio con el producto de la corrupción[^merida]. Con estos instrumentos, el lavado dejó de ser un delito vinculado solo al narcotráfico y se convirtió en una figura de alcance general.
 
-## 11.5. La evolución en el Ecuador
+## 1.5. La evolución en el Ecuador
 
 El camino ecuatoriano reproduce, con algunos años de retraso, la evolución internacional:
 
@@ -80,7 +80,7 @@ El camino ecuatoriano reproduce, con algunos años de retraso, la evolución int
 
 Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse aislado de su historia. Cada reforma amplió el alcance del delito, pero ninguna eliminó su presupuesto esencial: que los bienes tengan un **origen ilícito**.
 
-## 11.6. Concepto
+## 1.6. Concepto
 
 Con estos antecedentes podemos ofrecer una definición. El lavado de activos es **el conjunto de conductas mediante las cuales se busca dar apariencia de legalidad a bienes provenientes de una actividad delictiva, para incorporarlos a la economía formal y ocultar su verdadero origen**.
 
@@ -92,7 +92,7 @@ De esta definición se desprenden tres elementos que el abogado debe tener siemp
 
 Si falta cualquiera de los tres, estaremos frente a otra figura, o frente a una conducta atípica.
 
-## 11.7. Las fases del lavado
+## 1.7. Las fases del lavado
 
 La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
 
@@ -104,7 +104,7 @@ La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma
 
 La importancia práctica de las fases es enorme. La Fiscalía suele tener abundante prueba de la estratificación y de la integración, porque son operaciones que dejan rastro documental, pero le resulta mucho más difícil probar la colocación, es decir, de dónde salió el dinero. Como podrá apreciar el litigante, es precisamente ahí donde la defensa debe concentrar su trabajo.
 
-## 11.8. El bien jurídico protegido
+## 1.8. El bien jurídico protegido
 
 La discusión sobre el bien jurídico no es académica. Determina el alcance del tipo penal y ofrece argumentos de lesividad (artículo 3 del COIP). Las posturas principales son tres:
 
@@ -114,7 +114,7 @@ La discusión sobre el bien jurídico no es académica. Determina el alcance del
 
 En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^lesividad].
 
-## 11.9. El marco normativo vigente
+## 1.9. El marco normativo vigente
 
 | Nivel | Norma |
 |---|---|
@@ -124,9 +124,9 @@ En consecuencia, si se acepta que el bien protegido es el orden socioeconómico,
 | Penal | COIP: art. 317 (lavado de activos, reformado en 2021 y 2024) y art. 319 (omisión de control de lavado de activos). El art. 318 (incriminación falsa) fue derogado en 2024 (R.O. Cuarto Supl. 610, 29 de julio de 2024) |
 | Preventivo | Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024, vigente desde julio de 2025) y su reglamento (Decreto Ejecutivo 298, 2026 [verificar]); para hechos anteriores, la ley de 2016 |
 | Patrimonial | Ley Orgánica de Extinción de Dominio (2021) |
-| Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 12 |
+| Jurisprudencia | Resolución CNJ No. 20-2024, de 23 de octubre de 2024; sentencias de casación de la Corte Nacional de 29 de julio de 2021, juicio No. 09333-2018-00282 (caso Espinel), y de 29 de enero de 2024, juicio No. 07712-2020-00205 (caso Salcedo); sentencia de apelación de la Corte Provincial de Pichincha de 13 de septiembre de 2017, juicio No. 17282-2015-05549 (caso Chiriboga), analizadas en el capítulo 2 |
 
-### 11.9.1. Las reformas del art. 317 y la ley aplicable
+### 1.9.1. Las reformas del art. 317 y la ley aplicable
 
 El art. 317 ha cambiado tres veces desde 2014, y esos cambios tienen consecuencias directas en la pena[^reformas317]:
 
@@ -146,7 +146,7 @@ Por su parte, en el caso Salcedo (sentencia de casación de 29 de enero de 2024,
 
 Una consecuencia de calificar al lavado como delito de mera actividad es la discusión sobre la **tentativa**. Tanto la Fiscalía como la guía de la PADF sostienen que no cabe. La Fiscalía razona que cada verbo rector se sanciona de forma independiente, por lo que "el solo cometimiento de uno de ellos es considerado como delito consumado de lavado" (Fiscalía General del Estado, 2021, p. 94). Martínez (2021, pp. 40-41) llega a la misma conclusión por una razón de garantía: el lavado ya adelanta la protección del orden económico, porque castiga los actos previos a la integración, y admitir además la tentativa equivaldría a "sancionar penalmente la puesta en peligro de la puesta en peligro". Para la defensa, la consecuencia es útil: si los actos realizados no alcanzan a configurar ninguno de los verbos rectores, la conducta es atípica, y no puede rescatarse como lavado en grado de tentativa.
 
-## 11.10. Conclusión
+## 1.10. Conclusión
 
 El lavado de activos nació en Italia para impedir que los secuestradores disfrutaran del dinero de los rescates, se convirtió en los Estados Unidos en un delito autónomo para combatir al narcotráfico y se internacionalizó con Viena, el GAFI, Palermo y Mérida. El Ecuador siguió ese mismo recorrido, desde la ley de drogas de 1990 hasta el COIP y la Resolución 20-2024.
 
@@ -154,15 +154,7 @@ En todo ese camino hay una constante que el abogado defensor no puede perder de 
 
 Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 
-Las dos sentencias de casación que analizo en el capítulo 12, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
-
-## Preguntas para la reflexión
-
-1. ¿Por qué la anécdota de las lavanderías de Al Capone debe tratarse con cautela?
-2. ¿Qué diferencia de fondo hay entre el modelo italiano de 1978 y el estadounidense de 1986?
-3. ¿Por qué se afirma que el lavado de activos siempre se construyó sobre un delito previo?
-4. ¿En qué fase del lavado suele estar la debilidad probatoria de la Fiscalía?
-5. ¿Qué argumento de defensa se desprende de considerar que el bien jurídico protegido es el orden socioeconómico?
+Las dos sentencias de casación que analizo en el capítulo 2, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ## Referencias
 
@@ -232,7 +224,7 @@ Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 
 
 [^ley2016]: La ley de 2016 regula el sistema de prevención, los sujetos obligados a reportar y las funciones de la UAFE. **[verificar el Registro Oficial]**
 
-[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Véase el capítulo 12 de esta obra. **[verificar el texto literal]**
+[^cnj2024]: Corte Nacional de Justicia, Resolución No. 20-2024, aprobada por el Pleno el 23 de octubre de 2024. Véase el capítulo 2 de esta obra. **[verificar el texto literal]**
 
 [^lesividad]: COIP, art. 3: "La intervención penal está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas. Constituye el último recurso, cuando no son suficientes los mecanismos extrapenales."
 

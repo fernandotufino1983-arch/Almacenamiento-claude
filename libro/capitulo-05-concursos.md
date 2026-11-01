@@ -1,14 +1,14 @@
-# Capítulo 15. Los concursos de infracciones
+# Capítulo 5. Los concursos de infracciones
 
 > **Borrador de trabajo, versión 1.** Redactado con el perfil de escritura del autor. Los textos de los arts. 20, 21 y 55 del COIP se tomaron de la versión con última modificación de 17 de febrero de 2021; verifique si reformas posteriores los modificaron. Las citas marcadas con **[verificar]** deben contrastarse con su fuente. Formato: APA, 7.ª edición.
 
-## 15.1. Planteamiento
+## 5.1. Planteamiento
 
 Pocas decisiones pesan tanto en la pena final como la que resuelve cuántos delitos cometió una persona. Un mismo hecho puede terminar en una condena de seis años o de doce, según el juez entienda que hubo una sola conducta o varias, y según aplique la absorción del art. 21 o la acumulación del art. 20 del COIP.
 
 Sin embargo, es un tema que con frecuencia se resuelve en una línea de la sentencia, sin mayor análisis. En este orden de ideas, el abogado defensor debe saber que en los concursos se juega no solo la cantidad de pena, sino también el respeto a una garantía básica: que nadie sea castigado dos veces por lo mismo[^nonbis].
 
-## 15.2. Los sistemas de determinación de la pena en los concursos
+## 5.2. Los sistemas de determinación de la pena en los concursos
 
 La historia del derecho penal conoce cuatro grandes respuestas al problema de varias infracciones atribuidas a una misma persona (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]):
 
@@ -21,9 +21,9 @@ La historia del derecho penal conoce cuatro grandes respuestas al problema de va
 
 El COIP adoptó un **sistema mixto**: la **absorción** para el concurso ideal (art. 21) y una **acumulación limitada** para el concurso real (art. 20), con un doble tope. Es decir, nuestro legislador rechazó tanto la suma ilimitada como la impunidad de los delitos menores.
 
-## 15.3. La pregunta previa: unidad o pluralidad de conductas
+## 5.3. La pregunta previa: unidad o pluralidad de conductas
 
-### 15.3.1. Por qué es la pregunta decisiva
+### 5.3.1. Por qué es la pregunta decisiva
 
 Antes de hablar de concurso real o ideal, hay que responder una pregunta: **¿cuántas conductas hay?** Toda la construcción de los concursos depende de esa respuesta.
 
@@ -32,7 +32,7 @@ Antes de hablar de concurso real o ideal, hay que responder una pregunta: **¿cu
 | **Un solo tipo penal** | Un delito | Concurso real homogéneo |
 | **Varios tipos penales** | Concurso ideal (art. 21) o concurso aparente | Concurso real heterogéneo (art. 20) |
 
-### 15.3.2. Los criterios de unidad de conducta
+### 5.3.2. Los criterios de unidad de conducta
 
 Unidad de conducta no significa unidad de movimiento. Una sola conducta puede estar formada por varios actos, y la doctrina ofrece tres criterios para identificarla (Roxin, 2014, p. [verificar]; Mir Puig, 2016, p. [verificar]):
 
@@ -42,27 +42,27 @@ Unidad de conducta no significa unidad de movimiento. Una sola conducta puede es
 
 Como podrá apreciar el litigante, estos criterios no son una fórmula matemática. Son argumentos, y quien los domine estará en mejores condiciones de sostener que hubo una sola conducta allí donde la Fiscalía ve varias.
 
-## 15.4. El concurso real (art. 20)
+## 5.4. El concurso real (art. 20)
 
-### 15.4.1. El texto
+### 5.4.1. El texto
 
 > "Cuando a una persona le son atribuibles **varios delitos autónomos e independientes** se **acumularán las penas hasta un máximo del doble de la pena más grave**, sin que por ninguna razón exceda los cuarenta años."[^art20]
 
-### 15.4.2. Los requisitos
+### 5.4.2. Los requisitos
 
 1. **Pluralidad de conductas.**
 2. **Pluralidad de delitos**, uno por cada conducta. La norma exige que sean "autónomos e independientes", es decir, que ninguno sea parte o consecuencia necesaria del otro.
 3. **Identidad del autor.**
 4. **Ausencia de una sentencia firme intermedia.** Si entre un delito y otro existe una condena ejecutoriada, ya no estamos ante un concurso, sino ante un supuesto de **reincidencia**[^reincidencia].
 
-### 15.4.3. El cálculo de la pena
+### 5.4.3. El cálculo de la pena
 
 El juez debe seguir tres pasos:
 1. **Individualizar la pena de cada delito por separado**, con sus propias atenuantes y agravantes (art. 44 del COIP).
 2. **Sumar** las penas individualizadas.
 3. **Aplicar los dos topes:** la suma no puede superar **el doble de la pena más grave** y, en ningún caso, **cuarenta años** (art. 55 del COIP)[^art55].
 
-### 15.4.4. El punto de litigio: ¿el doble de qué pena?
+### 5.4.4. El punto de litigio: ¿el doble de qué pena?
 
 La norma dice "el doble de la pena más grave", pero no aclara si se refiere a la **pena impuesta** en el caso concreto o al **máximo legal** previsto para ese delito. Es importante diferenciar ambas lecturas, porque la diferencia puede ser de varios años.
 
@@ -77,24 +77,24 @@ En este ejemplo la suma de 11 años no alcanza ninguno de los dos topes, pero en
 
 No se ha identificado un precedente obligatorio de la Corte Nacional que resuelva este punto[^cnjconsulta], por lo que el abogado tiene un espacio argumentativo que debe aprovechar.
 
-## 15.5. El concurso ideal (art. 21)
+## 5.5. El concurso ideal (art. 21)
 
-### 15.5.1. El texto
+### 5.5.1. El texto
 
 > "Cuando **varios tipos penales son subsumibles a la misma conducta**, se aplicará **la pena de la infracción más grave**."[^art21]
 
-### 15.5.2. Los requisitos
+### 5.5.2. Los requisitos
 
 1. **Una sola conducta.**
 2. Esa conducta realiza **varios tipos penales**.
 3. **Ninguno de esos tipos absorbe a los demás.** Si uno de ellos contiene todo el desvalor del hecho, no hay concurso ideal sino concurso aparente.
 
-### 15.5.3. Concurso ideal heterogéneo y homogéneo
+### 5.5.3. Concurso ideal heterogéneo y homogéneo
 
 - **Heterogéneo:** la conducta realiza **tipos distintos**. Por ejemplo, el funcionario que, en un mismo acto, recibe un beneficio indebido y dicta una resolución contraria a la ley.
 - **Homogéneo:** la conducta realiza **el mismo tipo varias veces**. Por ejemplo, un explosivo que mata a varias personas. Aquí la doctrina se divide: cuando están en juego bienes jurídicos personalísimos, como la vida, la mayoría sostiene que debe tratarse como un concurso real, porque cada víctima merece su propia respuesta penal (Roxin, 2014, p. [verificar]).
 
-### 15.5.4. La experiencia ecuatoriana: el caso de las drogas
+### 5.5.4. La experiencia ecuatoriana: el caso de las drogas
 
 La discusión sobre la unidad de conducta tuvo en el Ecuador un capítulo concreto en materia de drogas. El Pleno de la Corte Nacional de Justicia, en la **Resolución No. 12-2015**, expedida el 17 de septiembre de 2015 y publicada en el Registro Oficial Suplemento 593 de 22 de septiembre de 2015, estableció que quien "con un acto incurra en uno o más verbos rectores, con sustancias estupefacientes, sicotrópicas o preparados que las contengan, distintos y en cantidades iguales o diferentes, será sancionada con pena privativa de libertad acumulada según sea la sustancia". Es decir, una pena por cada tipo de sustancia, sumadas como en el concurso real[^res12].
 
@@ -104,13 +104,13 @@ La Corte Constitucional también se ocupó del tema en la **sentencia No. 7-17-C
 
 Es por esta razón que este caso es tan útil para el litigante: demuestra que **la forma de contar las conductas es una cuestión constitucional**, no un simple ejercicio aritmético, y que una acumulación de penas construida sobre una sola conducta vulnera el principio de proporcionalidad, como terminó reconociendo la propia Corte Nacional.
 
-## 15.6. El concurso aparente de leyes
+## 5.6. El concurso aparente de leyes
 
-### 15.6.1. Concepto
+### 5.6.1. Concepto
 
 En el concurso aparente **parece** que una conducta encaja en varios tipos, pero en realidad **solo uno es aplicable**, porque desplaza a los demás. No hay concurso: hay **un solo delito**. El COIP no lo regula expresamente, y se resuelve con cuatro principios elaborados por la doctrina (Mir Puig, 2016, p. [verificar]; Zaffaroni et al., 2002, p. [verificar]).
 
-### 15.6.2. Los principios
+### 5.6.2. Los principios
 
 | Principio | Regla | Ejemplos |
 |---|---|---|
@@ -119,27 +119,27 @@ En el concurso aparente **parece** que una conducta encaja en varios tipos, pero
 | **Consunción** | El tipo más amplio absorbe al que está comprendido en él | El robo absorbe las lesiones leves inherentes a la violencia; el delito consumado absorbe los actos preparatorios punibles |
 | **Alternatividad** | Entre tipos que protegen el mismo bien jurídico, se aplica el de pena más grave | De uso residual |
 
-### 15.6.3. Los actos copenados
+### 5.6.3. Los actos copenados
 
 Dentro de la consunción, la doctrina reconoce los **actos copenados**: conductas que, aunque realizan un tipo penal, quedan absorbidas porque son la preparación o la consecuencia natural de otro delito.
 - **Actos previos copenados:** la tenencia del arma con la que inmediatamente se comete el robo.
 - **Actos posteriores copenados:** el ladrón que vende el bien robado no comete, además, una receptación, porque el aprovechamiento del bien es el agotamiento de su propio delito.
 
-Este punto tiene enorme importancia en el **autolavado**: si quien cometió el delito de origen se limita a tener o utilizar el producto de su propio delito, la defensa puede sostener que esa tenencia es un **acto posterior copenado**, y no un lavado autónomo. Volveremos sobre ello en el apartado 15.9.
+Este punto tiene enorme importancia en el **autolavado**: si quien cometió el delito de origen se limita a tener o utilizar el producto de su propio delito, la defensa puede sostener que esa tenencia es un **acto posterior copenado**, y no un lavado autónomo. Volveremos sobre ello en el apartado 5.9.
 
-### 15.6.4. Por qué el concurso aparente es la primera defensa
+### 5.6.4. Por qué el concurso aparente es la primera defensa
 
 Si la Fiscalía acusa como concurso real o ideal lo que en realidad es un concurso aparente, **está castigando dos veces el mismo hecho**. Eso vulnera el **non bis in idem** del art. 76.7.i de la Constitución y del art. 5.9 del COIP. Por eso, frente a cualquier acusación con varios tipos penales, la primera pregunta del abogado debe ser: **¿alguno de estos tipos absorbe a los demás?**
 
-## 15.7. Figuras que el COIP no regula
+## 5.7. Figuras que el COIP no regula
 
-### 15.7.1. El concurso medial
+### 5.7.1. El concurso medial
 
 Se presenta cuando un delito es el **medio necesario** para cometer otro: la falsificación de un documento para cometer una estafa, o el allanamiento de un domicilio para robar en su interior.
 
 El COIP no lo regula. El Código Penal español lo trata como un concurso ideal[^espana]. En el Ecuador, la defensa puede sostener que, al existir una **unidad de finalidad**, se aplica por analogía *in bonam partem* el art. 21: la pena del delito más grave y no la acumulación del art. 20. La analogía está prohibida para perjudicar al procesado, no para favorecerlo (art. 13.3 del COIP)[^analogia].
 
-### 15.7.2. El delito continuado
+### 5.7.2. El delito continuado
 
 Se trata de **varias acciones** que realizan el mismo tipo penal, ejecutadas con un **plan preconcebido** o aprovechando una **misma ocasión**, contra el mismo bien jurídico. Por ejemplo, el empleado que sustrae pequeñas cantidades de la caja cada mes.
 
@@ -150,11 +150,11 @@ El Código Penal anterior lo reconocía **[verificar el artículo]**, pero el CO
 - discutir la **cuantía** cuando el monto define la pena, como en el peculado, la estafa o el lavado;
 - definir el inicio del plazo de **prescripción**, que corre desde el último acto.
 
-### 15.7.3. El delito masa
+### 5.7.3. El delito masa
 
 Es una variante del delito continuado en la que el autor afecta a una **pluralidad de víctimas** con una misma estrategia: por ejemplo, una estafa piramidal. Tampoco está regulado en el COIP, y plantea la misma discusión.
 
-## 15.8. Cuestiones procesales
+## 5.8. Cuestiones procesales
 
 1. **Acumulación de procesos.** Cuando los delitos en concurso real se investigan en procesos distintos, cabe pedir su acumulación por conexidad, para que se juzguen y sancionen conjuntamente **[verificar la norma del COIP]**. Si no se acumulan, el procesado corre el riesgo de recibir penas separadas que, sumadas, superen los topes del art. 20.
 2. **Unificación de penas en la ejecución.** Si las condenas llegan por separado, la defensa debe pedir al juez de garantías penitenciarias la **unificación de penas** con aplicación de los límites de los arts. 20 y 55 **[verificar la norma]**.
@@ -162,7 +162,7 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 4. **Procedimientos especiales y medidas cautelares.** La pena total puede definir si procede el procedimiento abreviado, la suspensión condicional de la pena o la prisión preventiva.
 5. **Casación.** La aplicación del art. 20 donde correspondía el art. 21, o la ignorancia de un concurso aparente, constituye una **indebida aplicación de la ley**, que es causal de casación (art. 656 del COIP).
 
-## 15.9. Los concursos en los delitos de corrupción y lavado de activos
+## 5.9. Los concursos en los delitos de corrupción y lavado de activos
 
 | Situación | Análisis |
 |---|---|
@@ -178,7 +178,7 @@ Frente a esa postura, una parte de la doctrina considera que el lavado realizado
 
 Ambas posturas pueden conciliarse con un criterio que la propia Fiscalía recoge. Patricia Faraldo distingue el simple disfrute del producto del delito de la operación destinada a darle apariencia de licitud: "la compra de un coche deportivo para su disfrute por el narcotraficante no es un acto de blanqueo, mientras que si ese mismo auto se adquiere para ser vendido en el extranjero, y de este modo justificar así un aumento patrimonial que en realidad tiene su origen en su actividad ilícita, estaríamos ante un ejemplo de blanqueo" (Faraldo Cabana, 2014, p. 51, como se citó en Fiscalía General del Estado, 2021, p. 47). Para la defensa, esa es la línea que hay que trazar: el autolavado exige una conducta **adicional** de ocultamiento o de apariencia de licitud. Si el autor del delito de origen solo tiene, usa o gasta lo que obtuvo, no hay un segundo delito, sino el agotamiento del primero[^autolavado].
 
-## 15.10. Caso práctico resuelto
+## 5.10. Caso práctico resuelto
 
 ### Los hechos
 Un tesorero municipal emite, en un periodo de ocho meses, seis órdenes de pago a favor de una empresa que no prestó los servicios contratados, por un total de USD 180.000. Para ocultar los pagos, falsifica las actas de entrega-recepción. Parte del dinero lo deposita en la cuenta de su cuñado. La Fiscalía acusa por **seis peculados, seis falsificaciones y un lavado de activos**, en concurso real.
@@ -193,7 +193,7 @@ Frente a una acusación por trece delitos acumulados, una defensa técnica en ma
 
 [Nota del autor: espacio para un caso propio, anonimizado, en el que la discusión sobre los concursos haya sido decisiva.]
 
-## 15.11. Lista de revisión
+## 5.11. Lista de revisión
 
 - [ ] ¿Cuántas conductas hay realmente? (factor final, factor normativo, unidad natural de acción)
 - [ ] ¿Alguno de los tipos imputados absorbe a los demás? (especialidad, subsidiariedad, consunción)
@@ -203,15 +203,6 @@ Frente a una acusación por trece delitos acumulados, una defensa técnica en ma
 - [ ] Si hay concurso real, ¿cómo se calculó el tope del doble de la pena más grave?
 - [ ] ¿Hay procesos separados que deban acumularse, o penas que deban unificarse?
 - [ ] ¿Alguno de los delitos acumulados ya prescribió?
-
-## 15.12. Preguntas para la reflexión
-
-1. ¿Por qué la unidad de conducta no equivale a la unidad de movimiento?
-2. ¿Qué diferencia hay entre el concurso ideal y el concurso aparente, y por qué la distinción protege el non bis in idem?
-3. ¿Qué enseñó el caso de la tenencia de distintas sustancias (Resoluciones CNJ 12-2015 y 02-2019)?
-4. ¿Con qué argumento sostendría la aplicación del art. 21 a un concurso medial, si el COIP no lo regula?
-5. ¿Por qué el autolavado puede discutirse como un acto posterior copenado?
-6. ¿El tope del art. 20 se calcula sobre la pena impuesta o sobre el máximo legal? Argumente ambas posturas.
 
 ## Referencias
 
@@ -247,7 +238,7 @@ Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución N
 
 Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
 
-[^autolavado]: COIP, art. 317, inciso que declara la autonomía del lavado "sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas", y art. 20 (concurso real). Comentario del autor: la cláusula de acumulación del art. 317 permite el concurso, pero no lo impone. Antes de acumular, el juez debe establecer que existen dos conductas distintas y no una sola conducta con su agotamiento natural (sección 15.3).
+[^autolavado]: COIP, art. 317, inciso que declara la autonomía del lavado "sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas", y art. 20 (concurso real). Comentario del autor: la cláusula de acumulación del art. 317 permite el concurso, pero no lo impone. Antes de acumular, el juez debe establecer que existen dos conductas distintas y no una sola conducta con su agotamiento natural (sección 5.3).
 
 [^nonbis]: Constitución, art. 76, num. 7, lit. i): "Nadie podrá ser juzgado más de una vez por la misma causa y materia." COIP, art. 5, num. 9: "ninguna persona podrá ser juzgada ni penada más de una vez por los mismos hechos."
 

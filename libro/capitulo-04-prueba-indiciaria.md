@@ -1,16 +1,16 @@
-# Capítulo 14. La prueba indiciaria del origen ilícito
+# Capítulo 4. La prueba del lavado de activos: informes técnicos y prueba indiciaria
 
 > **Borrador de trabajo, versión 1.2.** Redactado con el perfil de escritura del autor. Incorpora las sentencias de casación de los casos Espinel (2021) y Salcedo (2024). Las citas marcadas con **[verificar]** deben contrastarse con su fuente original antes de publicar. Formato: APA, 7.ª edición.
 
-## 14.1. Planteamiento
+## 4.1. Planteamiento
 
-En el capítulo 12 dejamos sentada una idea: la Fiscalía puede probar el origen ilícito de los bienes mediante indicios, siempre que esos indicios cumplan requisitos estrictos. En este capítulo damos un paso más. Ya no se trata de enumerar los requisitos, sino de entender **cómo funciona por dentro una inferencia**, dónde suele fallar y cómo debe atacarla el abogado defensor.
+En el capítulo 2 dejamos sentada una idea: la Fiscalía puede probar el origen ilícito de los bienes mediante indicios, siempre que esos indicios cumplan requisitos estrictos. En este capítulo damos un paso más. Ya no se trata de enumerar los requisitos, sino de entender **cómo funciona por dentro una inferencia**, dónde suele fallar y cómo debe atacarla el abogado defensor.
 
 La razón es práctica. En los casos de lavado de activos, la sentencia casi nunca descansa en una prueba directa del origen ilícito. Descansa en una cadena de razonamientos que va de unos hechos conocidos a una conclusión desconocida. Es en esa cadena donde se juega el caso, y quien sepa identificar el eslabón débil tendrá la defensa más sólida.
 
-## 14.2. La prueba indiciaria: qué es y por qué el lavado se juzga con ella
+## 4.2. La prueba indiciaria: qué es y por qué el lavado se juzga con ella
 
-### 14.2.1. Prueba directa y prueba indirecta
+### 4.2.1. Prueba directa y prueba indirecta
 
 Toda prueba busca acreditar un hecho. La diferencia está en el camino. La **prueba directa** recae sobre el hecho mismo que se quiere probar: el testigo que vio la entrega del dinero, el documento en el que consta la transferencia, la grabación en la que se escucha la orden. El juez percibe el hecho a través de ese medio, sin necesidad de razonar desde otro hecho.
 
@@ -20,7 +20,7 @@ La Fiscalía General del Estado define la prueba indiciaria como "el conjunto de
 
 Es importante diferenciar dos cosas que suelen confundirse. Que una prueba sea **indirecta** no significa que sea **más débil**. Significa que su fuerza no está en el medio de prueba, sino en el **razonamiento** que conecta el hecho probado con la conclusión. Por eso la prueba indiciaria es tan sólida como la inferencia que la sostiene, y tan frágil como el eslabón más débil de esa inferencia. Todo este capítulo gira en torno a esa idea.
 
-### 14.2.2. ¿Por qué el lavado de activos se prueba casi siempre por indicios?
+### 4.2.2. ¿Por qué el lavado de activos se prueba casi siempre por indicios?
 
 En la mayoría de los delitos, la prueba indiciaria es un recurso complementario. En el lavado de activos, en cambio, es **la regla**. La propia Fiscalía lo reconoce cuando califica a la prueba indiciaria como el "elemento prioritario dentro del delito de lavado de activos" (Fiscalía General del Estado, 2021, p. 71). Propongo cinco razones que explican por qué.
 
@@ -28,13 +28,13 @@ En la mayoría de los delitos, la prueba indiciaria es un recurso complementario
 
 **2. El origen ilícito es un hecho que ocurrió fuera del proceso.** El art. 317 del COIP exige que los activos tengan "origen ilícito", y la Corte Nacional, en el caso Espinel (sentencia de casación de 29 de julio de 2021, juicio No. 09333-2018-00282), reconoció que esa circunstancia "constituye un elemento normativo dentro de la tipicidad objetiva"[^espinel-normativo]. Pero ese elemento se refiere a un hecho **anterior y distinto** al lavado: el delito que generó los bienes. Ese hecho pudo cometerlo otra persona, pudo ocurrir en otro país y pudo no haber sido juzgado nunca. Como el lavado es autónomo y no exige una sentencia previa por el delito de origen (art. 317 del COIP y Resolución CNJ No. 20-2024), el tribunal del lavado casi nunca tiene ante sí la prueba directa de ese delito. Tiene, a lo sumo, rastros de él.
 
-**3. El conocimiento del origen ilícito es un hecho interno.** El lavado es un delito doloso: el procesado debe **saber**, o al menos representarse, que los bienes provienen de una actividad delictiva (capítulo 13). El conocimiento es un estado mental, y los estados mentales no se ven: se infieren de la conducta externa. Que el procesado aceptó comisiones desproporcionadas, que evitó los controles bancarios, que usó testaferros o que mintió sobre el origen de los fondos son hechos externos de los que se deduce lo que sabía.
+**3. El conocimiento del origen ilícito es un hecho interno.** El lavado es un delito doloso: el procesado debe **saber**, o al menos representarse, que los bienes provienen de una actividad delictiva (capítulo 3). El conocimiento es un estado mental, y los estados mentales no se ven: se infieren de la conducta externa. Que el procesado aceptó comisiones desproporcionadas, que evitó los controles bancarios, que usó testaferros o que mintió sobre el origen de los fondos son hechos externos de los que se deduce lo que sabía.
 
 **4. Los tratados lo autorizan de forma expresa.** La Convención de Viena de 1988 (art. 3.3), la Convención de Palermo de 2000 (art. 6.2.f) y la Convención de Mérida de 2003 (art. 28) disponen, con fórmulas casi idénticas, que el conocimiento, la intención o la finalidad que exige el delito "podrán inferirse de circunstancias fácticas objetivas"[^tratados-inferencia]. Es decir, el derecho internacional que dio origen al tipo penal de lavado previó desde el principio que su elemento subjetivo se probaría por inferencia.
 
 **5. La jurisprudencia nacional lo asumió.** La Resolución No. 20-2024 de la Corte Nacional de Justicia, de 23 de octubre de 2024, admitió la "acreditación del origen ilícito" de los activos mediante prueba indiciaria[^res20-indicios]. Con ello, lo que era una práctica de los tribunales pasó a ser un precedente obligatorio.
 
-### 14.2.3. Un matiz necesario: "casi siempre", no "siempre"
+### 4.2.3. Un matiz necesario: "casi siempre", no "siempre"
 
 Es frecuente escuchar que el lavado "solo" se prueba con indicios. La afirmación es útil como descripción de la práctica, pero es inexacta como regla, y el defensor debe conocer el matiz.
 
@@ -50,7 +50,7 @@ Además, no todos los elementos del lavado se prueban del mismo modo. Conviene d
 
 Como podrá apreciar el lector, la prueba indiciaria se concentra en **los dos elementos más difíciles** del tipo: el origen ilícito y el dolo. Y es ahí, precisamente, donde se decide la mayoría de los casos.
 
-### 14.2.4. El riesgo para la defensa: cuando el indicio se convierte en presunción
+### 4.2.4. El riesgo para la defensa: cuando el indicio se convierte en presunción
 
 Que la prueba indiciaria sea la regla en el lavado tiene una consecuencia que el defensor no puede perder de vista: **la tentación de rebajar la exigencia**. Si el origen ilícito casi nunca se prueba de forma directa, es fácil terminar aceptando que basta con un patrimonio que no se explica. Y eso ya no es una inferencia: es una presunción de culpabilidad, que el art. 455 del COIP prohíbe expresamente cuando exige que la prueba se funde "en hechos reales" y "nunca en presunciones"[^art455-142].
 
@@ -66,9 +66,9 @@ La jurisprudencia comparada ofrece tres reglas para mantener al indicio dentro d
 
 Es por esta razón que la estrategia de la defensa en un caso de lavado no consiste en negar que existen indicios, porque casi siempre existen. Consiste en demostrar que **no alcanzan**: que alguno no está probado, que la regla de experiencia que los une es falsa o demasiado general, o que dejan abierta una explicación lícita razonable. Las secciones siguientes desarrollan cada uno de esos caminos.
 
-## 14.3. Qué es un indicio
+## 4.3. Qué es un indicio
 
-### 14.3.1. La estructura de la inferencia
+### 4.3.1. La estructura de la inferencia
 
 Toda prueba indiciaria tiene la misma estructura, con tres elementos (Gascón Abellán, 2010, p. [verificar]; Taruffo, 2002, p. [verificar]):
 
@@ -85,18 +85,18 @@ HECHO BASE (probado)  +  REGLA DE EXPERIENCIA  →  HECHO CONSECUENCIA (inferido
 ```
 
 Como podrá apreciar el lector, la inferencia puede fallar en **tres puntos distintos**, y cada uno da lugar a una estrategia de defensa distinta:
-- **el hecho base no está probado** (14.7.1);
-- **la regla de experiencia es falsa, débil o demasiado general** (14.7.2);
-- **la conclusión no es la única posible** (14.7.3).
+- **el hecho base no está probado** (4.8.1);
+- **la regla de experiencia es falsa, débil o demasiado general** (4.8.2);
+- **la conclusión no es la única posible** (4.8.3).
 
-### 14.3.2. Indicio, presunción y sospecha
+### 4.3.2. Indicio, presunción y sospecha
 
 Es importante diferenciar tres conceptos que con frecuencia se confunden en los escritos y en las sentencias:
 - **El indicio** es el hecho base probado.
 - **La presunción** es la conclusión que se extrae del indicio. Una presunción **legal** la establece la ley; una presunción **judicial** la construye el juez.
 - **La sospecha** es una conjetura que no alcanza a ser una inferencia razonable. Sirve para iniciar una investigación, pero nunca para condenar.
 
-### 14.3.3. Clases de indicios
+### 4.3.3. Clases de indicios
 
 | Clase | Concepto | Ejemplo en el lavado |
 |---|---|---|
@@ -106,13 +106,13 @@ Es importante diferenciar tres conceptos que con frecuencia se confunden en los 
 | **Necesarios** | Solo admiten una conclusión | Excepcionales en la práctica |
 | **Contingentes** | Admiten varias conclusiones | La gran mayoría: por eso necesitan concurrir con otros |
 
-## 14.4. La base legal en el Ecuador
+## 4.4. La base legal en el Ecuador
 
-### 14.4.1. El antecedente: el Código de Procedimiento Penal de 2000
+### 4.4.1. El antecedente: el Código de Procedimiento Penal de 2000
 
 El Código de Procedimiento Penal de 2000 regulaba expresamente las presunciones. Exigía que la existencia de la infracción estuviera comprobada y que las presunciones fueran **varias, relacionadas entre sí, unívocas y directas**[^cpp2000]. Era, en la práctica, una regulación muy cercana a los requisitos que hoy exige la doctrina.
 
-### 14.4.2. El COIP: el art. 455 y la prohibición de las presunciones
+### 4.4.2. El COIP: el art. 455 y la prohibición de las presunciones
 
 El COIP cambió el enfoque. Su art. 455 establece que la prueba y los elementos de prueba deben tener un **nexo causal** entre la infracción y la persona procesada, y que ese fundamento debe basarse en **hechos reales** introducidos o que puedan ser introducidos a través de un medio de prueba, **y nunca en presunciones**[^art455].
 
@@ -123,7 +123,7 @@ Esta norma es la más importante del capítulo para la defensa, y conviene leerl
 
 Es por esta razón que, en el Ecuador, la prueba indiciaria debe entenderse como una **inferencia a partir de hechos reales probados**, y nunca como una presunción en contra del procesado.
 
-### 14.4.3. Las demás normas aplicables
+### 4.4.3. Las demás normas aplicables
 
 - **Constitución, art. 76.2:** presunción de inocencia.
 - **COIP, art. 5.3:** para condenar, el juez debe tener el convencimiento de la culpabilidad **más allá de toda duda razonable**.
@@ -131,13 +131,13 @@ Es por esta razón que, en el Ecuador, la prueba indiciaria debe entenderse como
 - **COIP, art. 457:** criterios de valoración de la prueba: legalidad, autenticidad, sometimiento a cadena de custodia y grado actual de aceptación científica y técnica[^art457].
 - **Constitución, art. 76.7.l:** motivación de las resoluciones.
 
-## 14.5. El estándar de prueba y la motivación reforzada
+## 4.5. El estándar de prueba y la motivación reforzada
 
-### 14.5.1. Más allá de toda duda razonable
+### 4.5.1. Más allá de toda duda razonable
 
 La prueba indiciaria debe alcanzar **el mismo estándar** que cualquier otra prueba. No existe un estándar más bajo para los indicios, ni un estándar más bajo para los delitos complejos (Ferrer Beltrán, 2007, p. [verificar]). Si los indicios dejan abierta una explicación alternativa razonable, la duda favorece al procesado.
 
-### 14.5.2. La motivación reforzada
+### 4.5.2. La motivación reforzada
 
 Cuando la condena se apoya en indicios, el juez debe exponer de forma detallada y comprensible:
 1. **cuáles son los hechos base** y con qué prueba se acreditó cada uno;
@@ -146,11 +146,78 @@ Cuando la condena se apoya en indicios, el juez debe exponer de forma detallada 
 
 Si la sentencia salta del hecho base a la conclusión sin explicar la regla de experiencia, o si no responde a la hipótesis alternativa de la defensa, adolece de un vicio de motivación[^motivacion].
 
-## 14.6. El peritaje contable y patrimonial
+## 4.6. La prueba documental y técnica: informes, reportes y cuentas bancarias
+
+Los indicios del lavado casi nunca llegan al proceso de forma aislada. Llegan dentro de documentos técnicos producidos, en su mayoría, antes de que exista un proceso penal y sin contradicción: el reporte de la UAFE, el informe de la Contraloría cuando el delito de origen es de corrupción, la información bancaria y la pericia contable. Antes de discutir qué prueban esos indicios, la defensa debe controlar **cómo** entran al juicio.
+
+### 4.6.1. La regla de oro: el informe escrito no es prueba
+
+El art. 454.1 del COIP establece el principio de **oportunidad**: la prueba se anuncia en la etapa de evaluación y preparatoria de juicio, y se practica "únicamente en la audiencia de juicio". Las investigaciones y pericias de la etapa de investigación "alcanzarán el valor de prueba, una vez que sean presentadas, incorporadas y valoradas en la audiencia oral de juicio"[^art4541-doc].
+
+Y el último inciso del art. 454.6 es todavía más claro:
+
+> "Los partes informativos, noticias del delito, versiones de los testigos, informes periciales y cualquier otra declaración previa, se podrán utilizar en el juicio con la única finalidad de recordar y destacar contradicciones, siempre bajo la prevención de que no sustituyan al testimonio. En ningún caso serán admitidos como prueba."[^informes-doc]
+
+Esta norma es, a mi juicio, la más importante para la defensa en un caso de lavado. Significa que el informe escrito, sea de la UAFE, de la Contraloría o de un perito de la Fiscalía, **no es prueba por sí mismo**. Lo que es prueba es el **testimonio** de quien lo elaboró, sometido a interrogatorio y contrainterrogatorio (art. 505 del COIP). Y el art. 454.3 garantiza a las partes el derecho a "conocer oportunamente y controvertir las pruebas", lo que exige que la defensa tenga acceso a los documentos en que se basó el reporte de la UAFE, a los papeles de trabajo del auditor y a los datos con que el perito hizo sus cálculos. Sin ese acceso, no hay contradicción real.
+
+### 4.6.2. El reporte de la UAFE
+
+La Unidad de Análisis Financiero y Económico recibe de los sujetos obligados, como los bancos, las cooperativas, las notarías, los registros y las inmobiliarias, los reportes de operaciones que superan los umbrales legales y los **reportes de operaciones inusuales e injustificadas**. Analiza esa información y, cuando lo considera pertinente, la remite a la Fiscalía[^uafe-doc].
+
+El reporte de la UAFE es un producto de **inteligencia financiera**, no una prueba. Su función es alertar sobre operaciones que merecen investigarse, no demostrar que sean delictivas. Que una operación sea "inusual" significa que no encaja en el perfil del cliente; no significa que sea ilícita.
+
+Si bien es cierto que el reporte puede orientar la investigación, es importante diferenciar el reporte de los hechos que reporta. Lo que la Fiscalía debe probar en el juicio son las **operaciones mismas**, con los documentos bancarios obtenidos legalmente, y su origen ilícito, con prueba independiente. El analista de la UAFE que comparece a juicio puede explicar qué operaciones detectó, pero no puede afirmar que el dinero tiene un origen ilícito, porque eso no forma parte de su análisis.
+
+**La reserva de la identidad del analista.** La ley de prevención de 2024 fue reformada en agosto de 2025 para proteger la identidad de los analistas de la UAFE y de los oficiales de cumplimiento que intervienen en los reportes. Según el nuevo art. 23.1, la identidad del analista que elaboró o analizó un reporte de operaciones inusuales e injustificadas "tendrá carácter estrictamente reservado, sin perjuicio de la validez del informe como elemento de convicción". Si se requiere su comparecencia, declarará "mediante el mecanismo de videoconferencia con distorsión de imagen y voz", y las partes podrán ejercer la contradicción "a través del juez o fiscal que dirija el acto procesal". El art. 23.2 permite acreditar que quien sustenta el reporte es quien lo elaboró mediante una simple certificación de la UAFE, y el art. 23.3 prohíbe a los operadores de justicia, a las partes y a los abogados "el requerimiento o revelación de la identidad del analista", bajo sanción[^uafe2025-doc].
+
+La defensa debe leer estas normas con cuidado, por tres razones:
+- **La norma habla de "elemento de convicción", no de prueba.** Confirma, entonces, lo que ya sostuvimos: el reporte sirve para la investigación y para la formulación de cargos, pero en el juicio solo vale lo que se practique con contradicción.
+- **La contradicción se mantiene, aunque mediada.** El defensor conserva el derecho a conocer íntegramente la declaración y a formular preguntas. Si el tribunal impide preguntas sobre la metodología, las fuentes o las bases de datos usadas, la restricción ya no protege la identidad del analista, sino que afecta el derecho de defensa (art. 76.7, literales a, h y j, de la Constitución).
+- **La credibilidad no puede examinarse a ciegas.** Si la defensa no puede conocer quién es el analista, no puede verificar su formación, su imparcialidad o sus vínculos con el caso. Esa limitación debe pesar en la valoración: un testimonio cuya fuente no puede examinarse por completo tiene, necesariamente, una fuerza probatoria menor. Es un argumento que conviene plantear en el alegato de clausura.
+
+### 4.6.3. El informe de la Contraloría cuando el delito de origen es de corrupción
+
+Cuando la Fiscalía sostiene que los activos provienen de un peculado o de otro delito contra la administración pública, el informe de la Contraloría General del Estado con indicios de responsabilidad penal suele aparecer como el hecho base del origen ilícito. El art. 581.1 del COIP dispone que, cuando la Fiscalía conozca ese informe, "dará inicio a las investigaciones", que el informe constituye "un elemento sustancial para el desarrollo de la investigación", pero que "en ningún caso estos informes constituyen un requisito de admisibilidad o procedibilidad para el ejercicio de la acción penal"[^art5811-doc].
+
+La práctica muestra por qué su control es indispensable. En el caso Espinel, la Corte Nacional aceptó que los informes de la Contraloría con indicios de responsabilidad penal sirvieran, junto con dos instrucciones fiscales en trámite, como indicios del origen ilícito de los activos (capítulo 2, sección 2.3.4, y sección 4.8.6 de este capítulo). Si el informe ni siquiera fue sustentado por el auditor en el juicio, ese razonamiento contradice el art. 454.6.
+
+El contrainterrogatorio del auditor debe explorar, al menos, estas preguntas:
+
+| Tema | Preguntas |
+|---|---|
+| **Alcance del examen** | ¿Qué periodo examinó? ¿Qué documentos revisó y cuáles no tuvo a la vista? |
+| **Metodología** | ¿Hizo un muestreo o una revisión completa? ¿Qué criterio usó para calcular el perjuicio? |
+| **Contradicción administrativa** | ¿Se comunicaron los resultados provisionales al servidor? ¿Qué respondió? ¿Se valoró su respuesta? |
+| **Diferencia de estándares** | ¿El examen buscaba responsabilidad administrativa, civil o penal? ¿Qué entiende por "indicio de responsabilidad penal"? |
+| **Vínculo con los activos** | ¿Su informe identifica qué dinero salió de la entidad y a dónde fue, o solo que hubo un pago sin respaldo? |
+
+La última pregunta es la decisiva para el lavado. Un informe que establece un pago sin respaldo documental no prueba, por sí solo, que **esos** fondos sean los que el procesado tuvo, transfirió u ocultó. Sin esa relación de causalidad, el informe no sirve como hecho base del origen ilícito (capítulo 2, sección 2.3.4).
+
+**La tensión que creó la reforma de 2024.** La ley de prevención del lavado de 2024 reformó la Ley Orgánica de la Contraloría General del Estado e incorporó la **auditoría forense detectiva**, que debe practicarse "cuando existan indicios de responsabilidad penal". La nueva norma añade que "el informe de auditoría con indicios de responsabilidad penal tendrá valor probatorio y se remitirá a la Fiscalía General del Estado"[^cge23-doc]. A primera vista, esa frase choca con el último inciso del art. 454.6 del COIP.
+
+Propongo leer ambas normas de forma armónica, y creo que la lectura que favorece al procesado es también la más correcta:
+
+1. **"Tener valor probatorio" no significa entrar al juicio sin testimonio.** La Ley de la Contraloría dice qué valor tiene el informe, pero no regula **cómo** se incorpora la prueba al proceso penal. Esa es materia del COIP, que exige que la prueba se practique en la audiencia de juicio (art. 454.1) y que el autor de un informe lo sustente oralmente (arts. 454.6 y 505). El informe tendrá valor probatorio **cuando** el auditor lo sustente y se someta a contradicción.
+2. **La contradicción es una garantía constitucional, no una regla procesal disponible.** El art. 76.7, literal j, de la Constitución obliga a testigos y peritos a comparecer y a responder el interrogatorio, y el literal h garantiza el derecho a contradecir la prueba. Una ley no puede crear una prueba que escape a ese control.
+3. **El informe sigue siendo un acto de la parte que investiga.** La Contraloría no es un tercero imparcial frente a la Fiscalía: su informe con indicios de responsabilidad penal es, precisamente, la base de la acusación. Atribuirle valor probatorio por sí mismo equivaldría a que una de las partes del conflicto produzca la prueba que la otra no puede discutir.
+
+### 4.6.4. La información bancaria y la exclusión de la prueba ilícita
+
+La información de las cuentas bancarias está protegida por el **sigilo bancario**, regulado en el Código Orgánico Monetario y Financiero[^sigilo-doc]. El sigilo no es un privilegio de los ricos: es una manifestación del derecho a la intimidad y a la protección de datos personales, reconocidos en el art. 66, numerales 19 y 20, de la Constitución[^intimidad-doc]. Puede levantarse por orden de autoridad competente en el marco de un proceso penal, conforme a las reglas del Código Orgánico Monetario y Financiero y del COIP; y, cuando el investigado es servidor público, la autorización que incluyó en su declaración patrimonial (art. 231 de la Constitución) alcanza solo a sus propias cuentas, no a las de terceros.
+
+La defensa debe verificar siempre **cómo** se obtuvo la información bancaria que presenta la Fiscalía:
+- ¿La información corresponde al procesado o a terceros, como su cónyuge, sus hijos o sus empresas?
+- Si corresponde a terceros, ¿existía una orden que alcanzara a esas personas?
+- ¿La información se pidió dentro de una investigación formal, o se obtuvo de manera informal?
+- ¿El periodo de la información corresponde al de la orden?
+
+El art. 76.4 de la Constitución dispone que "las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tendrán validez alguna y carecerán de eficacia probatoria", y el art. 454.6 del COIP ordena excluirlas[^exclusion-doc]. Si la información bancaria se obtuvo sin cumplir los requisitos legales, es **prueba ilícita** y debe excluirse. Y con ella deben excluirse las pruebas que se derivan de ella, porque sin la información bancaria la Fiscalía no habría llegado a ellas. En un caso de lavado, donde casi toda la prueba de cargo parte de los movimientos financieros, esta es muchas veces la discusión que decide el juicio.
+
+## 4.7. El peritaje contable y patrimonial
 
 En el lavado de activos, el peritaje contable no es una prueba más: suele ser **la prueba central**, porque de él se desprenden los indicios de incremento patrimonial y de falta de ingresos lícitos. La defensa debe conocer los métodos que utiliza el perito para saber dónde atacarlo.
 
-### 14.6.1. Los métodos de análisis patrimonial
+### 4.7.1. Los métodos de análisis patrimonial
 
 | Método | Cómo funciona | Punto débil que debe revisar la defensa |
 |---|---|---|
@@ -159,7 +226,7 @@ En el lavado de activos, el peritaje contable no es una prueba más: suele ser *
 | **Origen y aplicación de fondos** | Identifica las entradas y salidas de dinero en el periodo | Fondos de terceros que transitaron por la cuenta sin pertenecer al procesado |
 | **Depósitos bancarios** | Suma los depósitos y descuenta los de origen identificado | Transferencias entre cuentas propias contadas dos veces |
 
-### 14.6.2. Preguntas para el contraexamen del perito
+### 4.7.2. Preguntas para el contraexamen del perito
 
 1. ¿Qué método utilizó, y por qué ese y no otro?
 2. ¿Qué periodo analizó? ¿Por qué empezó y terminó en esas fechas?
@@ -171,20 +238,20 @@ En el lavado de activos, el peritaje contable no es una prueba más: suele ser *
 
 La sexta pregunta es la más importante. Un perito contable puede establecer que hay una **diferencia** entre ingresos y patrimonio, pero **no puede establecer, desde la contabilidad, que esa diferencia provenga de un delito**. Esa conclusión excede su conocimiento técnico y su función.
 
-### 14.6.3. El peritaje de parte
+### 4.7.3. El peritaje de parte
 
 La defensa debe encargar, cuanto antes, un **peritaje contable de parte** realizado por un perito acreditado por el Consejo de la Judicatura. Su objetivo no es solo cuestionar el peritaje de la Fiscalía, sino **reconstruir el origen lícito** de los fondos, aunque sea de forma parcial. Cada dólar con origen documentado reduce la cuantía imputada y, con ella, la pena.
 
-## 14.7. Cómo atacar una inferencia
+## 4.8. Cómo atacar una inferencia
 
-### 14.7.1. Atacar el hecho base
+### 4.8.1. Atacar el hecho base
 
 El primer paso es verificar que cada indicio esté **probado** por un medio de prueba practicado en juicio con contradicción.
 - ¿El "incremento patrimonial" proviene de un peritaje que se sometió a contradicción, o solo de un informe de la UAFE?
 - ¿La "vinculación con personas investigadas" se probó, o es una afirmación de la acusación?
 - ¿Se apoya el indicio en otro indicio? Si es así, se rompe el primer requisito: no se puede construir un indicio sobre otro.
 
-### 14.7.2. Atacar la regla de experiencia
+### 4.8.2. Atacar la regla de experiencia
 
 Muchas inferencias fallan porque la regla de experiencia que las sostiene es **falsa, débil o demasiado general**.
 - "Quien maneja efectivo suele ser un lavador" es falso en un país donde una parte importante de la economía es informal y funciona con efectivo.
@@ -199,16 +266,16 @@ Esta exigencia tiene respaldo en la jurisprudencia comparada. La Sala de Casaci�
 
 Como podrá apreciar el lector, la Corte colombiana convierte la explicitación de la regla en una **garantía del derecho de defensa**: una regla que no se expresa no se puede contradecir. En el Ecuador, ese mismo razonamiento se apoya en el art. 76.7, literales a y l, de la Constitución[^sp1569].
 
-### 14.7.3. Atacar la conclusión: la hipótesis alternativa
+### 4.8.3. Atacar la conclusión: la hipótesis alternativa
 
 Una inferencia es válida solo si su conclusión es **la única razonable**. La defensa debe proponer una **hipótesis alternativa** plausible y sostenerla con contraindicios. Basta con que esa hipótesis sea razonable y no esté descartada por la prueba: no es necesario probarla con certeza.
 
-### 14.7.4. El silencio del procesado y la coartada no probada
+### 4.8.4. El silencio del procesado y la coartada no probada
 
 - **El silencio del procesado no es un indicio.** La Constitución garantiza el derecho a no autoincriminarse (art. 77.7, literales b y c). Que el procesado no explique su patrimonio no puede convertirse en prueba en su contra. Es cierto que el Tribunal Europeo de Derechos Humanos, en *John Murray contra el Reino Unido* (1996), admitió en casos excepcionales que se extraigan inferencias del silencio[^murray], pero esa doctrina no tiene cabida frente a la prohibición de presunciones del art. 455 del COIP.
 - **Una explicación no probada no es un indicio de culpabilidad.** Si el procesado ofrece una explicación que luego no logra acreditar, eso no prueba el origen ilícito. A lo sumo, deja sin efecto el contraindicio, pero no suma un indicio de cargo.
 
-### 14.7.5. Las falacias más frecuentes en las acusaciones
+### 4.8.5. Las falacias más frecuentes en las acusaciones
 
 | Falacia | En qué consiste | Ejemplo |
 |---|---|---|
@@ -220,9 +287,9 @@ Una inferencia es válida solo si su conclusión es **la única razonable**. La 
 | **Acumulación de imputaciones** | Se toma la existencia de otros procesos como prueba de los hechos que esos procesos investigan | "Tiene dos instrucciones fiscales abiertas por peculado, luego el dinero es ilícito" |
 | **Tipología como prueba** | Se toma la coincidencia con una tipología del GAFILAT como prueba del origen ilícito | "Transportó efectivo por la frontera, y eso es una tipología de lavado" |
 
-### 14.7.6. Lo que la Corte Nacional ha aceptado como indicio
+### 4.8.6. Lo que la Corte Nacional ha aceptado como indicio
 
-Dos sentencias de casación de la Sala Penal muestran qué ha aceptado la Corte Nacional como indicio del origen ilícito, y por qué la defensa debe discutirlo (capítulo 12, sección 12.3.4).
+Dos sentencias de casación de la Sala Penal muestran qué ha aceptado la Corte Nacional como indicio del origen ilícito, y por qué la defensa debe discutirlo (capítulo 2, sección 2.3.4).
 
 En el **caso Espinel**, la Sala Penal de la Corte Nacional de Justicia, en la sentencia de casación de 29 de julio de 2021 (juicio No. 09333-2018-00282), consideró que el tribunal de apelación llegó correctamente al origen ilícito "a partir de ciertos indicios, como son: la existencia de dos instrucciones fiscales en contra del procesado, o, los informes de Contraloría General del Estado, que determinan indicios de responsabilidad penal"[^espinel-indicios].
 
@@ -234,17 +301,17 @@ Si bien es cierto que esos elementos pueden ser relevantes, es importante difere
 2. **Un informe administrativo no es prueba por sí mismo.** El art. 454.6 del COIP impide admitir como prueba los informes que no se sustentan en el testimonio de quien los elaboró. Si el auditor no declaró en el juicio, el informe no puede ser el hecho base de un indicio.
 3. **Una tipología es una guía de detección, no una regla de experiencia.** Las tipologías del GAFILAT describen cómo suele verse el lavado, y sirven para orientar una investigación. Pero muchas de esas conductas, como manejar efectivo, depositar en montos pequeños o tener empresas con poca actividad, también describen negocios lícitos o informales. Para que una tipología se convierta en indicio, la Fiscalía debe probar el hecho concreto y explicar por qué, en ese caso, no hay una explicación lícita razonable.
 
-## 14.8. El control de la inferencia en los recursos
+## 4.9. El control de la inferencia en los recursos
 
 - **Apelación:** el tribunal de alzada puede revisar la valoración de la prueba y la razonabilidad de la inferencia.
 - **Casación:** como vimos al estudiar ese recurso, no cabe revalorar la prueba. Pero sí cabe alegar la **violación de las reglas de la sana crítica** o de la norma que exige hechos reales y no presunciones (art. 455 del COIP), siempre que se plantee como un error de derecho y no como una discusión sobre los hechos[^casacion]. La sentencia SP1569-2018 de la Corte Suprema colombiana ofrece una pauta útil para ordenar el cargo: hay que identificar "en cuál fase de la construcción indiciaria se presenta el supuesto yerro", si en el hecho indicador, en la inferencia o en la articulación de los indicios entre sí, y, cuando se discuten a la vez la prueba del hecho indicador y la inferencia, hacerlo "en cargos distintos y de manera subsidiaria" (Corte Suprema de Justicia de Colombia, SP1569-2018, 9 de mayo de 2018, p. 32).
 - **Acción extraordinaria de protección:** la falta de motivación reforzada de la inferencia puede vulnerar el art. 76.7.l de la Constitución.
 
-## 14.9. Modelo de argumento: impugnación de una inferencia
+## 4.10. Modelo de argumento: impugnación de una inferencia
 
 > "La acusación sostiene que el dinero depositado por mi defendido tiene origen ilícito. Para llegar a esa conclusión, parte de tres hechos: los depósitos en efectivo, la diferencia entre sus ingresos declarados y su patrimonio, y su parentesco con una persona investigada. Esta defensa no discute que los depósitos existieron. Discute la regla de experiencia que la acusación utiliza para convertirlos en prueba de un delito, y que nunca ha expuesto en voz alta: que quien maneja efectivo y tiene un pariente investigado obtiene su dinero del delito. Esa regla es falsa en un país donde buena parte del comercio funciona con efectivo, y es inaceptable en un sistema que castiga por el hecho propio y no por las relaciones familiares. El art. 455 del COIP exige que la prueba se funde en hechos reales y nunca en presunciones. Lo que la acusación ofrece no es una inferencia a partir de hechos reales, sino una presunción. Y frente a ella existe una hipótesis alternativa razonable, sostenida por el peritaje contable de esta defensa: que los fondos provienen de la actividad comercial de mi defendido, no declarada en su totalidad al SRI. Esa hipótesis podrá configurar una infracción tributaria, pero no un lavado de activos. Al no ser la conclusión de la acusación la única razonable, existe una duda que, conforme al art. 5.3 del COIP, debe resolverse a favor de mi defendido."
 
-## 14.10. Caso práctico resuelto
+## 4.11. Caso práctico resuelto
 
 ### Los hechos
 Rosa, de 52 años, administra un pequeño hotel familiar en la costa. En tres años adquiere tres terrenos por un total de USD 210.000, pagados con transferencias desde una cuenta que recibe depósitos en efectivo semanales. Sus declaraciones al SRI reportan ingresos por USD 40.000 anuales. Uno de sus huéspedes habituales fue detenido por narcotráfico. La Fiscalía la acusa de lavado de activos y presenta un peritaje por el método del patrimonio neto que concluye que existe un "incremento patrimonial no justificado de USD 180.000".
@@ -261,7 +328,7 @@ La acusación acredita, a lo sumo, un patrimonio parcialmente no justificado y u
 
 [Nota del autor: espacio para un caso propio en el que el peritaje de parte haya sido decisivo.]
 
-## 14.11. Lista de revisión
+## 4.12. Lista de revisión
 
 - [ ] ¿Cuáles son exactamente los hechos base, y con qué prueba se acreditó cada uno?
 - [ ] ¿Algún indicio se apoya en otro indicio?
@@ -272,16 +339,6 @@ La acusación acredita, a lo sumo, un patrimonio parcialmente no justificado y u
 - [ ] ¿Tengo un peritaje contable de parte?
 - [ ] ¿Se usa el silencio o una explicación no probada como indicio de cargo?
 - [ ] ¿La resolución explica la inferencia y responde a la hipótesis alternativa?
-
-## 14.12. Preguntas para la reflexión
-
-1. ¿Por qué el lavado de activos se prueba casi siempre por indicios? ¿Qué elementos del tipo suelen probarse con prueba directa y cuáles con prueba indiciaria?
-2. ¿Cuáles son los tres elementos de una inferencia, y qué estrategia de defensa corresponde a cada uno?
-3. ¿Qué diferencia hay entre un indicio, una presunción y una sospecha?
-4. ¿Qué consecuencias tiene, para la prueba indiciaria, la expresión "nunca en presunciones" del art. 455 del COIP?
-5. ¿Por qué un perito contable no puede concluir que un incremento patrimonial proviene de un delito?
-6. ¿Puede el silencio del procesado sobre el origen de su patrimonio usarse como indicio en su contra?
-7. ¿Cómo plantearía en casación la impugnación de una inferencia, sin pedir que se revalore la prueba?
 
 ## Referencias
 
@@ -338,6 +395,24 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 Corte Suprema de Justicia de la República del Perú. (2010, 16 de noviembre). *Acuerdo Plenario No. 3-2010/CJ-116* [citado a través de Fiscalía General del Estado, 2021].
 
 Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Reino Unido*, Demanda No. 18731/91, sentencia de 8 de febrero de 1996.
+
+[^art4541-doc]: COIP, art. 454.1.
+
+[^informes-doc]: COIP, art. 454.6, último inciso.
+
+[^exclusion-doc]: Constitución, art. 76.4; COIP, art. 454.6, inciso primero.
+
+[^cge23-doc]: Ley Orgánica de la Contraloría General del Estado, art. 23.2, agregado por la disposición reformatoria cuarta de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024). Normas en tensión: COIP, arts. 454.1, 454.6 y 505; Constitución, art. 76.7, lits. h y j. **[verificar el texto vigente de la Ley Orgánica de la Contraloría]**
+
+[^art5811-doc]: COIP, art. 581.1, incorporado por el art. 22 de la Ley Orgánica Reformatoria del COIP en Materia Anticorrupción (R.O. Supl. 392, 17 de febrero de 2021).
+
+[^uafe-doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), arts. 16, 17 (funciones de la UAFE, en especial los literales b, f, i y j), 57 (reporte de operaciones sospechosas) y 58 (reporte de operaciones sobre el umbral). Sustituyó a la ley de 2016 (disposición derogatoria única) y rige desde el 29 de julio de 2025 (disposición final única). Para hechos anteriores a esa fecha, rige la ley de 2016.
+
+[^uafe2025-doc]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 23.1, 23.2 y 23.3, agregados por la disposición reformatoria tercera de la ley publicada en el Registro Oficial Suplemento 112 de 28 de agosto de 2025. El art. 23.1 remite al art. 502, num. 9, del COIP. **[verificar la ley reformatoria y si ha sido objeto de control constitucional]**
+
+[^sigilo-doc]: Código Orgánico Monetario y Financiero, artículos sobre sigilo y reserva bancaria. **[verificar la numeración vigente]**
+
+[^intimidad-doc]: Constitución, art. 66.19 ("El derecho a la protección de datos de carácter personal") y 66.20 ("El derecho a la intimidad personal y familiar").
 
 [^manual-def]: Fiscalía General del Estado, Dirección de Estudios Penales, *Manual de lavado de activos*, cap. 4, sección 3, que se apoya en García Cavero (2010, p. 56). Comentario del autor: la definición del órgano acusador es útil para la defensa, porque reconoce que la prueba indiciaria descansa en un "nexo causal" y en la "lógica", y no en la sola sospecha.
 

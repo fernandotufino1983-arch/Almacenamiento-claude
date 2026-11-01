@@ -1,8 +1,8 @@
-# Capítulo 16. La responsabilidad penal de la persona jurídica
+# Capítulo 6. La responsabilidad penal de la persona jurídica
 
 > **Borrador de trabajo, versión 2.1.** Redactado con el perfil de escritura del autor. Los arts. 45.7, 49 y 50 del COIP se contrastaron con la versión con última actualización de 7 de octubre de 2026. Formato: APA, 7.ª edición.
 
-## 16.1. Planteamiento
+## 6.1. Planteamiento
 
 Durante siglos, el derecho penal se construyó sobre una idea que parecía indiscutible: *societas delinquere non potest*, la sociedad no puede delinquir. Solo las personas naturales tienen voluntad, conciencia y capacidad de culpa; la empresa, en cambio, sería una ficción jurídica incapaz de cometer delitos.
 
@@ -10,7 +10,7 @@ Esa idea se derrumbó frente a la realidad de la criminalidad económica. En los
 
 En este orden de ideas, el COIP de 2014 incorporó la responsabilidad penal de las personas jurídicas, y la reforma anticorrupción de 2021 la completó con los programas de cumplimiento. Para el abogado que trabaja en delitos económicos, este es hoy un tema ineludible: tanto para defender a la empresa procesada como para asesorarla antes de que el problema llegue.
 
-## 16.2. Los modelos de imputación
+## 6.2. Los modelos de imputación
 
 La doctrina distingue dos grandes modelos para atribuir responsabilidad penal a una persona jurídica (Zúñiga Rodríguez, 2009, p. [verificar]; Gómez-Jara Díez, 2010, p. [verificar]):
 
@@ -23,9 +23,9 @@ La segunda posición, desarrollada a partir de la idea del **defecto de organiza
 
 Como veremos, el COIP adoptó en su texto original un modelo cercano a la **heterorresponsabilidad**, y la reforma de 2021 introdujo elementos de **autorresponsabilidad** a través de los programas de cumplimiento.
 
-## 16.3. La regulación en el COIP
+## 6.3. La regulación en el COIP
 
-### 16.3.1. El art. 49: los presupuestos
+### 6.3.1. El art. 49: los presupuestos
 
 El art. 49 dispone que, "en los supuestos previstos en este Código", las personas jurídicas nacionales o extranjeras de derecho privado son penalmente responsables **por los delitos cometidos para beneficio propio o de sus asociados**, por la acción u omisión de quienes ejercen su propiedad o control, sus órganos de gobierno o administración, sus representantes, agentes, ejecutivos y, en general, de quienes actúen bajo órdenes o instrucciones de esas personas[^art49].
 
@@ -35,7 +35,7 @@ De esta norma se desprenden los presupuestos de la responsabilidad:
 3. **Cometido por una de las personas naturales** que enumera la norma.
 4. **En beneficio propio de la persona jurídica o de sus asociados.**
 
-### 16.3.2. La independencia de la responsabilidad
+### 6.3.2. La independencia de la responsabilidad
 
 El mismo art. 49 establece que la responsabilidad de la persona jurídica es **independiente** de la responsabilidad de las personas naturales que intervengan en el delito. El art. 50 lo refuerza: esa responsabilidad no se extingue aunque la persona natural haya fallecido, haya eludido la acción de la justicia, haya sido sobreseída o se haya extinguido su responsabilidad. Tampoco se extingue por la **fusión, transformación, escisión, disolución o liquidación** de la empresa[^art50].
 
@@ -45,19 +45,19 @@ En el caso Salcedo, la Sala Penal de la Corte Nacional de Justicia, en la senten
 
 Con todo respeto, considero que esa declaración no se sostiene. Los hechos se fijaron entre 2018 y 2020. El art. 50 impide que la empresa **escape** de una responsabilidad ya generada mediante su fusión, transformación o disolución; es decir, presupone que el delito se cometió **mientras la empresa existía**. Una persona jurídica extinguida antes de los hechos no pudo actuar a través de sus administradores, ni beneficiarse del delito, que son los presupuestos del art. 49. Declarar su responsabilidad es atribuir un delito a quien no existía cuando se cometió.
 
-### 16.3.3. La exclusión: el beneficio de un tercero
+### 6.3.3. La exclusión: el beneficio de un tercero
 
 El inciso final del art. 49 contiene una regla de exclusión que la defensa no debe pasar por alto: **no hay responsabilidad de la persona jurídica cuando el delito se comete en beneficio de un tercero ajeno a ella**[^exclusion]. Es decir, si el gerente que soborna lo hace para favorecer un negocio personal, y no el de la empresa, la empresa no responde.
 
-### 16.3.4. La reforma de 2021: los programas de cumplimiento
+### 6.3.4. La reforma de 2021: los programas de cumplimiento
 
 La Ley Orgánica Reformatoria del COIP en Materia Anticorrupción de 2021 reformó los arts. 45 y 49[^reforma2021]:
 - incorporó al **art. 45 un numeral 7** con cuatro circunstancias atenuantes propias de las personas jurídicas: denunciar o confesar espontáneamente el delito antes de la formulación de cargos; colaborar con la investigación aportando pruebas nuevas y decisivas; reparar integralmente los daños antes de la etapa de juicio; y haber implementado, **antes de la comisión del delito**, sistemas de integridad, normas, programas o políticas de cumplimiento, prevención, dirección o supervisión, a cargo de un **departamento u órgano autónomo** en las personas jurídicas de mayor dimensión, o de una **persona responsable** en las pequeñas y medianas empresas, "cuyo funcionamiento se incorpore en todos los niveles" de la organización[^art457];
 - estableció en el **art. 49** once **requisitos mínimos** que deben cumplir esos sistemas: identificación y administración de riesgos; controles internos con responsables; supervisión y monitoreo continuo, interno e independiente; modelos de gestión financiera; canal de denuncias; código de ética; capacitación del personal; mecanismos de investigación interna; obligación de informar al encargado de cumplimiento; normas disciplinarias; y programas "conozca a su cliente" o de debida diligencia.
 
-Es importante diferenciar el alcance de esta reforma. En el Ecuador, **el programa de cumplimiento atenúa la responsabilidad, pero no la excluye**. Es una diferencia sustancial frente a otros países, como veremos en el apartado 16.5.
+Es importante diferenciar el alcance de esta reforma. En el Ecuador, **el programa de cumplimiento atenúa la responsabilidad, pero no la excluye**. Es una diferencia sustancial frente a otros países, como veremos en el apartado 6.5.
 
-### 16.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión
+### 6.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión
 
 La responsabilidad de la persona jurídica no agota el problema. En casi todos los casos de lavado cometido a través de una empresa, la Fiscalía también procesa a personas naturales: socios, directores, gerentes, oficiales de cumplimiento. Y con frecuencia no les imputa haber hecho algo, sino **no haber impedido** que la empresa fuera usada para lavar dinero.
 
@@ -71,11 +71,11 @@ Martínez (2021, pp. 59-63) sostiene que la ley de prevención convierte a los s
 Como podrá apreciar el lector, este modelo amplía considerablemente el círculo de posibles imputados, y la defensa debe conocer sus límites:
 
 1. **La posición de garante debe probarse con documentos, no presumirse por el cargo.** La propia guía advierte que lo primero que debe buscarse es "la regulación interna de la organización", porque allí se determina qué responsabilidades tenía cada órgano (Martínez, 2021, p. 61). Si los estatutos, los manuales y las actas no asignan al procesado una función de prevención, no hay posición de garante.
-2. **La omisión también debe ser dolosa.** El lavado no admite la modalidad culposa. El director que no supervisó al oficial de cumplimiento por descuido no comete lavado por omisión: a lo sumo, incurre en una infracción administrativa o en la omisión de control del art. 319 del COIP (sección 13.4.4).
+2. **La omisión también debe ser dolosa.** El lavado no admite la modalidad culposa. El director que no supervisó al oficial de cumplimiento por descuido no comete lavado por omisión: a lo sumo, incurre en una infracción administrativa o en la omisión de control del art. 319 del COIP (sección 3.4.4).
 3. **Quien actúa por error puede quedar fuera del tipo.** Martínez (2021, pp. 74-75) analiza el caso del director comercial que cierra un negocio con un lavador sin conocer la alerta que tenía el oficial de cumplimiento. Si el director pudo salir del error con mayor diligencia, su conducta sería, a lo sumo, culposa, y por tanto "atípica" (Martínez, 2021, p. 75).
 4. **La responsabilidad por omisión no sustituye la prueba del origen ilícito.** Antes de discutir quién debió impedir el lavado, la Fiscalía debe probar que hubo lavado: activos de origen ilícito y una conducta típica del art. 317.
 
-## 16.4. Las penas (art. 71)
+## 6.4. Las penas (art. 71)
 
 El art. 71 establece las penas específicas para las personas jurídicas[^art71]:
 
@@ -91,7 +91,7 @@ El art. 71 establece las penas específicas para las personas jurídicas[^art71]
 
 La disolución es, en la práctica, la "pena de muerte" de la empresa. Por eso su imposición debe someterse a un estricto control de **proporcionalidad** (art. 76.6 de la Constitución): no puede imponerse a una empresa con una actividad lícita real y con trabajadores, cuando una pena menos gravosa es suficiente.
 
-## 16.5. Derecho comparado
+## 6.5. Derecho comparado
 
 | País | Norma | Efecto del programa de cumplimiento |
 |---|---|---|
@@ -102,30 +102,30 @@ La disolución es, en la práctica, la "pena de muerte" de la empresa. Por eso s
 
 Como podrá apreciar el lector, el Ecuador está en una posición más severa que sus vecinos. La empresa que invirtió seriamente en prevención y, aun así, sufrió la conducta delictiva de un empleado, recibe una pena atenuada, pero no queda exenta. La doctrina nacional ya ha advertido esta diferencia y propone que el programa de cumplimiento funcione como **eximente** (Iurisdictio, 2021 [verificar el autor y la página]).
 
-## 16.6. Estrategia de defensa de la persona jurídica
+## 6.6. Estrategia de defensa de la persona jurídica
 
-### 16.6.1. Atacar los presupuestos del art. 49
+### 6.6.1. Atacar los presupuestos del art. 49
 
 1. **¿Es un "supuesto previsto en este Código"?** La expresión puede leerse de dos formas: que la persona jurídica responde por **cualquier** delito, o que responde solo por los delitos en los que el COIP **prevé expresamente** una pena para ella. La defensa debe sostener la segunda lectura, más estricta y conforme al art. 13 del COIP[^supuestos].
 2. **¿Quién cometió el delito?** Debe ser una de las personas que enumera el art. 49. Si el autor es un tercero sin vínculo con la empresa, no hay responsabilidad.
 3. **¿En beneficio de quién?** Si el beneficio fue para la persona natural o para un tercero ajeno, opera la exclusión del inciso final del art. 49.
 4. **¿Se probó el delito de la persona natural?** Aunque la responsabilidad de la empresa es independiente, la Fiscalía debe probar que **existió el delito**, aunque no identifique o no condene a la persona natural.
 
-### 16.6.2. El programa de cumplimiento
+### 6.6.2. El programa de cumplimiento
 
 - **Como atenuante (art. 45.7):** acredite con documentos que el programa existía **antes** del delito, que se aplicaba en la práctica y que cumplía los requisitos mínimos del art. 49. Un programa en papel, sin capacitación, sin canal de denuncias y sin controles reales, no sirve.
 - **Como argumento de culpabilidad:** si la empresa estaba bien organizada y el delito fue obra de un empleado que eludió fraudulentamente los controles, la defensa puede sostener, desde el modelo de autorresponsabilidad, que **no hubo defecto de organización** y, por tanto, que falta la culpabilidad propia de la empresa. Es un argumento doctrinal que todavía no tiene respaldo expreso en el texto legal, pero que se apoya en el principio de culpabilidad.
 
-### 16.6.3. La proporcionalidad de la pena
+### 6.6.3. La proporcionalidad de la pena
 
 - Pida que se escoja la pena **menos gravosa** suficiente, y argumente contra la disolución cuando la empresa tiene actividad lícita real.
 - Haga valer los **derechos de los terceros de buena fe**: trabajadores, acreedores, proveedores y clientes.
 
-### 16.6.4. Las garantías procesales de la persona jurídica
+### 6.6.4. Las garantías procesales de la persona jurídica
 
 La persona jurídica procesada tiene **derecho a la defensa**, a ser informada de la imputación, a presentar prueba y a recurrir. Conviene definir desde el inicio **quién la representa en el proceso**: no debería ser la misma persona natural acusada, porque sus intereses pueden ser contrapuestos.
 
-## 16.7. Asesoría preventiva: el programa de cumplimiento
+## 6.7. Asesoría preventiva: el programa de cumplimiento
 
 Para el abogado, la responsabilidad penal de la persona jurídica no es solo un tema de litigio. Es también un **servicio de asesoría preventiva**. Un programa de cumplimiento mínimo debería contener:
 1. Un **mapa de riesgos** penales propio de la actividad de la empresa.
@@ -139,7 +139,7 @@ Para el abogado, la responsabilidad penal de la persona jurídica no es solo un 
 
 [Nota del autor: espacio para la experiencia del autor en la asesoría a empresas, o para un comentario sobre el nivel de implementación del compliance en el Ecuador.]
 
-## 16.8. Caso práctico resuelto
+## 6.8. Caso práctico resuelto
 
 ### Los hechos
 "Constructora del Litoral S.A.", empresa con 120 trabajadores, gana tres contratos municipales. Se descubre que su gerente comercial pagó sobornos a un funcionario del comité de contratación. La empresa tenía un código de ética y un oficial de cumplimiento desde 2022, pero no tenía canal de denuncias ni capacitaciones documentadas. La Fiscalía acusa al gerente por cohecho activo y a la empresa como persona jurídica, y pide su disolución.
@@ -153,7 +153,7 @@ Para el abogado, la responsabilidad penal de la persona jurídica no es solo un 
 ### Conclusión
 La defensa difícilmente evitará la responsabilidad de la empresa, pero puede lograr una **pena atenuada y proporcional**, y evitar la disolución. La lección para la asesoría preventiva es evidente: un programa de cumplimiento completo y documentado, implementado antes de los hechos, habría fortalecido mucho la posición de la empresa.
 
-## 16.9. Lista de revisión
+## 6.9. Lista de revisión
 
 - [ ] ¿Es una persona jurídica de derecho privado?
 - [ ] ¿El delito imputado prevé expresamente una pena para la persona jurídica?
@@ -163,14 +163,6 @@ La defensa difícilmente evitará la responsabilidad de la empresa, pero puede l
 - [ ] ¿Existía un programa de cumplimiento antes del delito? ¿Se aplicaba en la práctica?
 - [ ] ¿La pena pedida es proporcional? ¿Se protege a los terceros de buena fe?
 - [ ] ¿Quién representa a la empresa en el proceso, y tiene intereses contrapuestos con la persona natural acusada?
-
-## 16.10. Preguntas para la reflexión
-
-1. ¿Qué diferencia hay entre el modelo de heterorresponsabilidad y el de autorresponsabilidad?
-2. ¿Por qué la exclusión del inciso final del art. 49 es una herramienta importante para la defensa?
-3. ¿Qué diferencia de fondo hay entre el compliance en el Ecuador y en España, Chile o Perú?
-4. ¿Cómo interpretaría la expresión "en los supuestos previstos en este Código" del art. 49?
-5. ¿Con qué argumentos se opondría a la disolución de una empresa?
 
 ## Referencias
 
