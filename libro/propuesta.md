@@ -1,7 +1,7 @@
 # Proyecto de libro: El delito de lavado de activos en el Ecuador
 
 **Autor:** Ab. Fernando Tufiño Valladares
-**Estado:** en redacción. Borradores listos: capítulos 1 a 9.
+**Estado:** en redacción. Borradores listos: capítulos 1 a 10.
 
 ## Título
 **El delito de lavado de activos en el Ecuador: dogmática, prueba y estrategias de defensa**
@@ -33,7 +33,7 @@
 ### Parte II. Estrategia de defensa
 8. La defensa en la investigación previa.
 9. La pericia contable y patrimonial de parte.
-10. La litigación en juicio *(pendiente)*.
+10. La litigación en juicio.
 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección *(pendiente)*.
 
 ### Anexos *(pendientes)*

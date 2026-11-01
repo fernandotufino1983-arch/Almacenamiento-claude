@@ -32,7 +32,7 @@ Es por esta razón que la primera tarea del defensor es entender **qué document
 
 La UAFE puede requerir información a los sujetos obligados y a "otras personas naturales o jurídicas", que deben entregarla dentro de diez días, prorrogables por cinco más[^art19]. Y los bancos, en ejercicio de su debida diligencia, suelen pedir a sus clientes que justifiquen el origen de ciertos depósitos antes de reportarlos.
 
-Mi recomendación es tratar esas respuestas como si fueran el primer acto del proceso penal, porque en la práctica lo son. Lo que el cliente explique a su banco o a la UAFE quedará registrado, y llegará a la Fiscalía. Una explicación improvisada, incompleta o contradictoria se convierte después en un indicio: el de la "ausencia de una explicación razonable" que la Fiscalía suele invocar (capítulo 4, sección 4.2.4). Una explicación documentada, en cambio, puede evitar que el reporte llegue a convertirse en una investigación.
+Mi recomendación es tratar esas respuestas como si fueran el primer acto del proceso penal, porque en la práctica lo son. Lo que el cliente explique a su banco o a la UAFE quedará registrado, y llegará a la Fiscalía. Una explicación improvisada, incompleta o contradictoria se convierte después en un indicio: el de la "ausencia de una explicación razonable" que la Fiscalía suele invocar (capítulo 4, sección 4.8.4). Una explicación documentada, en cambio, puede evitar que el reporte llegue a convertirse en una investigación.
 
 ### 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción
 
