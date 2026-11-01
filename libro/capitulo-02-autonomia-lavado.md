@@ -152,6 +152,8 @@ Para ordenar la discusión, conviene distinguir cuatro niveles de exigencia sobr
 | **3. Actividad delictiva genérica** | Que los bienes provienen de una clase de actividad delictiva identificable: narcotráfico, peculado, extorsión, contrabando | **Sí: es el mínimo exigible** |
 | **4. Patrimonio no justificado** | Solo que el procesado no explica su dinero | **No basta** para el lavado |
 
+El nivel 1 tiene defensores en la doctrina nacional. Abarca Galeas sostiene que "la presunción de licitud de los activos solo puede destruirse con la presentación de sentencia penal condenatoria ejecutoriada del delito subyacente", mientras que Calisaya Rojas admite que el origen criminal del patrimonio se pruebe "con prueba suficiente, sea directa o indiciaria" (Abarca Galeas, 2018; Calisaya Rojas, 2018; ambos como se citaron en Villacreses y Herrera, 2023, p. 219). La primera postura es la más garantista, pero choca con el texto del art. 317 y con la Resolución 20-2024. La segunda es la que siguen la ley y la jurisprudencia, y es la que permite a la defensa exigir lo que sí puede exigirse: que esa prueba, directa o indiciaria, sea **suficiente**.
+
 **El nivel 3 es la línea roja.** La Fiscalía no necesita probar qué delito concreto generó cada dólar, pero sí debe probar, más allá de toda duda razonable, que el dinero proviene de **alguna actividad delictiva identificable**. Si su prueba se queda en el nivel 4 ("no sabemos de dónde salió, pero no lo justifica"), el tipo penal de lavado simplemente no se configura.
 
 ### 2.4.4. La frontera con el enriquecimiento no justificado
@@ -279,6 +281,12 @@ Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad del
 - [ ] En casación, ¿escogí la causal correcta (indebida aplicación o errónea interpretación)?
 
 ## Referencias
+
+Calisaya Rojas, C. N. (2018). La autonomía del delito de lavado de activos y el principio de imputación necesaria. *Revista de Derecho*, 121-139 [citado a través de Villacreses y Herrera, 2023].
+
+Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
+
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
 
 Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thomson Reuters Aranzadi.
 

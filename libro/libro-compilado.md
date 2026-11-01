@@ -418,6 +418,8 @@ Para ordenar la discusión, conviene distinguir cuatro niveles de exigencia sobr
 | **3. Actividad delictiva genérica** | Que los bienes provienen de una clase de actividad delictiva identificable: narcotráfico, peculado, extorsión, contrabando | **Sí: es el mínimo exigible** |
 | **4. Patrimonio no justificado** | Solo que el procesado no explica su dinero | **No basta** para el lavado |
 
+El nivel 1 tiene defensores en la doctrina nacional. Abarca Galeas sostiene que "la presunción de licitud de los activos solo puede destruirse con la presentación de sentencia penal condenatoria ejecutoriada del delito subyacente", mientras que Calisaya Rojas admite que el origen criminal del patrimonio se pruebe "con prueba suficiente, sea directa o indiciaria" (Abarca Galeas, 2018; Calisaya Rojas, 2018; ambos como se citaron en Villacreses y Herrera, 2023, p. 219). La primera postura es la más garantista, pero choca con el texto del art. 317 y con la Resolución 20-2024. La segunda es la que siguen la ley y la jurisprudencia, y es la que permite a la defensa exigir lo que sí puede exigirse: que esa prueba, directa o indiciaria, sea **suficiente**.
+
 **El nivel 3 es la línea roja.** La Fiscalía no necesita probar qué delito concreto generó cada dólar, pero sí debe probar, más allá de toda duda razonable, que el dinero proviene de **alguna actividad delictiva identificable**. Si su prueba se queda en el nivel 4 ("no sabemos de dónde salió, pero no lo justifica"), el tipo penal de lavado simplemente no se configura.
 
 #### 2.4.4. La frontera con el enriquecimiento no justificado
@@ -545,6 +547,12 @@ Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad del
 - [ ] En casación, ¿escogí la causal correcta (indebida aplicación o errónea interpretación)?
 
 ### Referencias
+
+Calisaya Rojas, C. N. (2018). La autonomía del delito de lavado de activos y el principio de imputación necesaria. *Revista de Derecho*, 121-139 [citado a través de Villacreses y Herrera, 2023].
+
+Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
+
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
 
 Blanco Cordero, I. (2015). *El delito de blanqueo de capitales* (4.ª ed.). Thomson Reuters Aranzadi.
 
@@ -1622,6 +1630,12 @@ Frente a esa postura, una parte de la doctrina considera que el lavado realizado
 
 Ambas posturas pueden conciliarse con un criterio que la propia Fiscalía recoge. Patricia Faraldo distingue el simple disfrute del producto del delito de la operación destinada a darle apariencia de licitud: "la compra de un coche deportivo para su disfrute por el narcotraficante no es un acto de blanqueo, mientras que si ese mismo auto se adquiere para ser vendido en el extranjero, y de este modo justificar así un aumento patrimonial que en realidad tiene su origen en su actividad ilícita, estaríamos ante un ejemplo de blanqueo" (Faraldo Cabana, 2014, p. 51, como se citó en Fiscalía General del Estado, 2021, p. 47). Para la defensa, esa es la línea que hay que trazar: el autolavado exige una conducta **adicional** de ocultamiento o de apariencia de licitud. Si el autor del delito de origen solo tiene, usa o gasta lo que obtuvo, no hay un segundo delito, sino el agotamiento del primero[^c5_autolavado].
 
+**El dinero que todavía está "dentro" del delito de origen.** Hay una variante de este problema que se presenta con frecuencia en los casos que nacen de la corrupción, y que conviene tener muy clara. Villacreses y Herrera (2023, pp. 219-220) analizan un caso en el que la Fiscalía acusó por lavado de activos a quienes habían recibido sobornos para la adjudicación de una obra pública, y el tribunal terminó condenando por **cohecho**: los hechos imputados como lavado "realmente correspondían a un trama de sobornos", y los activos "no tenían una procedencia ilícita por encontrarse aun en la esfera delictiva de otro tipo penal, es decir del delito previo que es el cohecho". Los autores se apoyan en Abarca Galeas, para quien los activos de origen ilícito solo pueden ser objeto de lavado cuando se encuentran "fuera del tipo de delito que los produjo o no constituya su resultado"; su ejemplo es el de quien obtiene una suma de dinero mediante una estafa y es aprehendido en posesión de ella, que no comete por eso un lavado (Abarca Galeas, 2018, como se citó en Villacreses y Herrera, 2023, p. 218).
+
+Es importante diferenciar dos momentos. El soborno que recibe el servidor, o el dinero que se apropia el autor de un peculado, es el **resultado** de su delito: recibirlo y tenerlo forma parte del cohecho o del peculado, no de un lavado posterior. Solo cuando ese delito se ha **agotado** y comienza una conducta nueva, dirigida a dar apariencia de licitud a lo obtenido, puede hablarse de lavado. Como concluyen los mismos autores, esa separación es la que evita que se vulnere el *ne bis in idem*: el lavado solo es un delito distinto cuando sus actos "han superado por completo al delito que los antecede" (Villacreses y Herrera, 2023, p. 220)[^c5_esfera].
+
+Para la defensa, la consecuencia práctica es clara. Cuando la acusación por lavado describe, en realidad, la recepción o la tenencia del producto del delito de origen, el abogado debe pedir que se recalifique el hecho. Si el delito de origen no fue acusado, o si ya fue juzgado, esa recalificación puede significar la absolución por el lavado.
+
 ### 5.10. Caso práctico resuelto
 
 #### Los hechos
@@ -1649,6 +1663,10 @@ Frente a una acusación por trece delitos acumulados, una defensa técnica en ma
 - [ ] ¿Alguno de los delitos acumulados ya prescribió?
 
 ### Referencias
+
+Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
+
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
 
 Mir Puig, S. (2016). *Derecho penal. Parte general* (10.ª ed.). Reppertor.
 
@@ -1681,6 +1699,8 @@ Corte Constitucional del Ecuador. (2019). *Sentencia No. 7-17-CN/19* [verificar 
 Corte Nacional de Justicia del Ecuador. (2015, 17 de septiembre). *Resolución No. 12-2015*. Registro Oficial Suplemento 593 de 22 de septiembre de 2015 [dejada sin efecto por la Resolución No. 02-2019].
 
 Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 02-2019* [precedente jurisprudencial obligatorio sobre el concurso ideal en el tráfico de sustancias sujetas a fiscalización]..
+
+[^c5_esfera]: COIP, art. 317, en relación con el art. 76.7, lit. i, de la Constitución (*ne bis in idem*) y con el art. 21 del COIP (concurso ideal). Comentario del autor: el artículo de Villacreses y Herrera no identifica el número de juicio del caso que analiza; antes de citarlo como precedente en un escrito, conviene ubicar la sentencia. **[verificar el caso analizado]**
 
 [^c5_autolavado]: COIP, art. 317, inciso que declara la autonomía del lavado "sin perjuicio de los casos en que tenga lugar la acumulación de acciones o penas", y art. 20 (concurso real). Comentario del autor: la cláusula de acumulación del art. 317 permite el concurso, pero no lo impone. Antes de acumular, el juez debe establecer que existen dos conductas distintas y no una sola conducta con su agotamiento natural (sección 5.3).
 
