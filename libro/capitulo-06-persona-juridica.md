@@ -153,6 +153,24 @@ Para el abogado, la responsabilidad penal de la persona jurídica no es solo un 
 
 [Nota del autor: espacio para la experiencia del autor en la asesoría a empresas, o para un comentario sobre el nivel de implementación del compliance en el Ecuador.]
 
+### 6.7.1. El pequeño negocio: cuando el empresario es usado sin saberlo
+
+La prevención del lavado suele pensarse para los bancos y las grandes empresas, pero los casos que llegan a los estudios de abogados muestran otra realidad: el pequeño comerciante, el microempresario o el negocio familiar que, sin saberlo, fue utilizado para mover dinero ajeno. Castello Rojas y Segovia Carrillo (2015) lo advierten con claridad: el microempresario puede formar parte del lavado de manera consciente, pero también como "partícipe inocente" (p. 39).
+
+Los mismos autores identifican las situaciones en que esto ocurre con más frecuencia (pp. 39-40):
+
+- el **inversionista** que ofrece inyectar liquidez a un negocio que está naciendo o atraviesa dificultades;
+- el **prestamista** que ofrece dinero con intereses muy bajos o facilidades de pago fuera de lo común;
+- el **proveedor** que ofrece maquinaria o insumos a precios demasiado bajos o con crédito sin garantías;
+- el **cliente** que compra en exceso, paga en efectivo o pide que se facture a nombre de otra persona;
+- el **empleado** contratado sin ninguna verificación previa.
+
+Para el abogado, estas situaciones tienen dos lecturas.
+
+**En la asesoría preventiva**, son las señales de alerta que el microempresario debe conocer. No hace falta un programa de cumplimiento sofisticado: basta con que el negocio identifique a quien le entrega dinero, guarde los contratos y los comprobantes, y desconfíe de las ofertas que no tienen explicación comercial. Una carpeta con la copia de la cédula del inversionista, el contrato de préstamo y los depósitos bancarios puede ser, años después, la diferencia entre un archivo y una acusación.
+
+**En la defensa**, estas mismas situaciones permiten explicar cómo llegó el dinero ilícito al negocio del cliente sin que él lo supiera. El microempresario que aceptó un préstamo de un conocido para salvar su negocio, sin preguntar de dónde provenía el dinero, no actuó con dolo: actuó como actúa cualquier pequeño comerciante que necesita liquidez. Como se explicó en el capítulo 3, el ciudadano común no tiene el deber legal de investigar el origen de cada dólar que recibe. En consecuencia, la defensa debe reconstruir el contexto de la operación, la necesidad económica del negocio, la relación con quien entregó el dinero y la apariencia de normalidad de lo ocurrido, para demostrar que el cliente fue un instrumento y no un lavador.
+
 ## 6.8. Caso práctico resuelto
 
 ### Los hechos
@@ -179,6 +197,8 @@ La defensa difícilmente evitará la responsabilidad de la empresa, pero puede l
 - [ ] ¿Quién representa a la empresa en el proceso, y tiene intereses contrapuestos con la persona natural acusada?
 
 ## Referencias
+
+Castello Rojas, J. R., y Segovia Carrillo, J. E. (2015). *Manual de prevención de lavado de activos y contra el financiamiento del terrorismo para microempresas de Guayaquil* [Proyecto de investigación previo a la obtención del título de Ingeniero Comercial, Universidad Laica Vicente Rocafuerte de Guayaquil].
 
 Gómez-Jara Díez, C. (2010). *Fundamentos modernos de la responsabilidad penal de las personas jurídicas*. B de F.
 

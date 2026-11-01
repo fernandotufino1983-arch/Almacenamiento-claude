@@ -126,6 +126,21 @@ Conviene, sin embargo, no tomarlas como un esquema rígido. Las etapas "se solap
 
 La importancia práctica de las fases es enorme. La Fiscalía suele tener abundante prueba de la estratificación y de la integración, porque son operaciones que dejan rastro documental, pero le resulta mucho más difícil probar la colocación, es decir, de dónde salió el dinero. Como podrá apreciar el litigante, es precisamente ahí donde la defensa debe concentrar su trabajo.
 
+### 1.7.1. Las técnicas más frecuentes y lo que significan para la defensa
+
+Además de las fases, la literatura de prevención describe las técnicas con las que el dinero ilícito se introduce y se mueve en la economía. Castello Rojas y Segovia Carrillo (2015), en un trabajo pensado para las microempresas de Guayaquil, recogen las más habituales (pp. 39-47):
+
+1. **El "trabajo de hormiga"**, es decir, la división de grandes sumas en depósitos pequeños para que no resulten sospechosos (p. 39).
+2. **La complicidad de funcionarios** de las instituciones financieras, que permiten el ingreso del dinero sin aplicar los controles (pp. 39-40).
+3. **La mezcla de fondos lícitos e ilícitos** en negocios que, por su naturaleza, manejan mucho efectivo, como estaciones de combustible, restaurantes o supermercados, que sirven para justificar depósitos importantes (p. 43).
+4. **Las empresas fantasma**, que solo existen en los documentos y no realizan la actividad que declaran (p. 39).
+5. **El préstamo de regreso**, en el que el delincuente constituye una sociedad en el exterior y se "presta" a sí mismo el dinero que generó con el delito (p. 46).
+6. **La falsa facturación de comercio exterior**, mediante la sobrevaloración de importaciones o exportaciones para justificar fondos recibidos del extranjero (p. 46).
+
+Para el abogado defensor, conocer estas técnicas tiene una utilidad que va más allá de lo descriptivo. La Fiscalía y la UAFE construyen sus casos comparando la conducta del investigado con estas tipologías, y la acusación suele decir, en el fondo, "lo que hizo el procesado se parece a una técnica de lavado". Si bien es cierto que el parecido puede ser un punto de partida para investigar, es importante diferenciar entre el parecido y la prueba. Un restaurante que deposita su recaudación diaria en efectivo hace exactamente lo mismo que un restaurante usado para mezclar fondos; un comerciante que hace varios depósitos pequeños porque vende al por menor hace lo mismo que quien fracciona para eludir un reporte. La conducta externa es idéntica. Lo que separa una cosa de la otra es el origen del dinero y el conocimiento de quien lo maneja, y eso es lo que la Fiscalía debe probar.
+
+Es por esta razón que, frente a una acusación construida sobre una tipología, la defensa debe pedir que se precise qué hecho concreto, distinto de la actividad normal del negocio, revela el lavado. Si la única diferencia entre el cliente y un comerciante honesto es la sospecha, no hay delito.
+
 ## 1.8. El bien jurídico protegido
 
 La discusión sobre el bien jurídico no es académica. Determina el alcance del tipo penal y ofrece argumentos de lesividad (artículo 3 del COIP). Las posturas principales son tres:
@@ -195,6 +210,8 @@ Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 Las dos sentencias de casación que analizo en el capítulo 2, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ## Referencias
+
+Castello Rojas, J. R., y Segovia Carrillo, J. E. (2015). *Manual de prevención de lavado de activos y contra el financiamiento del terrorismo para microempresas de Guayaquil* [Proyecto de investigación previo a la obtención del título de Ingeniero Comercial, Universidad Laica Vicente Rocafuerte de Guayaquil].
 
 Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e internacionalización de la respuesta. En I. Blanco Cordero, E. A. Fabián Caparrós, V. Prado Saldarriaga, G. Santander Abril y J. Zaragoza Aguado, *Combate al lavado de activos desde el sistema judicial* (5.ª ed., pp. 11-94). Organización de los Estados Americanos, Departamento contra la Delincuencia Organizada Transnacional.
 

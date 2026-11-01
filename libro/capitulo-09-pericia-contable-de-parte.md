@@ -154,6 +154,8 @@ La pericia de parte debe enfrentar este problema con método, y no con afirmacio
 
 En este orden de ideas, el perito de parte no debe pretender que todo el efectivo está justificado si no lo está. La credibilidad del informe depende de su prudencia: es preferible justificar con solidez el setenta por ciento del patrimonio cuestionado que afirmar sin respaldo que se justifica el cien por ciento. El tribunal confía en el perito que reconoce los límites de su trabajo.
 
+Conviene, además, que el perito de parte conozca la tipología con la que la Fiscalía suele leer estos casos. La literatura de prevención describe la mezcla de fondos lícitos e ilícitos en negocios que manejan habitualmente efectivo, como estaciones de combustible, restaurantes o supermercados, que "suelen ser utilizados en la práctica como pantallas para poder justificar el depósito de cantidades significativas en efectivo" (Castello Rojas y Segovia Carrillo, 2015, p. 43). Frente a esa lectura, la pericia de parte debe demostrar que los depósitos guardan relación con el volumen real del negocio: si las ventas estimadas a partir de las compras a proveedores explican los depósitos, la tipología no se cumple. Lo que delata la mezcla es la desproporción entre lo que el negocio puede vender y lo que deposita, no el uso del efectivo.
+
 ## 9.9. El informe pericial de parte
 
 ### 9.9.1. Estructura recomendada
@@ -257,6 +259,8 @@ Con estos cuatro ajustes, la pericia de parte reduce la diferencia no explicada 
 Arroyo Chacón, J. I. (2012). Métodos de investigación financiera para detectar y probar el delito de lavado de dinero. *Revista Nacional de Administración*, *3*(2). https://doi.org/10.22458/rna.v3i2.529 [citado a través de Fiscalía General del Estado, 2021].
 
 Blanco Cordero, I. (2011). El delito fiscal como actividad delictiva previa del blanqueo de capitales. *Revista Electrónica de Ciencias Penales y Criminología* [citado a través de Fiscalía General del Estado, 2021].
+
+Castello Rojas, J. R., y Segovia Carrillo, J. E. (2015). *Manual de prevención de lavado de activos y contra el financiamiento del terrorismo para microempresas de Guayaquil* [Proyecto de investigación previo a la obtención del título de Ingeniero Comercial, Universidad Laica Vicente Rocafuerte de Guayaquil].
 
 Fiscalía General del Estado. (2021). *Manual de lavado de activos: Un acercamiento al delito y parámetros metodológicos de investigación*. Dirección de Estudios Penales [el documento no indica la fecha de emisión; verificar].
 
