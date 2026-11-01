@@ -379,7 +379,7 @@ Quiero agradecer a mis colegas y a mis clientes, de quienes he aprendido lo que 
 
 Guayaquil, noviembre de 2026
 
-**Ab. Fernando Tufiño Valladares**
+**Mgtr. Fernando Tufiño Valladares**
 
 [^p0_conflicto]: Decreto Ejecutivo 111, de 9 de enero de 2024, que reconoció la existencia de un conflicto armado interno [verificar número y fecha del Registro Oficial].
 
