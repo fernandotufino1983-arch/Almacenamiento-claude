@@ -99,7 +99,7 @@ Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse a
 
 ### 1.6. Concepto
 
-La doctrina ofrece definiciones que conviene conocer, porque cada una pone el acento en un aspecto distinto. Para Fabián Caparrós, el lavado es "el proceso tendiente a obtener la aplicación en actividades económicas lícitas de una masa patrimonial derivada de cualquier género de conductas ilícitas, con independencia de cuál sea la forma que esa masa adopte, mediante la progresiva concesión a la misma de una apariencia de legitimidad" (Fabián Caparrós, 1998, p. 4, como se citó en Apolo-Salazar, 2021, pp. 363-364). Durrieu, desde la doctrina argentina, lo describe como el "proceso por el cual los activos derivados de actividades criminales eran manipulados de tal manera que aparecían como si fueran provenientes de actividades y negocios legítimos" (Durrieu, 2006, p. 2, como se citó en Apolo-Salazar, 2021, p. 363).
+La doctrina ofrece definiciones que conviene conocer, porque cada una pone el acento en un aspecto distinto. Para Fabián Caparrós, el lavado es "el proceso tendente a obtener la aplicación en actividades económicas lícitas de una masa patrimonial derivada de cualquier género de conductas ilícitas, con independencia de cuál sea la forma que esa masa adopte, mediante la progresiva concesión a la misma de una apariencia de legalidad" (Fabián Caparrós, 2018, p. 69)[^c1_fc_def]. Durrieu, desde la doctrina argentina, lo describe como el "proceso por el cual los activos derivados de actividades criminales eran manipulados de tal manera que aparecían como si fueran provenientes de actividades y negocios legítimos" (Durrieu, 2006, p. 2, como se citó en Apolo-Salazar, 2021, p. 363).
 
 En la doctrina ecuatoriana, Zambrano Pasquel describe el lavado como el conjunto de conductas que realizan las organizaciones criminales o los delincuentes para "colocar, convertir, ocultar, transformar" las ganancias obtenidas con prácticas ilícitas y "pretender legitimarlas ingresándolas a la actividad financiera o económica lícita" (Zambrano Pasquel, 2010, como se citó en Villacreses y Herrera, 2023, p. 216).
 
@@ -115,6 +115,20 @@ De esta definición se desprenden tres elementos que el abogado debe tener siemp
 
 Si falta cualquiera de los tres, estaremos frente a otra figura, o frente a una conducta atípica.
 
+#### 1.6.1. Riqueza "negra" y riqueza "sucia"
+
+Hay una distinción que el abogado defensor debe dominar, porque está detrás de la mayoría de las acusaciones débiles por lavado. Fabián Caparrós la formula con claridad. **Riqueza negra** es aquella "cuyo titular mantiene al margen de las instancias estatales de control fiscal"; **riqueza sucia** es aquella que, además de permanecer al margen de los circuitos oficiales, "encuentra su origen en una actividad ilícita per se". De ahí se sigue una regla lógica: "toda riqueza sucia es también negra [...], pero no toda riqueza negra es sucia, sino sólo aquélla que se haya obtenido mediante la comisión de operaciones ilícitas" (Fabián Caparrós, 2018, pp. 59-61).
+
+Los ejemplos del propio autor son elocuentes: "impartir clases particulares a domicilio o fabricar zapatos tras la persiana cerrada de un garaje" son actividades lícitas, aunque la renta no se declare al fisco; ese dinero es "meramente 'negro'". El tráfico de drogas, en cambio, genera un capital que, "amén de negro", es "sucio" (Fabián Caparrós, 2018, p. 61). Y el autor añade que, aunque desde la investigación ambas clases de dinero se parezcan y usen técnicas similares, "ello no justifica en modo alguno que, contempladas desde el punto de vista jurídico, ambas categorías sean tratadas de igual forma"; por eso rechaza definir el lavado de modo que resulte "absolutamente indiferente la licitud o ilicitud del origen de los fondos" (Fabián Caparrós, 2018, pp. 62-63).
+
+Como podrá apreciar el lector, esta distinción es la clave de muchos casos en el Ecuador, donde una parte importante de la economía es informal. El comerciante que no declaró todas sus ventas al SRI tiene, a lo sumo, dinero negro: podrá responder por una infracción tributaria, pero no por lavado de activos. Lo que el art. 317 castiga es el dinero sucio. Y la Fiscalía que acusa por lavado debe probar la diferencia.
+
+#### 1.6.2. El lavado es de "capitales", no de cualquier ganancia
+
+Del mismo concepto se desprende un límite que también conviene conocer. Fabián Caparrós observa que quien compra bienes con el dinero robado a un peatón o vende objetos sustraídos de un automóvil aleja, en cierto sentido, el beneficio de su origen ilícito; pero en esos casos el sujeto "no pretende lavar unas ganancias sucias, sino tan solo actualizar el ánimo de lucro que motivó su previa actuación antijurídica". Por eso propone limitar el fenómeno del lavado a los casos en que la cuantía de los bienes es lo suficientemente importante "como para que puedan ser considerados un 'capital'" (Fabián Caparrós, 2018, pp. 64-65). En la misma línea, excluye del concepto "los actos de mero consumo", es decir, "la adquisición de bienes o servicios guiada a la satisfacción de necesidades corrientes" (Fabián Caparrós, 2018, p. 42).
+
+El art. 317 del COIP no fija un monto mínimo para que exista el delito: el monto solo gradúa la pena. Pero la idea sirve a la defensa en dos sentidos. Primero, para sostener que el simple gasto del producto de un delito, para vivir o para consumir, no es lavado, sino agotamiento del delito de origen (capítulo 5, sección 5.6.3). Y segundo, para invocar el principio de lesividad frente a conductas aisladas y de escaso monto que no tienen capacidad real de afectar el orden económico (sección 1.8).
+
 ### 1.7. Las fases del lavado
 
 La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma separada ni en este orden, pero que ayudan a entender la dinámica del delito (Blanco Cordero, 2015, p. [verificar]; Prado Saldarriaga, 2007, p. [verificar]):
@@ -125,6 +139,8 @@ La doctrina y el GAFI describen tres fases, que no siempre se presentan de forma
 | **2. Estratificación** | Se multiplican las operaciones para borrar el rastro | Transferencias entre cuentas y países, sociedades sin actividad real, criptoactivos |
 | **3. Integración** | El dinero regresa a la economía con apariencia lícita | Compra de inmuebles, inversiones, préstamos simulados, facturación ficticia |
 
+Conviene, sin embargo, no tomarlas como un esquema rígido. Las etapas "se solapan en muchas ocasiones e incluso coinciden", sobre todo en la criminalidad económica, y el lavado "es un proceso y no el resultado de un proceso" (Fabián Caparrós, 2018, p. 58). Para la defensa, esto significa que la Fiscalía no puede presentar como prueba del lavado la simple coincidencia de una operación con una de las fases: debe probar el proceso de distanciamiento del dinero respecto de su origen ilícito.
+
 La importancia práctica de las fases es enorme. La Fiscalía suele tener abundante prueba de la estratificación y de la integración, porque son operaciones que dejan rastro documental, pero le resulta mucho más difícil probar la colocación, es decir, de dónde salió el dinero. Como podrá apreciar el litigante, es precisamente ahí donde la defensa debe concentrar su trabajo.
 
 ### 1.8. El bien jurídico protegido
@@ -133,9 +149,9 @@ La discusión sobre el bien jurídico no es académica. Determina el alcance del
 
 1. **El orden socioeconómico**, entendido como la libre competencia y la integridad del sistema financiero. Es la postura dominante (Fabián Caparrós, 1998, p. 165, como se citó en Martínez, 2021, p. 32).
 2. **La administración de justicia**, porque el lavado obstaculiza la persecución del delito de origen y el decomiso de sus ganancias.
-3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos. En la doctrina ecuatoriana, Zambrano Pasquel lo califica como un delito "complejo", porque ataca varios bienes jurídicos a la vez (Zambrano Pasquel, 2020, p. 86, como se citó en Apolo-Salazar, 2021, p. 365).
+3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos. Fabián Caparrós reconoce ese carácter pluriofensivo, pero sostiene que el bien jurídico que justifica la intervención penal y sirve de pauta para interpretar el tipo es el **orden socioeconómico** consagrado en la Constitución: la credibilidad de los agentes del mercado y la libre competencia (Fabián Caparrós, 2018, p. 54). En la doctrina ecuatoriana, Zambrano Pasquel lo califica como un delito "complejo", porque ataca varios bienes jurídicos a la vez (Zambrano Pasquel, 2020, p. 86, como se citó en Apolo-Salazar, 2021, p. 365).
 
-En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^c1_lesividad]. El art. 3 del COIP es expreso: la intervención penal "está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas", y "constituye el último recurso, cuando no son suficientes los mecanismos extrapenales". En el lavado, esos mecanismos existen y son muchos: el sistema de prevención de la ley de 2024, las sanciones administrativas a los sujetos obligados, la extinción de dominio y las sanciones tributarias. Como recuerdan Villacreses y Herrera (2023, p. 212), siguiendo a Mir Puig, el derecho penal no es la herramienta necesaria cuando la protección "puede conseguirse por otros medios, que serán siempre preferibles en cuanto sean menos lesivos para los derechos individuales".
+En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^c1_lesividad]. Fabián Caparrós lo resume en dos requisitos para que la penalización del lavado sea legítima: la existencia de "un interés social cuya importancia justifique su tutela a través de la amenaza penal" y "la demostrada ineficacia del resto de las instancias de control social" para protegerlo (Fabián Caparrós, 2018, p. 44). Su conclusión es que el derecho penal está justificado en el lavado, pero como "ultima ratio, sin duda, pero ratio al fin y al cabo" (Fabián Caparrós, 2018, p. 54). El art. 3 del COIP es expreso: la intervención penal "está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas", y "constituye el último recurso, cuando no son suficientes los mecanismos extrapenales". En el lavado, esos mecanismos existen y son muchos: el sistema de prevención de la ley de 2024, las sanciones administrativas a los sujetos obligados, la extinción de dominio y las sanciones tributarias. Como recuerdan Villacreses y Herrera (2023, p. 212), siguiendo a Mir Puig, el derecho penal no es la herramienta necesaria cuando la protección "puede conseguirse por otros medios, que serán siempre preferibles en cuanto sean menos lesivos para los derechos individuales".
 
 ### 1.9. El marco normativo vigente
 
@@ -180,6 +196,8 @@ Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 Las dos sentencias de casación que analizo en el capítulo 2, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ### Referencias
+
+Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e internacionalización de la respuesta. En I. Blanco Cordero, E. A. Fabián Caparrós, V. Prado Saldarriaga, G. Santander Abril y J. Zaragoza Aguado, *Combate al lavado de activos desde el sistema judicial* (5.ª ed., pp. 11-94). Organización de los Estados Americanos, Departamento contra la Delincuencia Organizada Transnacional.
 
 Zambrano Pasquel, A. (2010). *Lavado de activos: Aproximaciones desde la imputación objetiva y la autoría mediata*. Corporación de Estudios y Publicaciones [citado a través de Villacreses y Herrera, 2023].
 
@@ -228,6 +246,8 @@ Organización de las Naciones Unidas. (2003). *Convención de las Naciones Unida
 **Jurisprudencia**
 
 Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 20-2024* [precedente jurisprudencial obligatorio sobre lavado de activos; verificar el Registro Oficial].
+
+[^c1_fc_def]: La misma definición aparece en la obra de 1998 del autor, *El delito de blanqueo de capitales* (Colex), p. 4, según la cita de Apolo-Salazar (2021, pp. 363-364), con la expresión "apariencia de legitimidad". Se sigue aquí la versión de 2018, que dice "apariencia de legalidad".
 
 [^c1_ley2024]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, arts. 7 a 15 (CONCLAFT), 16 y 17 (UAFE), 26 a 31 (sujetos obligados), 33 (prohibición de uso de efectivo), 91 a 94 (beneficiarios finales), disposición reformatoria primera (derogatoria de los arts. 318 y 368 del COIP), disposición derogatoria única y disposición final única. Comentario del autor: el texto ha tenido una historia accidentada. El Decreto Ley de Emergencia No. 477 (Registro Oficial Suplemento 700 de 10 de diciembre de 2024) derogó varios de sus artículos, pero la Corte Constitucional lo declaró inconstitucional por la forma, con efectos retroactivos (Registro Oficial Suplemento 8 de 27 de marzo de 2025); y el art. 17.1, agregado por la Ley Orgánica de Solidaridad Nacional, cayó con la declaratoria de inconstitucionalidad de esa ley (Registro Oficial 96 de 3 de octubre de 2025). Antes de citar un artículo, conviene verificar su estado. **[verificar si la derogatoria del art. 318 rigió desde la publicación o desde la entrada en vigencia de la ley]**
 
@@ -755,6 +775,8 @@ Esta distinción importa porque el art. 317 del COIP **no admite la modalidad cu
 
 Para la defensa, la pregunta clave en el contraexamen del oficial de cumplimiento o del funcionario es siempre la misma: **¿qué sabía, en concreto, sobre este cliente y en qué momento?** Una alerta genérica del sistema, una tipología del GAFILAT o un incumplimiento documental no equivalen al conocimiento concreto que exige el dolo.
 
+Fabián Caparrós explica por qué esta distinción no es un artificio de la defensa, sino la lógica misma del sistema de prevención. Las obligaciones administrativas de los sujetos obligados buscan "adelantar la barrera de protección" mediante el control de actos que "la experiencia nos demuestre que sean idóneos" para el lavado: "no se sanciona el hecho de blanquear, sino la realización de conductas que, generalmente implican un riesgo de blanqueo" (Fabián Caparrós, 2018, p. 51). Es decir, el incumplimiento de la debida diligencia es, por definición, una infracción de peligro en el plano administrativo. Solo cuando se prueba que quien la incumplió lo hizo "con objeto de blanquear" se pasa al ámbito penal (Fabián Caparrós, 2018, p. 51).
+
 ### 3.5. La "ignorancia deliberada"
 
 #### 3.5.1. Qué es
@@ -934,6 +956,8 @@ Con la prueba descrita, la responsabilidad de Andrea por lavado de activos no pu
 
 ### Referencias
 
+Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e internacionalización de la respuesta. En I. Blanco Cordero, E. A. Fabián Caparrós, V. Prado Saldarriaga, G. Santander Abril y J. Zaragoza Aguado, *Combate al lavado de activos desde el sistema judicial* (5.ª ed., pp. 11-94). Organización de los Estados Americanos, Departamento contra la Delincuencia Organizada Transnacional.
+
 Jakobs, G. (1997). *Derecho penal. Parte general: Fundamentos y teoría de la imputación* (2.ª ed., J. Cuello Contreras y J. L. Serrano González de Murillo, Trads.). Marcial Pons.
 
 Mir Puig, S. (2016). *Derecho penal. Parte general* (10.ª ed.). Reppertor.
@@ -1066,6 +1090,8 @@ Con todo respeto, no puedo compartir la primera afirmación, y creo que la segun
 3. **Lo que sí existe es una carga práctica, no jurídica.** Aquí está lo que la segunda afirmación tiene de cierto. Cuando la Fiscalía prueba indicios sólidos, la defensa que guarda silencio corre el riesgo de que el tribunal considere que no existe una explicación alternativa razonable. Por eso la defensa **conviene** que pruebe el origen lícito, aunque no esté **obligada** a hacerlo. La diferencia no es un matiz: si la Fiscalía no prueba los indicios, el procesado debe ser absuelto aunque no haya explicado nada; y si la explicación de la defensa no convence del todo, pero deja una duda razonable, también.
 
 Como podrá apreciar el lector, la regla correcta es la que vimos en la sección anterior: a la hipótesis de la defensa le basta con ser **plausible**, mientras que la de la acusación debe probarse más allá de toda duda razonable. Incluso la autora que sostiene la inversión termina reconociendo que, en definitiva, "es la fiscalía quien deberá demostrar" el incremento injustificado, la vinculación con actividades delictivas y la ausencia de actividades que justifiquen los activos, y que "se debe establecer el nexo causal, para desvirtuar la presunción de inocencia" (Apolo-Salazar, 2021, p. 367).
+
+Lo reconoce incluso la doctrina que más ha impulsado la persecución del lavado. Fabián Caparrós, al describir la paradoja del lavador, admite que este se refugia "tras el onus probandi que, por exigencia constitucional, debe recaer siempre sobre la acusación" (Fabián Caparrós, 2018, p. 71). Es decir, el autor que fundamenta la necesidad de castigar el lavado no discute que la carga de probar el origen ilícito corresponde a quien acusa.
 
 Exigir al procesado que pruebe su inocencia no es aplicar la autonomía del lavado: es invertir la presunción de inocencia.
 
@@ -1259,7 +1285,9 @@ El primer paso es verificar que cada indicio esté **probado** por un medio de p
 Muchas inferencias fallan porque la regla de experiencia que las sostiene es **falsa, débil o demasiado general**.
 - "Quien maneja efectivo suele ser un lavador" es falso en un país donde una parte importante de la economía es informal y funciona con efectivo.
 - "Quien tiene un pariente investigado por narcotráfico participa de esa actividad" es una generalización inaceptable, que además vulnera el principio de culpabilidad por el hecho propio.
-- "Quien no declaró sus ingresos al SRI los obtuvo de forma ilícita" confunde la informalidad tributaria con el origen delictivo.
+- "Quien no declaró sus ingresos al SRI los obtuvo de forma ilícita" confunde la informalidad tributaria con el origen delictivo. Es la distinción entre riqueza "negra" y riqueza "sucia" que explicamos en el capítulo 1 (sección 1.6.1).
+
+Hay, además, un argumento de fondo contra las reglas que convierten un instrumento financiero en indicio. Fabián Caparrós muestra que el lavador usa instituciones que tienen fines legítimos, pero con otro propósito: no usa los cajeros "para disponer de dinero en efectivo", sino "para trocar moneda evitando el control"; no constituye personas jurídicas "para lograr objetivos inalcanzables para sujetos individuales, sino para fingir titularidades". Y concluye que "el ordenamiento no puede censurar esas irregularidades en sí mismas" (Fabián Caparrós, 2018, pp. 40-41). Es decir, lo que distingue al lavado no es el instrumento, sino la finalidad y el origen del dinero. Una regla de experiencia que infiere el lavado del solo uso del instrumento (el efectivo, la sociedad, la transferencia al exterior) castiga, en realidad, el uso normal de instituciones lícitas.
 
 La defensa debe obligar a la acusación, y al juez, a **explicitar la regla de experiencia**, porque una regla que se expone en voz alta suele revelar su debilidad.
 
@@ -1344,6 +1372,8 @@ La acusación acredita, a lo sumo, un patrimonio parcialmente no justificado y u
 - [ ] ¿La resolución explica la inferencia y responde a la hipótesis alternativa?
 
 ### Referencias
+
+Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e internacionalización de la respuesta. En I. Blanco Cordero, E. A. Fabián Caparrós, V. Prado Saldarriaga, G. Santander Abril y J. Zaragoza Aguado, *Combate al lavado de activos desde el sistema judicial* (5.ª ed., pp. 11-94). Organización de los Estados Americanos, Departamento contra la Delincuencia Organizada Transnacional.
 
 Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
 
@@ -1636,7 +1666,7 @@ Es una variante del delito continuado en la que el autor afecta a una **pluralid
 
 Frente a esa postura, una parte de la doctrina considera que el lavado realizado por el propio autor del delito de origen es un **acto posterior copenado**, cuyo desvalor ya está cubierto por la pena del primer delito (Fabián Caparrós, 1998, p. 201; Blanco Cordero, 2015, p. 471, como se citaron en Martínez, 2021, p. 80).
 
-Ambas posturas pueden conciliarse con un criterio que la propia Fiscalía recoge. Patricia Faraldo distingue el simple disfrute del producto del delito de la operación destinada a darle apariencia de licitud: "la compra de un coche deportivo para su disfrute por el narcotraficante no es un acto de blanqueo, mientras que si ese mismo auto se adquiere para ser vendido en el extranjero, y de este modo justificar así un aumento patrimonial que en realidad tiene su origen en su actividad ilícita, estaríamos ante un ejemplo de blanqueo" (Faraldo Cabana, 2014, p. 51, como se citó en Fiscalía General del Estado, 2021, p. 47). Para la defensa, esa es la línea que hay que trazar: el autolavado exige una conducta **adicional** de ocultamiento o de apariencia de licitud. Si el autor del delito de origen solo tiene, usa o gasta lo que obtuvo, no hay un segundo delito, sino el agotamiento del primero[^c5_autolavado].
+Ambas posturas pueden conciliarse con un criterio que la propia Fiscalía recoge. Patricia Faraldo distingue el simple disfrute del producto del delito de la operación destinada a darle apariencia de licitud: "la compra de un coche deportivo para su disfrute por el narcotraficante no es un acto de blanqueo, mientras que si ese mismo auto se adquiere para ser vendido en el extranjero, y de este modo justificar así un aumento patrimonial que en realidad tiene su origen en su actividad ilícita, estaríamos ante un ejemplo de blanqueo" (Faraldo Cabana, 2014, p. 51, como se citó en Fiscalía General del Estado, 2021, p. 47). Para la defensa, esa es la línea que hay que trazar: el autolavado exige una conducta **adicional** de ocultamiento o de apariencia de licitud. Si el autor del delito de origen solo tiene, usa o gasta lo que obtuvo, no hay un segundo delito, sino el agotamiento del primero[^c5_autolavado]. Fabián Caparrós lo expresa al excluir del concepto de lavado "los actos de mero consumo", es decir, "la adquisición de bienes o servicios guiada a la satisfacción de necesidades corrientes" (Fabián Caparrós, 2018, p. 42), y al recordar el "principio de irrelevancia de los actos de autoencubrimiento" (Fabián Caparrós, 2018, p. 64).
 
 **El dinero que todavía está "dentro" del delito de origen.** Hay una variante de este problema que se presenta con frecuencia en los casos que nacen de la corrupción, y que conviene tener muy clara. Villacreses y Herrera (2023, pp. 219-220) analizan un caso en el que la Fiscalía acusó por lavado de activos a quienes habían recibido sobornos para la adjudicación de una obra pública, y el tribunal terminó condenando por **cohecho**: los hechos imputados como lavado "realmente correspondían a un trama de sobornos", y los activos "no tenían una procedencia ilícita por encontrarse aun en la esfera delictiva de otro tipo penal, es decir del delito previo que es el cohecho". Los autores se apoyan en Abarca Galeas, para quien los activos de origen ilícito solo pueden ser objeto de lavado cuando se encuentran "fuera del tipo de delito que los produjo o no constituya su resultado"; su ejemplo es el de quien obtiene una suma de dinero mediante una estafa y es aprehendido en posesión de ella, que no comete por eso un lavado (Abarca Galeas, 2018, como se citó en Villacreses y Herrera, 2023, p. 218).
 
@@ -1671,6 +1701,8 @@ Frente a una acusación por trece delitos acumulados, una defensa técnica en ma
 - [ ] ¿Alguno de los delitos acumulados ya prescribió?
 
 ### Referencias
+
+Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e internacionalización de la respuesta. En I. Blanco Cordero, E. A. Fabián Caparrós, V. Prado Saldarriaga, G. Santander Abril y J. Zaragoza Aguado, *Combate al lavado de activos desde el sistema judicial* (5.ª ed., pp. 11-94). Organización de los Estados Americanos, Departamento contra la Delincuencia Organizada Transnacional.
 
 Abarca Galeas, L. H. (2018). *Comentarios de derecho penal especial y procesal de acuerdo al COIP*. Editorial Jurídica L y L [citado a través de Villacreses y Herrera, 2023].
 

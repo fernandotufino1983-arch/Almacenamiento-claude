@@ -78,6 +78,8 @@ Con todo respeto, no puedo compartir la primera afirmación, y creo que la segun
 
 Como podrá apreciar el lector, la regla correcta es la que vimos en la sección anterior: a la hipótesis de la defensa le basta con ser **plausible**, mientras que la de la acusación debe probarse más allá de toda duda razonable. Incluso la autora que sostiene la inversión termina reconociendo que, en definitiva, "es la fiscalía quien deberá demostrar" el incremento injustificado, la vinculación con actividades delictivas y la ausencia de actividades que justifiquen los activos, y que "se debe establecer el nexo causal, para desvirtuar la presunción de inocencia" (Apolo-Salazar, 2021, p. 367).
 
+Lo reconoce incluso la doctrina que más ha impulsado la persecución del lavado. Fabián Caparrós, al describir la paradoja del lavador, admite que este se refugia "tras el onus probandi que, por exigencia constitucional, debe recaer siempre sobre la acusación" (Fabián Caparrós, 2018, p. 71). Es decir, el autor que fundamenta la necesidad de castigar el lavado no discute que la carga de probar el origen ilícito corresponde a quien acusa.
+
 Exigir al procesado que pruebe su inocencia no es aplicar la autonomía del lavado: es invertir la presunción de inocencia.
 
 ## 4.3. Qué es un indicio
@@ -270,7 +272,9 @@ El primer paso es verificar que cada indicio esté **probado** por un medio de p
 Muchas inferencias fallan porque la regla de experiencia que las sostiene es **falsa, débil o demasiado general**.
 - "Quien maneja efectivo suele ser un lavador" es falso en un país donde una parte importante de la economía es informal y funciona con efectivo.
 - "Quien tiene un pariente investigado por narcotráfico participa de esa actividad" es una generalización inaceptable, que además vulnera el principio de culpabilidad por el hecho propio.
-- "Quien no declaró sus ingresos al SRI los obtuvo de forma ilícita" confunde la informalidad tributaria con el origen delictivo.
+- "Quien no declaró sus ingresos al SRI los obtuvo de forma ilícita" confunde la informalidad tributaria con el origen delictivo. Es la distinción entre riqueza "negra" y riqueza "sucia" que explicamos en el capítulo 1 (sección 1.6.1).
+
+Hay, además, un argumento de fondo contra las reglas que convierten un instrumento financiero en indicio. Fabián Caparrós muestra que el lavador usa instituciones que tienen fines legítimos, pero con otro propósito: no usa los cajeros "para disponer de dinero en efectivo", sino "para trocar moneda evitando el control"; no constituye personas jurídicas "para lograr objetivos inalcanzables para sujetos individuales, sino para fingir titularidades". Y concluye que "el ordenamiento no puede censurar esas irregularidades en sí mismas" (Fabián Caparrós, 2018, pp. 40-41). Es decir, lo que distingue al lavado no es el instrumento, sino la finalidad y el origen del dinero. Una regla de experiencia que infiere el lavado del solo uso del instrumento (el efectivo, la sociedad, la transferencia al exterior) castiga, en realidad, el uso normal de instituciones lícitas.
 
 La defensa debe obligar a la acusación, y al juez, a **explicitar la regla de experiencia**, porque una regla que se expone en voz alta suele revelar su debilidad.
 
@@ -355,6 +359,8 @@ La acusación acredita, a lo sumo, un patrimonio parcialmente no justificado y u
 - [ ] ¿La resolución explica la inferencia y responde a la hipótesis alternativa?
 
 ## Referencias
+
+Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e internacionalización de la respuesta. En I. Blanco Cordero, E. A. Fabián Caparrós, V. Prado Saldarriaga, G. Santander Abril y J. Zaragoza Aguado, *Combate al lavado de activos desde el sistema judicial* (5.ª ed., pp. 11-94). Organización de los Estados Americanos, Departamento contra la Delincuencia Organizada Transnacional.
 
 Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
 

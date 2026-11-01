@@ -98,6 +98,8 @@ Esta distinción importa porque el art. 317 del COIP **no admite la modalidad cu
 
 Para la defensa, la pregunta clave en el contraexamen del oficial de cumplimiento o del funcionario es siempre la misma: **¿qué sabía, en concreto, sobre este cliente y en qué momento?** Una alerta genérica del sistema, una tipología del GAFILAT o un incumplimiento documental no equivalen al conocimiento concreto que exige el dolo.
 
+Fabián Caparrós explica por qué esta distinción no es un artificio de la defensa, sino la lógica misma del sistema de prevención. Las obligaciones administrativas de los sujetos obligados buscan "adelantar la barrera de protección" mediante el control de actos que "la experiencia nos demuestre que sean idóneos" para el lavado: "no se sanciona el hecho de blanquear, sino la realización de conductas que, generalmente implican un riesgo de blanqueo" (Fabián Caparrós, 2018, p. 51). Es decir, el incumplimiento de la debida diligencia es, por definición, una infracción de peligro en el plano administrativo. Solo cuando se prueba que quien la incumplió lo hizo "con objeto de blanquear" se pasa al ámbito penal (Fabián Caparrós, 2018, p. 51).
+
 ## 3.5. La "ignorancia deliberada"
 
 ### 3.5.1. Qué es
@@ -276,6 +278,8 @@ Con la prueba descrita, la responsabilidad de Andrea por lavado de activos no pu
 - [ ] ¿Hay indicios de un trastorno mental o de una capacidad disminuida?
 
 ## Referencias
+
+Fabián Caparrós, E. A. (2018). Internacionalización del lavado de activos e internacionalización de la respuesta. En I. Blanco Cordero, E. A. Fabián Caparrós, V. Prado Saldarriaga, G. Santander Abril y J. Zaragoza Aguado, *Combate al lavado de activos desde el sistema judicial* (5.ª ed., pp. 11-94). Organización de los Estados Americanos, Departamento contra la Delincuencia Organizada Transnacional.
 
 Jakobs, G. (1997). *Derecho penal. Parte general: Fundamentos y teoría de la imputación* (2.ª ed., J. Cuello Contreras y J. L. Serrano González de Murillo, Trads.). Marcial Pons.
 
