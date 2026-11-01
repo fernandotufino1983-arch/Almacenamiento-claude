@@ -1,6 +1,6 @@
-# El delito de lavado de activos en el Ecuador
+# ¿De dónde salió el dinero?
 
-<<CENTER>> *Dogmática, prueba y estrategias de defensa*
+<<CENTER>> *La defensa penal en el delito de lavado de activos*
 
 <<CENTER>> **Ab. Fernando Tufiño Valladares**
 

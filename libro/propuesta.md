@@ -1,10 +1,10 @@
-# Proyecto de libro: El delito de lavado de activos en el Ecuador
+# Proyecto de libro: ¿De dónde salió el dinero?
 
 **Autor:** Ab. Fernando Tufiño Valladares
 **Estado:** en redacción. Borradores listos: capítulos 1 a 11. Pendientes: prólogo y anexos.
 
 ## Título
-**El delito de lavado de activos en el Ecuador: dogmática, prueba y estrategias de defensa**
+**¿De dónde salió el dinero? La defensa penal en el delito de lavado de activos**
 
 ## Público y enfoque
 - **Público:** abogados litigantes, estudiantes de derecho, fiscales y jueces.
