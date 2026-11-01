@@ -2,7 +2,7 @@
 const fs = require('fs');
 const { Document, Packer, Paragraph, TextRun, FootnoteReferenceRun, PageBreak, HeadingLevel, AlignmentType, LevelFormat,
   Table, TableRow, TableCell, WidthType, ShadingType, BorderStyle, Footer, PageNumber, TabStopType, LeaderType, ImageRun } = require('docx');
-const [,, inp, out, title, cover] = process.argv;
+const [,, inp, out, title, cover, back] = process.argv;
 const FONT = 'Cambria', ACCENT = '1F3864';
 const src = fs.readFileSync(inp, 'utf8').split('\n');
 const footnotes = {}; const fnIds = {}; let fnN = 0; const lines = [];
@@ -62,6 +62,8 @@ const sections = [];
 if (cover) sections.push({ properties: { page: { size: A4, margin: { top: 0, bottom: 0, left: 0, right: 0, header: 0, footer: 0 } } },
   children: [new Paragraph({ spacing: { before: 0, after: 0 }, children: [new ImageRun({ type: 'png', data: fs.readFileSync(cover), transformation: { width: 794, height: 1122 } })] })] });
 sections.push({ properties: { page: { size: A4, margin: { top: 1418, bottom: 1418, left: 1418, right: 1418 } } }, footers: { default: footer }, children });
+if (back) sections.push({ properties: { page: { size: A4, margin: { top: 0, bottom: 0, left: 0, right: 0, header: 0, footer: 0 } } }, footers: { default: new Footer({ children: [new Paragraph({ children: [] })] }) },
+  children: [new Paragraph({ spacing: { before: 0, after: 0 }, children: [new ImageRun({ type: 'png', data: fs.readFileSync(back), transformation: { width: 794, height: 1122 } })] })] });
 const doc = new Document({
   title, footnotes: fnDefs,
   styles: { default: { document: { run: { font: FONT, size: 21 } } },

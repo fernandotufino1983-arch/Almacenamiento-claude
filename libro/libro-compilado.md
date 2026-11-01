@@ -320,8 +320,8 @@
 <<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|122
 <<IDX2>> 11.1. Planteamiento|122
 <<IDX2>> 11.2. Las reglas generales de la impugnación|122
-<<IDX2>> 11.3. La apelación|122
-<<IDX3>> 11.3.1. Qué se puede apelar|122
+<<IDX2>> 11.3. La apelación|123
+<<IDX3>> 11.3.1. Qué se puede apelar|123
 <<IDX3>> 11.3.2. El trámite|123
 <<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|123
 <<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|123
@@ -337,12 +337,12 @@
 <<IDX3>> 11.5.1. Las causales|126
 <<IDX3>> 11.5.2. Los requisitos|126
 <<IDX3>> 11.5.3. La lección del caso Chiriboga|126
-<<IDX2>> 11.6. La acción extraordinaria de protección|126
-<<IDX3>> 11.6.1. Qué es y qué no es|126
+<<IDX2>> 11.6. La acción extraordinaria de protección|127
+<<IDX3>> 11.6.1. Qué es y qué no es|127
 <<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|127
 <<IDX3>> 11.6.3. Cómo plantearla|127
 <<IDX2>> 11.7. El recurso de hecho|127
-<<IDX2>> 11.8. Qué recurso para qué argumento|127
+<<IDX2>> 11.8. Qué recurso para qué argumento|128
 <<IDX2>> 11.9. Modelo de cargo de casación|128
 <<IDX2>> 11.10. Caso práctico resuelto|129
 <<IDX2>> 11.11. Lista de revisión|129
