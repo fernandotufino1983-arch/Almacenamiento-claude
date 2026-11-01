@@ -101,7 +101,9 @@ Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse a
 
 La doctrina ofrece definiciones que conviene conocer, porque cada una pone el acento en un aspecto distinto. Para Fabián Caparrós, el lavado es "el proceso tendiente a obtener la aplicación en actividades económicas lícitas de una masa patrimonial derivada de cualquier género de conductas ilícitas, con independencia de cuál sea la forma que esa masa adopte, mediante la progresiva concesión a la misma de una apariencia de legitimidad" (Fabián Caparrós, 1998, p. 4, como se citó en Apolo-Salazar, 2021, pp. 363-364). Durrieu, desde la doctrina argentina, lo describe como el "proceso por el cual los activos derivados de actividades criminales eran manipulados de tal manera que aparecían como si fueran provenientes de actividades y negocios legítimos" (Durrieu, 2006, p. 2, como se citó en Apolo-Salazar, 2021, p. 363).
 
-Es importante diferenciar lo que ambas definiciones tienen en común, porque es ahí donde está el núcleo del delito. Las dos hablan de un **proceso** y de una **apariencia**: no basta con tener bienes de origen ilícito, sino que el lavado consiste en hacerlos parecer lícitos. Y las dos presuponen que el origen ilícito existe, que hay una "masa patrimonial derivada" de conductas ilícitas. El lavado no crea la ilicitud del dinero: la encuentra y la disfraza.
+En la doctrina ecuatoriana, Zambrano Pasquel describe el lavado como el conjunto de conductas que realizan las organizaciones criminales o los delincuentes para "colocar, convertir, ocultar, transformar" las ganancias obtenidas con prácticas ilícitas y "pretender legitimarlas ingresándolas a la actividad financiera o económica lícita" (Zambrano Pasquel, 2010, como se citó en Villacreses y Herrera, 2023, p. 216).
+
+Es importante diferenciar lo que estas definiciones tienen en común, porque es ahí donde está el núcleo del delito. Todas hablan de un **proceso** y de una **apariencia**: no basta con tener bienes de origen ilícito, sino que el lavado consiste en hacerlos parecer lícitos. Y todas presuponen que el origen ilícito existe, que hay una "masa patrimonial derivada" de conductas ilícitas. El lavado no crea la ilicitud del dinero: la encuentra y la disfraza.
 
 Con estos antecedentes podemos ofrecer una definición propia. El lavado de activos es **el conjunto de conductas mediante las cuales se busca dar apariencia de legalidad a bienes provenientes de una actividad delictiva, para incorporarlos a la economía formal y ocultar su verdadero origen**.
 
@@ -133,7 +135,7 @@ La discusión sobre el bien jurídico no es académica. Determina el alcance del
 2. **La administración de justicia**, porque el lavado obstaculiza la persecución del delito de origen y el decomiso de sus ganancias.
 3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos. En la doctrina ecuatoriana, Zambrano Pasquel lo califica como un delito "complejo", porque ataca varios bienes jurídicos a la vez (Zambrano Pasquel, 2020, p. 86, como se citó en Apolo-Salazar, 2021, p. 365).
 
-En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^c1_lesividad].
+En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^c1_lesividad]. El art. 3 del COIP es expreso: la intervención penal "está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas", y "constituye el último recurso, cuando no son suficientes los mecanismos extrapenales". En el lavado, esos mecanismos existen y son muchos: el sistema de prevención de la ley de 2024, las sanciones administrativas a los sujetos obligados, la extinción de dominio y las sanciones tributarias. Como recuerdan Villacreses y Herrera (2023, p. 212), siguiendo a Mir Puig, el derecho penal no es la herramienta necesaria cuando la protección "puede conseguirse por otros medios, que serán siempre preferibles en cuanto sean menos lesivos para los derechos individuales".
 
 ### 1.9. El marco normativo vigente
 
@@ -178,6 +180,10 @@ Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 Las dos sentencias de casación que analizo en el capítulo 2, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ### Referencias
+
+Zambrano Pasquel, A. (2010). *Lavado de activos: Aproximaciones desde la imputación objetiva y la autoría mediata*. Corporación de Estudios y Publicaciones [citado a través de Villacreses y Herrera, 2023].
+
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
 
 Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
 
@@ -292,7 +298,7 @@ Si para condenar por lavado hubiera que esperar una sentencia firme por el delit
 - **Su autor puede haber fallecido**, estar prófugo o ser desconocido.
 - **La acción por el delito de origen puede haber prescrito.**
 - **Quien lava suele ser una persona distinta** de quien cometió el delito de origen: el contador, el testaferro, el operador financiero. Condicionar su responsabilidad al juicio de otro sería dejar impune su propia conducta.
-- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015, p. [verificar]).
+- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015, p. [verificar]). La doctrina ecuatoriana lo ilustra con un ejemplo sencillo: quien obtiene dinero por traficar drogas y luego lo somete a operaciones financieras para darle apariencia de legitimidad comete dos conductas distintas, porque "el delito fuente afecta la salud pública, mientras que el lavado de activos al orden socioeconómico" (Gutiérrez Chávez, 2019, como se citó en Villacreses y Herrera, 2023, p. 218).
 
 Es por esta razón que la autonomía no es un capricho del legislador. Responde a la estructura misma del fenómeno.
 
@@ -547,6 +553,8 @@ Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad del
 - [ ] En casación, ¿escogí la causal correcta (indebida aplicación o errónea interpretación)?
 
 ### Referencias
+
+Gutiérrez Chávez, N. G. (2019). *Estándar probatorio en el delito de lavado de activos y su incidencia en el debido proceso respecto a la presunción de inocencia del procesado* [Tesis de maestría, Universidad Andina Simón Bolívar]. http://hdl.handle.net/10644/7230 [citada a través de Villacreses y Herrera, 2023]
 
 Calisaya Rojas, C. N. (2018). La autonomía del delito de lavado de activos y el principio de imputación necesaria. *Revista de Derecho*, 121-139 [citado a través de Villacreses y Herrera, 2023].
 
@@ -2212,7 +2220,9 @@ Recordemos también lo que expliqué en el capítulo 4: el silencio no es un ind
 
 El art. 580 del COIP no solo dice que en la investigación previa se reúnen elementos de descargo; dice además que esa fase "posibilitará a la persona investigada preparar su defensa", y que las diligencias tienen por finalidad determinar si la conducta es delictuosa "o, a su vez, **desestimar** estos aspectos"[^c8_art580].
 
-En este orden de ideas, la Fiscalía no solo puede, sino que debe, practicar las diligencias que el investigado le solicita cuando son pertinentes para esclarecer los hechos. Es una consecuencia del principio de objetividad que rige su actuación.
+En este orden de ideas, la Fiscalía no solo puede, sino que debe, practicar las diligencias que el investigado le solicita cuando son pertinentes para esclarecer los hechos. Es una consecuencia del principio de objetividad, que el art. 5, num. 21, del COIP formula con toda claridad: el fiscal "adecuará sus actos a un criterio objetivo, a la correcta aplicación de la ley y al respeto a los derechos de las personas", e investigará "no solo los hechos y circunstancias que funden o agraven la responsabilidad de la persona procesada, sino también los que la eximan, atenúen o extingan"[^c8_objetividad]. Como señalan Villacreses y Herrera (2023, p. 213), siguiendo a Vaca Andrade, la objetividad obliga a recoger durante la investigación tanto los elementos de cargo como "aquellos que atenúan o eximen cualquier tipo de responsabilidad del investigado".
+
+En el lavado, este principio tiene una aplicación muy concreta. La Fiscalía que recibe un reporte de la UAFE no puede limitarse a confirmar la sospecha: debe investigar también si el dinero tiene una explicación lícita. El caso que analizan esos mismos autores muestra lo que ocurre cuando no lo hace: una acusación por lavado que no abarcaba "todos los elementos que requiere el tipo para su configuración típica", y que terminó en una condena por otro delito (Villacreses y Herrera, 2023, p. 219). Si la Fiscalía se niega a practicar las diligencias de descargo, esa negativa es, además de una vulneración del derecho a la defensa, una prueba de que la investigación no fue objetiva.
 
 #### 8.5.2. Qué pedir
 
@@ -2349,6 +2359,8 @@ La investigación previa no es la antesala del proceso: para la defensa, es el p
 
 ### Referencias
 
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
@@ -2358,6 +2370,8 @@ Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Re
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 430.1, 491, 508, 549, 580, 581.1, 584, 585, 586 y 587].
 
 Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*. Registro Oficial Suplemento 595 de 12 de junio de 2002 [verificar la versión vigente].
+
+[^c8_objetividad]: COIP, art. 5, num. 21. Véase también el art. 195 de la Constitución, que atribuye a la Fiscalía la dirección de la investigación "con sujeción a los principios de oportunidad y mínima intervención penal".
 
 [^c8_art89]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), art. 89. Véanse también los arts. 84 a 88 (formulario de registro aduanero y multas por valores no declarados).
 

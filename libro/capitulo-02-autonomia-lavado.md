@@ -26,7 +26,7 @@ Si para condenar por lavado hubiera que esperar una sentencia firme por el delit
 - **Su autor puede haber fallecido**, estar prófugo o ser desconocido.
 - **La acción por el delito de origen puede haber prescrito.**
 - **Quien lava suele ser una persona distinta** de quien cometió el delito de origen: el contador, el testaferro, el operador financiero. Condicionar su responsabilidad al juicio de otro sería dejar impune su propia conducta.
-- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015, p. [verificar]).
+- **El lavado tiene un desvalor propio**, porque afecta el orden socioeconómico y la integridad del sistema financiero, con independencia del daño que causó el delito de origen (Blanco Cordero, 2015, p. [verificar]). La doctrina ecuatoriana lo ilustra con un ejemplo sencillo: quien obtiene dinero por traficar drogas y luego lo somete a operaciones financieras para darle apariencia de legitimidad comete dos conductas distintas, porque "el delito fuente afecta la salud pública, mientras que el lavado de activos al orden socioeconómico" (Gutiérrez Chávez, 2019, como se citó en Villacreses y Herrera, 2023, p. 218).
 
 Es por esta razón que la autonomía no es un capricho del legislador. Responde a la estructura misma del fenómeno.
 
@@ -281,6 +281,8 @@ Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad del
 - [ ] En casación, ¿escogí la causal correcta (indebida aplicación o errónea interpretación)?
 
 ## Referencias
+
+Gutiérrez Chávez, N. G. (2019). *Estándar probatorio en el delito de lavado de activos y su incidencia en el debido proceso respecto a la presunción de inocencia del procesado* [Tesis de maestría, Universidad Andina Simón Bolívar]. http://hdl.handle.net/10644/7230 [citada a través de Villacreses y Herrera, 2023]
 
 Calisaya Rojas, C. N. (2018). La autonomía del delito de lavado de activos y el principio de imputación necesaria. *Revista de Derecho*, 121-139 [citado a través de Villacreses y Herrera, 2023].
 

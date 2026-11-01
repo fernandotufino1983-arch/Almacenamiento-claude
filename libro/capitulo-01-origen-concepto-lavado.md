@@ -84,7 +84,9 @@ Es por esta razón que el lavado de activos ecuatoriano no puede interpretarse a
 
 La doctrina ofrece definiciones que conviene conocer, porque cada una pone el acento en un aspecto distinto. Para Fabián Caparrós, el lavado es "el proceso tendiente a obtener la aplicación en actividades económicas lícitas de una masa patrimonial derivada de cualquier género de conductas ilícitas, con independencia de cuál sea la forma que esa masa adopte, mediante la progresiva concesión a la misma de una apariencia de legitimidad" (Fabián Caparrós, 1998, p. 4, como se citó en Apolo-Salazar, 2021, pp. 363-364). Durrieu, desde la doctrina argentina, lo describe como el "proceso por el cual los activos derivados de actividades criminales eran manipulados de tal manera que aparecían como si fueran provenientes de actividades y negocios legítimos" (Durrieu, 2006, p. 2, como se citó en Apolo-Salazar, 2021, p. 363).
 
-Es importante diferenciar lo que ambas definiciones tienen en común, porque es ahí donde está el núcleo del delito. Las dos hablan de un **proceso** y de una **apariencia**: no basta con tener bienes de origen ilícito, sino que el lavado consiste en hacerlos parecer lícitos. Y las dos presuponen que el origen ilícito existe, que hay una "masa patrimonial derivada" de conductas ilícitas. El lavado no crea la ilicitud del dinero: la encuentra y la disfraza.
+En la doctrina ecuatoriana, Zambrano Pasquel describe el lavado como el conjunto de conductas que realizan las organizaciones criminales o los delincuentes para "colocar, convertir, ocultar, transformar" las ganancias obtenidas con prácticas ilícitas y "pretender legitimarlas ingresándolas a la actividad financiera o económica lícita" (Zambrano Pasquel, 2010, como se citó en Villacreses y Herrera, 2023, p. 216).
+
+Es importante diferenciar lo que estas definiciones tienen en común, porque es ahí donde está el núcleo del delito. Todas hablan de un **proceso** y de una **apariencia**: no basta con tener bienes de origen ilícito, sino que el lavado consiste en hacerlos parecer lícitos. Y todas presuponen que el origen ilícito existe, que hay una "masa patrimonial derivada" de conductas ilícitas. El lavado no crea la ilicitud del dinero: la encuentra y la disfraza.
 
 Con estos antecedentes podemos ofrecer una definición propia. El lavado de activos es **el conjunto de conductas mediante las cuales se busca dar apariencia de legalidad a bienes provenientes de una actividad delictiva, para incorporarlos a la economía formal y ocultar su verdadero origen**.
 
@@ -116,7 +118,7 @@ La discusión sobre el bien jurídico no es académica. Determina el alcance del
 2. **La administración de justicia**, porque el lavado obstaculiza la persecución del delito de origen y el decomiso de sus ganancias.
 3. **Un delito pluriofensivo**, que afecta ambos bienes jurídicos. En la doctrina ecuatoriana, Zambrano Pasquel lo califica como un delito "complejo", porque ataca varios bienes jurídicos a la vez (Zambrano Pasquel, 2020, p. 86, como se citó en Apolo-Salazar, 2021, p. 365).
 
-En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^lesividad].
+En consecuencia, si se acepta que el bien protegido es el orden socioeconómico, una conducta aislada, de escaso monto y sin capacidad real de afectar el sistema económico puede discutirse desde el principio de mínima intervención y de lesividad[^lesividad]. El art. 3 del COIP es expreso: la intervención penal "está legitimada siempre y cuando sea estrictamente necesaria para la protección de las personas", y "constituye el último recurso, cuando no son suficientes los mecanismos extrapenales". En el lavado, esos mecanismos existen y son muchos: el sistema de prevención de la ley de 2024, las sanciones administrativas a los sujetos obligados, la extinción de dominio y las sanciones tributarias. Como recuerdan Villacreses y Herrera (2023, p. 212), siguiendo a Mir Puig, el derecho penal no es la herramienta necesaria cuando la protección "puede conseguirse por otros medios, que serán siempre preferibles en cuanto sean menos lesivos para los derechos individuales".
 
 ## 1.9. El marco normativo vigente
 
@@ -161,6 +163,10 @@ Ese es el punto de partida de la defensa. Y es el tema del próximo capítulo.
 Las dos sentencias de casación que analizo en el capítulo 2, los casos Espinel y Salcedo, muestran que esa constante sigue viva en la jurisprudencia: en ambas, la Corte Nacional reconoció que el origen ilícito es un elemento normativo del tipo. La discusión ya no es si debe existir un delito previo, sino qué tanto hay que probarlo.
 
 ## Referencias
+
+Zambrano Pasquel, A. (2010). *Lavado de activos: Aproximaciones desde la imputación objetiva y la autoría mediata*. Corporación de Estudios y Publicaciones [citado a través de Villacreses y Herrera, 2023].
+
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
 
 Zambrano Pasquel, A. (2020). *Lavado de activos* (2.ª ed.). Corporación de Estudios y Publicaciones [citado a través de Apolo-Salazar, 2021].
 

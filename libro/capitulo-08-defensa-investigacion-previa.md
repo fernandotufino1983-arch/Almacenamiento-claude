@@ -77,7 +77,9 @@ Recordemos también lo que expliqué en el capítulo 4: el silencio no es un ind
 
 El art. 580 del COIP no solo dice que en la investigación previa se reúnen elementos de descargo; dice además que esa fase "posibilitará a la persona investigada preparar su defensa", y que las diligencias tienen por finalidad determinar si la conducta es delictuosa "o, a su vez, **desestimar** estos aspectos"[^art580].
 
-En este orden de ideas, la Fiscalía no solo puede, sino que debe, practicar las diligencias que el investigado le solicita cuando son pertinentes para esclarecer los hechos. Es una consecuencia del principio de objetividad que rige su actuación.
+En este orden de ideas, la Fiscalía no solo puede, sino que debe, practicar las diligencias que el investigado le solicita cuando son pertinentes para esclarecer los hechos. Es una consecuencia del principio de objetividad, que el art. 5, num. 21, del COIP formula con toda claridad: el fiscal "adecuará sus actos a un criterio objetivo, a la correcta aplicación de la ley y al respeto a los derechos de las personas", e investigará "no solo los hechos y circunstancias que funden o agraven la responsabilidad de la persona procesada, sino también los que la eximan, atenúen o extingan"[^objetividad]. Como señalan Villacreses y Herrera (2023, p. 213), siguiendo a Vaca Andrade, la objetividad obliga a recoger durante la investigación tanto los elementos de cargo como "aquellos que atenúan o eximen cualquier tipo de responsabilidad del investigado".
+
+En el lavado, este principio tiene una aplicación muy concreta. La Fiscalía que recibe un reporte de la UAFE no puede limitarse a confirmar la sospecha: debe investigar también si el dinero tiene una explicación lícita. El caso que analizan esos mismos autores muestra lo que ocurre cuando no lo hace: una acusación por lavado que no abarcaba "todos los elementos que requiere el tipo para su configuración típica", y que terminó en una condena por otro delito (Villacreses y Herrera, 2023, p. 219). Si la Fiscalía se niega a practicar las diligencias de descargo, esa negativa es, además de una vulneración del derecho a la defensa, una prueba de que la investigación no fue objetiva.
 
 ### 8.5.2. Qué pedir
 
@@ -214,6 +216,8 @@ La investigación previa no es la antesala del proceso: para la defensa, es el p
 
 ## Referencias
 
+Villacreses, J. y Herrera, W. (2023). El lavado de activos en la legislación penal ecuatoriana: Estudio de caso. *Revista Lex*, *6*(21), 212-221. https://revistalex.org [verificar el DOI y los nombres completos de los autores]
+
 **Normativa**
 
 Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos*. Registro Oficial Cuarto Suplemento 610 de 29 de julio de 2024 [vigente desde el 29 de julio de 2025; texto consultado con reformas hasta el 11 de febrero de 2026].
@@ -223,6 +227,8 @@ Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Re
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 430.1, 491, 508, 549, 580, 581.1, 584, 585, 586 y 587].
 
 Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*. Registro Oficial Suplemento 595 de 12 de junio de 2002 [verificar la versión vigente].
+
+[^objetividad]: COIP, art. 5, num. 21. Véase también el art. 195 de la Constitución, que atribuye a la Fiscalía la dirección de la investigación "con sujeción a los principios de oportunidad y mínima intervención penal".
 
 [^art89]: Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos (2024), art. 89. Véanse también los arts. 84 a 88 (formulario de registro aduanero y multas por valores no declarados).
 
