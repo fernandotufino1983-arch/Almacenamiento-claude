@@ -6,13 +6,19 @@
 
 <<CENTER>> Borrador de trabajo · Noviembre de 2026
 
-> **Nota sobre este borrador.** Este documento reúne los once capítulos del libro: la Parte I (El delito de lavado de activos) y la Parte II (Estrategia de defensa). Incluye el prólogo, el plan de temas y un subíndice al inicio de cada capítulo; el índice general con todas las secciones va al final. Están pendientes los anexos. Los textos del COIP corresponden a la versión con última actualización de 7 de octubre de 2026; los de la Constitución, al texto original de 2008; y los de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, al texto con reformas hasta el 11 de febrero de 2026. Las citas marcadas con [verificar] deben contrastarse con su fuente original, y los espacios [Nota del autor] son para la experiencia y el criterio propios del autor. Para revisar el texto, se sugiere activar el control de cambios de Word o usar comentarios, y devolver el archivo para incorporar las modificaciones. Formato de citas y referencias: APA, 7.ª edición. Al abrir el documento, si Word lo solicita, acepte actualizar los campos para que se generen el plan de temas y el índice.
+> **Nota sobre este borrador.** Este documento reúne los once capítulos del libro: la Parte I (El delito de lavado de activos) y la Parte II (Estrategia de defensa). Al inicio van el plan de temas, el índice general con todas las secciones y el prólogo. Están pendientes los anexos. Los textos del COIP corresponden a la versión con última actualización de 7 de octubre de 2026; los de la Constitución, al texto original de 2008; y los de la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos, al texto con reformas hasta el 11 de febrero de 2026. Las citas marcadas con [verificar] deben contrastarse con su fuente original, y los espacios [Nota del autor] son para la experiencia y el criterio propios del autor. Para revisar el texto, se sugiere activar el control de cambios de Word o usar comentarios, y devolver el archivo para incorporar las modificaciones. Formato de citas y referencias: APA, 7.ª edición. Al abrir el documento, si Word lo solicita, acepte actualizar los campos para que se generen el plan de temas y el índice.
 
 > **Criterios de citación.** La doctrina se cita en el texto con autor, año y página, conforme a APA 7: (Roxin, 1997, p. 307) o Roxin (1997, p. 307). La jurisprudencia se identifica en el texto, la primera vez que aparece en cada capítulo, con el tribunal, el tipo de decisión, la fecha completa (día, mes y año) y el número de juicio o de causa; en las menciones siguientes se usa el nombre del caso. Las notas al pie contienen las bases legales (artículos de la Constitución, el COIP y las demás leyes), el lugar exacto de la sentencia citada (considerando o párrafo) y los comentarios del autor. Las referencias completas van al final de cada capítulo. La mención "p. [verificar]" señala que falta confirmar la página en la edición consultada.
 
 <<PAGEBREAK>>
 
+## Plan de temas
+
+<<PLAN>>
+
 <<PAGEBREAK>>
+
+<<TOC>>
 
 <<PAGEBREAK>>
 
@@ -55,41 +61,9 @@ Guayaquil, noviembre de 2026
 
 <<PAGEBREAK>>
 
-## Plan de temas
-
-<<PLAN>>
-
-<<PAGEBREAK>>
-
 ## Parte I. El delito de lavado de activos
 
 ## Capítulo 1. El lavado de activos: origen, concepto y marco normativo
-
-**Subíndice**
-
-- 1.1. Planteamiento
-- 1.2. El origen de la expresión "lavado de dinero"
-  - 1.2.1. La anécdota de las lavanderías
-  - 1.2.2. La expresión en la prensa y en los tribunales
-- 1.3. ¿Cuál fue el primer país en tipificarlo?
-  - 1.3.1. Italia (1978): la primera tipificación
-  - 1.3.2. Estados Unidos (1986): el primer delito autónomo y general
-  - 1.3.3. Lo que enseñan ambos modelos
-- 1.4. La internacionalización: de Viena al GAFI
-  - 1.4.1. La Convención de Viena (1988)
-  - 1.4.2. El GAFI (1989) y las Recomendaciones
-  - 1.4.3. Palermo (2000) y Mérida (2003)
-- 1.5. La evolución en el Ecuador
-- 1.6. Concepto
-  - 1.6.1. Riqueza "negra" y riqueza "sucia"
-  - 1.6.2. El lavado es de "capitales", no de cualquier ganancia
-- 1.7. Las fases del lavado
-- 1.8. El bien jurídico protegido
-- 1.9. El marco normativo vigente
-  - 1.9.1. Las reformas del art. 317 y la ley aplicable
-- 1.10. Conclusión
-- Referencias
-
 
 
 ### 1.1. Planteamiento
@@ -365,43 +339,6 @@ Corte Nacional de Justicia del Ecuador. (2024, 23 de octubre). *Resolución No. 
 <<PAGEBREAK>>
 
 ## Capítulo 2. La autonomía del lavado de activos y el delito precedente
-
-**Subíndice**
-
-- 2.1. Planteamiento del problema
-- 2.2. ¿Por qué el lavado es un delito autónomo?
-  - 2.2.1. La razón político-criminal
-  - 2.2.2. La razón internacional
-- 2.3. La autonomía en el derecho ecuatoriano
-  - 2.3.1. Antecedentes
-  - 2.3.2. El art. 317 del COIP
-  - 2.3.3. La Resolución 20-2024 de la Corte Nacional de Justicia
-  - 2.3.4. La jurisprudencia de casación: los casos Espinel (2021) y Salcedo (2024)
-- 2.4. Autonomía procesal frente a autonomía probatoria
-  - 2.4.1. El origen ilícito es un elemento del tipo
-  - 2.4.2. Lo que la autonomía permite y lo que no permite
-  - 2.4.3. Los cuatro niveles de determinación del delito de origen
-  - 2.4.4. La frontera con el enriquecimiento no justificado
-- 2.5. La prueba indiciaria del origen ilícito
-  - 2.5.1. Por qué la prueba indiciaria es legítima
-  - 2.5.2. Requisitos de validez
-  - 2.5.3. Los indicios típicos en el lavado
-  - 2.5.4. Los contraindicios
-- 2.6. Derecho comparado
-  - 2.6.1. España
-  - 2.6.2. Perú
-  - 2.6.3. Colombia
-  - 2.6.4. Conclusión comparada
-- 2.7. Consecuencias para la defensa
-  - 2.7.1. En la investigación previa
-  - 2.7.2. En la formulación de cargos y en la etapa preparatoria
-  - 2.7.3. En juicio
-  - 2.7.4. En los recursos
-  - 2.7.5. Modelo de argumento
-- 2.8. Caso práctico resuelto
-- 2.9. Lista de revisión
-- Referencias
-
 
 
 ### 2.1. Planteamiento del problema
@@ -788,38 +725,6 @@ Corte Suprema de Justicia de la República del Perú. (2017, 11 de octubre). *Se
 
 ## Capítulo 3. El tipo subjetivo: dolo, dolo eventual y causas que eximen de responsabilidad
 
-**Subíndice**
-
-- 3.1. Planteamiento
-- 3.2. El dolo en el COIP: la reforma de 2019
-  - 3.2.1. El cambio de texto
-  - 3.2.2. Los dos elementos del dolo
-  - 3.2.3. El delito preterintencional
-- 3.3. Las clases de dolo
-- 3.4. El dolo eventual
-  - 3.4.1. La frontera con la culpa consciente
-  - 3.4.2. ¿Cabe el dolo eventual en el COIP?
-  - 3.4.3. El dolo eventual en el lavado de activos
-  - 3.4.4. El dolo eventual del sujeto obligado: conocimiento abstracto y conocimiento concreto
-- 3.5. La "ignorancia deliberada"
-  - 3.5.1. Qué es
-  - 3.5.2. Por qué es incompatible con el art. 26 del COIP
-- 3.6. La prueba del dolo
-- 3.7. Las causas que eximen de responsabilidad
-  - 3.7.1. Causas que excluyen la conducta (art. 24)
-  - 3.7.2. Causas que excluyen la tipicidad
-  - 3.7.3. Causas que excluyen la antijuridicidad (arts. 30 a 33)
-  - 3.7.4. Causas que excluyen la culpabilidad (arts. 34 a 37)
-- 3.8. El caso especial de los honorarios del abogado
-  - 3.8.1. El problema
-  - 3.8.2. La solución alemana
-  - 3.8.3. La solución en el Ecuador
-- 3.9. Estrategia de defensa
-- 3.10. Caso práctico resuelto
-- 3.11. Lista de revisión
-- Referencias
-
-
 
 ### 3.1. Planteamiento
 
@@ -1155,49 +1060,6 @@ Global-Tech Appliances, Inc. v. SEB S.A., 563 U.S. 754 (2011).
 <<PAGEBREAK>>
 
 ## Capítulo 4. La prueba del lavado de activos: informes técnicos y prueba indiciaria
-
-**Subíndice**
-
-- 4.1. Planteamiento
-- 4.2. La prueba indiciaria: qué es y por qué el lavado se juzga con ella
-  - 4.2.1. Prueba directa y prueba indirecta
-  - 4.2.2. ¿Por qué el lavado de activos se prueba casi siempre por indicios?
-  - 4.2.3. Un matiz necesario: "casi siempre", no "siempre"
-  - 4.2.4. El riesgo para la defensa: cuando el indicio se convierte en presunción
-  - 4.2.5. ¿Se invierte la carga de la prueba en el lavado?
-- 4.3. Qué es un indicio
-  - 4.3.1. La estructura de la inferencia
-  - 4.3.2. Indicio, presunción y sospecha
-  - 4.3.3. Clases de indicios
-- 4.4. La base legal en el Ecuador
-  - 4.4.1. El antecedente: el Código de Procedimiento Penal de 2000
-  - 4.4.2. El COIP: el art. 455 y la prohibición de las presunciones
-  - 4.4.3. Las demás normas aplicables
-- 4.5. El estándar de prueba y la motivación reforzada
-  - 4.5.1. Más allá de toda duda razonable
-  - 4.5.2. La motivación reforzada
-- 4.6. La prueba documental y técnica: informes, reportes y cuentas bancarias
-  - 4.6.1. La regla de oro: el informe escrito no es prueba
-  - 4.6.2. El reporte de la UAFE
-  - 4.6.3. El informe de la Contraloría cuando el delito de origen es de corrupción
-  - 4.6.4. La información bancaria y la exclusión de la prueba ilícita
-- 4.7. El peritaje contable y patrimonial
-  - 4.7.1. Los métodos de análisis patrimonial
-  - 4.7.2. Preguntas para el contraexamen del perito
-  - 4.7.3. El peritaje de parte
-- 4.8. Cómo atacar una inferencia
-  - 4.8.1. Atacar el hecho base
-  - 4.8.2. Atacar la regla de experiencia
-  - 4.8.3. Atacar la conclusión: la hipótesis alternativa
-  - 4.8.4. El silencio del procesado y la coartada no probada
-  - 4.8.5. Las falacias más frecuentes en las acusaciones
-  - 4.8.6. Lo que la Corte Nacional ha aceptado como indicio
-- 4.9. El control de la inferencia en los recursos
-- 4.10. Modelo de argumento: impugnación de una inferencia
-- 4.11. Caso práctico resuelto
-- 4.12. Lista de revisión
-- Referencias
-
 
 
 ### 4.1. Planteamiento
@@ -1676,39 +1538,6 @@ Tribunal Europeo de Derechos Humanos. (1996, 8 de febrero). *John Murray c. Rein
 
 ## Capítulo 5. Los concursos de infracciones
 
-**Subíndice**
-
-- 5.1. Planteamiento
-- 5.2. Los sistemas de determinación de la pena en los concursos
-- 5.3. La pregunta previa: unidad o pluralidad de conductas
-  - 5.3.1. Por qué es la pregunta decisiva
-  - 5.3.2. Los criterios de unidad de conducta
-- 5.4. El concurso real (art. 20)
-  - 5.4.1. El texto
-  - 5.4.2. Los requisitos
-  - 5.4.3. El cálculo de la pena
-  - 5.4.4. El punto de litigio: ¿el doble de qué pena?
-- 5.5. El concurso ideal (art. 21)
-  - 5.5.1. El texto
-  - 5.5.2. Los requisitos
-  - 5.5.3. Concurso ideal heterogéneo y homogéneo
-  - 5.5.4. La experiencia ecuatoriana: el caso de las drogas
-- 5.6. El concurso aparente de leyes
-  - 5.6.1. Concepto
-  - 5.6.2. Los principios
-  - 5.6.3. Los actos copenados
-  - 5.6.4. Por qué el concurso aparente es la primera defensa
-- 5.7. Figuras que el COIP no regula
-  - 5.7.1. El concurso medial
-  - 5.7.2. El delito continuado
-  - 5.7.3. El delito masa
-- 5.8. Cuestiones procesales
-- 5.9. Los concursos en los delitos de corrupción y lavado de activos
-- 5.10. Caso práctico resuelto
-- 5.11. Lista de revisión
-- Referencias
-
-
 
 ### 5.1. Planteamiento
 
@@ -1990,29 +1819,6 @@ Corte Nacional de Justicia del Ecuador. (2019, 6 de febrero). *Resolución No. 0
 
 ## Capítulo 6. La responsabilidad penal de la persona jurídica
 
-**Subíndice**
-
-- 6.1. Planteamiento
-- 6.2. Los modelos de imputación
-- 6.3. La regulación en el COIP
-  - 6.3.1. El art. 49: los presupuestos
-  - 6.3.2. La independencia de la responsabilidad
-  - 6.3.3. La exclusión: el beneficio de un tercero
-  - 6.3.4. La reforma de 2021: los programas de cumplimiento
-  - 6.3.5. Las personas naturales dentro de la empresa: posición de garante y comisión por omisión
-- 6.4. Las penas (art. 71)
-- 6.5. Derecho comparado
-- 6.6. Estrategia de defensa de la persona jurídica
-  - 6.6.1. Atacar los presupuestos del art. 49
-  - 6.6.2. El programa de cumplimiento
-  - 6.6.3. La proporcionalidad de la pena
-  - 6.6.4. Las garantías procesales de la persona jurídica
-- 6.7. Asesoría preventiva: el programa de cumplimiento
-- 6.8. Caso práctico resuelto
-- 6.9. Lista de revisión
-- Referencias
-
-
 
 ### 6.1. Planteamiento
 
@@ -2236,26 +2042,6 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 ## Capítulo 7. La extinción de dominio y las medidas cautelares reales
 
-**Subíndice**
-
-- 7.1. Planteamiento
-- 7.2. Origen: el modelo colombiano
-- 7.3. La extinción de dominio en el Ecuador
-  - 7.3.1. La ley de 2021
-  - 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional
-- 7.4. Naturaleza jurídica
-- 7.5. Los presupuestos
-- 7.6. El procedimiento
-- 7.7. El tercero de buena fe
-- 7.8. Las medidas cautelares reales
-- 7.9. Estrategia de defensa
-  - 7.9.1. En el proceso de extinción de dominio
-  - 7.9.2. La coordinación con el proceso penal
-- 7.10. Caso práctico resuelto
-- 7.11. Lista de revisión
-- Referencias
-
-
 
 ### 7.1. Planteamiento
 
@@ -2436,34 +2222,6 @@ Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 17 de marzo
 ## Parte II. Estrategia de defensa
 
 ## Capítulo 8. La defensa en la investigación previa
-
-**Subíndice**
-
-- 8.1. Planteamiento
-- 8.2. El punto de partida: cómo empieza un caso de lavado
-- 8.3. Antes de la investigación: la fase administrativa
-  - 8.3.1. El requerimiento de información de la UAFE
-  - 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción
-- 8.4. Los derechos del investigado
-  - 8.4.1. El acceso al expediente
-  - 8.4.2. El derecho al silencio
-  - 8.4.3. Rendir o no la versión
-- 8.5. La defensa activa: las diligencias de descargo
-  - 8.5.1. El fundamento
-  - 8.5.2. Qué pedir
-  - 8.5.3. La pericia de parte
-  - 8.5.4. Qué hacer si la Fiscalía no responde
-- 8.6. Los plazos y el archivo
-  - 8.6.1. Los plazos
-  - 8.6.2. El archivo
-- 8.7. Las medidas cautelares reales
-- 8.8. La cooperación eficaz
-- 8.9. La reserva y la exposición pública
-- 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias
-- 8.11. Caso práctico resuelto
-- 8.12. Lista de revisión
-- Referencias
-
 
 
 ### 8.1. Planteamiento
@@ -2725,40 +2483,6 @@ Congreso Nacional. (2002). *Ley Orgánica de la Contraloría General del Estado*
 <<PAGEBREAK>>
 
 ## Capítulo 9. La pericia contable y patrimonial de parte
-
-**Subíndice**
-
-- 9.1. Planteamiento
-- 9.2. La base legal
-  - 9.2.1. El derecho a presentar prueba pericial propia
-  - 9.2.2. Los requisitos del perito y del informe
-  - 9.2.3. El criterio de valoración
-- 9.3. Lo que una pericia contable puede probar, y lo que no
-- 9.4. Los métodos que usa la Fiscalía
-  - 9.4.1. La auditoría forense
-  - 9.4.2. Los cinco métodos de análisis financiero
-- 9.5. Cuándo encargar la pericia de parte
-  - 9.5.1. En la fase administrativa o en la investigación previa
-  - 9.5.2. En la instrucción y en la etapa de juicio
-- 9.6. Cómo elegir al perito
-- 9.7. El encargo pericial: qué preguntar
-- 9.8. La reconstrucción del patrimonio
-  - 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras
-  - 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar
-  - 9.8.3. La valoración de los bienes
-  - 9.8.4. El patrimonio mezclado: no todo está "contaminado"
-- 9.9. El informe pericial de parte
-  - 9.9.1. Estructura recomendada
-  - 9.9.2. El cuadro de conciliación
-- 9.10. La pericia de parte en el juicio
-  - 9.10.1. El interrogatorio del perito de parte
-  - 9.10.2. El contraexamen del perito de la Fiscalía
-  - 9.10.3. El alegato
-- 9.11. Modelo de encargo pericial
-- 9.12. Caso práctico resuelto
-- 9.13. Lista de revisión
-- Referencias
-
 
 
 ### 9.1. Planteamiento
@@ -3032,35 +2756,6 @@ Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevenció
 
 ## Capítulo 10. La litigación en juicio
 
-**Subíndice**
-
-- 10.1. Planteamiento
-- 10.2. La audiencia preparatoria: donde se decide qué juicio habrá
-  - 10.2.1. Por qué es la audiencia más subestimada
-  - 10.2.2. Controlar la acusación
-  - 10.2.3. La exclusión de la prueba
-  - 10.2.4. Los acuerdos probatorios: con cuidado
-  - 10.2.5. Anunciar toda la prueba de la defensa
-- 10.3. La teoría del caso
-  - 10.3.1. Elegir el elemento
-  - 10.3.2. Una sola historia
-- 10.4. El alegato de apertura
-- 10.5. La práctica de la prueba
-  - 10.5.1. Las reglas del art. 615
-  - 10.5.2. El testimonio del procesado
-  - 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía
-  - 10.5.4. Los testigos y documentos de la defensa
-  - 10.5.5. Las objeciones
-- 10.6. El alegato de clausura
-  - 10.6.1. La última palabra
-  - 10.6.2. Estructura
-- 10.7. La sentencia: lo que la defensa debe exigir
-- 10.8. Errores frecuentes de la defensa en el juicio de lavado
-- 10.9. Caso práctico resuelto
-- 10.10. Lista de revisión
-- Referencias
-
-
 
 ### 10.1. Planteamiento
 
@@ -3294,38 +2989,6 @@ Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Regis
 <<PAGEBREAK>>
 
 ## Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección
-
-**Subíndice**
-
-- 11.1. Planteamiento
-- 11.2. Las reglas generales de la impugnación
-- 11.3. La apelación
-  - 11.3.1. Qué se puede apelar
-  - 11.3.2. El trámite
-  - 11.3.3. Lo que cabe en la apelación: todo
-- 11.4. La casación
-  - 11.4.1. Su objeto: la violación de la ley
-  - 11.4.2. Las tres causales, aplicadas al lavado
-  - 11.4.3. La lección del caso Espinel: escoger bien la causal
-  - 11.4.4. Cómo llevar a casación una discusión sobre la prueba
-  - 11.4.5. La casación de la Fiscalía: el caso Salcedo
-  - 11.4.6. El trámite
-  - 11.4.7. Errores frecuentes en la casación de lavado
-- 11.5. La revisión
-  - 11.5.1. Las causales
-  - 11.5.2. Los requisitos
-  - 11.5.3. La lección del caso Chiriboga
-- 11.6. La acción extraordinaria de protección
-  - 11.6.1. Qué es y qué no es
-  - 11.6.2. Los derechos que suelen estar en juego en un caso de lavado
-  - 11.6.3. Cómo plantearla
-- 11.7. El recurso de hecho
-- 11.8. Qué recurso para qué argumento
-- 11.9. Modelo de cargo de casación
-- 11.10. Caso práctico resuelto
-- 11.11. Lista de revisión
-- Referencias
-
 
 
 ### 11.1. Planteamiento
@@ -3590,6 +3253,3 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018, 9 de mayo
 
 [^c11_art661]: COIP, art. 661.
 
-<<PAGEBREAK>>
-
-<<TOC>>
