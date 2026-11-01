@@ -2,7 +2,7 @@
 
 <<CENTER>> *La defensa penal en el delito de lavado de activos*
 
-<<CENTER>> **Ab. Fernando Tufiño Valladares**
+<<CENTER>> **Mgtr. Fernando Tufiño Valladares**
 
 <<CENTER>> Borrador de trabajo · Noviembre de 2026
 
