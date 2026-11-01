@@ -219,138 +219,138 @@
 <<IDX3>> 7.3.1. La ley de 2021|83
 <<IDX3>> 7.3.2. El Dictamen 1-21-OP/21 de la Corte Constitucional|84
 <<IDX2>> 7.4. Naturaleza jurídica|84
-<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|84
+<<IDX3>> 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias|85
 <<IDX2>> 7.5. Los presupuestos|85
-<<IDX2>> 7.6. El procedimiento|86
+<<IDX2>> 7.6. El procedimiento|87
 <<IDX2>> 7.7. El tercero de buena fe|87
-<<IDX2>> 7.8. Las medidas cautelares reales|87
-<<IDX2>> 7.9. Estrategia de defensa|88
-<<IDX3>> 7.9.1. En el proceso de extinción de dominio|88
-<<IDX3>> 7.9.2. La coordinación con el proceso penal|88
+<<IDX2>> 7.8. Las medidas cautelares reales|88
+<<IDX2>> 7.9. Estrategia de defensa|89
+<<IDX3>> 7.9.1. En el proceso de extinción de dominio|89
+<<IDX3>> 7.9.2. La coordinación con el proceso penal|89
 <<IDX3>> 7.9.3. La prueba del origen lícito de los bienes|89
-<<IDX2>> 7.10. Caso práctico resuelto|89
-<<IDX2>> 7.11. Lista de revisión|90
-<<IDX2>> Referencias|90
-<<IDX0>> Parte II. Estrategia de defensa|91
-<<IDX1>> Capítulo 8. La defensa en la investigación previa|91
-<<IDX2>> 8.1. Planteamiento|91
-<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|91
-<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|92
-<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|92
-<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|92
-<<IDX2>> 8.4. Los derechos del investigado|92
-<<IDX3>> 8.4.1. El acceso al expediente|92
-<<IDX3>> 8.4.2. El derecho al silencio|93
-<<IDX3>> 8.4.3. Rendir o no la versión|93
-<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|93
-<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|94
-<<IDX3>> 8.5.1. El fundamento|94
-<<IDX3>> 8.5.2. Qué pedir|95
-<<IDX3>> 8.5.3. La pericia de parte|95
-<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|95
-<<IDX2>> 8.6. Los plazos y el archivo|95
-<<IDX3>> 8.6.1. Los plazos|95
-<<IDX3>> 8.6.2. El archivo|96
-<<IDX2>> 8.7. Las medidas cautelares reales|96
-<<IDX2>> 8.8. La cooperación eficaz|96
-<<IDX2>> 8.9. La reserva y la exposición pública|97
-<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|97
-<<IDX2>> 8.11. Caso práctico resuelto|98
-<<IDX2>> 8.12. Lista de revisión|99
-<<IDX2>> Referencias|99
-<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|101
-<<IDX2>> 9.1. Planteamiento|101
-<<IDX2>> 9.2. La base legal|101
-<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|101
-<<IDX3>> 9.2.2. Los requisitos del perito y del informe|101
-<<IDX3>> 9.2.3. El criterio de valoración|102
-<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|102
-<<IDX2>> 9.4. Los métodos que usa la Fiscalía|102
-<<IDX3>> 9.4.1. La auditoría forense|102
-<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|103
-<<IDX2>> 9.5. Cuándo encargar la pericia de parte|104
-<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|104
-<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|104
-<<IDX2>> 9.6. Cómo elegir al perito|104
-<<IDX2>> 9.7. El encargo pericial: qué preguntar|104
-<<IDX2>> 9.8. La reconstrucción del patrimonio|105
-<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|105
-<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|105
-<<IDX3>> 9.8.3. La valoración de los bienes|105
-<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|105
-<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|106
-<<IDX2>> 9.9. El informe pericial de parte|107
-<<IDX3>> 9.9.1. Estructura recomendada|107
-<<IDX3>> 9.9.2. El cuadro de conciliación|107
-<<IDX2>> 9.10. La pericia de parte en el juicio|107
-<<IDX3>> 9.10.1. El interrogatorio del perito de parte|107
-<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|108
-<<IDX3>> 9.10.3. El alegato|108
-<<IDX2>> 9.11. Modelo de encargo pericial|108
-<<IDX2>> 9.12. Caso práctico resuelto|108
-<<IDX2>> 9.13. Lista de revisión|109
-<<IDX2>> Referencias|109
-<<IDX1>> Capítulo 10. La litigación en juicio|111
-<<IDX2>> 10.1. Planteamiento|111
-<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|111
-<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|111
-<<IDX3>> 10.2.2. Controlar la acusación|111
-<<IDX3>> 10.2.3. La exclusión de la prueba|112
-<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|112
-<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|112
-<<IDX2>> 10.3. La teoría del caso|112
-<<IDX3>> 10.3.1. Elegir el elemento|112
-<<IDX3>> 10.3.2. Una sola historia|113
-<<IDX2>> 10.4. El alegato de apertura|113
-<<IDX2>> 10.5. La práctica de la prueba|113
-<<IDX3>> 10.5.1. Las reglas del art. 615|113
-<<IDX3>> 10.5.2. El testimonio del procesado|114
-<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|114
-<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|115
-<<IDX3>> 10.5.5. Las objeciones|115
-<<IDX3>> 10.5.6. El juicio con varios procesados|115
-<<IDX2>> 10.6. El alegato de clausura|116
-<<IDX3>> 10.6.1. La última palabra|116
-<<IDX3>> 10.6.2. Estructura|116
-<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|117
-<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|117
-<<IDX2>> 10.9. Caso práctico resuelto|117
-<<IDX2>> 10.10. Lista de revisión|118
-<<IDX2>> Referencias|118
-<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|120
-<<IDX2>> 11.1. Planteamiento|120
-<<IDX2>> 11.2. Las reglas generales de la impugnación|120
-<<IDX2>> 11.3. La apelación|120
-<<IDX3>> 11.3.1. Qué se puede apelar|120
-<<IDX3>> 11.3.2. El trámite|121
-<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|121
-<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|121
-<<IDX2>> 11.4. La casación|122
-<<IDX3>> 11.4.1. Su objeto: la violación de la ley|122
-<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|122
-<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|122
-<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|123
-<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|123
-<<IDX3>> 11.4.6. El trámite|123
-<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|124
-<<IDX2>> 11.5. La revisión|124
-<<IDX3>> 11.5.1. Las causales|124
-<<IDX3>> 11.5.2. Los requisitos|124
-<<IDX3>> 11.5.3. La lección del caso Chiriboga|124
-<<IDX2>> 11.6. La acción extraordinaria de protección|124
-<<IDX3>> 11.6.1. Qué es y qué no es|124
-<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|125
-<<IDX3>> 11.6.3. Cómo plantearla|125
-<<IDX2>> 11.7. El recurso de hecho|125
-<<IDX2>> 11.8. Qué recurso para qué argumento|125
-<<IDX2>> 11.9. Modelo de cargo de casación|126
-<<IDX2>> 11.10. Caso práctico resuelto|127
-<<IDX2>> 11.11. Lista de revisión|127
-<<IDX2>> Referencias|128
-<<IDX0>> Anexos|129
-<<IDX1>> Anexo A. El art. 317 del COIP: texto vigente y reformas|129
-<<IDX1>> Anexo B. Tipologías y señales de alerta|131
-<<IDX1>> Anexo C. Modelos de escritos|132
+<<IDX2>> 7.10. Caso práctico resuelto|90
+<<IDX2>> 7.11. Lista de revisión|91
+<<IDX2>> Referencias|91
+<<IDX0>> Parte II. Estrategia de defensa|92
+<<IDX1>> Capítulo 8. La defensa en la investigación previa|92
+<<IDX2>> 8.1. Planteamiento|92
+<<IDX2>> 8.2. El punto de partida: cómo empieza un caso de lavado|92
+<<IDX2>> 8.3. Antes de la investigación: la fase administrativa|93
+<<IDX3>> 8.3.1. El requerimiento de información de la UAFE|93
+<<IDX3>> 8.3.2. El examen de la Contraloría cuando el delito de origen es de corrupción|93
+<<IDX2>> 8.4. Los derechos del investigado|93
+<<IDX3>> 8.4.1. El acceso al expediente|93
+<<IDX3>> 8.4.2. El derecho al silencio|94
+<<IDX3>> 8.4.3. Rendir o no la versión|94
+<<IDX3>> 8.4.4. La entrevista con el cliente: verificar antes de creer|94
+<<IDX2>> 8.5. La defensa activa: las diligencias de descargo|95
+<<IDX3>> 8.5.1. El fundamento|95
+<<IDX3>> 8.5.2. Qué pedir|96
+<<IDX3>> 8.5.3. La pericia de parte|96
+<<IDX3>> 8.5.4. Qué hacer si la Fiscalía no responde|96
+<<IDX2>> 8.6. Los plazos y el archivo|96
+<<IDX3>> 8.6.1. Los plazos|96
+<<IDX3>> 8.6.2. El archivo|97
+<<IDX2>> 8.7. Las medidas cautelares reales|97
+<<IDX2>> 8.8. La cooperación eficaz|97
+<<IDX2>> 8.9. La reserva y la exposición pública|98
+<<IDX2>> 8.10. Modelo de escrito: solicitud de acceso al expediente y de diligencias|98
+<<IDX2>> 8.11. Caso práctico resuelto|99
+<<IDX2>> 8.12. Lista de revisión|100
+<<IDX2>> Referencias|100
+<<IDX1>> Capítulo 9. La pericia contable y patrimonial de parte|102
+<<IDX2>> 9.1. Planteamiento|102
+<<IDX2>> 9.2. La base legal|102
+<<IDX3>> 9.2.1. El derecho a presentar prueba pericial propia|102
+<<IDX3>> 9.2.2. Los requisitos del perito y del informe|102
+<<IDX3>> 9.2.3. El criterio de valoración|103
+<<IDX2>> 9.3. Lo que una pericia contable puede probar, y lo que no|103
+<<IDX2>> 9.4. Los métodos que usa la Fiscalía|103
+<<IDX3>> 9.4.1. La auditoría forense|103
+<<IDX3>> 9.4.2. Los cinco métodos de análisis financiero|104
+<<IDX2>> 9.5. Cuándo encargar la pericia de parte|105
+<<IDX3>> 9.5.1. En la fase administrativa o en la investigación previa|105
+<<IDX3>> 9.5.2. En la instrucción y en la etapa de juicio|105
+<<IDX2>> 9.6. Cómo elegir al perito|105
+<<IDX2>> 9.7. El encargo pericial: qué preguntar|105
+<<IDX2>> 9.8. La reconstrucción del patrimonio|106
+<<IDX3>> 9.8.1. El patrimonio inicial: el punto donde se juegan las cifras|106
+<<IDX3>> 9.8.2. Las fuentes de ingreso que la Fiscalía no suele considerar|106
+<<IDX3>> 9.8.3. La valoración de los bienes|106
+<<IDX3>> 9.8.4. El patrimonio mezclado: no todo está "contaminado"|106
+<<IDX3>> 9.8.5. Los ingresos en efectivo y la economía informal|107
+<<IDX2>> 9.9. El informe pericial de parte|108
+<<IDX3>> 9.9.1. Estructura recomendada|108
+<<IDX3>> 9.9.2. El cuadro de conciliación|108
+<<IDX2>> 9.10. La pericia de parte en el juicio|108
+<<IDX3>> 9.10.1. El interrogatorio del perito de parte|108
+<<IDX3>> 9.10.2. El contraexamen del perito de la Fiscalía|109
+<<IDX3>> 9.10.3. El alegato|109
+<<IDX2>> 9.11. Modelo de encargo pericial|109
+<<IDX2>> 9.12. Caso práctico resuelto|109
+<<IDX2>> 9.13. Lista de revisión|110
+<<IDX2>> Referencias|110
+<<IDX1>> Capítulo 10. La litigación en juicio|112
+<<IDX2>> 10.1. Planteamiento|112
+<<IDX2>> 10.2. La audiencia preparatoria: donde se decide qué juicio habrá|112
+<<IDX3>> 10.2.1. Por qué es la audiencia más subestimada|112
+<<IDX3>> 10.2.2. Controlar la acusación|112
+<<IDX3>> 10.2.3. La exclusión de la prueba|113
+<<IDX3>> 10.2.4. Los acuerdos probatorios: con cuidado|113
+<<IDX3>> 10.2.5. Anunciar toda la prueba de la defensa|113
+<<IDX2>> 10.3. La teoría del caso|113
+<<IDX3>> 10.3.1. Elegir el elemento|113
+<<IDX3>> 10.3.2. Una sola historia|114
+<<IDX2>> 10.4. El alegato de apertura|114
+<<IDX2>> 10.5. La práctica de la prueba|114
+<<IDX3>> 10.5.1. Las reglas del art. 615|114
+<<IDX3>> 10.5.2. El testimonio del procesado|115
+<<IDX3>> 10.5.3. El contraexamen de los testigos técnicos de la Fiscalía|115
+<<IDX3>> 10.5.4. Los testigos y documentos de la defensa|116
+<<IDX3>> 10.5.5. Las objeciones|116
+<<IDX3>> 10.5.6. El juicio con varios procesados|116
+<<IDX2>> 10.6. El alegato de clausura|117
+<<IDX3>> 10.6.1. La última palabra|117
+<<IDX3>> 10.6.2. Estructura|117
+<<IDX2>> 10.7. La sentencia: lo que la defensa debe exigir|118
+<<IDX2>> 10.8. Errores frecuentes de la defensa en el juicio de lavado|118
+<<IDX2>> 10.9. Caso práctico resuelto|118
+<<IDX2>> 10.10. Lista de revisión|119
+<<IDX2>> Referencias|119
+<<IDX1>> Capítulo 11. Los recursos: apelación, casación, revisión y acción extraordinaria de protección|121
+<<IDX2>> 11.1. Planteamiento|121
+<<IDX2>> 11.2. Las reglas generales de la impugnación|121
+<<IDX2>> 11.3. La apelación|121
+<<IDX3>> 11.3.1. Qué se puede apelar|121
+<<IDX3>> 11.3.2. El trámite|122
+<<IDX3>> 11.3.3. Lo que cabe en la apelación: todo|122
+<<IDX3>> 11.3.4. Cómo se prepara una apelación desde el juicio|122
+<<IDX2>> 11.4. La casación|123
+<<IDX3>> 11.4.1. Su objeto: la violación de la ley|123
+<<IDX3>> 11.4.2. Las tres causales, aplicadas al lavado|123
+<<IDX3>> 11.4.3. La lección del caso Espinel: escoger bien la causal|123
+<<IDX3>> 11.4.4. Cómo llevar a casación una discusión sobre la prueba|124
+<<IDX3>> 11.4.5. La casación de la Fiscalía: el caso Salcedo|124
+<<IDX3>> 11.4.6. El trámite|124
+<<IDX3>> 11.4.7. Errores frecuentes en la casación de lavado|125
+<<IDX2>> 11.5. La revisión|125
+<<IDX3>> 11.5.1. Las causales|125
+<<IDX3>> 11.5.2. Los requisitos|125
+<<IDX3>> 11.5.3. La lección del caso Chiriboga|125
+<<IDX2>> 11.6. La acción extraordinaria de protección|125
+<<IDX3>> 11.6.1. Qué es y qué no es|125
+<<IDX3>> 11.6.2. Los derechos que suelen estar en juego en un caso de lavado|126
+<<IDX3>> 11.6.3. Cómo plantearla|126
+<<IDX2>> 11.7. El recurso de hecho|126
+<<IDX2>> 11.8. Qué recurso para qué argumento|126
+<<IDX2>> 11.9. Modelo de cargo de casación|127
+<<IDX2>> 11.10. Caso práctico resuelto|128
+<<IDX2>> 11.11. Lista de revisión|128
+<<IDX2>> Referencias|129
+<<IDX0>> Anexos|130
+<<IDX1>> Anexo A. El art. 317 del COIP: texto vigente y reformas|130
+<<IDX1>> Anexo B. Tipologías y señales de alerta|132
+<<IDX1>> Anexo C. Modelos de escritos|133
 
 <<PAGEBREAK>>
 
@@ -2520,7 +2520,7 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 
 Durante años, la respuesta del Estado frente a los bienes de origen ilícito dependió de una sola herramienta: el **comiso penal**, que exige una sentencia condenatoria. Y aquí aparece el problema que ya conocemos: el autor del delito puede estar prófugo, haber fallecido, o haber dejado los bienes a nombre de terceros. Sin condena no hay comiso, y sin comiso los bienes permanecen en manos de quien no debería tenerlos.
 
-La **extinción de dominio** nació para resolver ese problema. Es una acción **dirigida contra los bienes**, no contra las personas, que permite al Estado declarar que un bien de origen ilícito o injustificado, o de destino ilícito, no merece la protección del derecho de propiedad, mediante un procedimiento **autónomo e independiente de cualquier otro juicio o proceso**[^c7_art3]. Como se verá, sin embargo, la ley ecuatoriana tiene una particularidad que el defensor no puede pasar por alto: exige que la actividad ilícita conste en una **sentencia condenatoria ejecutoriada**, aunque no necesariamente contra el titular del bien.
+La **extinción de dominio** nació para resolver ese problema. Es una acción **dirigida contra los bienes**, no contra las personas, que permite al Estado declarar que un bien de origen ilícito o injustificado, o de destino ilícito, no merece la protección del derecho de propiedad, mediante un procedimiento **autónomo e independiente de cualquier otro proceso**[^c7_art3]. Como se verá, la ley ecuatoriana, tras sus reformas de 2023 y 2024, contiene sobre este punto una tensión que el defensor no puede pasar por alto: mientras una norma declara que no se necesita una sentencia penal condenatoria, otra exige, como regla general, una sentencia condenatoria ejecutoriada previa para iniciar la acción.
 
 Es por esta razón que el abogado defensor en casos de lavado debe vigilar siempre dos frentes al mismo tiempo: el proceso penal contra su cliente y el proceso de extinción de dominio contra sus bienes. Ganar el primero no garantiza ganar el segundo.
 
@@ -2534,7 +2534,7 @@ En 2011, la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC) p
 
 #### 7.3.1. La ley de 2021
 
-El Ecuador aprobó la **Ley Orgánica de Extinción de Dominio** en 2021[^c7_ley]. La ley define la extinción de dominio como la declaración de titularidad a favor del Estado, mediante sentencia judicial, sin contraprestación ni compensación para su titular, sobre bienes adquiridos mediante acciones u omisiones contrarias al derecho; es de naturaleza jurisdiccional y de carácter real, y "se dirige contra bienes y no contra personas" (art. 3). Es, además, patrimonial, autónoma e independiente de cualquier otro proceso, y **prescribe a los quince años** contados desde la fecha en que se adquirió el bien (art. 4). En lo sustantivo se aplica supletoriamente el Código Civil, y en lo procesal, el COIP (art. 8).
+El Ecuador aprobó la **Ley Orgánica de Extinción de Dominio** en 2021[^c7_ley], y la reformó a fondo en 2023 y, sobre todo, en 2024[^c7_reformas_led]. En su texto vigente, la extinción de dominio consiste en la declaración de titularidad a favor del Estado, mediante sentencia judicial, sin contraprestación ni compensación alguna; es de carácter patrimonial, "se dirige contra bienes y no contra personas" y se declara a través de un procedimiento autónomo e independiente de cualquier otro proceso (art. 3). La acción **prescribe a los ochenta años**, contados desde la fecha en que se adquirió el bien o desde que fue destinado a la actividad ilícita (art. 4). En lo sustantivo se aplica supletoriamente el Código Civil, y en lo procesal, el COIP (art. 8).
 
 Su tramitación tuvo un capítulo decisivo en la Corte Constitucional, que conviene conocer porque marca los límites del instituto.
 
@@ -2544,7 +2544,7 @@ El Presidente de la República objetó por inconstitucionalidad varios artículo
 
 Las fuentes que analizan el dictamen destacan que la retroactividad prevista en el proyecto era ilimitada: el Estado habría podido reclamar bienes adquiridos en cualquier momento del pasado, sin importar cuántos terceros de buena fe los hubieran adquirido después.
 
-**Para el abogado defensor, este dictamen es fundamental.** Significa que la extinción de dominio en el Ecuador **tiene límites temporales** y **no puede aplicarse de forma ilimitada hacia el pasado**. El texto final de la ley recogió ese límite al fijar el plazo de prescripción de quince años desde la adquisición del bien (art. 4). Cualquier pretensión sobre un bien adquirido hace más de quince años es atacable.
+**Para el abogado defensor, este dictamen es fundamental.** Significa que la extinción de dominio en el Ecuador **tiene límites temporales** y **no puede aplicarse de forma ilimitada hacia el pasado**. El texto original de la ley recogió ese límite con un plazo de prescripción de quince años desde la adquisición del bien. La reforma de 2024 lo elevó a **ochenta años** (art. 4). Si bien es cierto que un plazo de ochenta años no es formalmente una imprescriptibilidad, es importante preguntarse si, en la práctica, no produce el mismo efecto que la Corte Constitucional declaró incompatible con la seguridad jurídica. Es un argumento que la defensa debe plantear, sobre todo cuando se pretende aplicar el nuevo plazo a bienes adquiridos cuando regía el anterior.
 
 ### 7.4. Naturaleza jurídica
 
@@ -2554,12 +2554,12 @@ Es importante diferenciar la extinción de dominio de las figuras con las que su
 |---|---|---|
 | Naturaleza | Acción **real** y **patrimonial**: se dirige contra los bienes | **Pena**, impuesta a una persona |
 | Proceso | **Autónomo** e independiente del proceso penal | Dentro del proceso penal |
-| ¿Requiere condena? | No contra el titular del bien; pero la actividad ilícita debe estar establecida en una sentencia condenatoria ejecutoriada (art. 7, lit. a) | **Sí**, contra el procesado |
-| ¿Quién la promueve? | La Fiscalía investiga y formula la resolución de pretensión; la Procuraduría General del Estado presenta la acusación particular[^c7_actores] | La Fiscalía, en la acusación |
+| ¿Requiere condena? | La ley es contradictoria: el art. 3.1, lit. a), dice que no; el art. 4.1 exige, como regla general, una sentencia condenatoria ejecutoriada previa | **Sí**, contra el procesado |
+| ¿Quién la promueve? | La Fiscalía investiga, dicta la resolución de pretensión y presenta la demanda; la Procuraduría General del Estado puede allanarse o presentar su propia demanda[^c7_actores] | La Fiscalía, en la acusación |
 | Estándar | La ley no fija uno expreso; en lo procesal remite al COIP (art. 8) | Más allá de toda duda razonable |
-| Garantías | Los derechos y garantías de la Constitución y de los instrumentos internacionales "que resulten pertinentes con la naturaleza del procedimiento" (art. 10) | Todas las garantías penales |
+| Garantías | Los derechos y garantías de la Constitución y de los instrumentos internacionales "que resulten compatibles con la naturaleza de la acción", y el debido proceso constitucional (art. 10) | Todas las garantías penales |
 
-Como podrá apreciar el lector, la autonomía de la extinción de dominio tiene una consecuencia práctica muy seria: **la absolución penal del titular no impide necesariamente la extinción de dominio**. El proceso patrimonial no discute la culpabilidad de una persona, sino el origen o destino de un bien. Es importante diferenciar, sin embargo, la absolución del titular de la inexistencia de una condena: si no existe ninguna sentencia condenatoria ejecutoriada que establezca la actividad ilícita de la que provendría el bien, falta uno de los presupuestos de la acción (sección 7.5).
+Como podrá apreciar el lector, la autonomía de la extinción de dominio tiene una consecuencia práctica muy seria: **la absolución penal del titular no impide necesariamente la extinción de dominio**. El proceso patrimonial no discute la culpabilidad de una persona, sino el origen o destino de un bien. Es importante diferenciar, sin embargo, la absolución del titular de la inexistencia de una condena: como se explica en la sección 7.5, fuera de los casos de excepción del art. 4.1, la ley exige una sentencia condenatoria ejecutoriada previa para iniciar la acción.
 
 #### 7.4.1. Comiso penal y extinción de dominio: cuatro diferencias
 
@@ -2570,7 +2570,7 @@ El comiso penal está regulado en el art. 69, numeral 2, del COIP. Procede "en t
 | Criterio | Comiso penal | Extinción de dominio |
 |---|---|---|
 | **Naturaleza** | Es una pena, restrictiva del derecho de propiedad | Es una consecuencia patrimonial que la ley declara independiente de la responsabilidad penal |
-| **Presupuesto** | Una sentencia condenatoria por un delito doloso | Que el bien tenga un origen ilícito o injustificado, o un destino ilícito, vinculado con una actividad ilícita establecida en sentencia condenatoria ejecutoriada, aunque el titular no haya sido condenado (arts. 5 y 7) |
+| **Presupuesto** | Una sentencia condenatoria por un delito doloso | Que el bien tenga un origen ilícito o injustificado, o un destino ilícito, vinculado con una actividad ilícita (arts. 3.1 y 5); la necesidad de una condena previa depende del art. 4.1 |
 | **Persona afectada** | El sentenciado, y los bienes vinculados al delito | El titular del bien, sea o no responsable de un delito |
 | **Garantías** | Todas las del proceso penal, incluida la presunción de inocencia | Las del debido proceso, con un estándar y unas reglas probatorias propias que la defensa debe discutir |
 
@@ -2584,34 +2584,39 @@ En consecuencia, la estrategia patrimonial del cliente no puede pensarse solo en
 
 El art. 5 de la ley exige que se compruebe la concurrencia de **cuatro condiciones**[^c7_presupuestos]:
 1. La existencia de un bien o bienes presumiblemente de origen ilícito o injustificado, o de destino ilícito.
-2. La existencia de una **actividad ilícita**.
+2. La existencia de una **actividad ilícita**, conforme a la definición de la ley.
 3. El **nexo causal** entre los dos elementos anteriores.
 4. El **conocimiento** que tenga o deba haber tenido el titular del bien acerca de su origen ilícito o injustificado o de su destino ilícito, a menos que el titular y el beneficiario final demuestren que estaban impedidos de conocerlo.
 
-La segunda condición es la que más interesa a la defensa. La ley define la **actividad ilícita** como las acciones u omisiones relacionadas con los delitos de concusión, cohecho, peculado, enriquecimiento ilícito, lavado de activos, producción, comercialización o tráfico ilícito de sustancias catalogadas sujetas a fiscalización y tráfico de personas, "establecidos mediante sentencia condenatoria ejecutoriada" (art. 7, lit. a). Es decir, el catálogo es cerrado y la actividad ilícita no se presume: debe constar en una sentencia firme. Mientras el proceso penal del que depende la extinción no termine en una condena ejecutoriada, la pretensión carece de uno de sus presupuestos.
+**La actividad ilícita.** La ley la define como las acciones u omisiones relacionadas con los delitos del COIP, "principalmente" de concusión, cohecho, peculado, enriquecimiento ilícito, lavado de activos, tráfico de sustancias sujetas a fiscalización, tráfico o trata de personas, terrorismo y su financiamiento, asesinato, sicariato, secuestro extorsivo, tráfico de armas, actividad ilícita de recursos mineros y delincuencia organizada (art. 3.1, lit. a). La palabra "principalmente" convierte el catálogo en abierto, lo que plantea un problema serio de legalidad que la defensa debe denunciar: la Corte Constitucional, en el dictamen 1-21-OP/21, exigió que las causales estén **definidas con claridad**[^c7_causales].
 
-La ley define también el **bien de origen injustificado** como aquel que no corresponde razonablemente a los ingresos de su titular o representa un incremento sin sustento en su patrimonio (art. 7, lit. c). Si bien es cierto que esta figura amplía el alcance de la acción, es importante diferenciarla de la anterior: el art. 19, lit. d), solo permite extinguir el bien que constituye un incremento sin sustento "cuando existan hechos o circunstancias que permitan determinar que provienen de actividades ilícitas". El patrimonio no justificado, por sí solo, no basta.
+**¿Se necesita una condena penal?** Aquí está la tensión más importante del texto vigente. Por un lado, el art. 3.1, lit. a), reformado en julio de 2024, dispone que "no se necesita la declaración de sentencia penal condenatoria para iniciar la investigación y la fase jurisdiccional de extinción de dominio", y que no puede alegarse prejudicialidad para impedir la sentencia. Por otro lado, el art. 4.1, introducido en febrero de 2024 y no derogado, establece que "para el inicio de la acción de extinción de dominio se requerirá de una sentencia condenatoria ejecutoriada previa", con excepción de cuatro casos: los bienes de miembros de grupos de delincuencia organizada, organizaciones terroristas o actores no estatales beligerantes identificados por el Consejo de Seguridad Pública y del Estado o por resoluciones de Naciones Unidas; los bienes injustificados vinculados causalmente con el crimen organizado o con esas organizaciones; los delitos flagrantes respecto de bienes de esos grupos; y los bienes injustificados vinculados con delitos contra la eficiencia de la administración pública, principalmente la concusión y el cohecho.
 
-El art. 19 enumera, además, las **causales** de procedencia: los bienes que provienen directa o indirectamente de una actividad ilícita, los que son su objeto material, los que resultan de su transformación o conversión, los utilizados como medio o instrumento, los destinados a la ejecución de actividades ilícitas, los bienes lícitos confundidos con bienes ilícitos, sus frutos y ganancias, los abandonados, los recibidos por herencia o a título gratuito cuando son producto de actividades ilícitas, los obtenidos por enajenación o permuta de otros de origen ilícito y los que pertenecen a sociedades establecidas en paraísos fiscales, salvo que se justifique la existencia de motivos económicos válidos. La Corte Constitucional, en el dictamen 1-21-OP/21, exigió que esas causales estén **definidas con claridad** y sean **proporcionales**[^c7_causales].
+En este orden de ideas, la posición de la defensa debe ser firme: el art. 4.1 es la norma especial que fija la regla general y sus excepciones, y las excepciones se interpretan de forma restrictiva. En un caso de lavado de activos que no encaje en ninguna de ellas, la Fiscalía necesita una sentencia condenatoria ejecutoriada previa para iniciar la acción. Interpretar el art. 3.1 como una derogación tácita del art. 4.1 dejaría sin sentido la lista de excepciones, y la duda, cuando está en juego el derecho a la propiedad adquirida lícitamente, que la propia ley reconoce como límite de la acción (art. 14, lit. a), debe resolverse a favor del afectado.
+
+**El bien de origen injustificado.** La ley lo define como aquel que no corresponde razonablemente a los ingresos de su titular o representa un incremento sin sustento en su patrimonio (art. 3.1, lit. c). Si bien es cierto que esta figura amplía el alcance de la acción, es importante diferenciarla de la anterior: el art. 19, lit. d), solo permite extinguir el bien que constituye un incremento sin sustento "cuando existan hechos o circunstancias que permitan determinar que proviene de actividades ilícitas". El patrimonio no justificado, por sí solo, no basta.
+
+**Las causales.** El art. 19 enumera los bienes sobre los que procede la acción: los que provienen directa o indirectamente de una actividad ilícita, los que son su objeto material, los que resultan de su transformación o conversión, los utilizados como medio o instrumento, los destinados a la ejecución de actividades ilícitas, los bienes lícitos utilizados para ocultar o mezclar bienes ilícitos, sus frutos y ganancias, los abandonados, los recibidos por herencia o a título gratuito cuando son producto de actividades ilícitas, los obtenidos por enajenación o permuta de otros de origen ilícito y los que pertenecen a sociedades establecidas en paraísos fiscales, salvo que se justifiquen motivos económicos válidos.
 
 ### 7.6. El procedimiento
 
-El procedimiento se desarrolla en **dos fases**[^c7_fases]:
+El procedimiento se desarrolla en **tres fases**, las dos primeras a cargo de la Fiscalía General del Estado y la tercera a cargo del juez (art. 22)[^c7_fases]:
 
-1. **La fase de investigación patrimonial**, a cargo de la Fiscalía General del Estado, que puede iniciarse de oficio, por denuncia o por cualquier medio (arts. 17, 22 y 23). Dura **doce meses**, prorrogables hasta por seis meses más cuando los bienes están en el exterior o es difícil obtener la prueba (art. 29). Sus actuaciones son reservadas, **excepto para el afectado** y la Procuraduría (art. 28). Con autorización judicial, el fiscal puede acceder a bases de datos privadas y no le es oponible la reserva bancaria, bursátil ni tributaria (art. 27). La fase termina con la resolución de pretensión de extinción de dominio o con el archivo (art. 29).
-2. **La fase judicial**, ante las juezas y jueces especializados en delitos relacionados con corrupción y crimen organizado del lugar donde se encuentran los bienes (art. 18). El juez admite la pretensión en el término de tres días (art. 42); la Procuraduría General del Estado presenta la **acusación particular** dentro de los treinta días siguientes a la notificación de la resolución de pretensión (art. 44); el afectado, una vez citado, tiene **treinta días** para presentar su oposición y anunciar su prueba (art. 46); y la audiencia de juicio se realiza en el plazo máximo de quince días (art. 48), en dos fases: primero, la legitimación, la competencia, la procedibilidad y la admisibilidad de la prueba; después, los alegatos, la práctica de la prueba y los alegatos finales (art. 50).
+1. **La fase de indagación y verificación de bienes.** La Fiscalía accede a bases de datos públicas y privadas y cruza información para identificar los bienes y a sus titulares. Es reservada y "no requiere de notificación" (arts. 22.1 y 28). El afectado, por tanto, no sabe que está siendo investigado.
+2. **La fase de investigación patrimonial.** Dura **seis meses** desde que culmina la indagación, prorrogables por otros seis cuando los bienes están en el exterior o es difícil obtener la prueba, y la prórroga puede renovarse (art. 29). Cuando los bienes ya están incautados y se trata de los delitos del art. 3.1, lit. a), los plazos se reducen a treinta días para la indagación y tres meses para la investigación (art. 29.1). Dentro de los siete días siguientes a su inicio, el fiscal debe **notificar al afectado** y a la Procuraduría (art. 24), y desde ese momento las actuaciones son reservadas **excepto para el afectado** (art. 28). No le son oponibles a la Fiscalía la reserva bancaria, bursátil ni tributaria (arts. 26 y 27). La fase termina con la **resolución de pretensión** de extinción de dominio, que debe exponer, entre otros requisitos, el nexo causal entre los bienes y la actividad ilícita y el informe pericial que fija el precio base de los bienes (art. 30), o con el **archivo**, que procede, entre otros casos, cuando los bienes están a nombre de terceros que los adquirieron de buena fe (art. 31).
+3. **La fase judicial**, ante las juezas y jueces especializados en el juzgamiento de delitos relacionados con corrupción y crimen organizado (art. 18). Comienza con la **demanda de la Fiscalía** (arts. 41.1 y 41.2); la Procuraduría General del Estado puede allanarse o presentar su propia demanda en el término de cinco días (art. 44). El juez admite la pretensión en el término de tres días (art. 42) y el afectado tiene un término de **quince días** para presentar su oposición y anunciar su prueba (art. 46). La audiencia de juicio se realiza en el término máximo de diez días (art. 48), en dos fases: primero, la legitimación, la competencia, la procedibilidad y la admisibilidad de la prueba; después, los alegatos, la práctica de la prueba y los alegatos finales (art. 50).
 
-La sentencia se pronuncia oralmente al finalizar la audiencia, salvo que la complejidad del caso justifique suspenderla hasta por diez días, y se notifica por escrito en el término de diez días (art. 51). Si la pretensión es improcedente, el juez revoca las medidas cautelares y, si los bienes se vendieron anticipadamente, ordena entregar al afectado el valor íntegro de la venta; la sentencia se publica, además, en el Registro Oficial y en los portales del Consejo de la Judicatura y de la Fiscalía, a manera de reparación, salvo oposición del afectado (art. 51).
+**Una advertencia que no admite excepciones.** Si el afectado **no contesta** en el término de quince días, el juez declara de inmediato la extinción de dominio mediante **sentencia anticipada** (art. 46.1). El afectado puede también allanarse, por acuerdo con la Fiscalía, y conservar uno de los bienes, que no puede ser el de mayor cuantía, o hasta el 10 % de los valores; en ese caso la sentencia anticipada no admite recurso (art. 46). Es por esta razón que el abogado que recibe el caso en esta fase debe actuar en el mismo día: un término perdido equivale a la pérdida de los bienes.
 
-Contra las sentencias y los autos definitivos solo cabe el **recurso de apelación**, con efecto suspensivo, que se interpone en tres días desde la notificación de la sentencia escrita (arts. 54 y 55). Proceden también la revisión y la casación, conforme al COIP (art. 56). La ley no prevé la extinción por la muerte del titular: el procedimiento continúa aunque este fallezca (art. 21).
+La sentencia se pronuncia oralmente al finalizar la audiencia, salvo que la complejidad del caso justifique suspenderla hasta por cinco días, y se notifica por escrito en el término máximo de cinco días (art. 51). Si la pretensión es improcedente, el juez revoca las medidas cautelares, ordena entregar al afectado el valor íntegro de los bienes vendidos anticipadamente y dispone la publicación de la sentencia, a manera de reparación (art. 51).
 
-**Para la defensa**, los plazos son decisivos. El plazo de treinta días para la oposición es el momento de anunciar toda la prueba del origen lícito, y la fase de investigación patrimonial, en la que el afectado tiene acceso a las actuaciones, es la oportunidad de preparar esa prueba con tiempo.
+Contra la sentencia caben la aclaración, la ampliación, la **apelación**, que se interpone en el término de diez días y tiene efecto suspensivo, y la **casación**, en el término de cinco días, conforme al COGEP (arts. 54 a 56). La revisión procede conforme al COIP (art. 56.1). El procedimiento continúa aunque fallezca el titular de los bienes (art. 21).
 
 ### 7.7. El tercero de buena fe
 
-La protección del **tercero de buena fe** es la principal garantía del sistema. La ley define la buena fe como la "conducta diligente y prudente, exenta de toda culpa en todo acto o negocio jurídico relacionado con los bienes", y al tercero de buena fe como la persona cuya conducta ha sido diligente y prudente, exenta de culpa, en esos actos o negocios[^c7_buenafe]. Y, lo que es más importante para la defensa, establece una **presunción de buena fe**: se presume cuando la conducta exigida para adquirir los derechos sobre el bien se cumplió "sin fraude ni vicio", y "la presunción contraria a la buena fe debe ser probada por quien la alegue" (art. 7, lit. e). Es decir, no es el tercero quien debe probar su inocencia, sino el Estado quien debe desvirtuar la buena fe.
+La protección del **tercero de buena fe** es la principal garantía del sistema. La ley define la buena fe como la conducta diligente y prudente de haber adquirido el dominio de los bienes por medios legítimos, exenta de toda culpa y de cualquier otro vicio (art. 14, lit. b), y al tercero de buena fe como la persona cuya conducta ha sido diligente y prudente, exenta de culpa, en todo acto o negocio jurídico relacionado con los bienes[^c7_buenafe]. Además, establece una **presunción de buena fe** cuando la conducta legalmente exigida para adquirir los derechos sobre el bien ha sido exenta de culpa y de cualquier otro vicio (art. 3.1, lit. f). Y, lo que es más importante para la defensa, es la Fiscalía la que debe obtener, en la investigación patrimonial, "los medios de prueba necesarios para demostrar la ausencia de buena fe exenta de culpa del afectado" (art. 23, lit. e). Es decir, no es el afectado quien debe probar su buena fe, sino la Fiscalía quien debe demostrar su ausencia.
 
-La persona que, sin ser parte, resulte perjudicada en su derecho de propiedad puede intervenir como **tercerista** en la fase judicial (art. 12), y quien ya obtuvo una decisión definitiva a su favor no puede ser sometido a una nueva investigación patrimonial cuando exista identidad de sujetos, objeto y causa (art. 11).
+La persona que, sin ser parte, resulte perjudicada en su derecho de propiedad puede intervenir como **tercerista** en la fase judicial, siempre que acredite derechos comprometidos y no meras expectativas (art. 12), y quien ya obtuvo una decisión definitiva a su favor no puede ser sometido a una nueva investigación patrimonial cuando exista identidad de sujetos, objeto y causa (art. 11).
 
 Es importante diferenciar esta noción de la buena fe simple del derecho civil:
 - la **buena fe simple** es la creencia de estar actuando correctamente;
@@ -2621,7 +2626,7 @@ Es importante diferenciar esta noción de la buena fe simple del derecho civil:
 
 ### 7.8. Las medidas cautelares reales
 
-Tanto en el proceso penal como en el de extinción de dominio, el Estado puede afectar los bienes antes de la sentencia. En la extinción de dominio, la ley prevé tres medidas: la **prohibición de enajenar**, la **retención** y la **incautación** (art. 34). Durante la investigación patrimonial solo puede solicitarse la prohibición de enajenar, y el juez debe convocar a audiencia en el plazo de dos días (arts. 23 y 35); en la fase judicial cabe cualquiera de las tres (art. 36). El juez puede autorizar la venta anticipada de los bienes que corran riesgo de perecer o depreciarse (art. 37), y las medidas pueden revocarse por decisión judicial o a petición de parte (art. 39). En el proceso penal, las medidas cautelares reales son las del art. 549 del COIP[^c7_cautelares].
+Tanto en el proceso penal como en el de extinción de dominio, el Estado puede afectar los bienes antes de la sentencia. En la extinción de dominio, la ley prevé un catálogo amplio: la prohibición de enajenar, transferir, convertir o mover; la retención; la incautación; la inmovilización; el secuestro; la clausura provisional de locales; la suspensión temporal de actividades de la persona jurídica; la intervención por el ente de control, y cualquier otra medida que suspenda el poder dispositivo (art. 34). Durante la investigación patrimonial pueden solicitarse la prohibición de enajenar y la retención de dinero o de derechos representativos de capital, y el juez debe convocar a audiencia en el plazo de dos días (arts. 23 y 35); en la fase judicial cabe cualquiera de ellas (art. 36). El juez puede autorizar la venta anticipada de los bienes que corran riesgo de perecer o depreciarse (art. 37). La **revocatoria** solo procede por decisión judicial, a petición de los sujetos procesales, en una audiencia que debe convocarse en el término de cinco días (art. 39). En el proceso penal, las medidas cautelares reales son las del art. 549 del COIP[^c7_cautelares].
 
 Estas medidas deben respetar los mismos límites que cualquier medida cautelar:
 - **legalidad:** solo las previstas en la ley;
@@ -2643,11 +2648,11 @@ Para la defensa, la clave es la **audiencia de ratificación**. Allí deben exig
 
 #### 7.9.1. En el proceso de extinción de dominio
 1. **Acredite el origen lícito del bien:** es la defensa principal. El peritaje contable y la documentación de la adquisición son decisivos.
-2. **Exija la sentencia condenatoria ejecutoriada:** la actividad ilícita debe estar establecida en una sentencia firme por alguno de los delitos del art. 7, lit. a). Sin ella, falta un presupuesto de la acción.
-3. **Ataque el nexo causal:** la Fiscalía y la Procuraduría deben probar el vínculo entre el bien concreto y la actividad ilícita, no solo la existencia de esa actividad (art. 5, num. 3).
+2. **Exija la sentencia condenatoria ejecutoriada previa:** fuera de las excepciones del art. 4.1, la ley la exige para iniciar la acción. Sin ella, falta un presupuesto de procedibilidad que debe plantearse en la primera fase de la audiencia de juicio (art. 50).
+3. **Ataque el nexo causal:** la Fiscalía debe probar el vínculo entre el bien concreto y la actividad ilícita, no solo la existencia de esa actividad (arts. 5, num. 3, y 30, lit. d).
 4. **Discuta el conocimiento del titular:** el art. 5, num. 4, exige que el titular conociera o debiera conocer el origen o destino ilícito del bien.
-5. **Haga valer los límites temporales:** la acción prescribe a los quince años desde la adquisición del bien (art. 4).
-6. **Defienda la buena fe exenta de culpa** del titular o del tercero adquirente, y recuerde que la buena fe se presume (art. 7, lit. e).
+5. **Haga valer los límites temporales:** discuta la aplicación del plazo de ochenta años del art. 4 a bienes adquiridos cuando regía el anterior, a la luz del dictamen 1-21-OP/21.
+6. **Defienda la buena fe exenta de culpa** del titular o del tercero adquirente: se presume, y la Fiscalía debe demostrar su ausencia (arts. 3.1, lit. f, y 23, lit. e).
 7. **Exija proporcionalidad:** que la extinción no alcance la totalidad del bien cuando solo una parte tiene origen cuestionado.
 8. **Exija que se respete el derecho a la defensa** y el debido proceso, aunque no sea un proceso penal.
 
@@ -2658,7 +2663,7 @@ Para la defensa, la clave es la **audiencia de ratificación**. Allí deben exig
 
 #### 7.9.3. La prueba del origen lícito de los bienes
 
-En la extinción de dominio, más todavía que en el proceso penal, la suerte del caso depende de la prueba documental del origen de los bienes. Por eso conviene que el abogado organice esa prueba con un método, y que lo haga antes de que venza el plazo de treinta días para la oposición (art. 46).
+En la extinción de dominio, más todavía que en el proceso penal, la suerte del caso depende de la prueba documental del origen de los bienes. Por eso conviene que el abogado organice esa prueba con un método, y que lo haga antes de que venza el término de quince días para la oposición (art. 46).
 
 El método que recomiendo tiene cuatro pasos:
 
@@ -2672,25 +2677,26 @@ Como podrá apreciar el lector, este trabajo coincide en buena medida con la rec
 ### 7.10. Caso práctico resuelto
 
 #### Los hechos
-En 2025, la Fiscalía procesa a un importador por lavado de activos. Paralelamente, abre una investigación patrimonial con fines de extinción de dominio sobre tres bienes:
+En 2025, la Fiscalía procesa a un importador por lavado de activos. Sin esperar la sentencia penal, inicia una investigación patrimonial con fines de extinción de dominio sobre tres bienes:
 - **(a)** una casa comprada por el importador en 2012, mucho antes de las operaciones investigadas;
 - **(b)** un departamento comprado en 2022, durante el periodo investigado;
 - **(c)** un local comercial que el importador vendió en 2023 a una comerciante, que pagó el precio de mercado mediante una transferencia bancaria.
 
 #### Análisis
-1. **La casa de 2012.** Fue adquirida antes de los hechos investigados y no hay nexo causal con el lavado (art. 5, num. 3). Aunque la acción no ha prescrito, porque no han transcurrido quince años desde la adquisición (art. 4), la Fiscalía no puede tratar todo el patrimonio como un bloque.
-2. **El departamento de 2022.** Es el bien con mayor riesgo. Sin embargo, mientras el proceso penal no termine en una sentencia condenatoria ejecutoriada, no existe la actividad ilícita en los términos del art. 7, lit. a), y la pretensión carece de presupuesto. Además, la defensa debe acreditar desde ya su origen lícito, por ejemplo con un crédito hipotecario, los ahorros previos o la venta de otro bien.
-3. **El local vendido a la comerciante.** La comerciante es una **tercera de buena fe**: pagó un precio de mercado, por medios bancarios, sin señales de alerta. Su buena fe se presume, y es el Estado quien debe desvirtuarla (art. 7, lit. e). Puede intervenir como tercerista (art. 12).
+1. **La condena previa.** El importador no pertenece a ningún grupo identificado por el Consejo de Seguridad Pública y del Estado, no hubo flagrancia y el caso no versa sobre concusión ni cohecho. No encaja, por tanto, en ninguna de las excepciones del art. 4.1. La defensa debe sostener, desde la notificación de la investigación, que la acción no puede iniciarse sin una sentencia condenatoria ejecutoriada previa.
+2. **La casa de 2012.** Fue adquirida antes de los hechos investigados y no hay nexo causal con el lavado (art. 5, num. 3). La Fiscalía no puede tratar todo el patrimonio como un bloque, y la propia ley prevé que la extinción procede solo sobre los bienes cuyo origen ilícito se determine (art. 29).
+3. **El departamento de 2022.** Es el bien con mayor riesgo. La defensa debe acreditar su origen lícito, por ejemplo con un crédito hipotecario, los ahorros previos o la venta de otro bien, y presentar esa prueba dentro del término de quince días para la oposición (art. 46).
+4. **El local vendido a la comerciante.** La comerciante es una **tercera de buena fe**: pagó un precio de mercado, por medios bancarios, sin señales de alerta. Su buena fe se presume, y la Fiscalía debe demostrar su ausencia (arts. 3.1, lit. f, y 23, lit. e). Puede intervenir como tercerista (art. 12) y, si su buena fe se acredita en la investigación, el fiscal debe pedir el archivo respecto de ese bien (art. 31, num. 4).
 
 #### Conclusión
-Aun si el proceso penal termina en una condena, la extinción de dominio solo debería prosperar, en el mejor de los casos para el Estado, sobre el departamento de 2022, y siempre que se pruebe el nexo causal y el conocimiento del titular. La casa de 2012 y el local de la tercera de buena fe deberían quedar fuera.
+Aun si el proceso penal termina en una condena, la extinción de dominio solo debería prosperar, en el mejor de los casos para el Estado, sobre el departamento de 2022, y siempre que se pruebe el nexo causal y el conocimiento del titular. La casa de 2012 y el local de la tercera de buena fe deberían quedar fuera. Y el abogado no debe olvidar lo más elemental: si no contesta a tiempo, la sentencia anticipada hará innecesaria cualquier otra discusión.
 
 ### 7.11. Lista de revisión
 
 - [ ] ¿Cuándo se adquirió cada bien? ¿Antes o después de los hechos investigados?
-- [ ] ¿Existe una sentencia condenatoria ejecutoriada que establezca la actividad ilícita (art. 7, lit. a)?
-- [ ] ¿Han transcurrido quince años desde la adquisición del bien (art. 4)?
-- [ ] ¿Estoy dentro del plazo de treinta días para presentar la oposición y anunciar la prueba (art. 46)?
+- [ ] ¿Existe una sentencia condenatoria ejecutoriada previa? ¿El caso encaja en alguna excepción del art. 4.1?
+- [ ] ¿Cuándo se adquirió el bien y qué plazo de prescripción regía entonces (art. 4)?
+- [ ] ¿Estoy dentro del término de quince días para presentar la oposición y anunciar la prueba (arts. 46 y 46.1)?
 - [ ] ¿Qué prueba hay del nexo causal entre cada bien y la actividad ilícita?
 - [ ] ¿Puedo acreditar el origen lícito con documentos y con un peritaje?
 - [ ] ¿Hay terceros de buena fe exenta de culpa?
@@ -2721,19 +2727,19 @@ Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 2021.
 
 [^c7_colombia_leyes]: Ley 333 de 1996, Ley 793 de 2002 y Ley 1708 de 2014 (Código de Extinción de Dominio).
 
-[^c7_ley]: Ley Orgánica de Extinción de Dominio, Registro Oficial Quinto Suplemento 452 de 2021. Se consultó el texto aprobado por el Pleno de la Asamblea Nacional tras la objeción parcial del Ejecutivo, remitido al Presidente de la República mediante oficio No. PAN-CLC-2021-0376.
+[^c7_ley]: Ley Orgánica de Extinción de Dominio, Registro Oficial Quinto Suplemento 452 de 14 de mayo de 2021, texto vigente con reformas hasta el 27 de marzo de 2025.
 
 [^c7_dictamen]: Corte Constitucional del Ecuador, Dictamen No. 1-21-OP/21, 2021. Comentario del autor: según fuentes académicas, sentencias posteriores de la Corte Constitucional (entre ellas las identificadas como 780-18-EP/23 y 8-22-IN/26) se han pronunciado sobre los bienes de terceros y la constitucionalidad del instituto; conviene revisarlas antes de citarlas en un escrito.
 
-[^c7_actores]: Ley Orgánica de Extinción de Dominio, arts. 15 (sujetos procesales), 16 (competencia de la Procuraduría General del Estado), 17 (competencia de la Fiscalía General del Estado), 22, 23 y 44.
+[^c7_actores]: Ley Orgánica de Extinción de Dominio, arts. 15 (sujetos procesales), 16 (Procuraduría General del Estado), 17 (Fiscalía General del Estado), 41.1, 41.2 y 44.
 
-[^c7_presupuestos]: Ley Orgánica de Extinción de Dominio, arts. 5 (condiciones), 7 (definiciones) y 19 (procedencia y causales).
+[^c7_presupuestos]: Ley Orgánica de Extinción de Dominio, arts. 3.1 (definiciones), 4.1 (excepciones), 5 (condiciones) y 19 (procedencia y causales).
 
 [^c7_causales]: Comentario del autor: la claridad de las causales es una exigencia del principio de legalidad; una causal ambigua es atacable.
 
-[^c7_fases]: Ley Orgánica de Extinción de Dominio, arts. 18 y 21 a 56.
+[^c7_fases]: Ley Orgánica de Extinción de Dominio, arts. 18 y 21 a 56.1.
 
-[^c7_buenafe]: Ley Orgánica de Extinción de Dominio, art. 7, lits. d), e) y f). Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
+[^c7_buenafe]: Ley Orgánica de Extinción de Dominio, arts. 3.1, lits. f) y g), y 14, lit. b). Comentario del autor: la noción de buena fe exenta de culpa proviene de la jurisprudencia colombiana sobre extinción de dominio.
 
 [^c7_cautelares]: Ley Orgánica de Extinción de Dominio, arts. 23 y 34 a 40; COIP, arts. 519, 520 y 549.
 
@@ -2744,6 +2750,8 @@ Corte Constitucional del Ecuador. (2021). *Dictamen No. 1-21-OP/21*, 2021.
 [^c7_extincion317]: COIP, art. 317, inciso que dispone: "Las mismas penas se aplicarán cuando las conductas descritas en este artículo se realicen sobre bienes cuya extinción de dominio haya sido declarada".
 
 [^c7_art3]: Ley Orgánica de Extinción de Dominio, arts. 3 y 4.
+
+[^c7_reformas_led]: Las reformas principales se publicaron en el Registro Oficial Suplemento 279 de 29 de marzo de 2023, Suplemento 496 de 9 de febrero de 2024 y Suplemento 599 de 12 de julio de 2024. El art. 18 agregado por el Decreto Ley de Emergencia No. 477 (competencia de la UAFE) quedó sin efecto con la declaratoria de inconstitucionalidad publicada en el Registro Oficial Suplemento 8 de 27 de marzo de 2025.
 
 <<PAGEBREAK>>
 

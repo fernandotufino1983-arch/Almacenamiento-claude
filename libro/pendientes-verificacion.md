@@ -45,8 +45,7 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 
 ## Capítulo 7
 
-1. Fecha exacta de publicación de la Ley Orgánica de Extinción de Dominio en el Registro Oficial Quinto Suplemento 452 (2021). El articulado se contrastó con el texto aprobado por la Asamblea y remitido al Ejecutivo (oficio PAN-CLC-2021-0376); conviene confirmar que coincide con el publicado.
-2. Términos exactos del Dictamen 1-21-OP/21 (artículos objetados del proyecto, entre ellos los arts. 4 y 72) y sentencias posteriores 780-18-EP/23 y 8-22-IN/26.
+1. Términos exactos del Dictamen 1-21-OP/21 (artículos objetados del proyecto, entre ellos los arts. 4 y 72) y sentencias posteriores 780-18-EP/23 y 8-22-IN/26.
 
 ## Capítulo 8
 
