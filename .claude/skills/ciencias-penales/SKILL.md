@@ -23,3 +23,14 @@ Esta skill reúne el marco doctrinal que usa el subagente `jurista-penal`. Lee s
 El contenido es **doctrina general y derecho comparado**. Antes de aplicarlo a un caso, identifica la jurisdicción y verifica la norma vigente (código penal, código procesal, constitución, jurisprudencia vinculante). No cites números de artículo nacionales sin verificarlos.
 
 Si hay textos completos en `biblioteca/` (convertidos con `tools/indexar_pdf.py`), prevalecen sobre estas referencias.
+
+## Formato obligatorio de los contraexámenes (preferencia del usuario)
+
+Todo guion de contraexamen se redacta así:
+
+- **Cada pregunta cita la fuente exacta del expediente y su texto literal**, con la fórmula: "Agente, en su informe, a foja ___ del expediente, usted escribió textualmente: '___'. ¿Correcto?". Si la cita está en el reverso, se escribe "foja ___ vuelta". Si viene de una pericia, se agrega la página de la pericia y el número de imagen.
+- Las citas se transcriben tal como están en el documento, con sus errores, y se marcan con [sic].
+- Se incluye la instrucción de mostrar la foja al testigo si duda o niega (COIP, art. 615, num. 4).
+- Las contradicciones internas del documento (números, nombres, fechas) se ordenan en un cuadro con las dos fojas enfrentadas.
+- Se indica cómo verificar la foliación en el expediente físico antes de la audiencia.
+- Se mantienen las reglas de técnica: preguntas cerradas, una idea por pregunta, nunca preguntar "¿por qué?", y advertencias en los puntos de riesgo.
