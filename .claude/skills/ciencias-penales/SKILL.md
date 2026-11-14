@@ -34,3 +34,4 @@ Todo guion de contraexamen se redacta así:
 - Las contradicciones internas del documento (números, nombres, fechas) se ordenan en un cuadro con las dos fojas enfrentadas.
 - Se indica cómo verificar la foliación en el expediente físico antes de la audiencia.
 - Se mantienen las reglas de técnica: preguntas cerradas, una idea por pregunta, nunca preguntar "¿por qué?", y advertencias en los puntos de riesgo.
+- **Máximo 50 preguntas.** Si el usuario no interviene primero, no se incluyen preguntas de acreditación ni de experiencia del testigo, porque las otras defensas ya las habrán hecho. Lo que no quepa va en una lista corta de preguntas de reserva.
