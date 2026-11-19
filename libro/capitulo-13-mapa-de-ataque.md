@@ -1,8 +1,8 @@
-# Capítulo 12. Cómo hacer caer la acusación: el mapa de ataque de la defensa
+# Capítulo 13. Cómo hacer caer la acusación: el mapa de ataque de la defensa
 
-> **Borrador de trabajo, versión 1.** Capítulo de síntesis de la segunda parte. Redactado con el perfil de escritura del autor. Los textos del COIP se tomaron de la versión con última actualización de 7 de octubre de 2026 (`biblioteca/ecuador/COIP.md`).
+> **Borrador de trabajo, versión 1.** Capítulo de síntesis de la segunda parte; cierra el libro. Redactado con el perfil de escritura del autor. Los textos del COIP se tomaron de la versión con última actualización de 7 de octubre de 2026 (`biblioteca/ecuador/COIP.md`).
 
-## 12.1. Planteamiento
+## 13.1. Planteamiento
 
 A lo largo de este libro he explicado, por separado, cada pieza del delito de lavado de activos y cada momento del proceso. Este capítulo las reúne con un propósito práctico: responder a la pregunta que todo cliente le hace a su abogado en la primera reunión, **¿qué tenemos que demostrar para que la acusación se caiga?**
 
@@ -12,7 +12,7 @@ En este orden de ideas, el trabajo del defensor no consiste en discutir todo, si
 
 Este capítulo propone un **mapa de ataque** con ocho frentes. Para cada uno explico qué debe probar la Fiscalía, qué suele presentar, dónde está normalmente la debilidad, qué debe controvertir la defensa y con qué prueba. Al final propongo un método para escoger el frente, una hoja de ruta por etapas procesales y una lista de revisión general.
 
-## 12.2. La cadena que la Fiscalía debe completar
+## 13.2. La cadena que la Fiscalía debe completar
 
 Del art. 317 del COIP y de lo analizado en los capítulos 1 a 5 se desprende que la Fiscalía debe probar ocho cosas. Las presento en el orden lógico en que se construye una acusación:
 
@@ -29,7 +29,7 @@ Del art. 317 del COIP y de lo analizado en los capítulos 1 a 5 se desprende que
 
 Los eslabones 2 y 3 son los que con más frecuencia se rompen. Los eslabones 7 y 8, en cambio, suelen pasarse por alto, y son los que permiten reducir drásticamente la pena o excluir la prueba principal aun cuando el resto de la acusación resista.
 
-## 12.3. Frente 1: el objeto del delito
+## 13.3. Frente 1: el objeto del delito
 
 ### Lo que suele presentar la Fiscalía
 Un cuadro con el total de depósitos, transferencias o bienes del procesado en un periodo, frecuentemente tomado de un reporte de la Unidad de Análisis Financiero y Económico o de un informe pericial contable.
@@ -46,7 +46,7 @@ Que la Fiscalía identifique, bien por bien y cuenta por cuenta, **qué activo c
 ### Con qué prueba
 La pericia contable de parte, con un cuadro de conciliación que depure los movimientos repetidos y valore los bienes al costo (capítulo 9, secciones 9.8 y 9.9.2).
 
-## 12.4. Frente 2: el hecho de origen
+## 13.4. Frente 2: el hecho de origen
 
 ### Lo que suele presentar la Fiscalía
 Una referencia genérica a "actividades ilícitas", a la existencia de otros procesos penales contra el procesado o sus allegados, a un informe de la Contraloría con indicios de responsabilidad penal, o a noticias de prensa sobre una organización criminal.
@@ -64,7 +64,7 @@ Que la Fiscalía responda dos preguntas, en los términos que la propia Corte Na
 ### Con qué prueba
 Con las certificaciones de los procesos invocados (para demostrar que están en trámite, sobreseídos o archivados), con el contraexamen del investigador y del perito fiscal, y con el argumento de que un patrimonio no justificado no es un patrimonio ilícito (capítulo 2, sección 2.7.5).
 
-## 12.5. Frente 3: el nexo entre el origen y los bienes
+## 13.5. Frente 3: el nexo entre el origen y los bienes
 
 ### Lo que suele presentar la Fiscalía
 Una línea de tiempo en la que aparecen, juntos, el supuesto hecho de origen y los movimientos de dinero del procesado, como si la cercanía bastara para vincularlos.
@@ -81,7 +81,7 @@ Aun aceptando que el hecho de origen existió, falta probar que **estos** bienes
 ### Con qué prueba
 La reconstrucción del patrimonio en la pericia de parte, los documentos de cada fuente lícita y el contraexamen del perito fiscal sobre las fuentes que no investigó (capítulo 4, sección 4.8).
 
-## 12.6. Frente 4: la conducta
+## 13.6. Frente 4: la conducta
 
 ### Lo que suele presentar la Fiscalía
 La prueba de que el procesado tuvo, recibió, transfirió o usó dinero, y la afirmación de que eso encaja en alguno de los numerosos verbos del art. 317, num. 1.
@@ -96,7 +96,7 @@ La amplitud de los verbos del art. 317 es su mayor riesgo y, a la vez, su punto 
 ### Qué debe controvertir la defensa
 Qué verbo rector concreto atribuye la acusación a cada procesado, sobre qué bien y en qué momento. Una acusación que se limita a transcribir la lista de verbos no individualiza la conducta y afecta el derecho de defensa.
 
-## 12.7. Frente 5: el conocimiento del origen ilícito
+## 13.7. Frente 5: el conocimiento del origen ilícito
 
 ### Lo que suele presentar la Fiscalía
 El dolo casi nunca se prueba de forma directa. La Fiscalía lo infiere de indicios: la relación del procesado con personas investigadas, el uso de efectivo, operaciones fraccionadas o la falta de explicaciones.
@@ -109,7 +109,7 @@ El dolo casi nunca se prueba de forma directa. La Fiscalía lo infiere de indici
 ### Qué debe controvertir la defensa
 Qué sabía el procesado, cuándo lo supo y cómo lo prueba la Fiscalía. Los contraindicios de buena fe suelen ser decisivos: operaciones registradas a nombre propio, declaradas al SRI, hechas por el sistema financiero, con documentos de respaldo y sin intento alguno de ocultamiento. Quien lava dinero no deja ese rastro.
 
-## 12.8. Frente 6: la participación de cada procesado
+## 13.8. Frente 6: la participación de cada procesado
 
 ### Lo que suele presentar la Fiscalía
 Una acusación colectiva en la que se describe la actividad de una "estructura" y se atribuye a todos los procesados la misma conducta.
@@ -123,7 +123,7 @@ La responsabilidad penal es personal. Cada procesado tiene derecho a conocer qu�
 - Si el testimonio en su contra proviene de un coprocesado que obtuvo beneficios por cooperación eficaz (arts. 491 a 494 del COIP), ese testimonio debe ser corroborado por otra prueba y su credibilidad debe examinarse a la luz del beneficio recibido.
 - Si se procesa a una persona jurídica, que la Fiscalía pruebe los presupuestos de su responsabilidad propia (capítulo 6).
 
-## 12.9. Frente 7: la calificación y la pena
+## 13.9. Frente 7: la calificación y la pena
 
 ### Lo que suele presentar la Fiscalía
 La acusación por el numeral más grave del art. 317: el monto superior a doscientos salarios básicos, la asociación para delinquir mediante sociedades o el uso del sistema financiero, que llevan la pena a diecinueve o veintidós años.
@@ -140,7 +140,7 @@ Las circunstancias que agravan la pena son, a su vez, hechos que deben probarse.
 
 Este frente funciona también como **teoría subsidiaria**. Aun cuando no se pueda discutir la existencia del delito, discutir el monto y las agravantes puede marcar la diferencia entre cinco y veintidós años de prisión. Como advertí en el capítulo 10 (sección 10.3.2), debe presentarse expresamente como subsidiaria y solo en el alegato.
 
-## 12.10. Frente 8: la prueba
+## 13.10. Frente 8: la prueba
 
 Este frente atraviesa todos los anteriores. Aun cuando la acusación tenga sentido, la prueba que la sostiene puede ser inválida o insuficiente.
 
@@ -160,18 +160,18 @@ Este frente atraviesa todos los anteriores. Aun cuando la acusación tenga senti
 ### La regla práctica
 Antes de discutir el contenido de una prueba, el defensor debe preguntarse si esa prueba puede entrar al juicio. Una exclusión bien fundamentada en la audiencia preparatoria vale más que diez preguntas brillantes en el contraexamen, porque elimina la prueba en lugar de debilitarla (capítulo 10, sección 10.2).
 
-## 12.11. Cómo escoger el frente
+## 13.11. Cómo escoger el frente
 
 No todos los frentes sirven en todos los casos. Propongo un método de cuatro pasos:
 
-1. **Hacer el inventario de la acusación.** Leer la formulación de cargos y la acusación con la tabla de la sección 12.2 al lado, y anotar, para cada eslabón, qué prueba anunció la Fiscalía. Los eslabones sin prueba anunciada son el primer objetivo.
+1. **Hacer el inventario de la acusación.** Leer la formulación de cargos y la acusación con la tabla de la sección 13.2 al lado, y anotar, para cada eslabón, qué prueba anunció la Fiscalía. Los eslabones sin prueba anunciada son el primer objetivo.
 2. **Medir la fuerza de cada eslabón.** Para cada uno, preguntarse: ¿la prueba es directa o indiciaria?, ¿es lícita?, ¿la sustentará un testigo o perito en juicio?, ¿tengo prueba propia que la contradiga?
 3. **Escoger uno principal y, a lo sumo, uno subsidiario.** La teoría del caso debe decirse en una frase (capítulo 10, sección 10.3). Por ejemplo: "La Fiscalía nunca identificó el delito del que habría salido este dinero" (frente 2), o "Todo el dinero tiene un origen documentado" (frente 3), con el monto (frente 7) como tesis subsidiaria.
 4. **Sostener siempre el frente 8.** La legalidad de la prueba no compite con la teoría del caso; la acompaña. Una prueba excluida no tiene que ser rebatida.
 
 Es por esta razón que desaconsejo combinar frentes contradictorios. Afirmar a la vez que el procesado no sabía que el dinero era ilícito (frente 5) y que el dinero es perfectamente lícito (frente 3) puede ser coherente, pero solo si se explica bien: "el dinero es lícito y, en todo caso, mi defendido no tenía ninguna razón para pensar lo contrario". Mal planteado, le dice al tribunal que la defensa no cree en ninguna de las dos tesis.
 
-## 12.12. Qué hacer en cada etapa
+## 13.12. Qué hacer en cada etapa
 
 | Etapa | Lo que debe hacer la defensa | Frentes |
 |---|---|---|
@@ -182,7 +182,7 @@ Es por esta razón que desaconsejo combinar frentes contradictorios. Afirmar a l
 | **Juicio** | Contraexaminar al investigador y al perito fiscal sobre el hecho de origen y el nexo; presentar la pericia de parte y los contraindicios; alegar la tesis principal y, si corresponde, la subsidiaria del monto | 1 a 7 |
 | **Recursos** | Atacar la falta de motivación de la inferencia indiciaria; la indebida aplicación del art. 317 cuando se condenó por un patrimonio no justificado; la incongruencia entre acusación y sentencia | 2, 3, 7 y 8 |
 
-## 12.13. Los errores que hacen ganar a la Fiscalía
+## 13.13. Los errores que hacen ganar a la Fiscalía
 
 | Error | Por qué favorece a la acusación | Qué hacer en su lugar |
 |---|---|---|
@@ -194,7 +194,7 @@ Es por esta razón que desaconsejo combinar frentes contradictorios. Afirmar a l
 | Aceptar acusaciones colectivas | El procesado responde por lo que hizo el grupo | Exigir la individualización de cada conducta |
 | Hacer declarar al procesado sin preparación | Su testimonio puede llenar los vacíos de la acusación | Que declare solo si su versión está documentada y es verificable |
 
-## 12.14. Caso práctico resuelto
+## 13.14. Caso práctico resuelto
 
 ### Los hechos
 La Fiscalía acusa a una comerciante por lavado de activos. Sostiene que entre 2019 y 2022 recibió en sus cuentas depósitos por USD 640.000, que no se corresponden con sus declaraciones de impuestos, y que su hermano está procesado por tráfico de sustancias. Pide la pena del art. 317, num. 3, por superar el monto los doscientos salarios básicos y por haber usado la empresa familiar.
@@ -210,7 +210,7 @@ La Fiscalía acusa a una comerciante por lavado de activos. Sostiene que entre 2
 ### Conclusión
 La teoría del caso se apoya en el frente 2 como tesis principal: "La Fiscalía acusa por un dinero cuyo único vínculo con un delito es el apellido de mi defendida". Los frentes 3 y 5 la refuerzan con la prueba documental. El frente 7 queda como tesis subsidiaria: si el tribunal encontrara algún monto sin explicación, la pena no puede ser la del numeral 3. La diferencia entre la declaración de renta y los depósitos es un problema tributario, no la prueba de un origen delictivo.
 
-## 12.15. Lista de revisión general
+## 13.15. Lista de revisión general
 
 - [ ] ¿La Fiscalía identificó los activos concretos y su valor, o solo presentó cifras globales?
 - [ ] ¿Depuré los movimientos repetidos y valoré los bienes al costo?
