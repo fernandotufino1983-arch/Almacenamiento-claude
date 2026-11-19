@@ -54,7 +54,7 @@ Lista de los datos que no pudieron confirmarse con las fuentes disponibles (COIP
 
 ## Capítulo 9
 
-1. Número de resolución del Reglamento del Sistema Pericial Integral de la Función Judicial.
+1. ~~Número de resolución del Reglamento del Sistema Pericial Integral de la Función Judicial.~~ Resuelto: Resolución 216-2024 del Consejo de la Judicatura (deroga la 147-2022).
 
 ## Capítulo 11
 

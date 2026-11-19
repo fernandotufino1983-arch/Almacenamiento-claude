@@ -85,10 +85,13 @@ Mi recomendación práctica es no esperar a conocer el informe fiscal para empez
 
 ## 9.6. Cómo elegir al perito
 
-1. **Acreditado.** Debe estar acreditado por el Consejo de la Judicatura en la especialidad contable o financiera (art. 511.1 del COIP)[^acreditacion]. Un informe de un profesional no acreditado abre la puerta a que la Fiscalía cuestione su valor.
+1. **Acreditado.** Debe estar acreditado por el Consejo de la Judicatura en la especialidad contable o financiera (art. 511.1 del COIP)[^acreditacion]. Un informe de un profesional no acreditado abre la puerta a que la Fiscalía cuestione su valor. Conviene, además, verificar que la acreditación esté **vigente**: el certificado dura dos años y su renovación exige haber aprobado cada año el curso básico de peritos de la Escuela de la Función Judicial[^vigencia]. La misma verificación debe hacerse con el perito de la Fiscalía, en el listado público de peritos acreditados que mantiene el Consejo de la Judicatura.
 2. **Sin inhabilidades.** Debe verificarse que no tenga vínculos con el procesado, con la empresa o con la entidad afectada que puedan configurar una causal de excusa (art. 511, num. 3 y 4). Un perito que fue contador del procesado conoce bien los números, pero llega al juicio con su credibilidad comprometida.
 3. **Con experiencia en juicio.** Un buen contador no siempre es un buen testigo. El perito tendrá que explicar su trabajo de forma oral, ante un tribunal que no es contable, y resistir un contraexamen. Conviene preguntarle en cuántos juicios ha sustentado informes.
-4. **Con independencia de criterio.** El perito de parte no es un abogado de la defensa. Su valor está en que el tribunal le crea, y el tribunal solo le cree si percibe que sus conclusiones dependen de los documentos y no del encargo. Un perito que concluye que "todo está justificado" cuando no lo está pierde, en una sola pregunta, toda su utilidad.
+4. **Con conciencia de su responsabilidad.** El perito debe saber que el reglamento lo obliga a comparecer a defender su informe y que, si no lo hace sin justificación, o si su informe se declara judicialmente malicioso o errado, puede ser excluido de forma permanente del registro de peritos[^inhabilitacion]. Es una garantía para el procesado, que no puede quedarse sin su perito el día del juicio.
+5. **Con independencia de criterio.** El perito de parte no es un abogado de la defensa. Su valor está en que el tribunal le crea, y el tribunal solo le cree si percibe que sus conclusiones dependen de los documentos y no del encargo. Un perito que concluye que "todo está justificado" cuando no lo está pierde, en una sola pregunta, toda su utilidad.
+
+Un último aspecto práctico es el costo. En materia penal, cuando un sujeto procesal pide la pericia, es él quien paga los honorarios[^pago]. Para las especialidades de contabilidad, auditoría y economía, el reglamento fija un rango de entre la mitad de un salario básico unificado y diez salarios, según la complejidad del trabajo, y el pago se divide en un 80 % al presentar el informe y un 20 % después de que el perito lo sustente en audiencia[^honorarios]. Conviene acordar estas condiciones por escrito desde el inicio.
 
 ## 9.7. El encargo pericial: qué preguntar
 
@@ -172,6 +175,10 @@ Propongo una estructura que cumple el art. 511.6 del COIP y que, además, facili
 8. **Conclusiones**, respondiendo a cada pregunta pericial en el mismo orden.
 9. **Lugar, fecha y firma.**
 
+Esta estructura no es solo una recomendación técnica. El Reglamento del Sistema Pericial exige que todo informe contenga, como mínimo, antecedentes que delimiten el objeto, la metodología aplicada al caso, conclusiones y el respaldo de cada conclusión, sea con documentos o con la explicación de su fundamento técnico. Exige también que las conclusiones sean claras y directas, y prohíbe expresamente los juicios ambiguos y los juicios de valor sobre la actuación de las partes[^contenido]. Es por esta razón que el informe de parte debe cuidar, sobre todo, dos cosas: que cada cifra tenga un documento detrás y que ninguna conclusión califique jurídicamente la conducta del procesado.
+
+En este orden de ideas, esos mismos requisitos son una herramienta para atacar el informe de la Fiscalía. Un informe que no explica su metodología, que no adjunta los documentos en los que se apoya o que concluye con fórmulas vagas no cumple el contenido mínimo que la norma impone a cualquier perito.
+
 ### 9.9.2. El cuadro de conciliación
 
 La herramienta más útil para el tribunal es un **cuadro de conciliación**: parte de la cifra de la Fiscalía y muestra, partida por partida, cómo se llega a la cifra correcta. Un tribunal que ve, en una sola página, que la diferencia entre USD 480.000 y USD 95.000 se explica por cinco partidas concretas y documentadas, entiende el caso mucho mejor que con cincuenta páginas de cálculos.
@@ -204,6 +211,7 @@ En el capítulo 4 (sección 4.7.2) propuse una lista de preguntas para el contra
 - "¿Su institución le exige preguntar por las herencias y donaciones del investigado? ¿Lo hizo?"
 - "¿Valoró los inmuebles al precio que se pagó por ellos o a su precio actual?"
 - "¿Su informe tiene una sección de limitaciones? ¿Qué información no pudo obtener?"
+- "¿En qué parte de su informe constan los documentos que respaldan esta conclusión?" (contenido mínimo del informe, Resolución 216-2024, art. 39.4).
 - "¿Su informe identifica alguna actividad delictiva concreta de la que provengan los fondos, o solo una diferencia entre ingresos y patrimonio?"
 
 La última pregunta, como vimos en el capítulo 4, es la más importante de todas.
@@ -242,6 +250,8 @@ Con estos cuatro ajustes, la pericia de parte reduce la diferencia no explicada 
 
 - [ ] ¿Encargué la pericia de parte antes de que la Fiscalía tuviera una cifra oficial?
 - [ ] ¿El perito está acreditado por el Consejo de la Judicatura y no tiene vínculos que lo inhabiliten?
+- [ ] ¿La acreditación del perito propio y la del perito de la Fiscalía estaban vigentes cuando presentaron sus informes?
+- [ ] ¿El informe de la Fiscalía cumple el contenido mínimo del art. 39 de la Resolución 216-2024 (metodología, conclusiones claras y respaldo de cada conclusión)?
 - [ ] ¿Las preguntas periciales descomponen cada afirmación numérica de la acusación?
 - [ ] ¿Pedí al perito cifras y documentos, y no conclusiones jurídicas?
 - [ ] ¿El periodo de análisis tiene fundamento?
@@ -266,6 +276,8 @@ Márquez Arcila, R. H. (2018). *Auditoría forense*. Instituto Mexicano de Conta
 
 **Normativa**
 
+Consejo de la Judicatura. (2024). *Resolución 216-2024: Reglamento del Sistema Pericial Integral de la Función Judicial*.
+
 Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [art. 76.7, lit. h].
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 317, 454, 457, 505, 511, 580 y 584].
@@ -276,6 +288,16 @@ Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevenció
 
 [^art454-19]: COIP, art. 454, nums. 3 (contradicción), 4 (libertad probatoria) y 7 (igualdad de oportunidades para la prueba).
 
+[^vigencia]: Reglamento del Sistema Pericial Integral de la Función Judicial, Resolución 216-2024 del Pleno del Consejo de la Judicatura, arts. 19, 20, 21, 52 y 53.
+
+[^inhabilitacion]: Resolución 216-2024, art. 56, nums. 2, 3 y 4.
+
+[^contenido]: Resolución 216-2024, art. 39.
+
+[^pago]: Resolución 216-2024, art. 46, num. 2.
+
+[^honorarios]: Resolución 216-2024, arts. 47 y 48.
+
 [^art511-19]: COIP, art. 511, nums. 1, 3, 4, 6 y 7.
 
 [^art505-19]: COIP, art. 505.
@@ -284,4 +306,4 @@ Asamblea Nacional del Ecuador. (2024, 29 de julio). *Ley Orgánica de Prevenció
 
 [^cge-19]: Ley Orgánica de la Contraloría General del Estado, arts. 23.1 (auditoría forense preventiva) y 23.2 (auditoría forense detectiva), agregados por la disposición reformatoria cuarta de la ley de prevención del lavado de 2024. Véanse también los arts. 454.6 y 505 del COIP.
 
-[^acreditacion]: COIP, art. 511, num. 1. El procedimiento de calificación y acreditación de peritos lo regula el Consejo de la Judicatura en el Reglamento del Sistema Pericial Integral de la Función Judicial. El último inciso del art. 511 permite, si no existe perito acreditado en un área, contar con quien tenga conocimiento, especialidad, experticia o título que acredite su capacidad.
+[^acreditacion]: COIP, art. 511, num. 1. El procedimiento de calificación y acreditación de peritos lo regula el Consejo de la Judicatura en el Reglamento del Sistema Pericial Integral de la Función Judicial, expedido mediante Resolución 216-2024, que derogó la Resolución 147-2022. El último inciso del art. 511 permite, si no existe perito acreditado en un área, contar con quien tenga conocimiento, especialidad, experticia o título que acredite su capacidad.
