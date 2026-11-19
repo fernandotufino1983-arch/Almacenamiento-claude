@@ -8,7 +8,7 @@ comp=open(L+'libro-compilado.md').read()
 head=re.split(r'^## (?:Parte |Prólogo|Plan de temas|Índice)',comp,flags=re.M)[0].rstrip()
 head=re.sub(r'(\s*<<PAGEBREAK>>|\s*<<(?:TOC|PLAN)>>|\s*<<IDX.*)+\s*$','',head).rstrip()+'\n\n'
 parts=[('## Parte I. El delito de lavado de activos',[('01','capitulo-01-origen-concepto-lavado.md'),('02','capitulo-02-autonomia-lavado.md'),('03','capitulo-03-dolo-eximentes.md'),('04','capitulo-04-prueba-indiciaria.md'),('05','capitulo-05-concursos.md'),('06','capitulo-06-persona-juridica.md'),('07','capitulo-07-extincion-dominio.md')]),
- ('## Parte II. Estrategia de defensa',[('08','capitulo-08-defensa-investigacion-previa.md'),('09','capitulo-09-pericia-contable-de-parte.md'),('10','capitulo-10-litigacion-en-juicio.md'),('11','capitulo-11-recursos.md')])]
+ ('## Parte II. Estrategia de defensa',[('08','capitulo-08-defensa-investigacion-previa.md'),('09','capitulo-09-pericia-contable-de-parte.md'),('10','capitulo-10-litigacion-en-juicio.md'),('11','capitulo-11-recursos.md'),('12','capitulo-12-mapa-de-ataque.md')])]
 idx=['## Índice','','<<IDX1>> Prólogo|'+str(PG.get('Prólogo',''))]
 for ptitle,chs in parts:
     pt=ptitle[3:]; idx.append('<<IDX0>> '+pt+'|'+str(PG.get(pt,'')))
