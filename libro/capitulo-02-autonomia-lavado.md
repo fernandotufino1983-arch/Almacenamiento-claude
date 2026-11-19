@@ -261,7 +261,7 @@ En los tres sistemas, la autonomía se entiende como **procesal**. Ninguno permi
 ## 2.7. Consecuencias para la defensa
 
 ### 2.7.1. En la investigación previa
-- **Exija que la Fiscalía identifique la actividad delictiva de origen.** Pida por escrito que precise de qué clase de actividad delictiva provendrían los bienes. Si no puede hacerlo, deje constancia.
+- **Identifique qué presenta la Fiscalía como origen ilícito.** Aunque se lo pida, la Fiscalía rara vez precisará por escrito el delito de origen. Lo que la defensa sí puede hacer es obtener copias del expediente y, más adelante, leer la acusación y el anuncio probatorio para identificar qué elemento sostiene el origen. Si son solo procesos pendientes, informes administrativos o un patrimonio no justificado, ese es el punto débil de la acusación.
 - **Revise el informe de la UAFE.** Es inteligencia financiera que identifica operaciones inusuales, no prueba de un origen ilícito.
 - **Encargue cuanto antes un peritaje contable de parte** para reconstruir el origen lícito de los fondos.
 

@@ -59,7 +59,7 @@ Una referencia genérica a "actividades ilícitas", a la existencia de otros pro
 - **Infracción que no es delito.** Una irregularidad tributaria, aduanera o administrativa no convierte en ilícito el dinero que se obtuvo lícitamente (capítulo 2, sección 2.4.1).
 
 ### Qué debe controvertir la defensa
-Que la Fiscalía responda dos preguntas, en los términos que la propia Corte Nacional aceptó: **¿cuál es el hecho objetivamente típico del que provienen los bienes?** y **¿cuál es la prueba de ese hecho?** Si la respuesta es "otros procesos", "un informe" o "un patrimonio no justificado", el elemento normativo del tipo no está probado y la conducta es atípica.
+La Fiscalía no va a explicarle a la defensa, por escrito, de qué delito proviene el dinero; hay que deducirlo de lo que presenta. Por eso el trabajo empieza leyendo la acusación y el anuncio probatorio con dos preguntas: **¿cuál es el hecho objetivamente típico del que, según la Fiscalía, provienen los bienes?** y **¿qué prueba concreta anunció para acreditarlo?** Si la respuesta es "otros procesos", "un informe" o "un patrimonio no justificado", el elemento normativo del tipo no estará probado y la conducta es atípica. Ese es el punto que debe sostenerse en la preparatoria, en el contraexamen y en el alegato.
 
 ### Con qué prueba
 Con las certificaciones de los procesos invocados (para demostrar que están en trámite, sobreseídos o archivados), con el contraexamen del investigador y del perito fiscal, y con el argumento de que un patrimonio no justificado no es un patrimonio ilícito (capítulo 2, sección 2.7.5).
@@ -155,7 +155,7 @@ Este frente atraviesa todos los anteriores. Aun cuando la acusación tenga senti
 | **Informes que no se sustentan en juicio** | Que el autor del informe comparezca y se someta al contraexamen | El informe no puede reemplazar el testimonio | Art. 615, num. 3, del COIP |
 | **Indicios sin hecho base probado** | Qué prueba directa acredita cada indicio | La inferencia se cae | Art. 455 del COIP (capítulo 4) |
 | **Indicios que admiten otra explicación** | Contraindicios documentados | La inferencia no alcanza la certeza | Art. 5.3 del COIP |
-| **Hechos nuevos en la sentencia** | Que lo condenado coincida con lo acusado | Nulidad o casación | Art. 619, num. 2, del COIP |
+| **Hechos nuevos en la sentencia** | Que lo condenado coincida con lo acusado | Nulidad o revocatoria en apelación | Art. 619, num. 2, del COIP |
 
 ### La regla práctica
 Antes de discutir el contenido de una prueba, el defensor debe preguntarse si esa prueba puede entrar al juicio. Una exclusión bien fundamentada en la audiencia preparatoria vale más que diez preguntas brillantes en el contraexamen, porque elimina la prueba en lugar de debilitarla (capítulo 10, sección 10.2).
@@ -175,12 +175,12 @@ Es por esta razón que desaconsejo combinar frentes contradictorios. Afirmar a l
 
 | Etapa | Lo que debe hacer la defensa | Frentes |
 |---|---|---|
-| **Investigación previa** | Pedir por escrito que la Fiscalía precise el hecho de origen; encargar la pericia de parte; reunir los documentos de las fuentes lícitas; revisar si la información bancaria y digital se obtuvo con autorización judicial | 1, 2, 3 y 8 |
+| **Investigación previa** | Obtener copias del expediente e identificar qué elementos sostienen el hecho de origen; encargar la pericia de parte; reunir los documentos de las fuentes lícitas; revisar si la información bancaria y digital se obtuvo con autorización judicial | 1, 2, 3 y 8 |
 | **Formulación de cargos** | Exigir la individualización de la conducta de cada procesado; cuestionar que los elementos de convicción acrediten el hecho de origen; discutir las medidas cautelares con base en esa debilidad | 2, 4 y 6 |
 | **Instrucción** | Solicitar diligencias que acrediten el origen lícito; pedir al fiscal que practique la pericia de parte o recabe los documentos que la defensa no puede obtener | 3 y 5 |
-| **Audiencia preparatoria** | Plantear las exclusiones de prueba; pedir el sobreseimiento si la Fiscalía no acreditó el hecho de origen; anunciar la prueba propia, incluido el perito de parte | 2 y 8 |
+| **Audiencia preparatoria** | Leer la acusación y el anuncio probatorio de la Fiscalía prueba por prueba, y anotar qué eslabón sostiene cada una; plantear las exclusiones de prueba; pedir el sobreseimiento si la Fiscalía no acreditó el hecho de origen; anunciar la prueba propia, incluido el perito de parte | 2 y 8 |
 | **Juicio** | Contraexaminar al investigador y al perito fiscal sobre el hecho de origen y el nexo; presentar la pericia de parte y los contraindicios; alegar la tesis principal y, si corresponde, la subsidiaria del monto | 1 a 7 |
-| **Recursos** | Atacar la falta de motivación de la inferencia indiciaria; la indebida aplicación del art. 317 cuando se condenó por un patrimonio no justificado; la incongruencia entre acusación y sentencia | 2, 3, 7 y 8 |
+| **Apelación** | Atacar la falta de motivación de la inferencia indiciaria, la condena por un patrimonio no justificado y la incongruencia entre acusación y sentencia | 2, 3, 7 y 8 |
 
 ## 13.13. Los errores que hacen ganar a la Fiscalía
 

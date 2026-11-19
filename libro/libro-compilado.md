@@ -82,7 +82,7 @@
 <<IDX3>> 2.7.1. En la investigación previa|35
 <<IDX3>> 2.7.2. En la formulación de cargos y en la etapa preparatoria|35
 <<IDX3>> 2.7.3. En juicio|35
-<<IDX3>> 2.7.4. En los recursos|35
+<<IDX3>> 2.7.4. En los recursos|36
 <<IDX3>> 2.7.5. Modelo de argumento|36
 <<IDX2>> 2.8. Caso práctico resuelto|36
 <<IDX2>> 2.9. Lista de revisión|37
@@ -348,44 +348,43 @@
 <<IDX2>> Referencias|134
 <<IDX1>> Capítulo 12. Dos casos, dos lecciones: la autopsia de la defensa|135
 <<IDX2>> 12.1. Por qué este capítulo|135
-<<IDX2>> 12.2. Primer caso: el funcionario de la seguridad social (casación de 2021)|135
-<<IDX3>> 12.2.1. Los hechos que fijó la sentencia|135
+<<IDX2>> 12.2. Primer caso: el funcionario de la seguridad social|135
+<<IDX3>> 12.2.1. Lo que presentó la Fiscalía|135
 <<IDX3>> 12.2.2. Cómo terminó|135
-<<IDX3>> 12.2.3. Lo que la defensa hizo bien|136
+<<IDX3>> 12.2.3. Lo que la defensa tenía a su favor|136
 <<IDX3>> 12.2.4. Dónde se perdió|136
 <<IDX3>> 12.2.5. Lo que yo habría hecho|136
-<<IDX3>> 12.2.6. Modelo de cargo casacional|137
-<<IDX2>> 12.3. Segundo caso: los contratos en tiempos de pandemia (casación de 2024)|137
-<<IDX3>> 12.3.1. Los hechos|137
+<<IDX2>> 12.3. Segundo caso: los contratos en tiempos de pandemia|137
+<<IDX3>> 12.3.1. Lo que presentó la Fiscalía|137
 <<IDX3>> 12.3.2. Cómo terminó|137
-<<IDX3>> 12.3.3. Lo que la defensa hizo bien en las instancias|138
-<<IDX3>> 12.3.4. Dónde se perdió|138
-<<IDX3>> 12.3.5. Lo que yo habría hecho|139
-<<IDX3>> 12.3.6. Una lección adicional: la persona jurídica extinguida|139
-<<IDX2>> 12.4. Lo que enseñan los dos casos juntos|139
-<<IDX2>> 12.5. Lista de revisión: antes de cada audiencia|140
-<<IDX2>> Referencias|140
-<<IDX1>> Capítulo 13. Cómo hacer caer la acusación: el mapa de ataque de la defensa|141
-<<IDX2>> 13.1. Planteamiento|141
-<<IDX2>> 13.2. La cadena que la Fiscalía debe completar|141
-<<IDX2>> 13.3. Frente 1: el objeto del delito|142
-<<IDX2>> 13.4. Frente 2: el hecho de origen|142
-<<IDX2>> 13.5. Frente 3: el nexo entre el origen y los bienes|143
-<<IDX2>> 13.6. Frente 4: la conducta|143
-<<IDX2>> 13.7. Frente 5: el conocimiento del origen ilícito|144
-<<IDX2>> 13.8. Frente 6: la participación de cada procesado|144
-<<IDX2>> 13.9. Frente 7: la calificación y la pena|145
-<<IDX2>> 13.10. Frente 8: la prueba|145
-<<IDX2>> 13.11. Cómo escoger el frente|146
-<<IDX2>> 13.12. Qué hacer en cada etapa|146
-<<IDX2>> 13.13. Los errores que hacen ganar a la Fiscalía|147
-<<IDX2>> 13.14. Caso práctico resuelto|147
-<<IDX2>> 13.15. Lista de revisión general|148
-<<IDX2>> Referencias|148
-<<IDX0>> Anexos|149
-<<IDX1>> Anexo A. El art. 317 del COIP: texto vigente y reformas|149
-<<IDX1>> Anexo B. Tipologías y señales de alerta|151
-<<IDX1>> Anexo C. Modelos de escritos|152
+<<IDX3>> 12.3.3. Lo que la defensa hizo bien|137
+<<IDX3>> 12.3.4. Dónde estuvo el riesgo|138
+<<IDX3>> 12.3.5. Lo que yo habría hecho|138
+<<IDX3>> 12.3.6. Una lección adicional: la persona jurídica extinguida|138
+<<IDX2>> 12.4. Lo que enseñan los dos casos juntos|138
+<<IDX2>> 12.5. Lista de revisión: antes de cada audiencia|139
+<<IDX2>> Referencias|139
+<<IDX1>> Capítulo 13. Cómo hacer caer la acusación: el mapa de ataque de la defensa|140
+<<IDX2>> 13.1. Planteamiento|140
+<<IDX2>> 13.2. La cadena que la Fiscalía debe completar|140
+<<IDX2>> 13.3. Frente 1: el objeto del delito|141
+<<IDX2>> 13.4. Frente 2: el hecho de origen|141
+<<IDX2>> 13.5. Frente 3: el nexo entre el origen y los bienes|142
+<<IDX2>> 13.6. Frente 4: la conducta|142
+<<IDX2>> 13.7. Frente 5: el conocimiento del origen ilícito|143
+<<IDX2>> 13.8. Frente 6: la participación de cada procesado|143
+<<IDX2>> 13.9. Frente 7: la calificación y la pena|144
+<<IDX2>> 13.10. Frente 8: la prueba|144
+<<IDX2>> 13.11. Cómo escoger el frente|145
+<<IDX2>> 13.12. Qué hacer en cada etapa|145
+<<IDX2>> 13.13. Los errores que hacen ganar a la Fiscalía|146
+<<IDX2>> 13.14. Caso práctico resuelto|146
+<<IDX2>> 13.15. Lista de revisión general|147
+<<IDX2>> Referencias|147
+<<IDX0>> Anexos|148
+<<IDX1>> Anexo A. El art. 317 del COIP: texto vigente y reformas|148
+<<IDX1>> Anexo B. Tipologías y señales de alerta|150
+<<IDX1>> Anexo C. Modelos de escritos|151
 
 <<PAGEBREAK>>
 
@@ -1004,7 +1003,7 @@ En los tres sistemas, la autonomía se entiende como **procesal**. Ninguno permi
 ### 2.7. Consecuencias para la defensa
 
 #### 2.7.1. En la investigación previa
-- **Exija que la Fiscalía identifique la actividad delictiva de origen.** Pida por escrito que precise de qué clase de actividad delictiva provendrían los bienes. Si no puede hacerlo, deje constancia.
+- **Identifique qué presenta la Fiscalía como origen ilícito.** Aunque se lo pida, la Fiscalía rara vez precisará por escrito el delito de origen. Lo que la defensa sí puede hacer es obtener copias del expediente y, más adelante, leer la acusación y el anuncio probatorio para identificar qué elemento sostiene el origen. Si son solo procesos pendientes, informes administrativos o un patrimonio no justificado, ese es el punto débil de la acusación.
 - **Revise el informe de la UAFE.** Es inteligencia financiera que identifica operaciones inusuales, no prueba de un origen ilícito.
 - **Encargue cuanto antes un peritaje contable de parte** para reconstruir el origen lícito de los fondos.
 
@@ -3974,17 +3973,17 @@ Corte Suprema de Justicia de Colombia, Sala de Casación Penal. (2018). *Sentenc
 
 ### 12.1. Por qué este capítulo
 
-Los manuales de derecho penal suelen explicar cómo debería funcionar un proceso. Este capítulo hace lo contrario: toma dos procesos reales de lavado de activos que llegaron a la Corte Nacional de Justicia y los examina desde el lado de la defensa, como se examina un partido después de jugado. Qué planteó la Fiscalía, qué hizo la defensa, dónde se ganó, dónde se perdió y qué habría hecho yo en cada momento.
+Los manuales de derecho penal suelen explicar cómo debería funcionar un proceso. Este capítulo hace lo contrario: toma dos procesos reales de lavado de activos que llegaron hasta la Corte Nacional de Justicia y los examina desde el lado de la defensa, como se examina un partido después de jugado. Qué presentó la Fiscalía como prueba, qué hizo la defensa en el juicio y en la apelación, dónde se ganó, dónde se perdió y qué habría hecho yo en cada momento. El análisis se concentra en las instancias, que es donde se fijan los hechos y donde, en la práctica, se decide el caso.
 
-Los escogí porque son, en cierto modo, espejos. En el primero, la defensa tenía la razón en el derecho y perdió por la técnica. En el segundo, la defensa ganó dos veces en las instancias y perdió en casación, con una condena de trece años, porque no supo proteger lo que había ganado. Ninguno de los dos se perdió por falta de argumentos; los dos se perdieron por la forma de usarlos.
+Los escogí porque son, en cierto modo, espejos. En el primero, la defensa tenía la razón en el derecho, pero no la hizo valer cuando todavía se discutían los hechos. En el segundo, la defensa ganó dos veces en las instancias y aun así terminó con una condena de trece años, porque la sentencia absolutoria se apoyó en razonamientos que no necesitaba.
 
 He suprimido los nombres de las personas procesadas, de las empresas y de los terceros mencionados en los fallos. Lo que importa aquí no es quiénes fueron, sino qué enseñan.
 
-### 12.2. Primer caso: el funcionario de la seguridad social (casación de 2021)
+### 12.2. Primer caso: el funcionario de la seguridad social
 
-*Corte Nacional de Justicia, Sala Penal, sentencia de casación de 2021, juicio No. 09333-2018-00282.*
+*Corte Nacional de Justicia, Sala Penal, sentencia de 2021, juicio No. 09333-2018-00282.*
 
-#### 12.2.1. Los hechos que fijó la sentencia
+#### 12.2.1. Lo que presentó la Fiscalía
 
 Un médico que había ocupado cargos directivos en unidades del Instituto Ecuatoriano de Seguridad Social fue reportado por operaciones inusuales entre 2010 y 2016. La Fiscalía construyó su acusación sobre varios hechos:
 
@@ -3993,7 +3992,7 @@ Un médico que había ocupado cargos directivos en unidades del Instituto Ecuato
 - **Acciones y vehículos a nombre de otros.** Transferencias de acciones de una empresa médica a precios inferiores a la inversión, y un vehículo registrado a nombre de un accionista minoritario de una empresa en la que la madre del procesado era accionista mayoritaria.
 - **El dinero que vuelve como sueldo.** Depósitos a dos personas vinculadas a una empresa que, al terminar la gestión del procesado, empezó a contratar con la misma institución, y que luego le pagó honorarios mensuales.
 
-Como origen ilícito, la Fiscalía invocó dos procesos que estaban **en trámite**, uno por peculado y otro por enriquecimiento ilícito, y varios informes de la Contraloría con indicios de responsabilidad penal sobre sus declaraciones patrimoniales y sobre contratos que firmó.
+Si se lee esa acusación por eslabones (capítulo 13), salta a la vista que casi toda la prueba se refería a **cómo se movió el dinero**. Para sostener **de dónde salió**, la Fiscalía presentó solo dos procesos que estaban **en trámite**, uno por peculado y otro por enriquecimiento ilícito, y varios informes de la Contraloría con indicios de responsabilidad penal sobre las declaraciones patrimoniales del procesado y sobre contratos que firmó.
 
 #### 12.2.2. Cómo terminó
 
@@ -4001,46 +4000,44 @@ Como origen ilícito, la Fiscalía invocó dos procesos que estaban **en trámit
 |---|---|
 | Tribunal de garantías penales | Condena por el art. 317, num. 3, lit. a): diez años al autor y tres años y cuatro meses a tres cómplices; monto de USD 267.562 |
 | Corte Provincial | Confirma. Declara el abandono de las apelaciones de dos coprocesados porque **sus abogados se retiraron de la audiencia**; eleva a diez años la pena de uno de ellos, por apelación de la Fiscalía |
-| Corte Nacional | Declara **improcedente** la casación del procesado principal |
+| Corte Nacional | Mantiene la condena |
 
-#### 12.2.3. Lo que la defensa hizo bien
+#### 12.2.3. Lo que la defensa tenía a su favor
 
-La tesis de la defensa en casación era correcta, y la mejor prueba es que la Corte no la desmintió. La defensa sostuvo que "injustificación del activo no es igual a origen ilícito", que el origen ilícito es un elemento normativo del tipo que la Fiscalía debe probar, y que la sentencia de apelación hablaba una y otra vez de dinero "no justificado", pero nunca de dinero de origen delictivo. La Corte aceptó en lo conceptual cada una de esas afirmaciones: dijo que la mera tenencia de activos no configura el delito, que el origen ilícito es un elemento de la tipicidad objetiva y que el lavado solo se consuma cuando los verbos recaen sobre el producto de un acto típico, antijurídico y culpable (capítulo 2, sección 2.3.4).
+La defensa tenía la razón en el punto central: "injustificación del activo no es igual a origen ilícito". La sentencia de apelación hablaba una y otra vez de dinero "no justificado", pero nunca demostraba de qué delito provenía. Tan sólido era el argumento que la propia Corte Nacional, al cerrar el caso, aceptó que la mera tenencia de activos no configura el delito y que el origen ilícito es un elemento de la tipicidad objetiva (capítulo 2, sección 2.3.4). El problema es que, cuando ese argumento llegó a la Corte, los hechos ya estaban fijados.
 
 #### 12.2.4. Dónde se perdió
 
-**a) La causal equivocada.** La defensa planteó **errónea interpretación** del art. 317. Pero su reproche real era otro: que los hechos fijados en la sentencia no encajaban en el tipo, porque no se había probado el origen ilícito. Eso es **indebida aplicación**. La propia abogada terminó pidiendo que se ratificara la inocencia porque los hechos no se adecuaban al tipo, y la Fiscalía y la Procuraduría lo advirtieron en la audiencia: las causales son excluyentes y no se puede alegar ambas sobre la misma norma. La Corte rechazó el recurso por esa razón (capítulo 11).
+**a) No se leyó la acusación como un inventario de prueba.** La prueba del origen ilícito cabía en una línea: dos procesos pendientes y unos informes de la Contraloría. Esa era la grieta de la acusación, y debía convertirse en el centro de la defensa desde la audiencia preparatoria.
 
-**b) La batalla se dio tarde.** La debilidad real de la acusación estaba en el origen: dos procesos pendientes y unos informes de la Contraloría. En casación ya no se podía discutir si eso era suficiente, porque la sentencia de apelación lo había fijado como hecho probado y los hechos son intocables en casación (art. 656 del COIP). Esa discusión tenía que darse, con toda su fuerza, en el juicio y en la apelación, para que la sentencia de instancia la recogiera o, si no la recogía, dejara un vicio de motivación visible.
+**b) La batalla se dio tarde.** El valor probatorio de esos procesos pendientes y de esos informes no se discutió con suficiente fuerza en el juicio ni en la apelación. La sentencia de instancia los dio por buenos como indicios del origen ilícito, y una vez fijado eso como hecho probado, ya no hubo forma de deshacerlo.
 
 **c) La confusión entre ocultamiento y origen.** Los formularios falsos, la cédula de la menor, el cheque girado a un tercero y los bienes a nombre de otros son indicios muy fuertes de una **conducta de ocultamiento**. Pero ocultar el origen de un dinero no prueba que ese origen sea delictivo: hay personas que ocultan dinero lícito para evadir impuestos, protegerlo de acreedores o esconderlo de su familia. La Fiscalía usó la fuerza de los indicios de ocultamiento para cubrir la debilidad de la prueba del origen. La defensa debía separar ambas cosas ante el tribunal desde el alegato de apertura: "Fiscalía les va a mostrar cómo se movió el dinero; fíjense si les muestra de dónde salió".
 
 **d) El abandono de las apelaciones.** Dos coprocesados perdieron su apelación porque sus abogados se retiraron de la audiencia. Uno de ellos, condenado como cómplice a tres años y cuatro meses, terminó con diez años por la apelación de la Fiscalía, que sí se resolvió. Es la forma más cara de perder un recurso.
 
-**e) Los pedidos fuera de lugar en casación.** Los defensores de coprocesados que no habían recurrido intentaron que la Corte aplicara de oficio la ley anterior, más favorable, porque los hechos empezaron en 2010. La Fiscalía lo calificó de deslealtad procesal. La Corte negó la favorabilidad porque la sentencia había fijado la consumación en 2016, ya vigente el COIP. La fecha de consumación es un hecho, y como tal debía discutirse en las instancias.
+**e) La fecha de consumación no se discutió a tiempo.** Los hechos empezaron en 2010, antes de la vigencia del COIP, y la ley anterior preveía una pena menor. Pero la sentencia fijó la consumación en 2016, y ese punto, que es un hecho, no se discutió en las instancias. Cuando se quiso plantear la favorabilidad, ya era tarde.
 
 #### 12.2.5. Lo que yo habría hecho
 
 | Etapa | Qué habría hecho |
 |---|---|
-| Formulación de cargos | Pedir por escrito que la Fiscalía precisara el hecho de origen: qué peculado, qué contratos, qué monto. Dejar constancia de que solo se invocaban procesos pendientes. |
-| Preparatoria | Pedir el sobreseimiento por falta de elementos sobre el origen ilícito, aun sabiendo que probablemente se negaría, para que el argumento conste desde el inicio. Anunciar un perito contable de parte y, como prueba documental, las certificaciones del estado de los procesos por peculado y enriquecimiento ilícito. |
+| Formulación de cargos | Leer los elementos de convicción con una sola pregunta: ¿qué sostiene el origen ilícito? Al ver que solo eran procesos pendientes e informes de la Contraloría, dejar constancia en la audiencia de que ningún elemento acreditaba un hecho de origen, solo sospechas. |
+| Instrucción | Obtener copias del expediente y de los dos procesos invocados como origen, para conocer su estado real y su contenido. Encargar la pericia contable de parte. |
+| Preparatoria | Revisar el anuncio probatorio de la Fiscalía prueba por prueba y anotar qué eslabón de la acusación sostiene cada una. Pedir el sobreseimiento por falta de elementos sobre el origen ilícito, aun sabiendo que probablemente se negaría, para que el argumento conste desde el inicio. Anunciar el perito de parte y, como prueba documental, las certificaciones del estado de los procesos por peculado y enriquecimiento ilícito. |
 | Juicio | Construir la teoría del caso sobre el frente 2 del mapa de ataque (capítulo 13): "Este juicio no es sobre cómo se movió el dinero; es sobre de dónde salió, y eso la Fiscalía no lo probó". Contraexaminar al perito fiscal para que reconociera que su informe compara ingresos y egresos, pero no identifica ningún delito de origen. Discutir la fecha de consumación y el monto. |
-| Alegato | Pedir al tribunal que se pronuncie expresamente sobre si una instrucción fiscal en trámite y un informe de la Contraloría prueban la existencia de un delito. Si el tribunal no responde, hay un vicio de motivación; si responde que sí, la respuesta es atacable. |
+| Alegato | Pedir al tribunal que se pronuncie expresamente sobre si una instrucción fiscal en trámite y un informe de la Contraloría prueban la existencia de un delito. Si el tribunal no responde, la sentencia tiene un vicio de motivación que se ataca en la apelación. |
 | Apelación | Insistir en lo mismo y exigir respuesta expresa. No abandonar la audiencia jamás; si el abogado no puede asistir, sustituirlo. |
-| Casación | Plantear **indebida aplicación** del art. 317: los hechos fijados (procesos pendientes, informes administrativos) no son, en derecho, aptos para tener por probado el elemento normativo "activos de origen ilícito", por los arts. 5.4 y 455 del COIP y el art. 76.2 de la Constitución. Un solo cargo, bien construido, con los tres componentes que exige la Corte: dónde está el error, cuál es la lectura correcta y por qué cambia la decisión. |
 
-#### 12.2.6. Modelo de cargo casacional
+### 12.3. Segundo caso: los contratos en tiempos de pandemia
 
-> "Cargo único: indebida aplicación del art. 317 del COIP. La sentencia impugnada, en su considerando [__], tuvo por acreditado el elemento normativo 'activos de origen ilícito' con base en dos hechos: la existencia de dos instrucciones fiscales en trámite por peculado y enriquecimiento ilícito, y los informes de la Contraloría General del Estado con indicios de responsabilidad penal. Esta defensa no pide revisar esos hechos; los acepta tal como fueron fijados. Sostiene que, aceptados, no se subsumen en el elemento normativo del tipo. Una instrucción en trámite acredita que la Fiscalía sospecha de un delito, no que el delito exista; respecto de ese hecho, mi defendido conserva su estado de inocencia (art. 76.2 de la Constitución y art. 5.4 del COIP). Un informe de la Contraloría inicia una investigación penal, pero no prueba el delito. Al aplicar el art. 317 a hechos que no contienen un hecho objetivamente típico del que provengan los bienes, el tribunal lo aplicó a un supuesto que la norma no prevé. El error es trascendente: sin el elemento normativo, la conducta es atípica y corresponde ratificar el estado de inocencia."
+*Corte Nacional de Justicia, Sala Penal, sentencia de 2024, juicio No. 07712-2020-00205.*
 
-### 12.3. Segundo caso: los contratos en tiempos de pandemia (casación de 2024)
+#### 12.3.1. Lo que presentó la Fiscalía
 
-*Corte Nacional de Justicia, Sala Penal, sentencia de casación de 2024, juicio No. 07712-2020-00205.*
+El proceso empezó en junio de 2020, cuando uno de los procesados fue detenido en un paso fronterizo con USD 47.760 en efectivo. A partir de ahí, la Fiscalía investigó hacia atrás y acusó a dos hermanos como autores, a su contador y a un accionista como cómplices, y a seis personas jurídicas, por haber lavado USD 1.956.125 entre 2018 y 2020. Como tipologías, señaló empresas de fachada, fraccionamiento de depósitos, transporte fronterizo de efectivo, envíos al exterior, viajes y tarjetas de crédito.
 
-#### 12.3.1. Los hechos
-
-El proceso empezó en junio de 2020, cuando uno de los procesados fue detenido en un paso fronterizo con USD 47.760 en efectivo. A partir de ahí, la Fiscalía investigó hacia atrás y acusó a dos hermanos como autores, a su contador y a un accionista como cómplices, y a seis personas jurídicas, por haber lavado USD 1.956.125 entre 2018 y 2020. Como origen ilícito invocó cuatro delitos: fraude procesal, asociación ilícita, luego reformulada a delincuencia organizada, peculado y corrupción, vinculados a la venta de insumos médicos durante la pandemia. Como tipologías, señaló empresas de fachada, fraccionamiento de depósitos, transporte fronterizo de efectivo, envíos al exterior, viajes y tarjetas de crédito.
+Para el origen ilícito, invocó cuatro delitos: fraude procesal, asociación ilícita, luego reformulada a delincuencia organizada, peculado y corrupción, vinculados a la venta de insumos médicos durante la pandemia. La prueba que presentó para sostenerlos fueron, básicamente, los reportes y copias de esos otros procesos.
 
 #### 12.3.2. Cómo terminó
 
@@ -4048,93 +4045,74 @@ El proceso empezó en junio de 2020, cuando uno de los procesados fue detenido e
 |---|---|
 | Tribunal de garantías penales | **Absuelve** a todos |
 | Corte Provincial | **Confirma la absolución** en una sentencia de más de ochocientas páginas |
-| Corte Nacional | **Casa la sentencia por recurso de la Fiscalía**: trece años a los autores, seis años y seis meses a los cómplices, responsabilidad de las personas jurídicas, multa de USD 3.912.250 y reparación de USD 1.956.125 |
+| Corte Nacional | Revoca la absolución por recurso de la Fiscalía: trece años a los autores, seis años y seis meses a los cómplices, responsabilidad de las personas jurídicas, multa de USD 3.912.250 y reparación de USD 1.956.125 |
 
-#### 12.3.3. Lo que la defensa hizo bien en las instancias
+#### 12.3.3. Lo que la defensa hizo bien
 
-La defensa ganó con un argumento que, a mi juicio, era excelente y estaba bien probado: **la cronología**. Los procesos que la Fiscalía invocaba como fuente se referían a hechos de 2020, ligados a la pandemia. El lavado acusado iba de enero de 2018 a junio de 2020. Como dijo uno de los defensores en casación, primero hay que tener el dinero sucio para después lavarlo; no se puede lavar en 2018 un dinero que se habría obtenido en 2020. La Corte Provincial lo recogió en su sentencia: la Fiscalía no probó "qué cantidad de dinero habría generado este hecho ocurrido en el año 2020" ni "de qué manera se habría colocado, estratificado o integrado en el periodo enero 2018 a junio 2020".
+La defensa leyó bien la acusación: vio que toda la prueba del origen se reducía a otros procesos, y la atacó con un argumento que, a mi juicio, era excelente y estaba bien probado, **la cronología**. Los procesos que la Fiscalía invocaba como fuente se referían a hechos de 2020, ligados a la pandemia. El lavado acusado iba de enero de 2018 a junio de 2020. Primero hay que tener el dinero sucio para después lavarlo; no se puede lavar en 2018 un dinero que se habría obtenido en 2020. La Corte Provincial lo recogió: la Fiscalía no probó "qué cantidad de dinero habría generado este hecho ocurrido en el año 2020" ni "de qué manera se habría colocado, estratificado o integrado en el periodo enero 2018 a junio 2020".
 
 Además, la defensa demostró con peritos y testigos que una de las empresas acusadas de ser "de fachada" tenía contratos reales con el Estado por varios millones de dólares, y que otra se había extinguido antes del periodo investigado.
 
-#### 12.3.4. Dónde se perdió
+#### 12.3.4. Dónde estuvo el riesgo
 
-**a) La sentencia absolutoria tenía flancos jurídicos débiles.** Junto a sus conclusiones de hecho, la Corte Provincial razonó con criterios jurídicos que la Corte Nacional consideró errados, y son esos criterios los que permitieron casar la sentencia:
+**La sentencia absolutoria tenía flancos débiles.** Junto a sus conclusiones de hecho, que eran sólidas, la Corte Provincial razonó con criterios jurídicos discutibles:
 - Habló de que los delitos de origen debían **"comprobarse"** y mencionó que la sentencia por peculado estaba **apelada**, como si hiciera falta una sentencia firme.
 - Descartó un delito de origen porque las personas jurídicas acusadas **no eran parte** de ese otro proceso, cuando el tipo no exige identidad de procesados.
 - Sostuvo que una empresa solo podía considerarse "fantasma" si el **SRI o la Superintendencia de Compañías** lo habían declarado, y que la falta de un reporte de la UAFE restaba fuerza a la acusación.
 - Valoró que la Fiscalía **no respondió en la réplica** una pregunta de la defensa, como si eso fuera prueba.
 
-Cada uno de esos razonamientos permitió a la Fiscalía presentar la absolución como un error de **interpretación de la ley** y no como una cuestión de **valoración de la prueba**, que es lo único que la casación no puede tocar.
-
-**b) La defensa en casación no defendió los hechos.** Cuando la Fiscalía recurre en casación contra una absolución, la mejor defensa es sencilla de enunciar: "lo que la Fiscalía llama error de interpretación es, en realidad, una discrepancia con la valoración de la prueba, y eso está prohibido por el art. 656 del COIP". Uno de los defensores lo planteó bien: identificó que la Fiscalía reabría temas debatidos en instancia, que el párrafo que atacaba era parte del razonamiento y no de la conclusión, y que no se había justificado la trascendencia. Otro, en cambio, dedicó buena parte de su tiempo a reprochar a la Fiscalía y a hablar del clima político, y la Fiscalía lo aprovechó en la réplica: de veintisiete minutos, dijo, solo cuatro se dedicaron al cargo casacional.
-
-**c) La Corte terminó revalorando la prueba.** Como señalé en el capítulo 2 (sección 2.3.4), la Corte Nacional afirmó que el lavado se produjo "a través del producto de coimas pagadas mediante la simulación de prestación de servicios", cuando el tribunal de apelación había concluido, después de valorar la prueba, que eso no estaba probado. Esa es una crítica que el defensor debe formular sin rodeos, primero en la audiencia de casación y, después, en una acción extraordinaria de protección.
+Fueron precisamente esos razonamientos los que la Corte Nacional consideró equivocados para revocar la absolución. La defensa no los necesitaba: tenía la cronología. Al dejar que la sentencia se apoyara también en ellos, abrió una puerta que pudo mantener cerrada.
 
 #### 12.3.5. Lo que yo habría hecho
 
-**En el alegato de clausura, pensando ya en la casación.** Cuando la defensa va ganando, su tarea en el alegato no es solo convencer al tribunal, sino **dictarle la sentencia que resista los recursos**. Habría pedido al tribunal que fijara expresamente, como hechos probados, tres conclusiones fácticas:
+**En el alegato de clausura, proponer la sentencia.** Cuando la defensa va ganando, su tarea en el alegato no es solo convencer al tribunal, sino **proponerle una sentencia que resista**. Habría pedido al tribunal que fijara expresamente, como hechos probados, tres conclusiones:
 1. Que los hechos invocados como origen ocurrieron en 2020.
 2. Que no existe prueba de que de esos hechos se haya obtenido dinero alguno, ni de cuánto.
 3. Que no existe prueba de ninguna relación entre ese dinero, si existió, y los bienes y operaciones de 2018 a 2020.
 
-Y le habría pedido, con igual énfasis, que **no** fundara la absolución en la falta de sentencia previa, en la falta de identidad de procesados ni en la falta de pronunciamientos del SRI o de la UAFE. Esos argumentos sobran cuando se tiene la cronología, y en casación se convierten en la puerta de entrada de la Fiscalía.
+Y le habría pedido, con igual énfasis, que **no** fundara la absolución en la falta de sentencia previa, en la falta de identidad de procesados ni en la falta de pronunciamientos del SRI o de la UAFE. Esos argumentos sobran cuando se tiene la cronología.
 
-**En la audiencia de casación.** Habría estructurado la contestación en cuatro puntos, con la sentencia en la mano:
-
-| Punto | Argumento |
-|---|---|
-| 1. El cargo es un debate de instancia | La Fiscalía discute si el origen ilícito quedó probado. Eso es valoración de prueba, prohibida por el art. 656 del COIP. |
-| 2. La decisión descansa en hechos | La absolución se funda en una conclusión fáctica (párrafo 377): la Fiscalía no probó cuánto dinero generaron los hechos de 2020 ni cómo se habría lavado entre 2018 y 2020. Aunque se corrigieran todos los razonamientos jurídicos que la Fiscalía critica, esa conclusión subsiste y la absolución también. |
-| 3. Falta trascendencia | Los párrafos que la Fiscalía cita son parte del análisis, no de la decisión. Corregirlos no cambia el resultado. |
-| 4. El límite de la casación | Si la Corte casa la sentencia, no puede afirmar como hecho lo que el tribunal de instancia declaró no probado. Hacerlo sería revalorar la prueba y vulneraría el art. 76.7.k de la Constitución (juez competente) y el art. 656 del COIP. |
-
-Y habría dejado de lado, por completo, cualquier referencia al clima político o a la actuación de la Fiscalía en otros casos. En casación se discuten sentencias, no personas.
-
-**Después de la casación.** Una condena dictada en casación contra una doble absolución no tiene, en la práctica, una instancia ordinaria que la revise. Por eso, si la Corte revaloró los hechos, la vía es la acción extraordinaria de protección, por vulneración de la garantía de motivación y del derecho a recurrir (capítulo 11).
+**En la apelación de la Fiscalía.** Defender la sentencia sobre los hechos y no sobre las interpretaciones discutibles, y pedir a la Sala que confirme la absolución por las razones fácticas.
 
 #### 12.3.6. Una lección adicional: la persona jurídica extinguida
 
-La Fiscalía acusó a una compañía que se había extinguido en 2017, antes del periodo investigado, y la defensa lo señaló en todas las instancias. Aun así, la Corte Nacional la declaró responsable, aunque se abstuvo de imponerle pena, con base en el art. 50 del COIP, según el cual la responsabilidad de la persona jurídica no se extingue por su disolución o liquidación. La enseñanza es que la extinción de la compañía no es, por sí sola, una defensa: hay que demostrar que la compañía no participó en los hechos del periodo acusado (capítulo 6).
+La Fiscalía acusó a una compañía que se había extinguido en 2017, antes del periodo investigado, y la defensa lo señaló en todas las instancias. Aun así, la compañía terminó declarada responsable, aunque sin pena, con base en el art. 50 del COIP, según el cual la responsabilidad de la persona jurídica no se extingue por su disolución o liquidación. La enseñanza es que la extinción de la compañía no es, por sí sola, una defensa: hay que demostrar que la compañía no participó en los hechos del periodo acusado (capítulo 6).
 
 ### 12.4. Lo que enseñan los dos casos juntos
 
 | Lección | Primer caso | Segundo caso |
 |---|---|---|
-| **La razón jurídica no basta; hay que ganar los hechos en las instancias** | La defensa tenía razón en el derecho, pero el origen ilícito ya estaba fijado como hecho | La defensa ganó los hechos, pero dejó que la sentencia se apoyara también en razonamientos jurídicos vulnerables |
-| **La casación es técnica** | Causal equivocada | Contestación más emotiva que técnica |
-| **El origen ilícito es el centro** | Procesos pendientes e informes usados como prueba del origen | Delitos de origen posteriores al lavado |
+| **La acusación se lee como un inventario de prueba** | La prueba del origen eran procesos pendientes e informes | La prueba del origen eran copias de procesos de 2020 |
+| **Los hechos se ganan en las instancias** | El valor de esa prueba no se discutió a tiempo | La defensa ganó los hechos con la cronología |
+| **El origen ilícito es el centro** | Se confundió ocultamiento con origen | Delitos de origen posteriores al lavado |
 | **Las audiencias no se abandonan** | Dos apelaciones perdidas por abandono | |
 | **La sentencia la redacta el tribunal, pero la defensa debe proponerla** | No se exigió un pronunciamiento expreso sobre el valor de los procesos pendientes | No se pidió que la absolución se fundara solo en hechos |
 
-En este orden de ideas, la lección de fondo es que **el caso se construye para el último recurso desde la primera audiencia**. El defensor debe preguntarse en cada etapa qué quedará escrito como hecho probado, porque eso es lo único que resistirá cuando el caso llegue a la Corte Nacional.
+En este orden de ideas, la lección de fondo es que **el caso se gana en la lectura de la acusación y en la sentencia de instancia**. El defensor debe preguntarse, desde la primera audiencia, qué prueba sostiene cada eslabón de la acusación y qué quedará escrito como hecho probado.
 
 ### 12.5. Lista de revisión: antes de cada audiencia
 
-- [ ] ¿Qué hecho de origen invoca la Fiscalía? ¿Es un hecho probado, un proceso pendiente o un informe administrativo?
+- [ ] ¿Qué prueba presenta la Fiscalía para el origen ilícito? ¿Es un hecho probado, un proceso pendiente o un informe administrativo?
 - [ ] ¿Las fechas cuadran? ¿El supuesto delito de origen es anterior al dinero que se dice lavado?
 - [ ] ¿Estoy separando ante el tribunal la conducta de ocultamiento del origen del dinero?
+- [ ] ¿Discutí a tiempo la fecha de consumación y el monto?
 - [ ] ¿Qué conclusiones de hecho le estoy pidiendo al tribunal que escriba en la sentencia?
 - [ ] Si voy ganando, ¿la absolución que propongo se apoya en hechos o en interpretaciones jurídicas discutibles?
 - [ ] ¿Tengo un abogado sustituto si no puedo asistir a una audiencia de apelación?
-- [ ] En casación, ¿escogí una sola causal y puedo explicar dónde está el error, cuál es la lectura correcta y por qué cambia la decisión?
-- [ ] Si la Fiscalía recurre, ¿estoy mostrando que su cargo es, en realidad, una discrepancia con la valoración de la prueba?
-- [ ] ¿Me estoy refiriendo a la sentencia y no a las personas?
 
 ### Referencias
 
 **Jurisprudencia**
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021). *Sentencia de casación, juicio No. 09333-2018-00282* (ponente: F. Córdova Ochoa).
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2021). *Sentencia, juicio No. 09333-2018-00282* (ponente: F. Córdova Ochoa).
 
-Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
-
-Corte Constitucional del Ecuador. (2020). *Sentencia No. 768-15-EP/20* [casación de la Fiscalía frente a una doble sentencia absolutoria].
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
 
 **Normativa**
 
-Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [arts. 76.2 y 76.7].
+Asamblea Constituyente. (2008). *Constitución de la República del Ecuador*. Registro Oficial 449 de 20 de octubre de 2008 [art. 76.2].
 
-Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 5, 50, 317, 455, 656 y 657].
+Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [versión con última actualización de 7 de octubre de 2026; arts. 5, 50, 317 y 455].
 
 <<PAGEBREAK>>
 
@@ -4198,7 +4176,7 @@ Una referencia genérica a "actividades ilícitas", a la existencia de otros pro
 - **Infracción que no es delito.** Una irregularidad tributaria, aduanera o administrativa no convierte en ilícito el dinero que se obtuvo lícitamente (capítulo 2, sección 2.4.1).
 
 #### Qué debe controvertir la defensa
-Que la Fiscalía responda dos preguntas, en los términos que la propia Corte Nacional aceptó: **¿cuál es el hecho objetivamente típico del que provienen los bienes?** y **¿cuál es la prueba de ese hecho?** Si la respuesta es "otros procesos", "un informe" o "un patrimonio no justificado", el elemento normativo del tipo no está probado y la conducta es atípica.
+La Fiscalía no va a explicarle a la defensa, por escrito, de qué delito proviene el dinero; hay que deducirlo de lo que presenta. Por eso el trabajo empieza leyendo la acusación y el anuncio probatorio con dos preguntas: **¿cuál es el hecho objetivamente típico del que, según la Fiscalía, provienen los bienes?** y **¿qué prueba concreta anunció para acreditarlo?** Si la respuesta es "otros procesos", "un informe" o "un patrimonio no justificado", el elemento normativo del tipo no estará probado y la conducta es atípica. Ese es el punto que debe sostenerse en la preparatoria, en el contraexamen y en el alegato.
 
 #### Con qué prueba
 Con las certificaciones de los procesos invocados (para demostrar que están en trámite, sobreseídos o archivados), con el contraexamen del investigador y del perito fiscal, y con el argumento de que un patrimonio no justificado no es un patrimonio ilícito (capítulo 2, sección 2.7.5).
@@ -4294,7 +4272,7 @@ Este frente atraviesa todos los anteriores. Aun cuando la acusación tenga senti
 | **Informes que no se sustentan en juicio** | Que el autor del informe comparezca y se someta al contraexamen | El informe no puede reemplazar el testimonio | Art. 615, num. 3, del COIP |
 | **Indicios sin hecho base probado** | Qué prueba directa acredita cada indicio | La inferencia se cae | Art. 455 del COIP (capítulo 4) |
 | **Indicios que admiten otra explicación** | Contraindicios documentados | La inferencia no alcanza la certeza | Art. 5.3 del COIP |
-| **Hechos nuevos en la sentencia** | Que lo condenado coincida con lo acusado | Nulidad o casación | Art. 619, num. 2, del COIP |
+| **Hechos nuevos en la sentencia** | Que lo condenado coincida con lo acusado | Nulidad o revocatoria en apelación | Art. 619, num. 2, del COIP |
 
 #### La regla práctica
 Antes de discutir el contenido de una prueba, el defensor debe preguntarse si esa prueba puede entrar al juicio. Una exclusión bien fundamentada en la audiencia preparatoria vale más que diez preguntas brillantes en el contraexamen, porque elimina la prueba en lugar de debilitarla (capítulo 10, sección 10.2).
@@ -4314,12 +4292,12 @@ Es por esta razón que desaconsejo combinar frentes contradictorios. Afirmar a l
 
 | Etapa | Lo que debe hacer la defensa | Frentes |
 |---|---|---|
-| **Investigación previa** | Pedir por escrito que la Fiscalía precise el hecho de origen; encargar la pericia de parte; reunir los documentos de las fuentes lícitas; revisar si la información bancaria y digital se obtuvo con autorización judicial | 1, 2, 3 y 8 |
+| **Investigación previa** | Obtener copias del expediente e identificar qué elementos sostienen el hecho de origen; encargar la pericia de parte; reunir los documentos de las fuentes lícitas; revisar si la información bancaria y digital se obtuvo con autorización judicial | 1, 2, 3 y 8 |
 | **Formulación de cargos** | Exigir la individualización de la conducta de cada procesado; cuestionar que los elementos de convicción acrediten el hecho de origen; discutir las medidas cautelares con base en esa debilidad | 2, 4 y 6 |
 | **Instrucción** | Solicitar diligencias que acrediten el origen lícito; pedir al fiscal que practique la pericia de parte o recabe los documentos que la defensa no puede obtener | 3 y 5 |
-| **Audiencia preparatoria** | Plantear las exclusiones de prueba; pedir el sobreseimiento si la Fiscalía no acreditó el hecho de origen; anunciar la prueba propia, incluido el perito de parte | 2 y 8 |
+| **Audiencia preparatoria** | Leer la acusación y el anuncio probatorio de la Fiscalía prueba por prueba, y anotar qué eslabón sostiene cada una; plantear las exclusiones de prueba; pedir el sobreseimiento si la Fiscalía no acreditó el hecho de origen; anunciar la prueba propia, incluido el perito de parte | 2 y 8 |
 | **Juicio** | Contraexaminar al investigador y al perito fiscal sobre el hecho de origen y el nexo; presentar la pericia de parte y los contraindicios; alegar la tesis principal y, si corresponde, la subsidiaria del monto | 1 a 7 |
-| **Recursos** | Atacar la falta de motivación de la inferencia indiciaria; la indebida aplicación del art. 317 cuando se condenó por un patrimonio no justificado; la incongruencia entre acusación y sentencia | 2, 3, 7 y 8 |
+| **Apelación** | Atacar la falta de motivación de la inferencia indiciaria, la condena por un patrimonio no justificado y la incongruencia entre acusación y sentencia | 2, 3, 7 y 8 |
 
 ### 13.13. Los errores que hacen ganar a la Fiscalía
 
