@@ -14,6 +14,10 @@ En este orden de ideas, la tesis que se desarrolla a continuación puede resumir
 
 > **La autonomía del lavado de activos es procesal, no probatoria.** El delito se investiga y se juzga sin depender de otro proceso, pero el origen ilícito de los bienes sigue siendo un elemento del tipo penal que debe probarse más allá de toda duda razonable.
 
+Dicho de otro modo, el lavado es autónomo frente a la **condena** por el delito previo, pero no frente a la **inexistencia** de ese delito. Si la defensa demuestra que el hecho del que supuestamente proviene el dinero nunca ocurrió, no queda nada que lavar.
+
+Es por esta razón que, en la práctica, la Fiscalía no cumple su carga con exhibir cuentas bancarias, depósitos o transferencias. Abrir una cuenta, recibir dinero o moverlo dentro del sistema financiero son, en sí mismos, actos neutros. Esos actos solo adquieren relevancia penal cuando se demuestra cuál fue la conducta que generó el dinero y que es precisamente ese dinero, y no otro, el que el procesado tuvo, transfirió u ocultó.
+
 ## 2.2. ¿Por qué el lavado es un delito autónomo?
 
 ### 2.2.1. La razón político-criminal
@@ -121,6 +125,14 @@ La **tendencia** es la de reducir esa exigencia a una mera obligación de "inves
 
 En este orden de ideas, mi recomendación práctica es la siguiente. El defensor no debe plantear el debate como "la Fiscalía debe probar el delito de origen", porque la Corte ya respondió que no, y con razón si con ello se entiende una condena previa. Debe plantearlo en los términos que la propia Corte aceptó: **¿cuál es el hecho objetivamente típico del que provienen estos bienes, y cuál es la prueba de la relación de causalidad?** Si la Fiscalía no puede responder esas dos preguntas con hechos probados, y no con procesos pendientes ni con informes administrativos, el elemento normativo no está acreditado.
 
+### 2.3.5. Los otros fallos de la triple reiteración
+
+Las dos casaciones que analicé no son las únicas que sustentan la Resolución 20-2024. Entre los fallos que integran la triple reiteración se citan también las Resoluciones de la Sala Penal **No. 765-2022** (juicio No. 01902-2014-0088) y **No. 984-2022** (juicio No. 13284-2018-01581) **[verificar en el texto completo de la Resolución 20-2024]**.
+
+La Resolución 765-2022 merece especial atención, porque refuerza la tesis de este capítulo desde la propia Corte: el origen ilícito **no puede presumirse** de la sola tenencia o del solo movimiento de dinero, ya que hacerlo vulneraría la presunción de inocencia. En este orden de ideas, el mismo conjunto de fallos que libera a la Fiscalía de esperar una sentencia previa le prohíbe sustituir la prueba por una presunción. El defensor debe citar ambas partes del precedente, no solo la que suele invocar la acusación.
+
+Hay, además, una tensión entre los fallos que el defensor debe aprovechar. La casación de 2021 exigió que los bienes provengan de un acto **típico, antijurídico y culpable**; la de 2024 se conformó con un hecho que encaje **objetivamente** en el tipo del delito previo. Mientras la Corte no resuelva expresamente esa diferencia, la defensa debe invocar la exigencia más alta y, como mínimo, el límite común a ambas: un hecho de origen concreto, no una sospecha genérica de actividad criminal.
+
 ## 2.4. Autonomía procesal frente a autonomía probatoria
 
 ### 2.4.1. El origen ilícito es un elemento del tipo
@@ -128,6 +140,14 @@ En este orden de ideas, mi recomendación práctica es la siguiente. El defensor
 El art. 317 no castiga el manejo de cualquier activo, sino el manejo de **"activos de origen ilícito"**. Ese adjetivo es un **elemento normativo del tipo penal**. Sin él, tener, transferir o invertir dinero es una conducta perfectamente lícita.
 
 De ahí se sigue una consecuencia elemental del principio de legalidad: **si no se prueba el origen ilícito, la conducta es atípica**[^legalidad]. Y, por la presunción de inocencia, ese elemento debe probarse **más allá de toda duda razonable**, como cualquier otro elemento del tipo[^inocencia].
+
+En mi criterio, el razonamiento que la Fiscalía debe completar tiene **tres eslabones**, y la falta de cualquiera de ellos rompe la cadena:
+
+1. **El hecho generador.** Una conducta típica capaz de producir ganancias: narcotráfico, peculado, extorsión, minería ilegal, defraudación, entre otras. Si no existe, no hay objeto ilícito.
+2. **El patrimonio identificado.** Bienes concretos, sea dinero, inmuebles, vehículos o acciones, que nacen de ese hecho y no de una fuente lícita. Si no se identifican, no hay objeto material sobre el cual recaiga la conducta.
+3. **La conducta posterior sobre esos mismos bienes.** Uno de los verbos del art. 317, ejecutado con conocimiento del origen. Si falta, podrá existir un delito previo con ganancias, pero no un lavado imputable a esa persona.
+
+Conviene, además, hacer dos precisiones. La primera es que el **objeto material** son los bienes sobre los que se actúa, mientras que lo **ilícito** es una cualidad jurídica que esos bienes adquieren por su procedencia; por eso el origen ilícito no es una circunstancia accesoria, sino un elemento normativo que integra el tipo. La segunda es que **"ilícito" debe leerse como "delictivo"**. Si bien es cierto que la palabra, aislada, podría abarcar infracciones administrativas o tributarias, es importante diferenciar el lenguaje del art. 317 del de los instrumentos internacionales que lo inspiran, todos los cuales hablan de **producto del delito**. Una lectura coherente con ellos, y con el principio de legalidad, exige que la fuente sea una infracción penal.
 
 ### 2.4.2. Lo que la autonomía permite y lo que no permite
 
@@ -138,6 +158,8 @@ De ahí se sigue una consecuencia elemental del principio de legalidad: **si no 
 | Condenar aunque el delito de origen se haya cometido en el extranjero | Equiparar un patrimonio no justificado con un patrimonio ilícito |
 | Probar el origen ilícito mediante indicios | Usar indicios sin hechos base probados ni enlace lógico |
 | Condenar aunque la acción por el delito de origen haya prescrito[^prescrito] | Prescindir de toda referencia a una actividad delictiva concreta |
+
+A lo anterior se suma una consecuencia que suele pasarse por alto: **el origen ilícito también fija la pena**. Las penas del art. 317 se gradúan según el monto de los activos, y ese monto solo puede determinarse si se sabe qué parte del patrimonio proviene del hecho delictivo. Cuando la Fiscalía no separa los fondos de origen lícito de los cuestionados, no solo falla en probar el tipo, sino también en delimitar la sanción.
 
 ### 2.4.3. Los cuatro niveles de determinación del delito de origen
 
@@ -225,6 +247,8 @@ Un contraindicio no necesita probar con certeza el origen lícito. Basta con que
 ### 2.6.1. España
 El Tribunal Supremo español sostiene desde hace años que no es necesaria una condena previa por el delito de origen y que el origen ilícito puede probarse mediante indicios. Su jurisprudencia es la fuente de los indicios clásicos que vimos en el apartado anterior. Al mismo tiempo, ha exigido que se acredite una conexión con una actividad delictiva, sin que baste la mera sospecha[^espana].
 
+Un aspecto de la experiencia española resulta útil para nuestra práctica. Desde la sentencia del Tribunal Supremo 974/2012 se admite que el **delito fiscal** sea delito previo del blanqueo **[verificar]**. Sin embargo, esa misma admisión dejó en evidencia una dificultad: en la defraudación tributaria, el dinero suele tener un origen lícito y lo único ilícito es la cuota no pagada, de modo que determinar qué parte del patrimonio es "producto" del delito resulta especialmente complejo. Es la misma crítica que formulo, en la sección 2.3.4, a la sentencia de apelación de 2017.
+
 ### 2.6.2. Perú
 El caso peruano es especialmente útil porque la Corte Suprema abordó de forma directa el estándar de prueba. El **Acuerdo Plenario No. 3-2010/CJ-116**, de 2010, desarrolló la autonomía del delito y la prueba indiciaria, y la **Sentencia Plenaria Casatoria No. 1-2017/CIJ-433**, de 2017, precisó que la autonomía no elimina la necesidad de acreditar el origen delictivo, y que el estándar de prueba se eleva a lo largo del proceso hasta exigir, para condenar, la convicción más allá de toda duda razonable[^peru].
 
@@ -256,6 +280,8 @@ En los tres sistemas, la autonomía se entiende como **procesal**. Ninguno permi
 - Si la sentencia condena con base en un patrimonio no justificado, existe una **indebida aplicación del art. 317**, que es causal de casación.
 - **Escoja bien la causal.** La casación de 2021 es una advertencia: la defensa tenía la razón en la interpretación del tipo, pero planteó el cargo como **errónea interpretación**, y la Corte lo rechazó porque el reproche, que los hechos probados no encajan en el tipo por falta de origen ilícito, correspondía a la **indebida aplicación**. Si sostiene que los hechos fijados en la sentencia no configuran el elemento normativo, la causal es la indebida aplicación. Si sostiene que el tribunal entendió mal qué exige ese elemento, la causal es la errónea interpretación. No mezcle ambas sobre la misma norma.
 - **No pida a la Corte que revalore los indicios.** En casación, los hechos fijados son inmutables. Lo que sí puede plantear es que los hechos que la sentencia dio por probados, como la existencia de otros procesos pendientes o un informe de la Contraloría, no son, en derecho, aptos para acreditar el origen ilícito, por los arts. 5.4, 454.6 y 455 del COIP.
+
+- **Aproveche el sobreseimiento o la absolución del delito de origen.** No vinculan por sí solos al juez del lavado, pero obligan a la Fiscalía a probar un origen ilícito distinto. Un caso lo muestra con claridad: en el proceso No. 17100-2018-00018, la Fiscalía sostuvo que los bienes provenían de una asociación ilícita y de un delito de usura, pese a que esos procesos habían terminado con sobreseimientos ejecutoriados. La mayoría del tribunal de apelación confirmó la condena con el argumento de que, por la autonomía del lavado, los sobreseimientos eran irrelevantes. La Corte Nacional anuló esa sentencia por falta de motivación: reconoció la autonomía del juicio, pero recordó que el origen ilícito debe acreditarse, aunque sea mediante indicios **[verificar en la sentencia de casación]**.
 
 ### 2.7.5. Modelo de argumento
 
@@ -291,6 +317,9 @@ Si la Fiscalía no prueba la conexión con el narcotráfico u otra actividad del
 - [ ] ¿La Fiscalía identificó un hecho objetivamente típico y una relación de causalidad con los bienes (criterio de la casación de 2024)?
 - [ ] ¿Los "indicios" del origen ilícito son, en realidad, procesos pendientes o informes administrativos?
 - [ ] En casación, ¿escogí la causal correcta (indebida aplicación o errónea interpretación)?
+- [ ] ¿El delito de origen invocado terminó en sobreseimiento o absolución? ¿La Fiscalía probó, entonces, un origen distinto?
+- [ ] ¿La acusación presume el origen ilícito del solo manejo de dinero (Resolución 765-2022)?
+- [ ] ¿La Fiscalía separó los fondos de origen lícito para fijar el monto y la pena?
 
 ## Referencias
 
@@ -317,6 +346,14 @@ Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal
 Corte Provincial de Justicia de Pichincha, Sala de lo Penal. (2017). *Sentencia de apelación, juicio No. 17282-2015-05549*.
 
 Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2024). *Sentencia de casación, juicio No. 07712-2020-00205* (ponente: M. Rodríguez Ruiz).
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2022). *Resolución No. 765-2022, juicio No. 01902-2014-0088* [verificar].
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. (2022). *Resolución No. 984-2022, juicio No. 13284-2018-01581* [verificar].
+
+Corte Nacional de Justicia, Sala Especializada de lo Penal, Penal Militar, Penal Policial, Tránsito, Corrupción y Crimen Organizado. *Sentencia de casación, juicio No. 17100-2018-00018* [verificar año y ponente].
+
+Tribunal Supremo de España, Sala de lo Penal. (2012). *Sentencia No. 974/2012* [verificar].
 
 Asamblea Nacional del Ecuador. (2014). *Código Orgánico Integral Penal*. Registro Oficial Suplemento 180 de 10 de febrero de 2014 [arts. 5, 13, 279, 297, 317 y 656; versión con última actualización de 7 de octubre de 2026].
 
@@ -370,7 +407,7 @@ Corte Suprema de Justicia de la República del Perú. (2017). *Sentencia Plenari
 
 [^indicios]: Sobre los indicios del lavado en la jurisprudencia del Tribunal Supremo español, véase Blanco Cordero (2015).
 
-[^espana]: **[citar sentencias concretas del Tribunal Supremo español]**
+[^espana]: Tribunal Supremo de España, Sala de lo Penal, sentencias No. 91/2014 y No. 501/2019 **[verificar]**.
 
 [^peru]: Corte Suprema de Justicia del Perú, Acuerdo Plenario No. 3-2010/CJ-116 y Sentencia Plenaria Casatoria No. 1-2017/CIJ-433.
 
